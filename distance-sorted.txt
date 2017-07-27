@@ -1,11 +1,20 @@
+"flood and fire" plays in background
 "ms mr's fantasy" playing in distance
 "ms mr's fantasy" playing in distance
 "ms mr's fantasy" playing in distance
 "no one on the outside world"
 "pomp and circumstance" plays distantly
 "rock-a-bye baby" playing softly
+'60s ballad playing in background
+'60s ballad playing in background
+'60s ballad playing in background
+'60s rock music playing in background
+'60s rock music playing in background
+'60s rock music playing in background
 'zorba the greek' plays softly
 'zorba the greek' plays softly
+a bell chimes in background
+a bell chimes in background
 a scent in the air, the quiet murmur of the city
 a scent in the air, the quiet murmur of the city
 a soundless witness, a laptop
@@ -16,6 +25,7 @@ abby whimpers softly
 abra humming softly
 accordion playing in distance
 acoustic guitar plays lightly in distance
+acoustic song playing in background
 ada moans softly
 adam ant's "stand and deliver" plays in distance
 adam ant's "stand and deliver" plays in distance
@@ -130,6 +140,7 @@ all gasping and murmuring
 all gasping and murmuring
 all gasping, murmuring
 all grunting and murmuring
+all laugh in background
 all murmur
 all murmur
 all murmur
@@ -545,6 +556,7 @@ all singing softly
 all softly
 all speaking quietly
 all, softly
+alternative music in background
 although your day was passing quietly
 amanda coughing, nolan murmuring
 amazed murmurs
@@ -609,6 +621,7 @@ animal moaning in distance
 animal moaning in distance
 animal screeches softly
 animal walls in distance
+animals bleating in background
 animals crying out in distance
 animals crying out in distance
 animals crying out in distance
@@ -623,7 +636,26 @@ anna howling softly
 anne and charles laughing quietly
 anne in distance
 anneliese singing softly in german
+announcement in background
+announcement in background
+announcer continues in background
+announcer continues in background
+announcer continues in background
+announcer continues in background
+announcer in background
+announcer in background
+announcer in background
+announcer in background
+announcer on tv in background
+announcer on tv in background
+announcer talking in background
+announcer talking in background
+announcer talking in background
+announcer talking in background
+announcer talking in background
 announcer talks inaudibly
+announcers continue in background
+announcers continue in background
 anxious murmuring
 anxious murmuring
 applause and murmuring
@@ -673,6 +705,7 @@ arguing inaudibly
 arguing loudly outside
 arguing loudly outside
 arguing loudly outside
+argument continues in background
 argument outside
 arlene crying softly
 arlene crying softly
@@ -684,6 +717,7 @@ ass-blaster puffs outside
 ass-blaster puffs outside
 ass-blaster puffs outside
 ass-blaster puffs outside
+auction continues in background
 audience clapping in the background
 audience gasping and murmuring
 audience gasping and murmuring
@@ -899,6 +933,7 @@ baby cries distant
 baby cries distant
 baby cries distant
 baby cries distant
+baby cries in background
 baby cries in distance
 baby cries in distance
 baby cries in distance
@@ -925,6 +960,7 @@ baby crying distant
 baby crying distant
 baby crying distantly
 baby crying distantly
+baby crying in background
 baby crying in distance
 baby crying in distance
 baby crying in distance
@@ -972,12 +1008,21 @@ baby softly cries
 baby wailing distantly
 baby wailing distantly
 baby wailing distantly
+baby wailing in background
 baby wails distantly
 baby wails distantly
 bagpipes playing faintly
 bagpipes playing in distance
 bagpipes, distantly
 bailey murmuring
+ballad continues in background
+ballad continues in background
+ballad continues in background
+ballad continues in background
+ballad continues in background, grunting, banging
+ballad continues in background, grunting, banging
+ballad continues in background, grunting, banging
+ballad continues in background, grunting, banging
 ballad playing softly
 band playing diablo rojo in the distance
 band playing in distance
@@ -1096,6 +1141,10 @@ beatrice singing in distance
 becca murmurs
 becca murmurs
 beck beckoning softly
+beck's "deadweight" playing in background
+beck's "deadweight" playing in background
+beck's "deadweight" playing in background
+beck's "deadweight" playing in background
 beep, controller thuds softly
 beep, controller thuds softly
 beep, controller thuds softly
@@ -1120,6 +1169,7 @@ bell clanging in distance
 bell clanging in distance
 bell continues faintly
 bell continues faintly
+bell dinging in background
 bell in distance
 bell in distance
 bell jingles softly, men whisper
@@ -1193,6 +1243,7 @@ bell tolls distantly
 bell tolls distantly
 bell tolls in distance
 bell tolls in distance
+bells ring in background
 bells ring in distance
 bells ringing distantly
 bells ringing distantly
@@ -1216,10 +1267,13 @@ beulah murmuring in delight
 beulah murmurs in agreement
 beulah murmurs in agreement
 beulah murmurs in agreement
+big band music continues in background
 big-band music plays in distance
 bigfoot barking softly
 biggie barks softly
 biggie barks softly
+billie holiday continues in background
+billie holiday in background
 billy sobbing in distance
 bird calling in distance
 bird calling in distance
@@ -1254,6 +1308,9 @@ birds chirp and clock chimes softly
 birds chirp and clock chimes softly
 birds chirp and clock chimes softly
 birds chirp and clock chimes softly
+birds chirp in background
+birds chirp in background
+birds chirp in background
 birds chirp outside
 birds chirp outside
 birds chirping distant
@@ -1319,9 +1376,17 @@ blowing softly
 blowing softly
 blows softly
 blows softly
+blows, national anthem in background
+blows, national anthem in background
+blows, national anthem in background
+blues playing in background
+blues playing in background
 blues playing softly
+blues plays in background
 blues plays softly
 blues plays softly
+bluesy music plays in background
+bluesy rock in background
 bluto growling quietly
 bo at engine humming outside
 board quietly creaks
@@ -1426,6 +1491,8 @@ both murmuring indistinctly
 both murmuring into glasses
 both panting softly
 both quietly chuckle
+both shouting in background
+both shouting in background
 both softly moaning
 both speak quietly
 both speaking inaudibly
@@ -1526,6 +1593,7 @@ bridget quietly
 bridget quietly
 bridget quietly
 bridget quietly
+brothers chatter in background
 bubbles in distance
 bugle call sounds in distance
 bugle call sounds in distance
@@ -1542,6 +1610,9 @@ bus drives off in distance
 bus drives off in distance
 bustle of town outside
 bustle of town outside
+buzzer in background
+buzzer in background
+buzzer in background
 buzzer in distance
 buzzer in distance
 buzzer in distance
@@ -1615,6 +1686,13 @@ car alarm blaring in distance
 car alarm blaring in distance
 car alarm goes off in the distance
 car alarm goes off in the distance
+car alarm repeats in background
+car alarm repeats in background
+car alarm repeats in background
+car alarm repeats in background
+car alarm repeats in background
+car alarm repeats in background
+car alarm repeats in background
 car alarm ringing, distant groans
 car alarm wailing in distance
 car alarm wailing in distance
@@ -1785,6 +1863,9 @@ cardinals murmuring
 cardinals murmuring
 cardinals murmuring
 cardinals murmuring
+carnival music in background
+carnival music in background
+carnival music in background
 carousel music plays softly
 carrie whistling softly
 carrie whistling softly
@@ -1792,9 +1873,17 @@ carries on inaudibly
 cars arriving outside
 cars crash outside
 cars honking faintly
+cars honking in background
 cars honking in distance
 cars honking outside
 cars in distance
+cartoon character in background
+cartoon character in background
+cartoon continues in background
+cartoon continues in background
+cartoon sounds play in background
+cartoon sounds play in background
+cartoons in background
 casing clatters softly
 cat meowing in distance
 cat purring softly
@@ -1824,10 +1913,24 @@ chainsaw whirring in distance
 chainsaw whirring in distance
 chair whirring softly
 chair whirring softly
+changes plays in background
 chanting and bell ringing continue distantly
+chanting continues in background
 chanting continues in the distance
 chanting continues in the distance
 chanting continues outside
+chanting in background
+chanting in background
+chanting in background
+chanting in background
+chanting in background
+chanting in background
+chanting in background
+chanting in background
+chanting in background
+chanting in background
+chanting in background
+chanting in background
 chanting in distance
 chanting in distance
 chanting in distance
@@ -1890,6 +1993,8 @@ chanting softly in arabic
 chanting softly in arabic
 chanting softly in arabic
 chanting softly in arabic
+chaos in background
+chaos in background
 characters talking faintly
 characters talking faintly
 charging yells in the background
@@ -1906,7 +2011,29 @@ chatter and explosions in the background
 chatter and explosions in the background
 chatter and murmurs
 chatter and murmurs
+chatter continues in background
+chatter continues in background
 chatter continues in distance
+chatter in background
+chatter in background
+chatter in background
+chatter in background
+chatter in background
+chatter in background
+chatter in background
+chatter in background
+chatter in background
+chatter in background
+chatter in background
+chatter in background
+chatter in background
+chatter in background
+chatter in background
+chatter in background
+chatter in background
+chatter in background
+chatter in background
+chatter in background
 chatter in distance
 chatter in distance
 chatter in distance
@@ -1925,6 +2052,7 @@ chatter on radio, distant pool balls clacking
 chatter outside
 chatter outside
 chatter outside
+chatter, phones ring in background
 chattering and murmuring
 chattering outside
 chattering outside
@@ -1957,9 +2085,13 @@ chatting quietly
 chatting quietly
 cheerful instrumental music plays softly
 cheerful melody plays softly
+cheerful pop music in background
+cheerful pop music in background
 cheerful talking heard from distant car
 cheerful talking heard from distant car
 cheering continues, distant
+cheering in background
+cheering in background
 cheering in distance
 cheering in distance
 cheering in distance
@@ -2054,6 +2186,7 @@ children murmuring
 children murmuring in agreement
 children play distantly
 children play distantly
+children playing in background
 children playing in distance
 children playing in distance
 children playing in distance
@@ -2116,6 +2249,13 @@ children shouting playfully in distance
 children shouting playfully in distance
 children shouting playfully in distance
 children shouting, laughing in distance
+children sing in background
+children sing in background
+children sing in background
+children singing in background
+children singing in background
+children singing in background
+children singing in background, playing
 children singing in distance
 children singing indistinctly in the distance
 children singing or talking softly in the background
@@ -2126,8 +2266,10 @@ children speaking distantly
 children talking in distance
 children talking in distance
 children talking quietly
+children yelling in background
 children yelling in the background
 children yelling in the background
+children's chatter in background
 children's playful shouts in distance
 children's voices in distance
 chimes continue, dog barks in distance
@@ -2144,6 +2286,8 @@ chiming softly
 chiming softly
 chiming softly
 chiming softly
+chinese lute playing in background
+chinese lute playing in background
 chirping softly
 chirping softly
 chirping softly
@@ -2155,6 +2299,9 @@ choir singing faintly
 choir singing faintly
 choir singing in distance
 choir singing softly
+chopin's "nocturne in e flat major" plays in background
+chopin's "nocturne in e flat major" plays in background
+chopin's "nocturne in e flat major" plays in background
 choppers humming in distance
 chopping softly
 choral singing in distance
@@ -3171,11 +3318,19 @@ class murmurs
 classical melody plays softly, background
 classical melody plays softly, background
 classical melody plays softly, background
+classical mus in background
+classical music continues in background
+classical music continues in background
+classical music continues in background
+classical music in background
 classical music playing distantly
 classical music playing faintly
 classical music playing softly
 classical music playing softly
 classical music playing softly
+classical music plays in background
+classical music plays in background
+classical music plays in background
 classical music plays in distance
 classical music plays in distance
 classical music plays softly
@@ -3247,6 +3402,7 @@ clattering softly
 clattering softly
 clattering, distant sirens, dog barking
 clattering, laughter in distance
+clattering, pop music in background
 clears his throat quietly
 clears throat softly
 clears throat softly
@@ -3263,6 +3419,7 @@ clock chimes softly
 clock chimes softly
 clock chimes softly
 clock ticking faintly
+clock ticking in background
 clock ticking softly
 clock ticking softly
 clock ticking softly
@@ -3347,6 +3504,9 @@ connie sobbing distantly
 constant explosions in the background
 constant explosions in the background
 constant explosions in the background
+contest continues in background
+contest continues in background
+contest continues in background
 continues distantly
 continues distantly
 continues distantly
@@ -3357,6 +3517,12 @@ continues faintly
 continues faintly
 continues faintly
 continues gurgling and murmuring
+continues in background
+continues in background
+continues in background
+continues in background
+continues in background
+continues in background
 continues in distance
 continues in distance
 continues inaudibly
@@ -3370,6 +3536,7 @@ continues quietly
 continues rapping in distance
 continues softly
 continues softly
+continues speaking in background
 continues speaking inaudibly
 continues speaking inaudibly
 continues speaking inaudibly
@@ -3389,6 +3556,8 @@ conversing softly
 conversing softly
 conversing softly
 conversing softly
+cooking show continues in background
+cooking show continues in background
 cops murmur
 cops murmur
 cops murmur
@@ -3404,6 +3573,8 @@ cops murmur
 cork pops softly
 corky knickers softly
 corncrake calling in distance
+coughing in background
+coughing in background
 coughing in distance
 coughing in distance
 coughing in distance
@@ -3441,20 +3612,30 @@ counselor faintly
 counting quietly
 counting quietly
 counting softly
+country music in background
 country music playing faintly
+country music playing in background
+country music playing in background
+country music playing in background
+country music playing in background
 country music playing quietly
 country music playing quietly
+country music plays in background
+country music plays in background
 country music plays in distance
 country music plays in the distance
 country music plays softly
 country music plays softly
 country music plays softly
 country music plays, boys playing outside
+country song continuing in background
+country western song plays in background
 court murmuring
 court murmuring
 court murmuring in assent
 court murmuring in consternation
 court murmurs
+court musicians playing in background
 courtroom murmuring
 courtroom murmuring
 courtroom murmuring
@@ -3615,6 +3796,7 @@ cries softly
 cries softly
 cross screams in distance
 cross screams in distance
+crosstalk in background
 crow cawing in distance
 crow caws distantly
 crow caws in distance
@@ -3652,6 +3834,8 @@ crowd chuckling, murmuring
 crowd chuckling, murmuring
 crowd chuckling, murmuring
 crowd chuckling, murmuring
+crowd commotion in background
+crowd commotion in background
 crowd continues chanting in distance
 crowd continues chanting in distance
 crowd exclaims, murmurs
@@ -5085,6 +5269,9 @@ crowd murmurs, indistinct shouting
 crowd murmurs, whistles
 crowd murmurs, whistles
 crowd murmurs, whistles
+crowd noise in background
+crowd noise in background
+crowd noise in background
 crowd noise on tv, viviana murmurs
 crowd noise outside
 crowd noise outside
@@ -5133,6 +5320,8 @@ crying echoes distantly
 crying grows distant, echoes
 crying grows distant, echoes
 crying grows distant, echoes
+crying in background
+crying in background
 crying in distance continues
 crying in distance continues
 crying in the background
@@ -5294,12 +5483,18 @@ dance in distance
 dance in distance
 dance in distance
 dance music continues in distance
+dance music in background
+dance music in background
+dance music in background
+dance music in background
 dance music playing in distance
 dance music playing in distance
 dance music plays softly on radio
+dance version of mendelssohn's "wedding march" plays in background
 dancers murmuring
 dancers murmuring
 dancers murmuring
+dancing music in background
 daniel panting in distance
 daniel panting in distance
 danny chuckles softly
@@ -5308,6 +5503,9 @@ dave continues wrestling instruction in the background inaudible
 david cackles softly in background
 david cackles softly in background
 david cackles softly in background
+dean martin's "mambo italiano" plays in background
+dean martin's "mambo italiano" plays in background
+dean martin's "mambo italiano" plays in background
 deep growling outside
 delegates murmuring
 demons murmuring
@@ -5332,6 +5530,8 @@ dinah sobs quietly
 diners murmuring
 dinner guests murmuring quietly
 dinner guests murmuring quietly
+dinner music in background
+dinner music in background
 dinosaur footstep rumbles in distance
 dinosaur footstep rumbles in distance
 dinosaur moaning in distance
@@ -5347,6 +5547,7 @@ discussion continues in distance
 disgruntled murmuring
 disgruntled murmuring
 dispassionate murmur
+dispatcher report in background
 distance
 distance
 distance ambulance siren
@@ -7121,6 +7322,20 @@ dog barking distantly
 dog barking faintly
 dog barking faintly
 dog barking far away
+dog barking in background
+dog barking in background
+dog barking in background
+dog barking in background
+dog barking in background
+dog barking in background
+dog barking in background
+dog barking in background
+dog barking in background
+dog barking in background
+dog barking in background
+dog barking in background
+dog barking in background
+dog barking in background
 dog barking in distance
 dog barking in distance
 dog barking in distance
@@ -7822,6 +8037,13 @@ dog barks distantly
 dog barks distantly
 dog barks faintly
 dog barks faintly
+dog barks in background
+dog barks in background
+dog barks in background
+dog barks in background
+dog barks in background
+dog barks in background
+dog barks in background
 dog barks in distance
 dog barks in distance
 dog barks in distance
@@ -8263,7 +8485,17 @@ door creaks softly
 door hinge squeaks, distant siren wails
 door hinge squeaks, distant siren wails
 door hinge squeaks, distant siren wails
+door latching- radio # in background
 door opening and distant voices
+door opening in background
+door opening in background
+door opening in background
+door opening in background
+door opening in background
+door opening in background
+door opening in background
+door opening in background
+door opening in background
 door opening in distance
 door opening in distance
 door opens in distance
@@ -8280,6 +8512,7 @@ door opens in the distance
 door opens quietly
 door opens, distant cheering, music
 door opens, officers murmuring
+door opens, party chatter in background
 door opens, students murmur
 door quietly creaks
 door shuts in distance
@@ -8288,6 +8521,7 @@ door shuts, distant
 door slamming in distance
 door slams a little more softly
 door slams a little more softly
+door slams in background
 door slams in distance
 door slams in distance
 door slams in distance, screaming stops
@@ -8336,6 +8570,9 @@ droning in distance
 drumming continues in distance
 drumming outside
 drums beat in the distance
+drums beating in background
+drums beating in background
+drums beating in background
 drums beating rhythmically in distance
 drums in distance
 drums playing in distance
@@ -8407,6 +8644,8 @@ electricity crackling faintly
 electricity crackling faintly
 electronic dance music plays in the distance
 electronic dance music plays in the distance
+electronic music in background
+electronic music in background
 electronic music playing in the distance
 elephant trumpets faintly
 elevator bell dings in distance
@@ -8523,6 +8762,8 @@ excited murmuring
 excited murmuring and bustling
 excited murmuring and bustling
 excited murmurs
+excited women in background
+excited women in background
 exclaims softly
 exclaims softly
 exclaims softly in pain
@@ -8714,6 +8955,7 @@ exploslons in distance
 ezra mumbles softly
 eχplosloν in distance
 fabric tearing faintly
+faint clock chime in background
 faint echoing murmurs
 faint murmuring
 faint murmuring
@@ -8781,8 +9023,12 @@ festive music plays in distance
 festive music plays in distance
 festive music plays in distance
 fife and drum music echoes in the distance
+fighting in background
+fighting in background
+fighting in background
 fighting in distance
 fighting in distance
+film playing in background
 fire crackling outside
 fire softly cracking
 fired cannon outside
@@ -8813,6 +9059,9 @@ flags flapping in wind, train whistle in distance
 flags flapping in wind, train whistle in distance
 flame people murmur
 flame people murmur
+flames burning in background
+flames burning in background
+flames burning in background
 flare crackling in distance
 flare crackling in distance
 flare crackling in distance
@@ -8850,6 +9099,10 @@ footsteps outside
 footsteps tapping faintly
 francesca murmuring
 frank continues inaudibly
+french pa announcements in background
+french pa announcements in background
+french pa announcements in background
+french pa announcements in background
 frogs croak outside
 from basil hums little quietly a song
 from basil, very quietly
@@ -8866,6 +9119,12 @@ gallery murmuring
 gallery murmuring
 gallery murmuring agreement
 galley murmuring
+game announcer in background
+game announcer in background
+game announcer in background
+game announcer in background
+game announcer in background
+game announcer in background
 garage door motor whirring softly
 garage door motor whirring softly
 garage door motor whirring softly
@@ -9026,6 +9285,7 @@ german voices in the distance
 german voices in the distance
 german voices in the distance
 german voices in the distance
+germans in background
 gerti screams distantly
 gerti screams distantly
 gerti screams distantly
@@ -9045,6 +9305,12 @@ giggles softly
 giggles softly
 giggling in distance
 giggling quietly
+ginuwine continues in background
+girl hums in background
+girl hums in background
+girl hums in background
+girl hums in background
+girl hums in background
 girl in distance
 girl in distance on pa
 girl murmurs
@@ -9105,12 +9371,15 @@ glasses clink in distance
 glasses clink in distance
 goat bleating, woman shouting in distance
 goblins laugh, murmur
+gorilla grunts in background
 gospel music playing faintly inside camper
 gospel music playing faintly inside camper
 grace cries softly
 grace cries softly
 grace murmurs
 grand cleric sighs quietly
+greetings continue in background
+greetings continue in background
 gretta humming quietly
 grimaces softly
 groaning in distance
@@ -9798,6 +10067,8 @@ gun firing in distance
 gun firing in distance
 gun shot in distance
 gun shot in distance
+gunfire and screaming in background
+gunfire and screaming in background
 gunfire and screams in distance
 gunfire and screams in distance
 gunfire and screams in distance
@@ -9834,6 +10105,13 @@ gunfire continues in distance
 gunfire continues in distance
 gunfire continues in distance
 gunfire explodes outside
+gunfire in background
+gunfire in background
+gunfire in background
+gunfire in background
+gunfire in background
+gunfire in background
+gunfire in background
 gunfire in distance
 gunfire in distance
 gunfire in distance
@@ -9991,6 +10269,8 @@ gunshots and men shouting in distance
 gunshots and men shouting in distance
 gunshots and men shouting in distance
 gunshots and men shouting outside
+gunshots and yelling in background
+gunshots and yelling in background
 gunshots continue in distance
 gunshots continue in distance
 gunshots continue in distance
@@ -10042,6 +10322,7 @@ gusting outside
 gusting outside
 gusting outside
 gusting outside
+guy in background
 guy screaming in pain in the background
 guy screaming in pain in the background
 guy screaming in pain in the background
@@ -10065,6 +10346,12 @@ harpsichord plays softly
 harpsichord plays softly
 harpsichord plays softly
 harris barking in distance
+harris barks in background
+harris barks in background
+harris barks in background
+harris barks in background
+harris barks in background
+harris barks in background
 harris barks in distance
 harris barks in distance
 harris barks in distance
@@ -10085,6 +10372,7 @@ heather nova singling gloomy sunday from a distance
 heather nova singling gloomy sunday from a distance
 heather nova singling gloomy sunday from a distance
 heavy gunfire in distance
+heavy metal music in background
 helicopter at a distance
 helicopter at a distance
 helicopter at a distance
@@ -10126,6 +10414,10 @@ high-pitched squeal in distance
 hip hop music playing in distance
 hip hop music playing in distance
 hip hop music playing in distance
+hip-hop music in background
+hip-hop music playing in background
+hip-hop music playing in background
+hip-hop music playing in background
 hip-hop music playing in distance
 hip-hop music playing in distance
 hip-hop music playing in distance
@@ -10150,6 +10442,7 @@ hip-hop music plays in distance
 hip-hop music plays in distance
 hip-hop playing in distance
 hip-hop playing in distance
+hip-hop plays in background
 hissing softly
 hissing softly
 hits outside
@@ -10173,6 +10466,8 @@ hookfang growls softly
 hookfang growls softly
 hookfang growls softly
 hookfang growls softly
+hooting in background
+hooting in background
 hooves clacking on cobblestones outside
 hooves clacking on cobblestones outside
 hooves clacking on cobblestones outside
@@ -10489,6 +10784,7 @@ howling, barking in distance
 hugo chuckles quietly
 hugo chuckles quietly
 hulk roaring, distant
+hum of crowd in background
 hum of murmured concern
 humming along quietly
 humming faintly
@@ -10556,6 +10852,8 @@ ice cream truck song reverberates softly
 iingling faintly
 imitates lion meowing quietly
 imitates train whistle softly
+in background
+in background
 in distance
 in distance
 in distance
@@ -10657,6 +10955,8 @@ in distance
 in distance
 in distance
 in the distance, a man sings in arabic
+in-flight movie in background
+in-flight movie in background
 inaudible murmur
 inaudible murmur
 inaudible murmur
@@ -10676,8 +10976,17 @@ inaudible talking outside room
 inaudibly mumbling
 inaudibly mumbling
 indian music playing softly
+indian music with sitar and flute plays in background
+indian music with sitar and flute plays in background
 indistinct animal sounds in distance
 indistinct animal sounds in distance
+indistinct arguing in background
+indistinct arguing in background
+indistinct arguing in background
+indistinct arguing in background
+indistinct arguing in background
+indistinct arguing in background
+indistinct arguing in background
 indistinct arguing in distance
 indistinct arguing in distance
 indistinct chanting in distance
@@ -10685,6 +10994,10 @@ indistinct chanting in distance
 indistinct chanting outside
 indistinct chat in distance
 indistinct chatter from outside
+indistinct chatter in background
+indistinct chatter in background
+indistinct chatter in background
+indistinct chatter in background
 indistinct chatter in distance
 indistinct chatter in distance
 indistinct chatter in distance
@@ -10706,6 +11019,9 @@ indistinct chatting in distance
 indistinct commotion, distant
 indistinct commotion, distant
 indistinct commotion, distant
+indistinct conversation in background
+indistinct conversation in background
+indistinct conversation in background
 indistinct conversation in distance
 indistinct conversation in distance
 indistinct conversation in distance
@@ -10852,7 +11168,9 @@ indistinct distant voice
 indistinct distant voice
 indistinct distant voices
 indistinct distant voices
+indistinct in background
 indistinct mid-tempo music plays in distance
+indistinct mumbling in background
 indistinct murmur
 indistinct murmur
 indistinct murmuring
@@ -10944,9 +11262,13 @@ indistinct murmurs
 indistinct murmurs
 indistinct murmurs
 indistinct noises at a distance
+indistinct overlapping voices in background
+indistinct overlapping voices in background
+indistinct overlapping voices in background
 indistinct screaming in distance
 indistinct screaming in distance
 indistinct screaming in distance
+indistinct shouting in background
 indistinct shouting in distance
 indistinct shouting in distance
 indistinct shouting in distance
@@ -11141,6 +11463,7 @@ indistinct sounds outside
 indistinct sounds outside
 indistinct sounds outside
 indistinct sounds outside
+indistinct talking in background
 indistinct talking in distance
 indistinct talking in distance
 indistinct talking in distance
@@ -11190,6 +11513,7 @@ indistinct talking over p.a. in distance
 indistinct talking, siren wailing in distance
 indistinct talking, siren wailing in distance
 indistinct talking, siren wailing in distance
+indistinct tv in background
 indistinct voice in distance
 indistinct voices in distance
 indistinct voices in distance
@@ -11226,6 +11550,7 @@ indistinct, distant voice
 indistinct, distant yelling
 indistinct, distant yelling
 indistinct, distant yelling
+indistinctly chat in background
 inhales, grunts softly
 inhales, grunts softly
 inkubus hissing and murmuring
@@ -11298,6 +11623,10 @@ jackhammer rattling in distance
 jake and finn screaming in distance
 jake laughs, murmurs
 jake shouting, distant
+james blunt - "you're beautiful" playing in background
+james blunt - "you're beautiful" playing in background
+james blunt - "you're beautiful" playing in background
+james blunt - "you're beautiful" playing in background
 jamie grunting softly
 janet quietly
 janey murmurs
@@ -11305,7 +11634,9 @@ japanese music plays softly
 jared singing softly
 jared singing softly
 jazz continues in distance
+jazz music begins playing in background
 jazz music continues in distance
+jazz music playing in background
 jazz music playing quietly
 jazz music playing quietly
 jazz music playing quietly
@@ -11346,9 +11677,12 @@ joe sniffles softly
 joe sniffles softly
 joey and dolly chatter in the background
 joey and dolly chatter in the background
+john in background
 john in the background
+john talking on phone in background
 john, distant
 john, distant
+johnny howls in background
 johnny,quietly
 jonny sobs in distance
 jonson crying softly
@@ -11419,6 +11753,15 @@ kids chatter outside
 kids chatter outside
 kids chatter outside
 kids chattering distantly
+kids chattering in background
+kids chattering in background
+kids chattering in background
+kids chattering in background
+kids chattering in background
+kids chattering in background
+kids chattering in background
+kids chattering in background
+kids continue in background
 kids gasping, murmuring
 kids gasping, murmuring
 kids in distance
@@ -11440,6 +11783,7 @@ kids singing softly
 kids yelling outside
 kids: distant chattering
 kids: distant squealing
+kirk and gentry shouting in background
 klingons murmuring
 knife chopping faintly
 knight commander laughs softly
@@ -11504,6 +11848,12 @@ laughing from outside
 laughing from outside
 laughing from outside
 laughing from outside
+laughing in background
+laughing in background
+laughing in background
+laughing in background
+laughing in background
+laughing in background
 laughing in the distance
 laughing outside
 laughing outside
@@ -11819,6 +12169,12 @@ laughs, murmurs
 laughter and murmur
 laughter and murmurs
 laughter from a distance
+laughter in background
+laughter in background
+laughter in background
+laughter in background
+laughter in background
+laughter in background
 laughter in distance
 laughter in distance
 laughter in distance
@@ -11874,14 +12230,28 @@ lazarro whimpers softly
 led scratching softly
 led zeppelin's "kashmlr" playing faintly on stereo
 lefty singing in distance
+lena's friends shouting in background
 lenny is weeping softly
 light laughter, murmuring
+light music playing in background
 lily speaking quietly on phone
 lincoln screaming in distance
 lincoln screaming in distance
 lincoln screaming in distance
 lincoln screaming in distance
 lindbergh continues murmuring
+ling in background
+ling in background
+ling in background
+ling in background
+ling in background
+ling in background
+ling in background
+ling in background
+ling in background
+ling spelling in background
+ling spelling in background
+ling spelling in background
 lion snores quietly
 lively discussion outside
 lively murmur
@@ -11892,6 +12262,7 @@ ln distance
 lnaudible talking outside room
 lnaudible talking outside room
 lnaudible talking outside room
+lndistinct chatter in background
 lnstrumental melody playing softly in background
 lock clicking in distance
 lois crying softly
@@ -11945,6 +12316,7 @@ lovers gasp and moan quietly nearby
 low beeping in distance
 low gasps, murmurs
 low growling in distance
+low growls in background
 low murmur from camp clanking of pots
 low murmur from camp clanking of pots
 low murmur from camp clanking of pots
@@ -11985,6 +12357,8 @@ lullaby music playing softly
 lullaby playing faintly
 lydia crying softly
 lydia quietly sobbing
+lynn continues singing in background
+lynn singing to piano in background
 machine gun fire in the distance
 machine gun firing in distance
 machine gun firing in distance
@@ -12044,11 +12418,14 @@ man and woman arguing in distance
 man and woman arguing in distance
 man cackling in distance
 man cackling in distance
+man chanting in background
 man chanting in distance
 man chanting in distance
 man chuckling softly
+man continues shouting commands in background
 man continues shouting in distance
 man continues shouting in distance
+man continues speaking in background
 man coughing in distance
 man coughing in distance
 man coughing in distance
@@ -12085,6 +12462,8 @@ man in distance speaking indistinctly
 man in the distance
 man in the distance
 man in the distance
+man laughing in background
+man laughing in background
 man laughing in the distance
 man laughing in the distance
 man laughing in the distance
@@ -12116,6 +12495,7 @@ man outside
 man outside
 man outside
 man outside
+man reading names aloud in background
 man retching in distance
 man retching in distance
 man retching in distance
@@ -12177,6 +12557,10 @@ man shouting in the distance
 man shouting in the distance
 man shouting in the distance
 man shouting in the distance
+man shouting indistinctly in background
+man shouting indistinctly in background
+man shouting indistinctly in background
+man shouting indistinctly in background
 man shouting indistinctly in distance
 man shouting indistinctly in distance
 man shouting indistinctly in distance
@@ -12256,9 +12640,14 @@ man yelling, distant
 man yelling, distant
 man yelling, distant
 man yelling, distant
+man's voice in background
+man's voice in background
 man, distant
 man, distant
 man, faintly
+man, in background
+man, in background
+man, in background
 man, outside
 man, outside
 man, outside
@@ -12266,6 +12655,9 @@ man, outside
 man, quietly
 manscreamingin distance
 manscreamingin distance
+march playing in background
+march playing in background
+march playing in background
 march plays faintly
 marching band in distance
 margaret moans softly
@@ -12293,6 +12685,7 @@ matt laughs softly
 mattress springs squeak softly
 mattress springs squeak softly
 maxim sobs quietly
+maya indistinct in background
 mazzy huffing quietly into microphone
 mazzy humming softly
 meanwhile, deep in the mysterious woods outside the enemy roman camp
@@ -12310,6 +12703,10 @@ mei sobbing softly
 mei sobbing softly
 melancholic piano melody plays softly
 melissa etheridge's only oplaying in distance
+mellow music playing in background
+mellow rock plays in background
+mellow rock plays in background
+mellow rock plays in background
 men chanting distantly
 men chanting distantly
 men chattering outside
@@ -12407,6 +12804,13 @@ men screaming in distance
 men shouting and gunshots in distance
 men shouting distantly
 men shouting faintly
+men shouting in background
+men shouting in background
+men shouting in background
+men shouting in background
+men shouting in background
+men shouting in background
+men shouting in background
 men shouting in distance
 men shouting in distance
 men shouting in distance
@@ -12443,6 +12847,7 @@ men shouting in the distance
 men shouting in the distance
 men shouting indistinctly in distance
 men shouting indistinctly in distance
+men shouting orders in background
 men shouting outside
 men shouting outside
 men shouting outside
@@ -12452,6 +12857,7 @@ men singing in italian in distance
 men singing in the distance
 men singing prayers in distance
 men speaking foreign language in distance
+men speaking in background
 men speaking in the distance
 men speaking indistinctly in distance
 men speaking indistinctly in distance
@@ -12468,6 +12874,7 @@ men speaking russian in the distance
 men speaking russian in the distance
 men speaking russian in the distance
 men speaking russian in the distance
+men talking in background
 men talking in the distance
 men talking in the distance
 men talking in the distance
@@ -12482,6 +12889,7 @@ men yelling in distance
 men yelling in distance
 men yelling lndlstlnctly in distance
 men's distant murmuring
+men's voices in background
 men's voices in distance
 merrin laughs faintly
 merrymaking outside continues
@@ -12510,6 +12918,7 @@ mid-tempo music continues in distance
 mid-tempo music plays faintly
 mid-tempo music plays faintly
 mid-tempo music plays in distance
+mid-tempo pop music plays in background
 mid-tempo rock music plays in distance
 mid-tempo rock music plays in distance
 middle-eastern music in the background
@@ -12535,9 +12944,12 @@ military trumpets blow in distance
 mindy, outside
 mindy, outside
 mindy, outside
+minister continues in background
+minister continues in background
 miranda humming softly
 miranda sings "dream angus" softly
 miranda sings "dream angus" softly
+mitch continues in background
 mixed murmurs
 moaning and screaming in distance
 moaning and screaming in distance
@@ -12714,6 +13126,7 @@ more quietly
 more quietly, dripping faucet in the background
 more softly
 morgan laughing softly
+mother crying bitterly in background
 mother giggles quietly
 motor droning softly
 motor in distance
@@ -12759,6 +13172,8 @@ mouthing inaudibly
 mouths quietly
 mouths quietly
 mouths quietly
+movie plays in background
+movie plays in background
 mrs. ramsey gasps quietly
 muffled crash, woman screams in distance
 muffled crash, woman screams in distance
@@ -12785,8 +13200,16 @@ muffled murmuring
 muffled murmuring
 muffled murmuring
 muffled murmuring
+muffled music in background
+muffled music in background
+muffled music in background
+muffled music in background
 muffled rap music playing in distance
 muffled shout in distance
+muffled shouting in background
+muffled shouting in background
+muffled shouting in background
+muffled shouting in background
 muffled shouting in distance
 muffled shouting in the distance
 muffled shouting in the distance
@@ -12797,6 +13220,7 @@ muffled voice in the distance
 muffled voice in the distance
 muffled voice in the distance
 muffled voice in the distance
+muffled voices in background
 muffled, distant
 muffled, distant
 muffled, distant screaming
@@ -12817,6 +13241,8 @@ mumbling quietly
 mumbling quietly
 mumbling to self outside
 mumbling to self outside
+mumbling voices in background
+mumbling voices in background
 murdock murmuring in amazement
 murmur
 murmur
@@ -13519,6 +13945,12 @@ murmurs with pleasure
 murmurs word
 murmurs, grunts
 murmurs, laughs
+music and announcer continue in background
+music and announcer continue in background
+music and announcer continue in background
+music and announcer continue in background
+music and announcer continue in background
+music and singing in background
 music blares, people talking in distance
 music blares, people talking in distance
 music box playing in distance
@@ -13554,6 +13986,18 @@ music continues faintly
 music continues faintly inside car
 music continues faintly inside car
 music continues faintly inside car
+music continues in background
+music continues in background
+music continues in background
+music continues in background
+music continues in background
+music continues in background
+music continues in background
+music continues in background
+music continues in background
+music continues in background
+music continues in background, overlapping chatter
+music continues in background, overlapping chatter
 music continues in distance
 music continues in distance
 music continues in distance
@@ -13589,6 +14033,7 @@ music continues thumping faintly
 music continues, faintly
 music continues, women cheering in distance
 music continues, women cheering in distance
+music continuesin background
 music continuing distantly
 music continuing distantly
 music continuing distantly
@@ -13598,6 +14043,11 @@ music echoes in distance
 music ends, distant applause
 music faintly playing
 music farther quietly in the background
+music in background
+music in background
+music in background
+music in background, chatter
+music in background, laughter
 music in distance
 music in distance
 music in distance
@@ -13637,6 +14087,39 @@ music playing faintly on tv
 music playing faintly over headphones
 music playing faintly over headphones
 music playing faintly οn tv
+music playing in background
+music playing in background
+music playing in background
+music playing in background
+music playing in background
+music playing in background
+music playing in background
+music playing in background
+music playing in background
+music playing in background
+music playing in background
+music playing in background
+music playing in background
+music playing in background
+music playing in background
+music playing in background
+music playing in background
+music playing in background
+music playing in background
+music playing in background
+music playing in background
+music playing in background
+music playing in background
+music playing in background
+music playing in background
+music playing in background
+music playing in background
+music playing in background
+music playing in background
+music playing in background
+music playing in background
+music playing in background
+music playing in background
 music playing in distance
 music playing in distance
 music playing in distance
@@ -13693,6 +14176,17 @@ music playing softly
 music playing softly
 music playing, crowd cheering in distance
 music plays faintly
+music plays in background
+music plays in background
+music plays in background
+music plays in background
+music plays in background
+music plays in background
+music plays in background
+music plays in background
+music plays in background
+music plays in background
+music plays in background
 music plays in distance
 music plays in distance
 music plays in distance
@@ -13753,6 +14247,7 @@ music somewhat more quietly, but hitched up
 music thumping, indistinct singing in distance
 music, conversations resume in distance
 music, indistinct conversations in distance
+music, laughter in background
 music, laughter in distance
 musical strings play softly, background
 musical strings play softly, background
@@ -13764,6 +14259,8 @@ muted arguing in distance
 muted arguing in distance
 muted clatter outside
 muted clatter outside
+muted tv in background
+muted tv in background
 muted voices murmuring
 muttering faintly
 muttering inaudibly
@@ -13785,13 +14282,23 @@ mutters inaudibly
 mutters softly
 mutters softly
 mutters softly
+muzak in background
+muzak in background
+muzak in background
 muzak playing faintly
+muzak plays in background
+muzak plays in background
+muzak plays in background
+muzak plays in background
+muzak plays in background
 nani in distance
 natasha talks inaudibly
 native americans chanting, distant
 nazareth's "love hurts" plays in distance
 nazareth's "love hurts" plays in distance
 nazareth's "love hurts" plays in distance
+nealy and miles chatter in background
+nealy and miles chatter in background
 negative murmurs
 neighbors shouting in distance
 neighbors shouting in distance
@@ -13804,6 +14311,11 @@ neighs softly
 nervous murmuring
 nervous murmuring
 new age music plays softly
+news droning in background
+news droning in background
+news program in background
+news radio in background
+news report in background
 next time do not wait eonni outside
 nick, quietly
 nickering softly
@@ -13836,6 +14348,7 @@ nickers softly
 nickers softly
 nickers softly
 no one can see in from the outside
+noah crying in background
 noise continues in distance
 noise in distance
 noise in the distance
@@ -13884,7 +14397,16 @@ onlookers murmuring
 onlookers murmuring
 opera continues faintly in background
 opera continues faintly in background
+opera continues in background
+opera continues in background
 opera in distance
+opera music in background
+opera music in background
+opera music in background
+opera music in background
+opera music in background
+opera music in background
+opera music in background
 opera music playing softly
 opera music playing softly
 opera music playing softly
@@ -13895,11 +14417,18 @@ operatic singing in distance
 orchestra plays softly
 orchestra tuning in the distance
 orchestra tuning in the distance
+orchestral music continues, with tv ad in background
+orchestral music continues, with tv ad in background
+orchestral music continues, with tv ad in background
 orchestral music plays softly
+orchestral music swells in background
 orders given in the distance
 orders given in the distance
 orders given in the distance
 orders given in the distance
+organ music playing in background
+organ music playing in background
+organ music playing in background
 organ music playing in distance
 organ music playing in distance
 organ music playing softly
@@ -13909,6 +14438,7 @@ organ playing softly
 organ plays in distance
 organ plays softly
 organ plays softly
+original musicvideo playing in background
 others murmuring negatively
 others softly chuckle
 outside
@@ -13924,6 +14454,7 @@ outside
 outside
 outside
 outside country
+overlapping chatter, music in background
 overlapping gunfire in distance
 overlapping murmuring
 overlapping murmuring
@@ -13937,6 +14468,7 @@ overlapping murmurs
 overlapping murmurs
 overlapping murmurs
 overlapping murmurs
+overlapping voices in background
 overlapping voices murmuring
 overlapping voices murmuring
 owl hooting in distance
@@ -13944,6 +14476,21 @@ owl hoots in distance
 owl hoots in distance
 owl hoots in distance
 owl hoots in distance
+p. a. announcement in background
+p. a. announcement in background
+p.a. announcement continues in background
+p.a. announcement continues in background
+p.a. announcement continues in background
+p.a. announcement continues in background
+p.a. announcement in background
+p.a. announcement in background
+p.a. in background
+p.a. in background
+p.a. in background
+p.a. in background
+p.a. in background
+p.a. in background
+p.a. page in background
 pablo counting softly
 pablo counting softly
 pai chanting in maori in distance
@@ -13960,6 +14507,9 @@ pallas gasps softly
 palntballs firing in distance
 panicked murmuring
 panicked murmuring
+panicked shouting in background
+panicked shouting in background
+panicked shouting in background
 panther growling quietly
 panting in distance
 panting quietly
@@ -13981,7 +14531,9 @@ paper rustles, mail robot beeps in distance
 park and greer chatting quietly
 park and greer chatting quietly
 park and greer chatting quietly
+partly intelligible discussion in background
 party music and talking in the distance
+party noises in background
 party-goers murmur in disappointment
 party-goers murmur in disappointment
 partygoers murmuring
@@ -14051,6 +14603,8 @@ pensive music playing softly
 pensive music playing softly
 pensive music playing softly
 people arguing, distant
+people chanting in background
+people chanting in background
 people chanting in distance
 people chanting in distance
 people chanting in distance
@@ -14059,6 +14613,7 @@ people chanting outside
 people chanting outside
 people chanting outside
 people chattering faintly
+people chattering in background
 people chattering in distance
 people chattering quietly
 people chattering softly
@@ -14075,6 +14630,9 @@ people cheering in the distance
 people cheering in the distance
 people cheering in the distance
 people clamoring outside
+people clapping in background
+people clapping in background
+people clapping in background
 people conversing quietly
 people conversing quietly
 people conversing softly
@@ -14093,6 +14651,9 @@ people gasping, murmuring
 people groaning quietly
 people in distance singing in african language
 people laughing and shouting in distance
+people laughing in background
+people laughing in background
+people laughing in background
 people laughing, cheering in distance
 people laughing, cheering in distance
 people murmur
@@ -14347,6 +14908,8 @@ people murmuring, cameras clicking
 people murmuring, chattering
 people outside cheering
 people outside cheering
+people resume talking in background
+people resume talking in background
 people scream in the distance
 people screaming in distance
 people screaming in distance, roller coaster rumbles
@@ -14355,6 +14918,10 @@ people screaming in the distance
 people screaming, distant
 people screaming, distant
 people screaming, laughing in the distance
+people shouting in background
+people shouting in background
+people shouting in background
+people shouting in background
 people shouting in distance
 people shouting in distance
 people shouting in distance
@@ -14374,6 +14941,7 @@ people talking and laughing in the background
 people talking and laughing in the distance
 people talking far away
 people talking far away
+people talking in background
 people talking in the background and glass shattering
 people talking in the background and glass shattering
 people talking in the background and glass shattering
@@ -14428,6 +14996,15 @@ phone ringing faintly
 phone ringing faintly
 phone ringing faintly
 phone ringing faintly
+phone ringing in background
+phone ringing in background
+phone ringing in background
+phone ringing in background
+phone ringing in background
+phone ringing in background
+phone ringing in background
+phone ringing in background
+phone ringing in background
 phone ringing in distance
 phone ringing in distance
 phone ringing in distance
@@ -14441,6 +15018,14 @@ phone ringing softly
 phone ringing softly
 phone ringing softly
 phone ringing, siren wailing in distance
+phone rings in background
+phone rings in background
+phone rings in background
+phone rings in background
+phone rings in background
+phone rings in background
+phone rings in background
+phone rings in background
 phone rings in distance
 phone rings in distance
 phone rings in distance
@@ -14448,13 +15033,22 @@ phone rings in distance
 phone rings in the distance
 phone rings in the distance
 phone rings in the distance
+phones ring in background
+phones ringing in background
+phones ringing in background
+phones ringing in background
+phones ringing in background
+phones ringing in background
 phones ringing in distance
 phonograph plays bright swing melody in distance
 pianist playing softly
 pianist plays softly
+piano music in background
+piano music playing in background
 piano music playing in distance
 piano music playing softly
 piano music playing softly
+piano playing in background
 piano playing in distance
 piano playing in distance
 piano playing in distance
@@ -14495,6 +15089,10 @@ piano plays softly
 piano plays softly
 piano plays softly in distance
 piano plays softly, flames crackle
+piano pop melody plays in background
+piano pop melody plays in background
+piano pop melody plays in background
+piano pop melody plays in background
 piano solo music plays softly
 piano solo music plays softly
 piano solo music plays softly
@@ -14519,6 +15117,7 @@ plane engine roars outside
 plane roars in distance
 plane whlrrlng in distance
 plane whlrrlng in distance
+play-by-play in background
 players murmuring
 players murmuring in agreement
 players murmuring in agreement
@@ -14549,6 +15148,8 @@ police and ambulance sirens in the background
 police chatter in distance
 police chatter in distance
 police chatter in distance
+police radio chatter in background
+police radio chatter in background
 police radio chatter in distance
 police radio chatter in distance
 police radio chatter in distance
@@ -14565,6 +15166,9 @@ police radio chatter in distance
 police radio chatter, siren wails in distance
 police radio chatter, siren wails in distance
 police radio drones distantly
+police radio in background
+police radio in background
+police radio in background
 police radio in distance
 police radio in distance
 police radio in distance
@@ -14572,6 +15176,8 @@ police radio in distance
 police radio murmuring
 police radios crackling in the background
 police scanner chatter outside
+police shouting in background
+police shouting in background
 police siren blaring in distance
 police siren in distance
 police siren in distance
@@ -14602,6 +15208,20 @@ police sirens blaring in the distance
 police sirens blaring in the distance
 police sirens blaring in the distance
 police sirens blaring in the distance
+police sirens in background
+police sirens in background
+police sirens in background
+police sirens in background
+police sirens in background
+police sirens in background
+police sirens in background
+police sirens in background
+police sirens in background
+police sirens in background
+police sirens in background
+police sirens in background
+police sirens in background
+police sirens in background
 police sirens in distance
 police sirens in distance
 police sirens in distance
@@ -14629,8 +15249,18 @@ pop goes the weasel plays outside
 pop music continues faintly
 pop music continues faintly
 pop music continues faintly
+pop music in background
+pop music in background
+pop music in background
+pop music in background
+pop music in background
+pop music in background
+pop music in background
 pop music playing faintly on jukebox
 pop music playing faintly on jukebox
+pop music playing in background
+pop music playing in background
+pop music playing in background
 pop music playing in distance
 pop music playing in distance
 pop music playing softly
@@ -14641,6 +15271,8 @@ pop music playing softly
 pop music playing softly
 pop music playing softly on radio
 pop music plays distantly
+pop music plays in background
+pop music plays in background
 pop music plays quietly
 pop song playing softly
 pop song playing softly
@@ -14649,6 +15281,8 @@ pop song playing softly
 pop song playing softly on radio
 popgoestheweasel plays outside
 popping sounds in distance
+porn music in background
+porn music in background
 pounding and murmuring
 pounding in distance
 pounding in distance
@@ -14694,10 +15328,13 @@ praying softly in spanish
 praying softly in spanish
 praying softly in spanish
 praying softly in spanish
+priest saying "lord's prayer" in background
+priest saying "lord's prayer" in background
 princesses murmuring nervously
 prison door shutting and bolting from outside
 professor speaking in distance
 promotional music playing faintly
+protestors chanting in background
 pulsating, seductive music plays in distance
 pulsating, seductive music plays in distance
 punches landing, shouting in distance
@@ -15175,14 +15812,24 @@ quietly whimpering
 quietly whimpering
 quietly, yet deadly
 quietly, yet deadly
+quilla sobbing in background
+quilla sobbing in background
+quilla sobbing in background
+quilla sobbing in background
+quilla sobbing in background
 rachel murmuring
 rachel sniffles quietly
 radio announcer, softly
+radio chat in background
 radio chatter, distant sirens
 radio chatter, distant sirens
+radio continues in background
+radio continues in background
 radio in the background
 radio in the background: ...extremely dangerous
 radio in the background: ...extremely dangerous
+radio people in background
+radio people in background
 radio playing faintly
 radio playing faintly
 radio playing faintly
@@ -15190,6 +15837,9 @@ radio playing faintly
 radio playing faintly
 radio playing faintly
 radio playing faintly
+radio playing in background
+radio playing in background
+radio playing pop song in background
 radio playing quietly
 radio playing quietly
 radio playing softly
@@ -15197,6 +15847,8 @@ radio playing softly
 radio playing softly
 radio playing softly
 radio playing softly
+radio plays in background
+radio plays in background
 radio plays pop music quietly
 radio plays pop music quietly
 radio plays pop music quietly
@@ -15249,17 +15901,26 @@ raju singing in the background
 raju singing in the background
 raju singing in the background
 randy laughs quietly
+rangi cursing in background
+rangi cursing in background
 ransik in distance
 rap music coming from outside
 rap music coming from outside
 rap music continues playing softly
 rap music continues playing softly
+rap music in background
 rap music playing and dog barking in distance
 rap music playing and dog barking in distance
+rap music playing in background
 rap music playing in distance
 rap music playing in distance
 rap music playing quietly
 rap music playing quietly
+rap music pounding in background
+rap music pounding in background
+rap playing in background
+rap playing in background
+rap playing in background
 rap plays softly
 rap plays softly
 rap plays softly
@@ -15294,6 +15955,9 @@ reads murmuring
 reads murmuring
 reads murmuring
 reads murmuring
+receptionist in background paging on intercom, electronic buzzing
+receptionist in background paging on intercom, electronic buzzing
+receptionist in background paging on intercom, electronic buzzing
 ree, softly
 ree, softly
 ree, softly
@@ -15306,6 +15970,17 @@ relieved sighs and murmurs
 repeat quietly
 repeated banging in distance
 repeated banging in distance
+repeated gunshots, circus music plays in background
+repeated gunshots, circus music plays in background
+repeated gunshots, circus music plays in background
+repeated gunshots, circus music plays in background
+repeated gunshots, circus music plays in background
+repeated gunshots, circus music plays in background
+repeated gunshots, circus music plays in background
+repeated gunshots, circus music plays in background
+repeated gunshots, circus music plays in background
+repeated gunshots, circus music plays in background
+repeated gunshots, circus music plays in background
 reporters murmur
 reporters murmur
 reporters murmur
@@ -15338,6 +16013,8 @@ reporters murmuring quizzically
 reporters murmuring quizzically
 reporters murmuring quizzically
 reporters yelling outside
+rescue radio chatter in background
+rescue radio chatter in background
 residents murmuring
 responds softly
 retching quietly
@@ -15351,6 +16028,8 @@ rides clanking, people scream happily in distance
 ringing continues in distance
 ringing continues in distance
 ringing continues in distance
+ringing in background
+ringing in background
 ringing in distance
 ringing in distance
 ringing in distance
@@ -15401,6 +16080,12 @@ roars softly
 roars softly
 roars softly
 robots chatter in distance
+rock 'n' roll music playing in background
+rock 'n' roll music plays in background
+rock 'n' roll music plays in background
+rock 'n' roll music plays in background
+rock 'n' roll playing in background
+rock 'n' roll playing in background
 rock in distance
 rock in distance
 rock music blaring distantly
@@ -15418,6 +16103,11 @@ rock music playing faintly
 rock music playing faintly
 rock music playing faintly
 rock music playing faintly
+rock music playing in background
+rock music playing in background
+rock music playing in background
+rock music playing in background
+rock music playing in background
 rock music playing in distance
 rock music playing in distance
 rock music playing in distance
@@ -15430,6 +16120,7 @@ rock music playing in distance
 rock music playing in distance
 rock music plays faintly
 rock music plays faintly
+rock music plays in background
 rock music plays in distance
 rock music plays in distance
 rock music plays in distance
@@ -15463,6 +16154,12 @@ rock playing in distance
 rock playing in distance
 rock playing in distance
 rock playing in distance
+rock pop music in background
+rock pop music in background
+rock song take me with u by prince plays in background
+rockabilly plays in background
+rockabilly plays in background
+rockabilly plays in background
 roman panting softly
 romantic instrumental music playing softly
 romantic music playing distantly
@@ -15491,6 +16188,11 @@ rooster crows in distance
 rooster crows in distance
 rooster crows in distance
 rope softly thuds below
+rossi speaking in background
+rossi speaking in background
+rossi speaking in background
+rossi speaking in background
+rossi speaking in background
 royal telephone by burl ives plays in distance
 royal telephone by burl ives plays in distance
 ruckus in distance
@@ -15499,6 +16201,7 @@ rumbling and explosions in distance
 rumbling and explosions in distance
 rumbling eases, debris settling softly
 rumbling eases, debris settling softly
+rumbling in background
 rumbling in distance
 rumbling in distance
 rumbling in distance
@@ -15529,6 +16232,7 @@ rumbling outside
 rumbling, passengers murmuring
 rumbling, passengers murmuring
 rumbllng in distance
+rustling in background
 rustling in distance
 rustling in distance
 rustling in distance
@@ -15551,11 +16255,16 @@ san is the most common honorific, used when addressing most social outsiders
 san is the most common honorific, used when addressing most social outsiders
 san is the most common honorific, used when addressing most social outsiders
 sara breathing softly
+sax playing in background
 saxophone plays softly
 scanner in distance
 scared murmuring
 scared murmuring
 scared murmuring
+scattered conversation, pop tune plays in background
+scattered conversation, pop tune plays in background
+scattered conversation, pop tune plays in background
+scattered conversation, pop tune plays in background
 scattered gasps, murmuring
 scattered murmuring
 scattered murmuring
@@ -15657,6 +16366,13 @@ screaming at a distance
 screaming continues faintly
 screaming continues in distance
 screaming continues, distant
+screaming in background
+screaming in background
+screaming in background
+screaming in background
+screaming in background
+screaming in background
+screaming in background
 screaming in distance
 screaming in distance
 screaming in distance
@@ -15881,6 +16597,29 @@ shouting continues outside
 shouting distantly
 shouting distantly
 shouting distantly
+shouting in background
+shouting in background
+shouting in background
+shouting in background
+shouting in background
+shouting in background
+shouting in background
+shouting in background
+shouting in background
+shouting in background
+shouting in background
+shouting in background
+shouting in background
+shouting in background
+shouting in background
+shouting in background
+shouting in background
+shouting in background
+shouting in background
+shouting in background
+shouting in background
+shouting in background
+shouting in background
 shouting in distance
 shouting in distance
 shouting in distance
@@ -16085,12 +16824,21 @@ singing continues faintly
 singing continues faintly
 singing continues faintly
 singing continues faintly
+singing continues in background
+singing continues in background
+singing continues in background
+singing continues in background
+singing continues in background
+singing continues in background
+singing continues in background
 singing continues in distance
 singing continues in distance
 singing continues outside
 singing continues, faintly
 singing from a distance
 singing from a distance
+singing in background
+singing in background, footsteps
 singing in distance
 singing in distance
 singing in distance
@@ -16158,9 +16906,13 @@ singing softly in creole
 singing softly in creole
 singingsoftly
 singingsoftly
+sings in background
+sings in background
 sings inaudibly
 sings inaudibly
 sings quietly
+sioux yelling in background throughout
+sioux yelling in background throughout
 siren blares in distance
 siren blares in distance
 siren blares in distance
@@ -16181,6 +16933,7 @@ siren chirping in distance
 siren chirps in distance
 siren chirps in distance
 siren chirps in distance
+siren in background
 siren in distance
 siren in distance
 siren in distance
@@ -17276,6 +18029,12 @@ sirens continue in distance
 sirens continue in distance
 sirens echoing in distance
 sirens heard in distance
+sirens in background
+sirens in background
+sirens in background
+sirens in background
+sirens in background
+sirens in background
 sirens in distance
 sirens in distance
 sirens in distance
@@ -17431,6 +18190,7 @@ sirens outside
 sirens outside
 sirens outside
 sirens scream in distance
+sirens sound in background
 sirens sound in distance
 sirens sounding in the distance
 sirens wail distantly
@@ -17734,6 +18494,9 @@ skitter growls softly
 skitter growls softly
 skitter growls softly
 slams door; stands outside
+slight music in background
+slim singing in background
+slow accordion in background
 slow classical music plays in distance
 slow classical music plays in distance
 slow, distant howling
@@ -17782,6 +18545,8 @@ sniffling softly
 sniffling softly
 sniffling softly
 sniffling softly
+sniffling, coughing in background
+sniffling, coughing in background
 snlckerlng and murmuring
 snoring quietly
 snoring quietly
@@ -17820,6 +18585,7 @@ snorts softly
 snorts softly
 snorts softly
 sobbing and murmuring
+sobbing in background
 sobbing in distance
 sobbing in distance
 sobbing in distance
@@ -17986,6 +18752,21 @@ soft murmuring
 soft murmuring in background
 soft murmuring in spanish
 soft murmuring in spanish
+soft music continues in background
+soft music in background
+soft music in background
+soft music in background
+soft piano in background
+soft pop music in background
+soft pop music in background
+soft pop music in background
+soft restaurant music in background
+soft rock in background
+soft rock in background
+soft rock in background
+soft rock music playing in background
+soft rock playing in background
+soft rock playing in background
 soft rock, faintly
 soft rock, faintly
 softly
@@ -18720,8 +19501,24 @@ soldiers shouting in distance
 soldiers shouting in distance
 soldiers shouting in distance
 soldiers shouting, cheering distantly
+somber melody on harmonica plays in background
+somber melody on harmonica plays in background
+somber melody on harmonica plays in background
+somber melody on wind instruments plays in background
+somber melody on wind instruments plays in background
+somber melody on wind instruments plays in background
+somber music playing in background
+somber music playing in background
 someone in the background
 someone in the background
+someone is talking and laughing in background
+someone is talking and laughing in background
+something clinks off metal in background
+something clinks off metal in background
+something clinks off metal in background
+something clinks off metal in background
+something clinks off metal in background
+something clinks off metal in background
 song continues faintly
 song continues faintly
 song continues faintly
@@ -18731,6 +19528,8 @@ song continues faintly
 song continues faintly
 song continues faintly
 song continues faintly
+song continues in background
+song continues in background
 song continues playing softly
 song continues playing softly
 song continues playing softly on stereo
@@ -18761,6 +19560,7 @@ sound of a car accelerating into the distance
 sound of a car accelerating into the distance
 sound of airplane engine in the distance
 sound of an audience of children in the background
+sound of audience still cheering in background
 sound of cheering, chanting audience far-off
 sound of child crying in distance echoes
 sound of child crying in distance echoes
@@ -18787,8 +19587,13 @@ sound of something being dragged along ground outside
 sound of train whistle blowing in the distance
 sound of truck driving away outside
 sound of truck driving away outside
+sound of tv playing in background becomes more and more distorted
+sound of whistling tyres in background
+sound of whistling tyres in background
 sound of wind blowing and crows cawing outside
 sound of wind blowing and crows cawing outside
+sound of wind howling mixed with wailing echoes in background
+sound of wind howling mixed with wailing echoes in background
 sound outside
 soundless
 soundless
@@ -18860,7 +19665,13 @@ sounds outside door
 sounds outside door
 sounds outside door
 spanish language on tv in distance
+spanish pop music playing in background
+spanish pop music playing in background
+spanish pop music playing in background
+spanish pop music playing in background
+spanish radio in background
 spanish spoken in distance
+speaking arabic in background
 speaking atlantean softly
 speaking atlantean softly
 speaking atlantean softly
@@ -18964,6 +19775,7 @@ speaking softly in italian
 speaking softly in italian
 speaking softly in italian
 speaking softly in spanish
+speaking xhosa, music in background
 speaks inaudibly
 speaks inaudibly
 speaks inaudibly
@@ -19178,8 +19990,17 @@ spectators murmuring
 spectators murmuring
 spectators murmuring
 spectators murmurs
+speech continues in background
+speech continues in background
+speech continues in background
+speech continues in background
+speech continues in background
+speech continues in background
+speech continues in background
 speech continues in the background
 speech continues in the background
+speech in background
+speech in background
 spider squeals in the distance
 spits quietly
 splash in distance
@@ -19187,6 +20008,18 @@ splashing in distance
 spoon clinking in distance
 spoon clinking in distance
 spoon clinking in distance
+sports announcer in background
+sports announcer in background
+sports announcer in background
+sports announcer in background
+sports announcer in background
+sports announcer in background
+sports announcer speaking in background
+sports announcer speaking in background
+sports announcer, chatter in background
+sports announcer, chatter in background
+sports announcer, chatter in background
+sports on tv in background
 spurs clinking quietly
 spurs clinking quietly
 squad car radios crackling quietly
@@ -19195,6 +20028,7 @@ squawking quietly
 squawks softly
 squawks softly
 squawks softly
+squeaking in background
 squeaking in distance
 squeaking in distance
 squeaking in distance
@@ -19254,6 +20088,7 @@ stammers softly
 stammers softly
 stammers softly
 standingrightoutsidemydoor
+starker talking in background
 starts to open door, voices outside
 starts to open door, voices outside
 starts to sob softly
@@ -19295,6 +20130,7 @@ student chuckles softly
 student murmuring
 student murmuring
 student murmuring
+students chattering in background
 students gasping, murmuring
 students laughing at distance
 students murmur
@@ -19366,6 +20202,9 @@ sympathetic murmurs
 sympathetic murmurs and applause
 t.v. plays in the distance
 t.v. plays in the distance
+talking in background
+talking in background
+talking in background
 talking in distance
 talking in distance
 talking in distant
@@ -19404,14 +20243,21 @@ tarek speaking foreign language in distance
 tarek speaking foreign language in distance
 tarek speaking foreign language in distance
 tarek speaking foreign language in distance
+tatianna continues moaning in background
 taxi brakes outside
 taxi brakes outside
+taxi radio dispatch in background
 team murmuring
 team murmuring
 team murmuring
+tearing, clattering in background
+tearing, clattering in background
 techno music playing in distance
 techno music plays in distance
 techno music plays in distance
+telephone ringing in background
+telephone ringing in background
+telephone ringing in background
 telephone ringing in distance
 telephone ringing in distance
 telephone ringing in distance
@@ -19491,6 +20337,9 @@ telephone ringing in distance
 telephone ringing in distance
 telephone ringing in distance
 telephone ringing in distance
+telephone rings in background
+telephone rings in background
+telephone rings in background
 telephone rings in distance
 telephone rings in distance
 telephone rings in distance
@@ -19577,8 +20426,18 @@ telephones ringing, sirens blaring in distance
 telephones ringing, sirens blaring in distance
 telephones ringing, sirens blaring in distance
 telephones ringing, sirens blaring in distance
+television cartoon in background
+television cartoon in background
 television drones in distance
 television drones in distance
+television in background
+television in background
+television playing in background
+television playing in background
+television playing in background
+television playing in background
+television playing in background
+television plays in background
 television plays softly
 television plays, softly
 teller roars in distance
@@ -19590,6 +20449,8 @@ tess whistles faintly
 tess whistles faintly
 thcrowd murmurs their appreciation
 thcrowd murmurs their appreciation
+the assassin theme music plays in background
+the assassin theme music plays in background
 the assassin theme music plays softly, background
 the assassin theme music plays softly, background
 the distance between us is closing in
@@ -19789,6 +20650,7 @@ toilet stall door closes, distant
 tone beeps in distance
 tony sobbing quietly
 tool buzzing outside
+tools clang in background
 tools clanking, saw buzzing in distance
 toothless growls softly
 toothless growls softly
@@ -19803,6 +20665,7 @@ townspeople murmuring
 townspeople murmuring
 townspeople murmuring
 townspeople murmuring
+traditional irish music playing in background
 traffic in distance
 traffic in distance
 traffic in distance
@@ -19936,6 +20799,8 @@ train whistle blowing distantly
 train whistle blowing distantly
 train whistle blowing distantly
 train whistle blowing distantly
+train whistle blowing in background
+train whistle blowing in background
 train whistle blowing in distance
 train whistle blowing in distance
 train whistle blowing in distance
@@ -20118,6 +20983,18 @@ trumpet plays in distance
 trumpet plays in distance
 trumpet plays in distance
 tuco sings quietly to himself
+tv announcement in background
+tv announcement in background
+tv announcer continues in background
+tv announcer continues in background
+tv announcer continues in background
+tv announcer in background
+tv announcer in background
+tv announcer in background
+tv announcer in background
+tv announcer in background
+tv announcer in background
+tv audio plays in background
 tv chatter in distance
 tv chatter in distance
 tv chatter in distance
@@ -20126,8 +21003,68 @@ tv chatter in distance
 tv chatter in distance
 tv chatter, jolene giggling softly
 tv chatter, jolene giggling softly
+tv commentary in background
 tv continues faintly
 tv continues faintly
+tv continues in background
+tv continues in background
+tv continues in background
+tv continues in background
+tv continues in background
+tv continues in background
+tv continues in background
+tv continues in background
+tv continues in background
+tv continues in background
+tv continues in background
+tv continues in background
+tv continues playing in background
+tv drones in background
+tv drones in background
+tv drones in background
+tv drones in background
+tv drones on in background
+tv droning in background
+tv droning in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background
+tv in background, music
 tv in the background
 tv in the background
 tv in the background
@@ -20141,13 +21078,34 @@ tv in the background
 tv in the background
 tv in the background
 tv playing faintly
+tv playing in background
+tv playing in background
+tv playing in background
+tv playing in background
+tv playing in background
+tv playing in background
+tv playing in background
+tv playing in background
+tv playing in background
 tv playing quietly
 tv playing quietly
+tv plays in background
+tv plays in background
+tv plays in background
+tv plays in background
+tv plays in background
+tv plays in background
 tv plays quietly
 tv plays quietly
 tv plays quietly
 tv plays softly
 tv show in the background
+tv show playing in background
+tv show playing in background
+tvin background
+tvin background
+tvplaying in background
+tvplaying in background
 twig snaps in distance
 twig snaps in distance
 twig snaps in distance
@@ -20163,6 +21121,7 @@ typewriter keys clacking in distance
 typewriter keys clacking in distance
 typewriter keys clacking in distance
 typewriter keys clacking in distance
+typing in background
 ukulele plays in distance
 ululating softly
 ululating softly
@@ -20176,11 +21135,14 @@ up-beat rock music plays faintly
 up-beat rock music plays in distance
 up-beat rock music plays in distance
 up-tempo dance music playing in distance
+up-tempo jazz plays in background
 up-tempo music in distance
+up-tempo music playing in background
 up-tempo music playing in distance
 up-tempo music playing in distance
 up-tempo music playing in distance
 up-tempo music playing in distance
+up-tempo music plays in background
 up-tempo music plays in distance
 up-tempo music plays in distance
 up-tempo music plays in distance
@@ -20215,6 +21177,10 @@ velkan roars in the distance
 velkan roars in the distance
 velkan roars in the distance
 velkan roars in the distance
+vendor shouts in background
+vendors shouting in background
+vendors shouting in background
+vendors shouting in background
 very distant
 very distant screaming
 very distant screaming
@@ -20287,6 +21253,7 @@ vogons murmur
 vogons murmur
 vogons murmur
 vogons murmur
+voice continues in background
 voice distant, echoing
 voice echoes distantly
 voice echoes distantly
@@ -20294,6 +21261,12 @@ voice echoes distantly
 voice in the distance
 voice murmurs
 voice murmurs
+voice on phone in background
+voice on phone in background
+voice on phone in background
+voice on phone in background
+voice on phone in background
+voice on phone in background
 voice outside
 voice outside
 voice shouting distant
@@ -20377,6 +21350,7 @@ voices murmuring over intercom
 voices murmuring over intercom
 voices murmuring over intercom
 voices murmuring over intercom
+voices on tv in background
 voices outside
 voices outside
 voices outside
@@ -20403,6 +21377,8 @@ voices whispering softly
 wade moaning outside
 wade moaning outside
 wade moaning outside
+wailing continues, pounding in background
+wailing continues, pounding in background
 wailing in distance
 wailing in distance
 wailing in distance
@@ -20417,7 +21393,10 @@ walkie-talkie squelches softly
 walkie-talkie squelches softly
 walkie-talkie squelches softly
 walkie-talkie squelches softly
+wally composes poetry with bugle call in background
 walter snoring softly
+warbling whistle in background
+warbling whistle in background
 warming up voice softly
 water lapping softly
 water lapping softly
@@ -20507,6 +21486,7 @@ whines faintly
 whines quietly
 whines softly
 whinnies softly
+whirring in background
 whirring in distance
 whirring in distance
 whirring in distance
@@ -20517,6 +21497,7 @@ whirring in distance
 whirring quietly
 whirring softly
 whirs softly
+whisper heard in background
 whispering inaudibly
 whispering inaudibly
 whispering inaudibly
@@ -20603,10 +21584,13 @@ whistles softly
 whistles softly
 whistles softly
 whistles softly
+whistling and hollering in background
 whistling becomes distant
 whistling becomes distant
 whistling becomes distant
 whistling becomes distant
+whistling continues in background
+whistling in background
 whistling in distance
 whistling in distance
 whistling in distance
@@ -20665,6 +21649,7 @@ wind gusts, crowd murmurs
 wind gusts, crowd murmurs
 wind hisses softly
 wind hissing softly
+wind howling in background
 wind howling outside
 wind howling outside
 wind howling outside
@@ -20703,6 +21688,7 @@ wolf howls in distance
 wolf howls in distance
 wolves howling in distance
 wolves howling in distance
+woman continues screaming in background
 woman cries out in distance
 woman cries softly
 woman crying in distance
@@ -20756,6 +21742,10 @@ woman murmuring
 woman murmuring
 woman murmuring
 woman murmurs
+woman on p.a. in background
+woman on p.a. in background
+woman on p.a. in background
+woman over pa in background
 woman praying softly inspanish
 woman screaming in distance
 woman screaming in distance
@@ -20798,6 +21788,7 @@ woman shouts distantly
 woman singing "ave maria" in distance
 woman singing aria in distance
 woman singing faintly in vietnamese
+woman singing in background
 woman singing in distance
 woman singing in japanese in the distance
 woman singing in japanese in the distance
@@ -20845,6 +21836,7 @@ woman speaking softly
 woman speaks in the distance
 woman speaks in the distance
 woman speaks in the distance
+woman speaks low in background
 woman vocalizing in distance
 woman vocalizing softly
 woman vocalizing softly
@@ -20869,8 +21861,10 @@ woman, softly
 women chattering and laughing in the distance
 women chattering and laughing in the distance
 women chattering outside
+women chatting in background
 women coughing and moaning faintly
 women laughing in distance
+women moaning in background
 women murmur
 women murmur
 women murmur
@@ -20910,11 +21904,15 @@ women screaming in distance
 women shouting in the distance
 women singing in the distance
 women singing softly in native language
+women talking in background
+women talking in background
 women talking softly
 women wailing distantly
 women's choir chanting softly
 women's choir chanting softly
 wookies growling softly
+work continuing in background
+work continuing in background
 workers chanting cadence in distance
 workers murmur
 workers murmur
@@ -20930,6 +21928,10 @@ yawns quietly
 yeaman mumbles inaudibly
 yelling from far away
 yelling from outside
+yelling in background
+yelling in background
+yelling in background
+yelling in background
 yelling in distance
 yelling in distance
 yelling in distance
@@ -20971,6 +21973,8 @@ yodeling in distance
 yodeling in distance
 yodeling in distance
 yodeling in distance
+yoga instructor speaking in background
+yoga instructor speaking in background
 young woman crying softly
 young woman crying softly
 young woman shrieks in the distance
@@ -20991,3 +21995,5 @@ zeppo whistling softly
 zeppo whistling softly
 zoey calling outside
 zombies murmuring
+zoom continues in background
+zoom continues in background

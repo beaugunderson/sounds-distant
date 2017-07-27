@@ -4,7 +4,7 @@
 
 const split = require('split');
 
-const RE_SOUND = /\[([^\[\]]*?(softly|faintly|in\s+the\s+background|inaudibly|murmur|noiseless|soundless|distant|perimeter|outskirts|distance|remotely|periphery|quietly|outside|far[ -]+off|far[ -]+away)[^\[\]]*)\]/;
+const RE_SOUND = /\[([^\[\]]*?(softly|faintly|in\s+the\s+background|in\s+background|inaudibly|murmur|noiseless|soundless|distant|perimeter|outskirts|distance|remotely|periphery|quietly|outside|far[ -]+off|far[ -]+away)[^\[\]]*)\]/;
 
 process.stdin.pipe(split()).on('data', (line) => {
   const match = RE_SOUND.exec(line);
