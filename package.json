@@ -1,0 +1,18 @@
+{
+  "name": "sounds-distant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sounds-distant.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Beau Gunderson <beau@beaugunderson.com> (https://beaugunderson.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "bot-utilities": "^2.5.1",
+    "lodash": "^4.17.4",
+    "split": "^1.0.0",
+    "twit": "^2.2.9",
+    "with-env": "^1.0.0"
+  }
+}
