@@ -28,6 +28,8 @@ program
         return;
       }
     });
+
+    console.log(`Tweeted "${tweet}"`);
   }));
 
 program.parse(process.argv);

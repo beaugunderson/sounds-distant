@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "bot-utilities": "^2.5.1",
+    "commander": "^2.11.0",
     "lodash": "^4.17.4",
     "split": "^1.0.0",
     "twit": "^2.2.9",
