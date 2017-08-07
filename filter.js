@@ -4,7 +4,7 @@
 
 const split = require('split');
 
-const RE_SOUND = /\[([^\[\]]*?(softly|faintly|in\s+the\s+background|in\s+background|indistinct|inaudibly|murmur|noiseless|soundless|distant|perimeter|outskirts|distance|remotely|periphery|quietly|outside|far[ -]+off|far[ -]+away)[^\[\]]*)\]/g;
+const RE_SOUND = /\[([^\[\]]*?(softly|faintly|in\s+the\s+background|in\s+background|indistinct|inaudibl|murmur|noiseless|soundless|distant|perimeter|outskirts|distance|remotely|periphery|quietly|outside|far[ -]+off|far[ -]+away)[^\[\]]*)\]/g;
 
 function handleMatch(sound) {
   sound = sound

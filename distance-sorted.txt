@@ -758,6 +758,11 @@ all yelling indistinctly
 all yelling, indistinct
 all yelling, indistinct
 all, softly
+almost inaudible
+almost inaudible
+almost inaudible
+almost inaudible
+almost inaudible
 alternative music in background
 although your day was passing quietly
 amanda coughing, nolan murmuring
@@ -1717,6 +1722,7 @@ bells tolling in the distance
 bells tolling, indistinct conversations
 bells tolling, indistinct conversations
 ben and scarlett speaking indistinctly
+ben inaudible
 ben, distant
 ben, distant
 bennet speaking indistinctly
@@ -2416,6 +2422,7 @@ car horns honking, indistinct chatter
 car horns honking, indistinct chatter
 car horns honking, indistinct conversations
 car horns honking, indistinct conversations
+car noise and inaudible talking
 car passes in distance
 car passing in the distance
 car pulls up outside
@@ -3001,6 +3008,7 @@ cheers and applause outside
 cheers and applause outside
 cheers and applause outside
 cheers and applause outside
+cheers and applause, inaudible speech
 cheers and applause, indistinct shouting
 cheers and indistinct chatter
 cheers and indistinct chatter
@@ -4280,6 +4288,7 @@ claire brad: indistinct chatter
 claire chuckles softly
 claire chuckles softly
 claire continues indistinctly
+claire mumbles inaudible
 clamoring in distance
 clancy whimpering softly
 clang in distance
@@ -4832,6 +4841,7 @@ continues whispering, indistinct
 continues yelling indistinctly
 continues, faintly
 continues, faintly
+continues, inaudible
 continues, indistinct
 continues, indistinct
 continues, indistinct
@@ -5228,10 +5238,17 @@ conversation continues, indistinct
 conversation continues, indistinct
 conversation continues, indistinct
 conversation continues, indistinct
+conversation inaudible
+conversation inaudible
+conversation inaudible
+conversation inaudible
+conversation inaudible
+conversation inaudible
 conversation, laughter continue in distance
 conversations continue indistinctly
 conversations continue indistinctly
 conversations in distance
+conversations inaudible
 conversing indistinctly
 conversing indistinctly
 conversing indistinctly
@@ -5409,6 +5426,7 @@ creature growls in distance
 creature growls in distance
 creature howling in distance
 creature howling in distance
+creature noises inaudible
 creature roaring in distance
 creature roaring in distance
 creature rumbling in distance
@@ -7439,8 +7457,33 @@ devi moaning faintly
 device clicks softly
 device clicks softly
 device clicks softly
+dialog inaudible
+dialog inaudible
+dialog inaudible
+dialog inaudible
+dialog inaudible
+dialog inaudible
 dialogue continues, indistinct
 dialogue continues, indistinct
+dialogue inaudible
+dialogue inaudible
+dialogue inaudible
+dialogue inaudible
+dialogue inaudible
+dialogue inaudible
+dialogue inaudible
+dialogue inaudible
+dialogue inaudible
+dialogue inaudible
+dialogue inaudible
+dialogue inaudible
+dialogue inaudible
+dialogue inaudible
+dialogue inaudible
+dialogue inaudible
+dialogue inaudible
+dialogue inaudible over background music
+dialogue inaudible over background music
 dialogue indistinct
 dialogue indistinct
 diane singing, indistinct
@@ -13419,6 +13462,1036 @@ in distance
 in the distance, a man sings in arabic
 in-flight movie in background
 in-flight movie in background
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible
+inaudible 01:01:49
+inaudible 01:08:07
+inaudible 01:19:38
+inaudible 08:01
+inaudible 13:07
+inaudible 13:28
+inaudible 13:29
+inaudible 13:34
+inaudible 1:09:30
+inaudible 21:30
+inaudible 28:52
+inaudible 33:48
+inaudible 59:04
+inaudible background dialog
+inaudible background dialog
+inaudible chatter
+inaudible chatter
+inaudible chatter
+inaudible chatter
+inaudible chatter
+inaudible chatter
+inaudible chatter
+inaudible chatter
+inaudible chatter
+inaudible chatter
+inaudible complaints
+inaudible conversation
+inaudible conversation
+inaudible conversation
+inaudible conversation
+inaudible conversation
+inaudible conversation
+inaudible conversation
+inaudible conversation
+inaudible conversation
+inaudible conversation
+inaudible dialog
+inaudible dialog
+inaudible dialog
+inaudible dialog
+inaudible dialog
+inaudible dialog
+inaudible dialog
+inaudible dialog
+inaudible dialog
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue
+inaudible dialogue over static
+inaudible dialogue over static
+inaudible laughter
+inaudible laughter
+inaudible laughter
+inaudible laughter
+inaudible laughter
+inaudible laughter
+inaudible laughter
+inaudible male voice
+inaudible mimicking
+inaudible mimicking
+inaudible miming
+inaudible miming
+inaudible mumbling
+inaudible mumbling
 inaudible murmur
 inaudible murmur
 inaudible murmur
@@ -13427,6 +14500,16 @@ inaudible murmurs
 inaudible murmurs
 inaudible murmurs
 inaudible murmurs
+inaudible over music
+inaudible over planes
+inaudible over roar of planes
+inaudible response
+inaudible screaming
+inaudible screams
+inaudible singing
+inaudible singing
+inaudible singing
+inaudible speech
 inaudible talking in the background
 inaudible talking in the background
 inaudible talking in the background
@@ -13435,6 +14518,18 @@ inaudible talking in the background
 inaudible talking in the background
 inaudible talking outside room
 inaudible talking outside room
+inaudible under voiceover
+inaudible under voiceover
+inaudible whispering
+inaudible whispering
+inaudible whispering
+inaudible whispering
+inaudible whispering
+inaudible whispering
+inaudible whispering
+inaudible whispering
+inaudible yelling
+inaudible yelling
 inaudibly mumbling
 inaudibly mumbling
 indian music playing softly
@@ -24740,6 +25835,7 @@ laughs softly
 laughs softly
 laughs softly
 laughs softly
+laughs, inaudible
 laughs, murmuring
 laughs, murmurs
 laughter and indistinct chatter
@@ -25072,6 +26168,7 @@ low murmurs in spanish
 low murmurs in spanish
 low murmurs, chuckles
 low roar in distance, high-pitched sound continues
+low, almost inaudible hum
 low, indistinct
 low, indistinct chatter
 low, indistinct chatter
@@ -29066,6 +30163,8 @@ olivia talking loudly in distance
 olivia talking loudly in distance
 olivia talking loudly in distance
 olivia talking loudly in distance
+ominous music, dialogue inaudible
+ominous music, dialogue inaudible
 on stereo, outside
 onlookers gasping, murmuring
 onlookers gasping, murmuring
@@ -29136,6 +30235,9 @@ outside
 outside
 outside
 outside country
+over p.a. inaudible
+over p.a. inaudible
+over p.a. inaudible
 overlapping chatter, indistinct
 overlapping chatter, music in background
 overlapping gunfire in distance
@@ -30159,6 +31261,7 @@ police radio indistinct
 police radio indistinct
 police radio murmuring
 police radio static, indistinct communication
+police radio, inaudible
 police radio, indistinct
 police radio, indistinct
 police radio, indistinct
@@ -31304,6 +32407,9 @@ reporters chattering indistinctly
 reporters chattering indistinctly
 reporters firing questions, overlapping, indistinct
 reporters firing questions, overlapping, indistinct
+reporters inaudible, heartbeat stops
+reporters inaudible, heartbeat stops
+reporters inaudible, heartbeat stops
 reporters murmur
 reporters murmur
 reporters murmur
@@ -31630,6 +32736,7 @@ rossi speaking in background
 rossi speaking in background
 rossi speaking in background
 rossi speaking in background
+roy talking to casey inaudible
 royal telephone by burl ives plays in distance
 royal telephone by burl ives plays in distance
 ruckus in distance
@@ -32215,6 +33322,7 @@ shouting in the distance
 shouting in the distance
 shouting in the distance
 shouting in the distance
+shouting inaudible
 shouting inaudibly
 shouting inaudibly
 shouting inaudibly
@@ -32526,6 +33634,7 @@ shouting outside, police whistle
 shouting outside, sirens
 shouting outside, sirens
 shouting through megaphone, indistinct
+shouting, inaudible
 shouting, indistinct
 shouting, indistinct
 shouting, indistinct
@@ -32865,6 +33974,7 @@ sighs softly
 sighs, crowd murmuring
 sighssoftly
 sighssoftly
+silvana's voice echoing in prayer inaudible
 sinatra sings at a distance
 sing outside the window
 singer, indistinct
@@ -34824,6 +35934,8 @@ slow classical music plays in distance
 slow classical music plays in distance
 slow, distant howling
 slow, distant howling
+slow, inaudible dialogue
+slow, inaudible dialogue
 slren wailing in distance
 slren wailing in distance
 slren wailing in distance
@@ -37403,6 +38515,14 @@ speech continues indistinctly
 speech continues indistinctly
 speech in background
 speech in background
+speech inaudible
+speech inaudible
+speech inaudible
+speech inaudible
+speech inaudible
+speech inaudible
+speech inaudible
+speech inaudible
 spider squeals in the distance
 spits quietly
 splash in distance
@@ -38922,6 +40042,7 @@ tv show continues indistinctly
 tv show in the background
 tv show playing in background
 tv show playing in background
+tv sound inaudible
 tv track announcer, indistinct
 tv track announcer, indistinct
 tv track announcer, indistinct
@@ -39169,6 +40290,7 @@ voice echoes distantly
 voice echoes distantly
 voice echoes distantly
 voice in the distance
+voice inaudible
 voice murmurs
 voice murmurs
 voice on phone in background
@@ -39493,6 +40615,8 @@ whirring, indistinct yell
 whirs softly
 whisper heard in background
 whisper indistinctly
+whispered inaudible
+whispered inaudible
 whispering in russian, indistinct
 whispering inaudibly
 whispering inaudibly
@@ -39683,6 +40807,9 @@ whispering indistinctly
 whispering indistinctly
 whispering softly
 whispering softly
+whispering, inaudible
+whispering, inaudible
+whispering, inaudible
 whispering, indistinct
 whispering, indistinct
 whispering, indistinct
@@ -40138,6 +41265,7 @@ woman murmuring
 woman murmuring
 woman murmuring
 woman murmurs
+woman on loud speaker, inaudible
 woman on p.a. in background
 woman on p.a. in background
 woman on p.a. in background
@@ -40777,6 +41905,7 @@ woman's voice, indistinct
 woman's voice, indistinct
 woman's voice, indistinct
 woman, distant
+woman, inaudible
 woman, indistinct
 woman, indistinct
 woman, indistinct
