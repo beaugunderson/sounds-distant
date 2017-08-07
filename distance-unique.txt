@@ -1,14 +1,17 @@
    1 "flood and fire" plays in background
+   7 "mooby the golden calf" plays indistinctly
    3 "ms mr's fantasy" playing in distance
    1 "no one on the outside world"
    1 "pomp and circumstance" plays distantly
    1 "rock-a-bye baby" playing softly
+   4 "runaway" plays indistinctly
    3 '60s ballad playing in background
    3 '60s rock music playing in background
    2 'zorba the greek' plays softly
    2 a bell chimes in background
    2 a scent in the air, the quiet murmur of the city
    2 a soundless witness, a laptop
+   2 aaron chanting indistinctly
    1 abby crying softly
    1 abby moans softly
    1 abby whimpers softly
@@ -16,20 +19,28 @@
    1 accordion playing in distance
    1 acoustic guitar plays lightly in distance
    1 acoustic song playing in background
+   1 actors continue, indistinct
+   1 actors shouting lines, indistinct
+   1 actress reciting lines, indistinct
    1 ada moans softly
    2 adam ant's "stand and deliver" plays in distance
+   1 adam talking indistinctly
    1 adele speaking in the distance
+   1 adrian speaking indistinctly
    1 affirmative murmurs
    1 again more quietly
    1 agent in distance
    3 agents murmur
    3 agents murmuring
    2 agents murmuring, whispering
+   2 agents speak indistinctly
    1 agents speak indistinctly in distance
+   1 agents speaking indistinctly
    1 agitated murmuring
   12 agreeing in the background
    1 agreeing murmurs
    1 ahdu groaning faintly
+   2 ahmed screaming, indistinct
    1 ai moaning faintly
    1 ai moaning softly
    6 aibileen murmuring
@@ -38,11 +49,17 @@
    1 air horn blowing, bell ringing in distance
    5 air horn blows in distance
    3 air raid siren blaring in distance
-   2 airplane engine roars in distance
+   3 airplane engine roars in distance
    1 airplane taxiing outside
    1 airplane whooshes in distance
+   1 al talking indistinctly
+   1 alan continues on the phone indistinct
    1 alarm blaring in distance
-   9 alarm ringing in distance
+   2 alarm blaring, indistinct talking over p.a
+   1 alarm blaring, man speaking indistinctly
+   1 alarm continues sounding, people shouting indistinctly
+  10 alarm ringing in distance
+   4 alarm ringing, all shouting indistinctly
    1 alarm wailing distantly
    5 alarm wailing in distance
    4 alarmed murmurs
@@ -50,11 +67,19 @@
    2 alarms continue in distance
   10 aleera cackles distantly
    2 alert pulsing faintly
+   1 alex mumbles indistinctly
    2 alex murmuring
+   1 alex shouting, indistinct
    1 alien monster continues roaring softly
    1 alien monster roars in distance
    2 alien voices murmuring
    1 aliens heard growling in the distance
+   1 alison speaking indistinctly
+   1 all answer indistinctly
+  11 all chattering indistinctly
+  11 all chattering, indistinct
+   1 all chatting, indistinct
+   4 all clamoring, indistinct
    1 all continue murmuring
    1 all exclaiming softly
    1 all gasp and murmur
@@ -83,12 +108,27 @@
    1 all murmuring suspiciously
    2 all murmuring, groaning
    1 all muttering and murmuring
+   3 all muttering indistinctly
+   1 all reciting, indistinct
    2 all repeat softly
+   6 all responding indistinctly
+   1 all shout indistinctly
+  54 all shouting indistinctly
+  12 all shouting, indistinct
    6 all sigh, murmuring
    1 all sing softly
+   1 all singing indistinctly
    1 all singing softly
    1 all softly
+  21 all speaking indistinctly
    1 all speaking quietly
+  21 all talking indistinctly
+   1 all talking indistinctly, distorted
+   2 all talking, indistinct
+   6 all whispering indistinctly
+   1 all whispering, indistinct
+   4 all yelling indistinctly
+   2 all yelling, indistinct
    1 all, softly
    1 alternative music in background
    1 although your day was passing quietly
@@ -105,12 +145,16 @@
    1 andrew belle's "in my veins" playing in distance
    1 andrew scoffs softly
    1 angelina moans softly
+   3 angels speaking indistinctly
    2 angle screaming faintly
    3 angry crowd murmuring
    3 angry murmuring
    1 angry murmuring from afar
    3 angry murmurs approach
+   3 angry parents arguing indistinctly
    1 angry voice distant
+   1 angry, indistinct conversation
+   2 anika singing indistinctly and strumming acoustic guitar
    2 animal calling in distance
    2 animal calls in distance
    1 animal chitters in distance
@@ -120,6 +164,7 @@
   10 animal howls in distance
    3 animal moaning in distance
    1 animal screeches softly
+   1 animal speaking indistinctly
    1 animal walls in distance
    1 animals bleating in background
    5 animals crying out in distance
@@ -127,18 +172,52 @@
    1 anna howling softly
    1 anne and charles laughing quietly
    1 anne in distance
+  19 anne reading indistinctly
    1 anneliese singing softly in german
+   4 announcement continues indistinctly
    2 announcement in background
+   4 announcements continue indistinctly
+   1 announcements continue indistinctly over p.a
+   1 announcer calling play-by-play, indistinct
+   2 announcer chatters indistinctly
    4 announcer continues in background
+   1 announcer continues indistinctiy
+  11 announcer continues indistinctly
+  23 announcer continues, indistinct
    4 announcer in background
+   1 announcer indistinct
+   2 announcer on game speaking indistinctly
+   1 announcer on pa continues, indistinct
    2 announcer on tv in background
+   2 announcer on tv indistinct
+   1 announcer on tv radio indistinct
+   1 announcer shouting indistinctly
+   1 announcer shouting indistinctly on television
+  32 announcer speaking indistinctly
+   2 announcer speaking indistinctly on tv
+   2 announcer speaking indistinctly over p.a
+   1 announcer speaking indistinctly over television
+   1 announcer speaking, indistinct
+   8 announcer speaks indistinctly
    5 announcer talking in background
    1 announcer talks inaudibly
+  12 announcer, indistinct
    2 announcers continue in background
+   5 announcers continue, indistinct
+   5 announcers, indistinct
+   1 answering machine continues, indistinct
+   1 answering machine, indistinct
+   2 answers, indistinct
+   5 anthea, indistinct
+   2 anthony continues indistinctly
+   1 ants chattering, indistinct
+   1 ants shouting, indistinct
    2 anxious murmuring
    1 applause and murmuring
    1 applause continues, murmuring, calling out
    9 applause in distance
+   1 applause, indistinct chatter
+   1 applause, indistinct chattering
    6 applause, murmuring
    1 applause, murmurs
    1 applause, whistling in distance
@@ -150,17 +229,27 @@
    4 aramis prays quietly
    1 archer chuckling softly
    3 arguing continues in distance
+   6 arguing continues indistinctly
+   4 arguing continues, indistinct
+   2 arguing cοntinues indistinctly
    3 arguing in distance
    5 arguing in the background
    1 arguing inaudibly
+   8 arguing indistinctly
    3 arguing loudly outside
+   1 arguing, indistinct
    1 argument continues in background
+   5 argument continues indistinctly
    1 argument outside
    2 arlene crying softly
    1 arm murmuring
    2 army approaching in distance
+   1 artie continues, indistinct
+   3 artie mutters indistinctly
    5 ass-blaster puffs outside
+   3 atticus continues, indistinct
    1 auction continues in background
+   1 auctioneer, indistinct
    1 audience clapping in the background
    3 audience gasping and murmuring
    3 audience gasping, murmuring
@@ -172,21 +261,27 @@
    2 audience murmurs, applause
    2 audience murmurs, gasps
    1 audience mutters softly
+   1 audience talking indistinctly
+   1 audrey, indistinct
    5 auger continues whirring in the distance
    1 automatic gunfire in distance
    2 automatic gunfire outside
+   1 avery speaks indistinctly
    1 awed gasps and murmuring
    2 babies crying distant
+   1 babies crying, indistinct conversations
+   2 babs continues indistinctly
    4 baby cries distant
    1 baby cries in background
    4 baby cries in distance
   12 baby cries softly
-   8 baby crying distant
+  10 baby crying distant
    2 baby crying distantly
    1 baby crying in background
   27 baby crying in distance
    1 baby crying quietly
    4 baby crying softly
+   2 baby crying, indistinct arguing
    2 baby gurgles quietly
    3 baby murmurs
    1 baby quietly crying
@@ -195,10 +290,12 @@
    3 baby wailing distantly
    1 baby wailing in background
    2 baby wails distantly
+   5 background indistinct speech with stars and stripes continuing
    1 bagpipes playing faintly
    1 bagpipes playing in distance
    1 bagpipes, distantly
    1 bailey murmuring
+   2 bala continues, indistinct
    4 ballad continues in background
    4 ballad continues in background, grunting, banging
    1 ballad playing softly
@@ -207,10 +304,14 @@
    2 band playing march in distance
    1 band playing softly in background
    2 bang in distance
+   2 banging and yelling outside
   29 banging in distance
    2 banging on door in distance
+   1 banging on door, indistinct shouting
    1 banging outside
+   2 banging, indistinct shouting
    1 banjo music plays softly
+   1 bar patrons indistinct arguing
    1 barking and howling in distance
    2 barking continues in distance
   10 barking continues outside
@@ -218,35 +319,47 @@
    1 barking outside
    1 barking quietly
    3 barking softly
+   3 barks indistinct word
    5 barry in the distance
+   1 baseball announcer speaking indistinct
    1 basil quietly
+   1 basketball announcer indistinct
    1 bass thumping distantly
    3 bat hits ball, faintly
    5 batman forever theme song plays softly, background
+   1 batman talking indistinctly
    1 battle raging outside
    2 beachgoers murmur
    2 beads tinkiing softly
    1 beagle snoring softly
    1 beast grunts and snarls outside
+   1 beast men chanting, indistinct
    1 beast roaring in distance
    3 beast roars distantly
    1 beast roars outside
    1 beast snarls and roars outside
    1 beast snarls and slathers outside
    1 beating of drums from distance
+   2 beatles, indistinct
    4 beatrice singing in distance
    2 becca murmurs
    1 beck beckoning softly
    4 beck's "deadweight" playing in background
+   3 becomes indistinct
    3 beep, controller thuds softly
+   5 beep, indistinct announcement over p.a
    3 beeping softly
    2 beeps softly
    1 bees buzzing faintly
    1 beethoven's ode to j playing softly
    1 before he's taken down, he's escaping as far away as possible
+   1 bell chimes, indistinct conversations
   11 bell clanging in distance
+   1 bell clanging, indistinct conversations
    2 bell continues faintly
    1 bell dinging in background
+   2 bell dings, indistinct conversations
+   1 bell dings, indistinct shouting
    2 bell in distance
    1 bell jingles softly, men whisper
    1 bell ringing distant
@@ -254,8 +367,11 @@
    7 bell ringing in distance
    3 bell ringing in the background
    2 bell ringing softly
+   1 bell ringing, men shouting indistinctly
    1 bell rings in distance
    1 bell rings rhythmically, monk speaking quietly
+   2 bell rings, indistinct conversations
+   1 bell rings, indistinct talking
    4 bell softly rings
    3 bell tolling distantly
    4 bell tolling faintly
@@ -263,6 +379,8 @@
    6 bell tolling in the distance
    9 bell tolling outside
    8 bell tolling quietly
+   1 bell tolling, indistinct chatter
+   1 bell tolling, indistinct conversations
    2 bell tolls distantly
    2 bell tolls in distance
    1 bells ring in background
@@ -272,16 +390,25 @@
    3 bells tolling distantly
    4 bells tolling in distance
    1 bells tolling in the distance
+   2 bells tolling, indistinct conversations
+   1 ben and scarlett speaking indistinctly
    2 ben, distant
+   1 bennet speaking indistinctly
    3 beulah murmuring in delight
    3 beulah murmurs in agreement
+   2 beverly and heddy speaking indistinctly
+   1 beverly and oscar arguing indistinctly
+   2 bickering indistinctly
    1 big band music continues in background
    1 big-band music plays in distance
+   2 big-band music plays, indistinct conversations
    1 bigfoot barking softly
    2 biggie barks softly
    1 billie holiday continues in background
    1 billie holiday in background
+   2 billy shouting indistinctly
    1 billy sobbing in distance
+   2 billy speaks indistinctly
    4 bird calling in distance
    2 bird calls in distance
    2 bird cawing distantly
@@ -290,8 +417,9 @@
    1 bird chirping distant
    1 bird chirping gaily, distant
    3 bird chirping, outside
-   1 bird cries out distant
+   2 bird cries out distant
    1 bird sings in distance
+   1 bird speaks indistinctly
    1 bird squawks in distance
    2 bird walls distantly
    2 birds calling in the distance
@@ -305,23 +433,32 @@
   22 birds chirping in distance
    6 birds chirping outside
    1 birds chirping, dog barking in distance
+   1 birds chirping, indistinct conversation
    3 birds chirping, outside
    3 birds chirping, traffic passing in distance
    2 birds chirping, train whistle blowing in distance
    3 birds singing and distant dog barking
    3 birds singing outside
    2 birds squawking in distance
+   2 birds squawking, claudia yelling indistinctly
    3 bison growling softly
+   1 blackie responds harshly but indistinctly
+   2 blades whirring, man speaking indistinctly over radio
+   3 blanchard continues indistinctly
    1 blanchard screams in the distance
+   1 blaring fades, indistinct conversations
    1 blaring in distance
    4 blood bubbling softly
    3 blowing softly
    2 blows softly
    3 blows, national anthem in background
+   3 blues music plays, indistinct conversations
    2 blues playing in background
    1 blues playing softly
    1 blues plays in background
    2 blues plays softly
+   1 blues, indistinct
+   2 blues, vocals indistinct
    1 bluesy music plays in background
    1 bluesy rock in background
    1 bluto growling quietly
@@ -334,25 +471,38 @@
    2 bob murmuring
    1 bobby, outside
    1 bobski 2000 by galactic playing faintly
+   1 bock yelling, indistinct
    1 boden murmuring
    2 bollywood movie plays distantly
    1 bombing in the distance
    2 bombs explode distantly
    6 bombs exploding in the background
    2 bombs whistling, exploding in distance
+   2 bono, indistinct
    2 boom in the distance
    4 borgia chuckles quietly
+   1 boris speaking indistinctly
    2 boss shouts, distant
    2 both arguing inaudibly
+   1 both arguing indistinctly
+   1 both chattering, indistinct
   11 both chuckle softly
    2 both chuckling quietly
    2 both chuckling softly
+   1 both chuckling, chattering indistinctly
+   1 both continue indistinct
+   2 both continue indistinctly
+   3 both continue speaking indistinctly
+   1 both conversing indistinctly
+   1 both groaning, man shouts indistinctly
    4 both laugh softly
    5 both laughing quietly
    2 both laughing softly
    2 both moan softly
    2 both moaning quietly
    7 both moaning softly
+   2 both mumbling indistinctly
+   2 both mumbling, indistinct
   10 both murmur
    5 both murmuring
    2 both murmuring in french
@@ -360,22 +510,45 @@
    1 both murmuring into glasses
    1 both panting softly
    1 both quietly chuckle
+   2 both shout indistinctly
    2 both shouting in background
+  14 both shouting indistinctly
+   2 both singing indistinct
    1 both softly moaning
+   1 both speak indistinctly
    1 both speak quietly
    3 both speaking inaudibly
+  32 both speaking indistinctly
+   1 both talking indistinctly
    1 both urinating, distant dog howling
+   8 both whispering indistinctly
+   1 both whispering, indistinct
+   4 both yelling indistinctly
+   1 bottles clink, indistinct voices continue
+   1 boxing announcer continues indistinctly
+   1 boy chattering, indistinct
    2 boy laughing in distance
    1 boy laughs in distance
    1 boy laughs, murmurs in background
    2 boy screams in distance
+   1 boy speaking indistinctly
+   1 boy speaks indistinctly
    1 boy yelling in distance
    3 boy, softly
+  10 boys chattering indistinctly
    2 boys chattering indistinctly outside
+   3 boys chatting indistinctly
    5 boys chuckle softly
   11 boys murmuring
    1 boys shouting distantly
+   9 boys shouting indistinctly
    3 boys shouting playfully in distance
+   3 boys speaking indistinctly
+   3 boys talking indistinctly
+   1 boys talking indistinctly in stall
+   1 boys yelling indistinctiy
+   4 boys yelling indistinctly
+   2 boys: indistinct chattering
    1 brakes squeal in distance
    1 brakes squeal softly
    1 branch cracks distantly
@@ -388,44 +561,68 @@
    1 breathingheavily, moaning softly
    2 breeze blowing outside
    1 brendan shouting in the distance
+   2 brian speaking indistinctly
   10 briar rose singing distantly
    5 briar rose singing faintly
+   1 brick speaking indistinctly
   11 brides wail in the distance
    1 bridge in distance
+   1 bridget and mickey speaking indistinctly
   11 bridget quietly
+   2 broadcast continues indistinctly
    1 brothers chatter in background
+   2 brucie b. speaking indistinctly
    1 bubbles in distance
    3 bugle call sounds in distance
    1 bugle plays in distance
+   1 bullard continues, indistinct
    1 bulldozers chugging in distance
    4 burping softly
    2 burps softly
    2 bus drives off in distance
+   3 bush continues indistinctly
    2 bustle of town outside
+   1 busy chatter, indistinct
    3 buzzer in background
    5 buzzer in distance
    1 buzzer ringing in distance
    1 buzzer sounds in distance
+   4 buzzer sounds, indistinct chatter
+   1 buzzer sounds, indistinct chatter over pa
    6 buzzing in distance
    2 buzzing outside
    1 buzzing softly
    1 buzzing stops, tires screech in distance
+   1 buzzing, man speaks indistinctiy
+   3 c-dub shouting indistinctly
+   1 c.b. radio, indistinct
    3 cabal tracker shouts in distance
    1 cage rattling, grunts, murmuring to himself
+   3 caitlin shouting indistinctly
    1 cal tapping softly on window
    1 cal whistling softly
    1 call in the distance
    4 call to prayer in arabic from loudspeakers outside
    4 call to prayer outside
+   1 caller continues, indistinct
+   7 caller indistinct
    1 callie laughs softly
+   1 callie speaking indistinctly
+   1 calling, indistinct
    3 calliope playing in distance
    8 calvin chuckles softly
    3 camel cries softly
    4 camel grunting softly
    3 camera shutter clicking, spectators murmuring
+   1 camera shutter clicks, indistinct conversations
    1 camera shutters clicking, audience murmuring
+   1 camera shutters clicking, reporters talking indistinctly
+   3 camille whispering indistinctly
+   1 campaign workers speaking indistinctly
+   1 campers chatting indistinctly
    4 can clatters distantly
    1 candy people murmuring
+   1 capp gives indistinct order
    1 car alarm beeping in the distance
    1 car alarm blares in distance
    9 car alarm blaring in distance
@@ -445,7 +642,7 @@
    6 car driving off into distance
    1 car engine at a distance
    1 car engine outside
-   1 car engine revving in distance
+   2 car engine revving in distance
    1 car honking in the distance
    1 car honks outside
    1 car horn blaring in distance
@@ -455,10 +652,14 @@
   19 car horn honks in distance
    1 car horn honks in the distance
    1 car horns honking outside
+   5 car horns honking, indistinct chatter
+   2 car horns honking, indistinct conversations
    1 car passes in distance
    1 car passing in the distance
    3 car pulls up outside
    1 car radio music playing faintly
+   3 car radio playing indistinctly
+   2 car radio, indistinct
    1 car revving in distance
    1 car speeding off in distance
    2 car stopping outside
@@ -466,6 +667,9 @@
    2 cara speaking softly
    2 cardinals murmur agreement
   95 cardinals murmuring
+   3 carlos chants indistinctly
+   4 carlos whispering, indistinct
+   2 carmen speaking indistinctly
    3 carnival music in background
    1 carousel music plays softly
    2 carrie whistling softly
@@ -478,14 +682,19 @@
    1 cars honking outside
    1 cars in distance
    2 cartoon character in background
+   1 cartoon character, indistinct
    2 cartoon continues in background
-   2 cartoon sounds play in background
+   4 cartoon sounds play in background
    1 cartoons in background
+   1 carver speaking indistinctly
+   1 casey talking indistinctly
+   1 cash register dings, indistinct conversation
    1 casing clatters softly
    1 cat meowing in distance
    7 cat purring softly
    1 cat screeches distantly
    2 cat screeches in distance
+   6 celia giggling, indistinct chatter
    1 cell door closing in distance
    1 cell phone ringing distantly
    1 cell phone ringing in distance
@@ -501,71 +710,113 @@
    1 chanting and bell ringing continue distantly
    1 chanting continues in background
    2 chanting continues in the distance
+   4 chanting continues indistinctly
    1 chanting continues outside
+   1 chanting continues, indistinct
   12 chanting in background
    6 chanting in distance
    1 chanting in the distance
+  18 chanting indistinctly
    1 chanting outside
    3 chanting quietly
   20 chanting softly
-  31 chanting softly in arabic
+  38 chanting softly in arabic
+   6 chanting, indistinct
+   3 chants indistinctly
    2 chaos in background
    2 characters talking faintly
    3 charging yells in the background
    5 charles cries softly
    1 charles murmuring
+   4 chats indistinctly in spanish, chuckles
    3 chatter and explosions in the background
    2 chatter and murmurs
    2 chatter continues in background
    1 chatter continues in distance
+  10 chatter continues indistinctly
   20 chatter in background
   13 chatter in distance
    1 chatter in the background
    1 chatter on radio, distant pool balls clacking
+   5 chatter on tv, indistinct
    3 chatter outside
+   4 chatter, indistinct
    1 chatter, phones ring in background
    1 chattering and murmuring
+   1 chattering continues, indistinct
+   6 chattering indistinct
+  29 chattering indistinctly
+   1 chattering low, indistinct
    8 chattering outside
    1 chattering softly
+  57 chattering, indistinct
    2 chattering, laughter in distance
    6 chattering, outside
+   1 chattering, shouting indistinctly
+   1 chattering, shouting, indistinct
    1 chatters quietly
+   2 chatters, indistinct
    2 chatting in distance
+   1 chatting indistinctly
    9 chatting quietly
+   2 chatting, indistinct
+   2 cheerful indistinct chatter
    1 cheerful instrumental music plays softly
    1 cheerful melody plays softly
    2 cheerful pop music in background
    2 cheerful talking heard from distant car
+   2 cheering and indistinct shouting
    1 cheering continues, distant
    2 cheering in background
-  13 cheering in distance
+  15 cheering in distance
+   1 cheering indistinctly
    3 cheering outside
    1 cheering, distant
+   7 cheering, indistinct
+   2 cheering, indistinct chatter
+   2 cheering, indistinct shouting
+   7 cheerleaders cheering, indistinct
    6 cheers and applause in distance
    2 cheers and applause in the distance, nearing
    5 cheers and applause outside
+   1 cheers and applause, indistinct shouting
+   2 cheers and indistinct chatter
    1 cheers in distance
    1 cheers, murmurs of excitement
    2 chelsea speaks distantly
+   3 chester, norman, indistinct
    2 chiara crying in distance
    3 chickens clucking in distance
    1 chickens clucking softly
+   1 chief elder continues indistinctly
+   1 child chattering indistinctly
    1 child coughing in distance
    3 child cries softly
    6 child crying in distance
+   1 child reading out loud indistinctly
    1 child screaming faintly
    1 child shouting in distance
    1 child shouts distant and rumble of thunder
    1 child shouts in distance
    3 child singing softly
+   3 child speaking indistinct
+   2 child speaks indistinctly
+   1 child talking indistinctly
+   1 child voice in distance
    2 child yelling in distance
+   1 child's voice echoing, indistinct
    1 child's voice in the distance
    1 childen shouting in distance
    2 children arguing faintly
+   1 children chanting, indistinct
    2 children chatter in distance
+   3 children chatter indistinctly
    1 children chattering in distance
+   5 children chattering indistinctly
    3 children chattering outside
    2 children chattering quietly
+   1 children continue, indistinct
+   1 children conversing indistinctly
    1 children distant chatter
    1 children faintly laughing
    2 children hollering and laughing in distance
@@ -581,31 +832,43 @@
    4 children playing in the distance
    4 children playing outside
    1 children shout in distance
+   1 children shouti ng indistinctly in portuguese
   32 children shouting in distance
    1 children shouting in the distance
+  33 children shouting indistinctly
+   7 children shouting indistinctly in portuguese
    4 children shouting outside
    4 children shouting playfully in distance
+   1 children shouting, indistinct conversations
    1 children shouting, laughing in distance
    3 children sing in background
    3 children singing in background
    1 children singing in background, playing
    1 children singing in distance
+   2 children singing indistinctly
    1 children singing indistinctly in the distance
    1 children singing or talking softly in the background
    3 children sobbing softly
    1 children speaking distantly
+  23 children speaking indistinctly
    2 children talking in distance
+  11 children talking indistinctly
    1 children talking quietly
    1 children yelling in background
    2 children yelling in the background
    1 children's chatter in background
    1 children's playful shouts in distance
    1 children's voices in distance
+   1 children's voices, indistinct
+   1 children, indistinct
+   2 childsinging, indistinct
    4 chimes continue, dog barks in distance
    4 chiming faintly
    6 chiming softly
    2 chinese lute playing in background
    3 chirping softly
+   3 chisolm continues, indistinct
+   3 chisolm talking, indistinct
    1 chittering softly
    1 chitters softly
    1 choir singing continues outside
@@ -616,9 +879,13 @@
    1 choppers humming in distance
    1 chopping softly
    2 choral singing in distance
+   9 chorus sings indistinctly
+   1 chris and emily talking indistinctly
+   1 chris chanting indistinctly
    2 chris speaking softly
    1 christians singing softly
    1 christmas music playing softly
+   2 christmas music plays indistinctly
    1 chuck in distance
    1 chuck speaking lndlstlnctly in distance
   44 chuckles quietly
@@ -627,7 +894,7 @@
    2 chuckles softly, sniffles
    5 chuckles, murmurs
    2 chucklesquietly
-   4 chucklessoftly
+   5 chucklessoftly
    1 chuckling and murmuring
   19 chuckling softly
    2 chuckling, murmuring
@@ -646,8 +913,11 @@
    1 church choir sings "morning has broken" faintly
    1 church organ playing in distance
    2 cianking continues in the distance
+   2 claire begins indistinctly
    2 claire brad: distant laughter
+   1 claire brad: indistinct chatter
    2 claire chuckles softly
+   1 claire continues indistinctly
    1 clamoring in distance
    1 clancy whimpering softly
    3 clang in distance
@@ -656,13 +926,17 @@
   10 clanging in distance
    2 clanging noise in the distance
    1 clanging outside
-   2 clanging softly
+   4 clanging softly
+   1 clanging, indistinct voices, music fades
    1 claning noise in the distance
    7 clanking in distance
    2 clapping, murmuring
    4 claps hands softly
    2 clara singing softly
+   2 clarissa sings lyric indistinctly
    2 clarissa sings softly
+   1 clark and miles yelling indistinctly
+   1 clarke and joel chattering indistinctly
    5 class murmuring
    1 class murmurs
    3 classical melody plays softly, background
@@ -672,6 +946,8 @@
    1 classical music playing distantly
    1 classical music playing faintly
    3 classical music playing softly
+   9 classical music playing, indistinct chatter
+   5 classical music playing, indistinct conversations
    3 classical music plays in background
    2 classical music plays in distance
    3 classical music plays softly
@@ -683,13 +959,17 @@
   22 clattering in distance
    1 clattering in the distance
    2 clattering softly
+   1 clattering, banging, indistinct chatter
    1 clattering, distant sirens, dog barking
    1 clattering, laughter in distance
    1 clattering, pop music in background
+   1 clayton mutters, indistinct
    1 clears his throat quietly
    5 clears throat softly
+   2 clears throat, mumbles indistinctly
    2 clerics murmuring
    1 clicking softly
+   2 clicks mouse, man on game speaks indistinctly
    1 clock chimes outside
    5 clock chimes softly
    1 clock ticking faintly
@@ -699,50 +979,93 @@
    1 clock tolling in distance
    2 closes door quietly
    1 closing door quietly
+   3 co hope yelling indistinctly
+   1 coach continues, indistinct
+   2 coach shouting, indistinct
+   1 coaches chatter indistinctly
+   4 coachman speaks indistinctly
    1 coe 24k's "a difference" playing in distance
    2 cohle groaning in the distance
    2 coin clinks in distance
    2 coins clunking faintly
    9 commandant faintly
+   2 commandos yelling, indistinct
+   5 commands continue, indistinct
+   4 commentary continues, indistinct
    2 commotion outside
    3 commotion, murmuring
    1 computer beeping quietly
+   4 computer beeping, indistinct chatter
    2 computer softly
+   2 conductor continues indistinctly
    1 conference members murmur in concern
    1 confused murmuring
    2 confused murmurs
    1 confused murmurs growing
+   3 congratulating, indistinct
+  12 congregation agrees indistinctly
   11 congregation murmuring
-  30 congregation murmurs
+  31 congregation murmurs
    1 congregation murmurs agreement
    1 connie sobbing distantly
    3 constant explosions in the background
    3 contest continues in background
+   1 continue chattering indistinctly
+   1 continue speaking indistinctly
+   2 continue speech indistinctly
    5 continues distantly
    4 continues faintly
    1 continues gurgling and murmuring
    6 continues in background
    2 continues in distance
+   2 continues in spanish indistinctly
    2 continues inaudibly
+  56 continues indistinct
+ 117 continues indistinctly
    4 continues murmuring
+   1 continues on radio indistinctly
+   2 continues praying indistinctly
    2 continues quietly
    1 continues rapping in distance
+   2 continues rapping indistinctly
+   1 continues reading, indistinct
+   1 continues shouting, indistinct
+   9 continues singing indistinctly
+   1 continues singing, indistinctly
    2 continues softly
    1 continues speaking in background
    3 continues speaking inaudibly
+   4 continues speaking indistinctly
    1 continues talking quietly
+   2 continues talking, indistinct
+   1 continues whispering indistinctly
+   1 continues whispering, indistinct
+   1 continues yelling indistinctly
    2 continues, faintly
+ 357 continues, indistinct
+   2 continuing, indistinct
    1 continuous howling in distance
+   2 conversation becomes indistinct
    4 conversation continues faintly
+  23 conversation continues indistinctly
+   2 conversation continues indistinctly on tv
+   1 conversation continues indistinctly over microphone
+   4 conversation continues, indistinct
    1 conversation, laughter continue in distance
+   2 conversations continue indistinctly
    1 conversations in distance
+   6 conversing indistinctly
    1 conversing quietly in front of classroom
    5 conversing softly
    2 cooking show continues in background
+   1 cops conversing indistinctly
   12 cops murmur
+   2 cops speaking indistinctly in foreign language
    1 cork pops softly
+   2 cork pops, indistinct conversations
    1 corky knickers softly
    1 corncrake calling in distance
+   1 corrine speaking indistinctly
    2 coughing in background
   16 coughing in distance
    1 coughing quietly
@@ -753,17 +1076,24 @@
    2 counselor faintly
    2 counting quietly
    1 counting softly
+   3 country music continues indistinctly
    1 country music in background
    1 country music playing faintly
    4 country music playing in background
    2 country music playing quietly
+   1 country music playing, indistinct conversations
    2 country music plays in background
    1 country music plays in distance
    1 country music plays in the distance
+   2 country music plays indistinctly on radio
    3 country music plays softly
    1 country music plays, boys playing outside
+   1 country music plays, indistinct conversations
+   3 country rock playing, indistinct conversations
    1 country song continuing in background
+   2 country song playing indistinctly
    1 country western song plays in background
+   2 couple chatting indistinctly
    2 court murmuring
    1 court murmuring in assent
    1 court murmuring in consternation
@@ -780,6 +1110,7 @@
    1 cpntinues distantly
    1 cracking in distance
    2 crackling softly
+   1 craig speaking indistinctly
    2 crash in distance
    1 crash outside
    1 crashing in the distance
@@ -800,9 +1131,13 @@
    4 creature speaking in foreign language in distance
    2 creatures snarling in distance
    1 crew cheering in distance
+   3 crew members chattering, indistinct
    6 crew members murmuring
   11 crew murmuring
    1 crew murmuring, dismantling equipment
+   1 crew talking indistinctly
+   3 crewmen continue, indistinct
+   1 cricket chirping, indistinct insects calling
    2 crickets chirping faintly
    4 crickets chirping outside
    3 crickets chirping softly
@@ -810,26 +1145,37 @@
    6 cries and screams in the distance
    1 cries faintly
    6 cries in the distance
+   3 cries indistinctly
+   4 cries out indistinctly
    1 cries out softly
    1 cries quietly
   29 cries softly
    2 cross screams in distance
    1 crosstalk in background
+   4 croupier, indistinct
    1 crow cawing in distance
    1 crow caws distantly
    2 crow caws in distance
+   3 crowd agreeing indistinctly
    1 crowd applauds in the distance
    2 crowd chanting distantly
    1 crowd chanting in arabic in distance
    1 crowd chanting in distance
+  14 crowd chanting indistinctly
    1 crowd chanting outside
+   1 crowd chants indistinctly
    1 crowd chattering in distance
+  18 crowd chattering indistinctly
    1 crowd chattering outside
+   4 crowd chattering, indistinct
+   2 crowd chatters indistinctly
+   6 crowd chatters, indistinct
    1 crowd chatting quietly
    1 crowd cheering and shouting in distance
    1 crowd cheering faintly outside
   10 crowd cheering in distance
    3 crowd cheering outside
+   4 crowd cheering, announcer speaking indistinctly on tv
    4 crowd cheers at a distance
    1 crowd chuckling in distance
    4 crowd chuckling, murmuring
@@ -847,7 +1193,7 @@
   10 crowd murmur
    4 crowd murmur disapprovingly
    1 crowd murmur distant cheers
-1014 crowd murmuring
+1016 crowd murmuring
    5 crowd murmuring agreement
    4 crowd murmuring approval
    1 crowd murmuring excitedly
@@ -886,21 +1232,29 @@
    3 crowd noise in background
    1 crowd noise on tv, viviana murmurs
    4 crowd noise outside
+   2 crowd noise, loudspeaker announcements, indistinct
    3 crowd outside gate booing
    2 crowd roars faintly
    1 crowd roars in distance
    1 crowd roars outside
    1 crowd screaming, distant explosions
+   1 crowd screaming, shouting indistinctly
    1 crowd shouting and laughing outside
    3 crowd shouting angrily outside
    1 crowd shouting in distance
+  67 crowd shouting indistinctly
    8 crowd shouting outside
+   1 crowd shouting, indistinct
+   2 crowd shouts indistinctly
+   1 crowd singing, indistinct
+   5 crowd talking indistinctly
    1 crowd talking outside
    6 crowd whispering and murmuring
    3 crown murmuring
    3 crows caw in distance
    2 crumpled paper lands softly
    1 cry of children from outside
+   1 crying and talking indistinctly
    3 crying echoes distantly
    3 crying grows distant, echoes
    2 crying in background
@@ -910,50 +1264,92 @@
   10 crying quietly
  124 crying softly
    2 crying softly, sniffles
+   2 crying, indistinct talking
+   2 crying, talking indistinctly
    4 cryingsoftly
    2 cthulhu growling in distance
    2 cup clinks softly
+   1 curses indistinctly
+   1 customs agent speaking indistinctly
+   2 cybermen speaking, indistinct
    1 cying softly
+   1 cοnversatiοns cοntinue indistinctly
+   1 daffy duck talking indistinctly
+   1 daisy and gatsby chattering indistinctly
    4 dale shouting in distance
    1 dan and rick arguing distantly
    3 dance in distance
+   2 dance music and indistinct chatter
    1 dance music continues in distance
    4 dance music in background
    2 dance music playing in distance
+  11 dance music playing, indistinct chatter
+   1 dance music playing, indistinct shouting
    1 dance music plays softly on radio
+   5 dance music plays, indistinct conversations
    1 dance version of mendelssohn's "wedding march" plays in background
    3 dancers murmuring
    1 dancing music in background
+   1 daniel and lacy continue arguing indistinctly
+   1 daniel and lacy cοntinue arguing indistinctly
    2 daniel panting in distance
+   1 danielle and kids chattering indistinctly
    1 danny chuckles softly
    1 danny crying softly
+   1 daphne and maddie speak indistinctly
+   3 daria, indistinct
    1 dave continues wrestling instruction in the background inaudible
    3 david cackles softly in background
+   1 david speaking indistinctly
+   2 dealer, indistinct
+   1 dean continues, indistinct
    3 dean martin's "mambo italiano" plays in background
+   6 dean speaks indistinctly
    1 deep growling outside
+   2 deep, indistinct voice
    1 delegates murmuring
+   1 delivery man continues chattering indistinctly
+   1 demoniac voice, indistinct
    2 demons murmuring
    1 demonstrators shouting in distance
    1 dennis murmuring
    1 denny, softly
+   1 derek speaking indistinctly
+   1 designer continues talking, indistinct
    2 designers murmuring
    6 devi moaning faintly
    3 device clicks softly
+   2 dialogue continues, indistinct
+   2 dialogue indistinct
+   4 diane singing, indistinct
+   3 dick speaking indistinctly
    2 dickon cries softly
+   1 dicky shouts indistinctly
+   1 diego speaking indistinctly
    1 dinah sobs quietly
    1 diners murmuring
+   1 diners talking indistinctly
    2 dinner guests murmuring quietly
    2 dinner music in background
    2 dinosaur footstep rumbles in distance
    2 dinosaur moaning in distance
    2 dinosaur roaring in distance
+   1 director, indistinct
    2 disappointed murmuring
    1 disco, distant
+   3 disco, vocalist indistinct
    1 discordant song playing faintly in background
    2 discussion continues in distance
+   1 discussion continues indistinctly
    2 disgruntled murmuring
    1 dispassionate murmur
+   2 dispatch indistinct
+   1 dispatcher on police radio, indistinct
+   1 dispatcher on walkie-talkie, indistinct
+   1 dispatcher over radio, indistinct
    1 dispatcher report in background
+   1 dispatcher speaking indistinctly
+   2 dispatcheron police radio, indistinct
    2 distance
    1 distance ambulance siren
   20 distant
@@ -972,6 +1368,7 @@
    4 distant applause
    2 distant applause, cheering
    3 distant artillery firing
+   2 distant baby cries
    1 distant baby crying
    2 distant baby wail
   13 distant bang
@@ -1003,6 +1400,7 @@
    3 distant buzzing
    1 distant call to prayer
    2 distant cannon fire
+   1 distant cannonfire
    2 distant car alarm blaring
    1 distant car alarm ringing
    2 distant car honking
@@ -1107,14 +1505,15 @@
    1 distant grunts
    2 distant guerillas speaking foreign language
    1 distant gun
-   2 distant gun machine firing
+   3 distant gun machine firing
    1 distant gun shot
-  76 distant gunfire
+  77 distant gunfire
    2 distant gunfire and shouting
-  13 distant gunshot
+  14 distant gunshot
   18 distant gunshots
    1 distant gunshots and screaming
    3 distant hammering
+   1 distant heavy breathing
    2 distant helicopter
    1 distant helicopter blades whirring
    2 distant helicopters
@@ -1129,6 +1528,8 @@
    1 distant humming
    2 distant humming noise
    5 distant hushed conversation
+   4 distant indistinct chatter
+   1 distant indistinct conversation
    1 distant indistinct yelling
    1 distant jackhammer drilling
    1 distant jazzy piano music
@@ -1197,14 +1598,14 @@
   31 distant rumbling
    6 distant rustling
   21 distant scream
-  40 distant screaming
+  42 distant screaming
    3 distant screaming and gunfire
    1 distant screaming continues
    3 distant screaming cοntinues
   22 distant screams
    1 distant screams continue
    1 distant screech
-   4 distant screeching
+   5 distant screeching
    1 distant sea gulls cry
    2 distant seagulls cry
    1 distant seagulls crying
@@ -1309,7 +1710,7 @@
    3 distant woman singing
    1 distant woman whimpering
    1 distant yell
-  14 distant yelling
+  15 distant yelling
    2 distant yelling and screaming
    2 distant yodeling
    1 distant, distorted singing
@@ -1318,18 +1719,34 @@
    1 distant, indistinct audio
    3 distant, indistinct chatter
    1 distant, indistinct murmurs
+   1 distant, indistinct shouting
    2 distant, low rumbling
    1 distant, overlapping chatter
    1 distantgunfire
   16 distantly
    1 distantsirenblaring
    3 distantsirenswailing
+   1 distorted , indistinct conversations
    1 distorted conversations in distance
+   1 distorted indistinct conversations
+   1 distorted indistinct voices
+   8 distorted indistinct whispering
    2 distorted murmuring
    3 distorted shouting in distance
    2 distorted voice in distance
+   1 distorted, indistinct
+   1 distorted, indistinct conversation
+   1 distorted, indistinct conversations
+   2 distorted, indistinct dialogue
+   1 distorted, indistinct shouts
    4 distressed screaming in the background
+   1 dj speaking indistinctly
+   2 doc continues, indistinct
+   1 doctor and nurse speaking indistinctly
+   2 doctor speaking indistinctly
+   1 doctor speaks indistinctly
    2 doctors murmur
+  14 doctors talking indistinctly
    1 dog barking and howling in distance
    1 dog barking at a distance
    1 dog barking distant
@@ -1337,7 +1754,7 @@
    2 dog barking faintly
    1 dog barking far away
   14 dog barking in background
- 586 dog barking in distance
+ 590 dog barking in distance
    1 dog barking in distance, rooster crows
    2 dog barking in distance, siren wailing
    6 dog barking in the background
@@ -1345,14 +1762,16 @@
   18 dog barking outside
    2 dog barking, birds chirping in distance
    6 dog barking, children shouting playfully in distance
-   9 dog barking, distant
+  10 dog barking, distant
+   1 dog barking, indistinct talking
+   1 dog barking, indistinct talking, laughter
    4 dog barking, siren in distance
    1 dog barks and howls in distance
    2 dog barks at a distance
    9 dog barks distantly
    2 dog barks faintly
    7 dog barks in background
- 187 dog barks in distance
+ 190 dog barks in distance
    1 dog barks in distance, crickets chirping
    2 dog barks in distance, door closes
    2 dog barks in distance, doorbell rings
@@ -1379,6 +1798,9 @@
   20 dogs barking outside
    1 dogs barking outside in distance
    2 dogs barking, distant
+   1 dogs barking, indistinct chatter on police radio
+   2 dogs barking, indistinct conversations
+   2 dogs barking, indistinct talking
    2 dogs continue barking outside
    2 dogs howl distantly, vera hums a tune
    4 dogs howling in distance
@@ -1392,6 +1814,7 @@
    2 door closes quietly
    3 door closes softly
    2 door closes, distant
+   1 door closes, indistinct chatter
    1 door closes, traffic rumbling outside
    1 door creaks open and closes softly
    6 door creaks softly
@@ -1404,6 +1827,11 @@
    1 door opens in the distance
    1 door opens quietly
    1 door opens, distant cheering, music
+   3 door opens, indistinct chatter
+   6 door opens, indistinct conversation
+   4 door opens, indistinct shouting
+   2 door opens, man yells indistinctly in native language
+   1 door opens, music blares, indistinct conversations
    1 door opens, officers murmuring
    1 door opens, party chatter in background
    1 door opens, students murmur
@@ -1417,48 +1845,65 @@
    2 door slams in distance, screaming stops
    4 door softly clicks
    3 door softly creaks
+   2 doors close, indistinct voices on radio
    1 doors slam in distance, talking
    1 doug groans softly
+   1 down-tempo rb playing, indistinct conversations
+   1 dowser babbl ing, indistinct
    2 dragon growls quietly
    2 dragon growls softly
    1 dragon roars in distance
+   1 dramatic indistinct choral singing
    6 dramatic music comes faintly from tv with woman pleading
    1 dramatic music is again more quietly, increases slowly
    6 dramatic music plays softly
+  10 dramatic music plays, indistinct conversations
+   5 drew on telephone, indistinct
    2 drill buzzing in distance
    1 drill whirring in distance
    1 drill whirs, distant
    3 drilling in distance
-   1 drone and continued distant screaming
+   3 drone and continued distant screaming
    6 droning in distance
    1 drumming continues in distance
    1 drumming outside
    1 drums beat in the distance
    3 drums beating in background
    1 drums beating rhythmically in distance
-   1 drums in distance
+   4 drums beating, indistinct shouting
+   2 drums in distance
    4 drums playing in distance
    3 drums pounding in distance
    1 drums rumble softly
+   3 drunken and indistinct singing
    3 ducks quacking in distance
    2 dumars and simone laughing, moaning in distance
    2 dumars moans in distance
+   5 dunne continues, indistinct
    6 dοg barking in distance
    1 dοgs bark in distance
    2 dοgs barking in distance
    1 dοgs barking οutside in distance
+   2 e.m.t.s speaking indistinctly
    3 e.t. murmurs
    3 e.t. snores softly
    3 e.t. theme music plays softly
    5 eagle cries distantly
    3 easy listening music plays softly in background ¶
    2 easy listening plays distantly on radio
+  12 eben chanting indistinctly
+   3 echoed indistinct voice
+   1 echoed indistinct voices
    5 echoing faintly
+   2 echoing indistinctly
    1 ed, softly
+   1 eddie continues, indistinct
    5 edward laughs softly
    1 eerie distant roar
    3 eerie distant roaring begins
+   6 eerie indistinct voices
    1 eerie swooshing and far-off screaming
+   1 eerie voice indistinct
    1 eerie wailing in distance
    2 el buitre murmuring a strange chant
    2 eleanor cries softly
@@ -1466,13 +1911,21 @@
    2 electronic dance music plays in the distance
    2 electronic music in background
    1 electronic music playing in the distance
+   3 electronic voices speaking indistinctly
    1 elephant trumpets faintly
    2 elevator bell dings in distance
+   1 elevator dings, indistinct chatter
+   3 elevator dings, indistinct office chatter
+   2 elevator dings, indistinct voices
    1 eli singing in distance
    4 eli, quietly
+   8 elizabeth continues, indistinct
    8 elizabeth singing softly
    3 ella from outside
+   3 ellen talking indistinctly
    1 ellie murmuring
+   1 elliot, indistinct
+   2 elrod speaking indistinctly
    1 emma gasps quietly
    2 emma murmuring, crying
    2 employees murmuring
@@ -1487,28 +1940,43 @@
    2 engine revving outside
    4 engine rewing outside
    3 engine roars in distance
-   1 engine rumbling softly
+   2 engine rumbling softly
    6 engine starts in distance
    6 engine turns over in distance
    4 engine turns over, alarm beeping in distance
    1 engine whirs in distance
    1 engine whlrrlng in distance
    2 engines revving in the distance
+   1 engines revving, indistinct shouting
    1 engines start outside
    1 engines whirring distantly
    3 eric shouting in distance
    1 erik strumming softly
    2 erin crying in distance
    1 erin moans softly
+   2 ernest shouting indistinctly
+   3 ethereal, indistinct noise
+   3 ethereal, indistinct noises
+   2 ethereal, indistinct singing
+   3 ethereal, indistinct voices
+   3 etta talking indistinctly
    1 eva softly
+   2 eve yelling indistinctly
+   1 everybody talking indistinctly
    1 evil murmur
    3 excalibur whining faintly
    2 exciaiming softly
    1 excited chatter outside
+   1 excited chattering, indistinct
+   9 excited indistinct chatter
+   1 excited indistinct talking
   17 excited murmuring
    2 excited murmuring and bustling
    1 excited murmurs
    2 excited women in background
+   3 excitedchattering, indistinct
+   1 exclaiming indistinctly
+   2 exclaims indistinctly
    2 exclaims softly
    2 exclaims softly in pain
    1 exhales quietly
@@ -1520,12 +1988,15 @@
   49 explosion in distance
    6 explosion in the background
    2 explosion in the distance
+   1 explosion outside
    3 explosion outside, beast roars
    1 explosion rings out in distance
    1 explosion rumbles outside
    1 explosion rumbling in distance
+   2 explosion, indistinct shouting
    1 explosions booming in distance
    4 explosions continue in distance
+   3 explosions continue, indistinct screaming
   26 explosions in distance
    6 explosions in the background
    6 explosions in the distance
@@ -1534,14 +2005,18 @@
    1 exploslons in distance
    1 ezra mumbles softly
    1 eχplosloν in distance
+   2 fabio speaking indistinctly
    1 fabric tearing faintly
+   5 fading, indistinct
    1 faint clock chime in background
    1 faint echoing murmurs
+   9 faint indistinct chatter
    4 faint murmuring
    2 faint sound of child wailing in distance
+   3 faint voice, indistinct
    1 faint voices in distance
    3 faint whoosh in distance
-  26 faintly
+  27 faintly
    1 fanfare playing in the distance
    2 far away
    1 far away explosions
@@ -1549,18 +2024,34 @@
    1 far far away
    1 far off
    1 fast-paced rock music playing softly on stereo
+   4 father conversing, indistinct
+   1 father indistinct
+   1 father, indistinct
    2 faucet running in distance
    1 feet padding softly
+   1 female announcer over speakers, indistinct
+   1 female computerized voice speaks indistinctly
+   1 female newscaster continues, indistinct
    2 female reporter reporting in distance
+   3 female reporter speaking indistinctly
+   1 female reporter speaking indistinctly on television
+   2 female reporter talking indistinctly
+   2 female reporter, indistinct
+   4 female vocalist, indistinct
    3 female voice murmuring
+   1 female voice over loudspeaker - indistinct
+   2 female voice over speakers, indistinct
    2 female voice singing distant
+   2 female voice sings soft song, indistinct
    2 female voice sings softly
    3 female voices chant softly, background
    1 ferdinand chuckles softly
    3 festive music plays in distance
    1 fife and drum music echoes in the distance
+   1 fifield speaks indistinctly
    3 fighting in background
    2 fighting in distance
+   2 film crew speaking indistinctly
    1 film playing in background
    1 fire crackling outside
    1 fire softly cracking
@@ -1574,6 +2065,7 @@
    5 flare crackling in distance
    1 floor creaking softly
    2 floor creaks softly
+   1 flurry of indistinct noises
    6 flute playing softly
    1 flynn, quietly
    1 fog horn blows in distance
@@ -1585,8 +2077,19 @@
    1 footsteps in the distance
    6 footsteps outside
    1 footsteps tapping faintly
+   2 footsteps, indistinct chatter
+   1 footsteps, indistinct conversation
+   1 foreign language, indistinct
+   1 fran talking, indistinct
+   1 fran, wendell continue conversing, indistinct
    1 francesca murmuring
+   1 frank and pete argue indistinctly
    1 frank continues inaudibly
+   1 frank speaking indistinctly
+   3 frank yelling indistinctly
+   1 frankie speaking indistinctly
+   1 frat guys cheering, indistinct
+   1 frater continues indistinctly
    4 french pa announcements in background
    1 frogs croak outside
    1 from basil hums little quietly a song
@@ -1594,14 +2097,25 @@
    2 from outside
    1 from outside room
    1 funky music playing in the background
+   1 gabrielle speaking indistinctly on tv
+   3 gacha chatters indistinctly in spanish
    1 gags softly
    2 gags, groans softly
    2 galapagos islands, which is located far away* in the pacific ocean
    2 gallery murmuring
    1 gallery murmuring agreement
+   1 gallery muttering indistinctly
    1 galley murmuring
+   3 galán continues indistinctly
    6 game announcer in background
+   1 game continues indistinctly
+   2 game playing indistinctly
+   3 game playing indistinctly on tv
+   1 game show continues, indistinct
    3 garage door motor whirring softly
+   3 garbled, indistinct voices
+   2 garnett singing indistinctly
+   2 gas hissing, indistinct shouting
    1 gasping and excited murmurs
    8 gasping and murmuring
    1 gasping quietly
@@ -1612,38 +2126,68 @@
    1 gasps and murmurs from crowd
    7 gasps quietly
   78 gasps softly
+   3 gasps, indistinct chattering
    7 gasps, moans softly
    2 gasps, murmuring
    3 gasps, murmurs
+   5 gate creaking , man speaking indistinctly
    4 gate creaking softly
+   5 gate creaking, man speaking indistinctly
    1 gavel whacks as angry murmuring rises
+   1 gene speaking indistinctly
    4 general murmuring
+   1 geoff shouting indistinctly
    1 geoffrey speaks softly, unintelligible
+   2 george mutters indistinct
    3 george outside
+   3 george speaking indistinctly
    4 german voices in the distance
    1 germans in background
   10 gerti screams distantly
+   1 ghostly voices, indistinct
    2 ghoul murmurs
+   3 gia continues indistinctly
+   4 gibson talking indistinctly
    2 giggles quietly
    3 giggles softly
+   1 giggling , indistinct conversation
+   1 giggling and chattering indistinctly
+   2 giggling and indistinct chatter
    1 giggling in distance
    1 giggling quietly
+   1 giggling, chattering indistinctly
+   7 giggling, indistinct conversation
+   4 gil speaking indistinctly on telephone
    1 ginuwine continues in background
+   1 girl crying in distance
    5 girl hums in background
    1 girl in distance
    1 girl in distance on pa
    2 girl murmurs
+   1 girl on tv, indistinct
    3 girl outside shrieks
+   4 girl singing indistinctly
    1 girl singing softly
    2 girl speaking in distance
+   4 girl speaking indistinctly
+   1 girl speaking, indistinct
+   3 girl whispering indistinctly
+   2 girls chatter indistinctly
+  10 girls chattering indistinctly
    1 girls gasp, murmur
    1 girls giggling in distance
    8 girls in distance
+   1 girls indistinctly chattering
    5 girls laughing in the background
    2 girls laughing outside
    7 girls murmuring
    1 girls outside taunting, shooting guns
+   1 girls shouting indistinctly
    1 girls singing in khmer in distance
+   1 girls singing indistinctly
+   3 girls talking indistinctly
+   1 girls yelling indistinctly
+   1 giving indistinct commands
    2 glass breaking distantly
    1 glass breaks in distance, dogs bark
    2 glass clinking softly
@@ -1654,14 +2198,20 @@
    2 glasses clink in distance
    1 goat bleating, woman shouting in distance
    1 goblins laugh, murmur
+   2 goodman mutters indistinctly
+   2 gorgons chattering, indistinct
    1 gorilla grunts in background
    2 gospel music playing faintly inside camper
    2 grace cries softly
    1 grace murmurs
    1 grand cleric sighs quietly
+   1 grandpa muttering indistinctly
+   1 greeting indistinctly
    2 greetings continue in background
+   1 greg speaking, indistinct
    1 gretta humming quietly
    1 grimaces softly
+   1 groaning and indistinct conversation
   10 groaning in distance
    3 groaning quietly
   36 groaning softly
@@ -1670,11 +2220,13 @@
    3 groans in the distance
   11 groans quietly
  156 groans softly
+   5 grounders shouting indistinctly
    7 group murmuring
    5 group murmurs
    3 group shouting and hollering in distance
    1 group singing in distance
    1 growl in distance
+   1 growling and indistinct talking
   32 growling in distance
    9 growling quietly
   40 growling softly
@@ -1683,24 +2235,33 @@
   69 growls softly
   12 growlssoftly
    1 grownng softly
+   1 grumbles indistinctly
    4 grumbles softly
    1 grumbling in distance
    4 grunting in distance
+   1 grunting indistinctly
    1 grunting quietly
   49 grunting softly
    1 grunting, crowd murmuring
+   4 grunting, indistinct shouting
    1 gruntlng in distance
    4 grunts quietly
   90 grunts softly
    2 grunts softly, gulps
+   2 guard shouting, indistinct
+   4 guard yells, indistinct
+   4 guard's indistinct talk
+   1 guards shouting indistinctly
    2 guests chattering softly
    1 guests gasp and murmur
    7 guests gasp, murmur
    5 guests gasping, murmuring
+   1 guests indistinctly chatter
    2 guests laughing, murmuring, cheering
   26 guests murmur
    2 guests murmur, siren wailing
   20 guests murmuring
+   2 guests whispering indistinctly
    2 guitar music playing softly
    2 guitar playing softly
    1 guitar plays softly
@@ -1709,7 +2270,7 @@
    3 guitar thrashing in distance
    3 guitar wailing in distance
   14 gulls calling outside
-   7 gulls squawk in distance
+   8 gulls squawk in distance
    1 gulps softly
    3 gun clicks softly
   10 gun firing in distance
@@ -1723,16 +2284,21 @@
  102 gunfire in distance
    3 gunfire in the distance
    2 gunfire outside
+   2 gunfire, creature screeches, indistinct shouting
    3 gunfire, explosions in distance
+  11 gunfire, indistinct shouting
    8 gunfire, indistinct shouting in distance
+   1 gunfire, indistinct shouts
+   2 gunfire, indistinct talking
    2 gunfire, screaming in distance
    1 gunfireindistance
    3 guns firing in distance
    3 gunshot echoes, horse neighs in distance
-  21 gunshot in distance
+  22 gunshot in distance
    3 gunshot in the distance
    1 gunshot outside
    1 gunshot rings out in distance
+   3 gunshot, indistinct shouting
    3 gunshots and men shouting in distance
    1 gunshots and men shouting outside
    2 gunshots and yelling in background
@@ -1747,18 +2313,27 @@
    5 gusting outside
    1 guy in background
    3 guy screaming in pain in the background
+   2 guy speaking indistinctly
+   1 gwen speaks indistinctly
    1 hailey crying softly
+   2 haley speaking indistinctly
+   1 haley, indistinct
+   3 hallie, annie chattering, indistinct
    1 hamlet ro arlng and then crowd murmuring
    2 hammering in distance
+   2 hammering, indistinct chatter
+   1 hank muttering indistinctly
    4 harmonica playing "red river valley" faintly
    1 harmonica playing in distance
    3 harmonica plays in distance
    1 harper giggling distantly
    6 harpsichord plays softly
+   2 harris and brett chatter indistinctly
    1 harris barking in distance
    6 harris barks in background
    4 harris barks in distance
    1 harris barks softly, then louder
+   1 harrison, indistinct
    1 hassan sobbing softly
    1 he calls me softly
    1 he chuckles quietly
@@ -1772,22 +2347,28 @@
    3 helicopter at a distance
    1 helicopter blades whirring faintly
    6 helicopter blades whirring in distance
+   1 helicopter blades whirring, indistinct conversations
    1 helicopter flying outside
    6 helicopter hovering in distance
    2 helicopter in distance
    1 helicopter overhead, sirens in distance
    2 helicopter whirring in distance
+   1 helicopter whirring overhead, indistinct conversations
    1 helicopter whirs in distance
    2 helicopters and sirens outside
    2 helicopters whirring in distance
    1 hell-hounds barking in distance
+   2 henry, indistinct
    2 herman chuckles softly
    1 hi-hat taps softly
+   2 high-pitched indistinct sounds
+   4 high-pitched ringing, indistinct talking
    4 high-pitched sound in distance
    1 high-pitched sound in distance continues
    1 high-pitched sounds in distance
    1 high-pitched squeal in distance
    3 hip hop music playing in distance
+   1 hip-hop continues, indistinct
    1 hip-hop music in background
    3 hip-hop music playing in background
    3 hip-hop music playing in distance
@@ -1795,11 +2376,17 @@
    1 hip-hop music playing over speakers in distance
    1 hip-hop music plays faintly
   15 hip-hop music plays in distance
+   3 hip-hop music plays, indistinct conversations
    2 hip-hop playing in distance
    1 hip-hop plays in background
+   1 hip-hop, indistinct
    2 hissing softly
    1 hits outside
+   5 hockey announcer continues speaking indistinctly on tv
+   5 hockey announcer speaking indistinctly on tv
+   1 holder and mrs. rosales speaking indistinctly
    1 holiday music playing in the distance
+   3 holiday speaking indistinctly
    6 holly murmurs
    2 honking continues, distant
    1 honking in distance
@@ -1817,46 +2404,59 @@
    9 horn honking in distance
    4 horn honking in the distance
    6 horn honks distantly
-  57 horn honks in distance
+  58 horn honks in distance
    3 horn honks in distance, indistinct conversations
    3 horn honks in the distance
    3 horn honks outside
    2 horn honks, engine rumbling in distance
+   4 horn honks, indistinct chatter
+   1 horn honks, indistinct shouting
+   1 horn honks, krishna shouts indistinctly
    1 horn honks, siren wails in distance
    1 horn in distance
   10 horn playing la cucaracha outside
    1 horn plays softly
    1 horn sounding in distance
    1 horns and sirens outside
+   2 horns blaring, indistinct conversations
   11 horns honk in distance
    5 horns honk in the distance
   36 horns honking in distance
    2 horns honking, distant
    1 horns honking, dog barking in distance
+   6 horns honking, indistinct conversations
+   3 horns honking, indistinct shouting
    4 horns honking, siren wailing in distance
    1 hornshonk indistance
    2 horse neighing distantly
    2 horse neighing in distance
    6 horse neighing softly
+   1 horse neighs and man shouts indistinctly
    2 horse neighs distantly
    2 horse neighs from distance
   12 horse neighs in distance
    1 horse neighs in the distance
    3 horse neighs quietly
+   3 horse neighs, indistinct conversations
    2 horse neighs, rooster crows in the distance
+   1 horse race announcer speaking indistinctly over radio
   13 horse snorts softly
    1 horse softly snorts
    2 horse whinnies distantly
   17 horse whinnies in distance
    1 horse whinnies in the distance
+   3 horse whinnies, indistinct conversations
    1 horse winnies softly, snorts
+   1 horseman shouting indistinctly
    2 horses galloping in distance
    4 horses neigh in the distance
+   3 hospital p.a. drones indistinctly
    1 hostages crying softly
    1 hostages whimpering softly
    1 hostetler chuckling quietly
    1 house music pounding in distance
    1 hovitos chant softly
+   1 howie v shouting indistinctly
    2 howl in distance
    2 howling in a distant
   34 howling in distance
@@ -1868,15 +2468,20 @@
    1 hum of murmured concern
    1 humming along quietly
    3 humming faintly
+   4 humming indistinctly
    4 humming quietly
   24 humming softly
    3 humming, murmuring
    1 hums faintly
    4 hums softly
    6 husband murmuring
+   1 hushed chattering, indistinct
+   2 hushed indistinct conversation
    3 hushed murmuring
    1 hushed voices in the background
+   1 hutchmeyer shouting indistinctly
    1 hyenas laughing in the distance
+   1 iago yelling, indistinct
    1 ian murmurs to fryer
    1 ice cracking, workers murmuring
    6 ice cream truck music playing softly
@@ -1896,93 +2501,674 @@
    2 inaudibly mumbling
    1 indian music playing softly
    2 indian music with sitar and flute plays in background
+ 839 indistinct
+   2 indistinct accent
+   3 indistinct admonitions
+   2 indistinct angry shouting
+   1 indistinct animal noises
    2 indistinct animal sounds in distance
+   3 indistinct announcement
+   1 indistinct announcement crackling over p.a
+   2 indistinct announcement in english
+   1 indistinct announcement on p.a
+   2 indistinct announcement on pa
+   1 indistinct announcement over megaphone
+   1 indistinct announcement over p.a
+   1 indistinct announcement over p.a. system
+  10 indistinct announcement over pa
+   4 indistinct announcement over tannoy
+   1 indistinct announcement overpa
+   2 indistinct announcements over pa
+   2 indistinct announcements playing
+   1 indistinct annοuncement οver pa
+   2 indistinct answers
+  53 indistinct arguing
    7 indistinct arguing in background
    2 indistinct arguing in distance
+   2 indistinct argument
+   3 indistinct auctioneering
+   2 indistinct audio
+   2 indistinct automated message
+   2 indistinct automated voices on the phone
+   2 indistinct babbling
+  13 indistinct background chatter
+   3 indistinct banging
+   2 indistinct bar chatter
+   1 indistinct barking
+   1 indistinct barking of orders
+   4 indistinct beep
+   2 indistinct blues vocalizing
+   1 indistinct british military radio transmissions
+   3 indistinct buzzing
+   1 indistinct car radio
+  34 indistinct chanting
    2 indistinct chanting in distance
    1 indistinct chanting outside
    1 indistinct chat in distance
+   1 indistinct chatr
+2603 indistinct chatter
+   2 indistinct chatter and cheering
+  12 indistinct chatter and laughter
+  12 indistinct chatter and shouting
+   1 indistinct chatter and sirens
+   1 indistinct chatter and street noise
+   1 indistinct chatter and telephones ringing
+   1 indistinct chatter below
+   7 indistinct chatter continues
+   1 indistinct chatter continues over radio
+   1 indistinct chatter downstairs
+   2 indistinct chatter echoing
    1 indistinct chatter from outside
+   2 indistinct chatter from screen
+   3 indistinct chatter from tv
    4 indistinct chatter in background
   10 indistinct chatter in distance
+   3 indistinct chatter in english on tv
+   1 indistinct chatter in foreign language
+  47 indistinct chatter in spanish
    1 indistinct chatter in the background
+   4 indistinct chatter nearby
+   2 indistinct chatter on headphones
+   1 indistinct chatter on pa
+   1 indistinct chatter on phone
+   1 indistinct chatter on police radio
+  18 indistinct chatter on radio
+   1 indistinct chatter on scanner
+  33 indistinct chatter on tv
+   3 indistinct chatter on video feed
+  14 indistinct chatter on walkie-talkie
    3 indistinct chatter outside
+   3 indistinct chatter over p.a
+  18 indistinct chatter over pa
+  36 indistinct chatter over police radio
+  32 indistinct chatter over radio
+   1 indistinct chatter over tv
+   9 indistinct chatter over walkie-talkie
+   1 indistinct chatter through earpiece
+   7 indistinct chatter throughout
+   1 indistinct chatter, baby crying, music playing
+   3 indistinct chatter, cheering
+   1 indistinct chatter, fireworks exploding
+   2 indistinct chatter, gunshots
+   1 indistinct chatter, gunshots from video
+   3 indistinct chatter, laughing
+  22 indistinct chatter, laughter
+   4 indistinct chatter, machinery whirring
+   1 indistinct chatter, moira sobbing
+   5 indistinct chatter, music
+   3 indistinct chatter, music playing
+   1 indistinct chatter, people laughing
+   5 indistinct chatter, phone ringing
    1 indistinct chatter, screams outside
+   4 indistinct chatter, shouting
+   2 indistinct chatter, shouts
    2 indistinct chatter, sirens in the distance
+   2 indistinct chatter, tools clanking
+   1 indistinct chatter, woman screaming
+   1 indistinct chatter, yelling
+ 435 indistinct chattering
+   2 indistinct chattering and shouting
+   5 indistinct chattering continues
+   6 indistinct chattering on radio
+   1 indistinct chattering on tv
+   2 indistinct chattering outside
+   2 indistinct chattering over pa
+   4 indistinct chattering over radio
+   2 indistinct chattering, giggling
+   2 indistinct chattering, laughing
+   2 indistinct chattering, shouting
+   1 indistinct chatterlng
+   1 indistinct chatterlng nearby
+   1 indistinct chatterlng on police radio
+   6 indistinct chatting
    1 indistinct chatting in distance
+  15 indistinct cheering
+   2 indistinct cheering and yelling
+   1 indistinct children playing
+   1 indistinct clamoring
+   2 indistinct clanging
+   1 indistinct clattering
+   3 indistinct command
+   4 indistinct commentary on tv
    3 indistinct commotion, distant
+   2 indistinct conations
+   1 indistinct convefsation
+ 358 indistinct conversation
+   1 indistinct conversation and laughter
+   2 indistinct conversation continues
+   1 indistinct conversation echoing
    3 indistinct conversation in background
-  35 indistinct conversation in distance
+  37 indistinct conversation in distance
+   4 indistinct conversation in russian
+   4 indistinct conversation in spanish
    2 indistinct conversation in the distance
+   4 indistinct conversation on television
+   3 indistinct conversation on tv
+   1 indistinct conversation, chain rattles, door grinds
+   4 indistinct conversation, giggling
+   1 indistinct conversation, indistinct talking on p.a
+   1 indistinct conversation, indistinct talking on pa
+   5 indistinct conversation, laughter
    2 indistinct conversation, laughter in distance
+1586 indistinct conversations
+   2 indistinct conversations and laughter
+  33 indistinct conversations continue
+   2 indistinct conversations continue, rock music plays
+   1 indistinct conversations in cartoon
+   3 indistinct conversations in chinese
   90 indistinct conversations in distance
+   1 indistinct conversations in house
+   1 indistinct conversations in japanese
+   1 indistinct conversations in spanish
+   1 indistinct conversations on television
+   1 indistinct conversations start
+   2 indistinct conversations throughout
+   7 indistinct conversations, beeping
+   1 indistinct conversations, bell tolls
+   2 indistinct conversations, birds chirping
+   1 indistinct conversations, chatter over p.a. continues
+   3 indistinct conversations, cheering
+   1 indistinct conversations, children shouting
+   1 indistinct conversations, clattering
+   1 indistinct conversations, clock ticking
+   2 indistinct conversations, dishes clattering
    1 indistinct conversations, dog barking in distance
+   2 indistinct conversations, engines revving
    2 indistinct conversations, engines revving in distance
+   3 indistinct conversations, engines rumbling
+   1 indistinct conversations, footsteps approach
+   1 indistinct conversations, heart monitor beeping
    1 indistinct conversations, horn honks in distance
+   1 indistinct conversations, insects buzzing
+  10 indistinct conversations, laughter
    4 indistinct conversations, laughter in distance
+   1 indistinct conversations, laughter, dance music plays
+   7 indistinct conversations, light jazz music plays
+   2 indistinct conversations, music playing
+   1 indistinct conversations, music plays
+   1 indistinct conversations, phones ringing
+   1 indistinct conversations, police radio chatter
+   2 indistinct conversations, rock music plays
+   1 indistinct conversations, rooster crows
    1 indistinct conversations, siren wailing in distance
+   2 indistinct conversations, slow music plays
+   3 indistinct conversations, slow rock music plays
+   1 indistinct conversations, telephone ringing
+   1 indistinct conversations, telephone rings
    1 indistinct conversations, telephone rings in distance
+   5 indistinct conversations, telephones ringing
+   7 indistinct conversations, whirring stops
+   1 indistinct conversations, wind howling
+   1 indistinct conversations, wolf whistle
+   2 indistinct convesation
+  16 indistinct convesations
+   1 indistinct coughs
+   1 indistinct crackling
+   3 indistinct cries
+   1 indistinct cries, people speaking spanish
+   2 indistinct crowd cheering
+   2 indistinct crowd noise
+   1 indistinct crowds muttering
+   2 indistinct demonic voices
+   2 indistinct dialog
+   1 indistinct dialog in spanish
+   2 indistinct dialog on tv
+  32 indistinct dialogue
+   1 indistinct dialogue and shouting
+   2 indistinct dialogue on headset
+   2 indistinct dialogue on radio
+   2 indistinct dialogue on television
+   7 indistinct dialogue on tv
+   1 indistinct dialogue, static
+   2 indistinct directions
+   2 indistinct dispatcher chatter
    2 indistinct distant chatter
    1 indistinct distant screaming
    2 indistinct distant voice
    2 indistinct distant voices
+   1 indistinct distorted voices
+   4 indistinct echoing voices
+   1 indistinct eerie voices
+   1 indistinct electronic voice
+   1 indistinct exchange
+   1 indistinct exchanges
+   1 indistinct excited chatter
+   3 indistinct female announcer over intercom
+   2 indistinct female voice on pa
+   1 indistinct female voices
+   1 indistinct flight announcement over p.a
+   5 indistinct french
+   1 indistinct french chatter
+   2 indistinct french commands
+   2 indistinct game announcer on tv
+   1 indistinct ghostly voices
+   1 indistinct gibberish
+   1 indistinct gossiping
+   1 indistinct group chattering
+   2 indistinct grumbling
+   1 indistinct grunt
+   3 indistinct grunting
+   1 indistinct grunting and laughter
+   2 indistinct grunting, screams
+   1 indistinct grunting, thumping
+   1 indistinct heckling
+   1 indistinct hip hop song playing
+   1 indistinct hip-hop music
+   1 indistinct hip-hop music playing
+   1 indistinct hip-hop music plays
    1 indistinct in background
+   1 indistinct instructions
+   1 indistinct intercom chatter
+   1 indistinct interview dialogue
+   1 indistinct jazz plays on radio
+   2 indistinct jeering
+   1 indistinct kissing
+   1 indistinct laughter
+   1 indistinct loud voices
+   2 indistinct lyrics
+   2 indistinct male voice over tape recorder
+   3 indistinct male voices
+   1 indistinct man on speaker
+   2 indistinct melodic shouting
    1 indistinct mid-tempo music plays in distance
+   1 indistinct military radio transmission
+   1 indistinct moan
+   1 indistinct muffled conversation
+   1 indistinct muffled shouting
+   1 indistinct muffled speech
+  18 indistinct mumbling
    1 indistinct mumbling in background
    2 indistinct murmur
   83 indistinct murmuring
    1 indistinct murmuring continues
    1 indistinct murmuring, giggling
    3 indistinct murmurs
+   1 indistinct music
+   2 indistinct music on jukebox
+   1 indistinct music playing
+   1 indistinct music plays
+  37 indistinct muttering
+   1 indistinct narration on tv
+   1 indistinct news radio
+   1 indistinct newscaster on tv
+  11 indistinct noise
+   1 indistinct noise over tv
+  14 indistinct noises
+   1 indistinct noises and laughter
    1 indistinct noises at a distance
+   2 indistinct noises over radio
+   1 indistinct oath
+   1 indistinct operatic singing
+   1 indistinct order
+   1 indistinct orders and instructions
+   2 indistinct over pa
+   1 indistinct overlapping voices
    3 indistinct overlapping voices in background
+   2 indistinct overlapping voices on phone
+   1 indistinct p.a
+  19 indistinct p.a. announcement
+   4 indistinct p.a. announcements
+  10 indistinct p.a. announcer
+   2 indistinct p.a. chatter
+   1 indistinct p.a. system announcement plays
+   1 indistinct pa
+  39 indistinct pa announcement
+   3 indistinct pa announcements
+   3 indistinct party chatter
+   1 indistinct phone conversation
+   3 indistinct police chatter
+   1 indistinct police chatter over radio
+  39 indistinct police radio
+   1 indistinct police radio chat
+  61 indistinct police radio chatter
+   1 indistinct police radio chatter, sirens wail
+   1 indistinct police radio dispatch
+  11 indistinct police radio transmission
+   2 indistinct pounding
+   2 indistinct prayers
+   6 indistinct praying
+   1 indistinct protesting
+   5 indistinct radio
+   1 indistinct radio chat
+ 336 indistinct radio chatter
+   1 indistinct radio chatter continues
+   1 indistinct radio chatter throughout
+   1 indistinct radio chatter, indistinct talking
+   2 indistinct radio commercials
+   1 indistinct radio communication
+   1 indistinct radio conversation
+   1 indistinct radio dispatch
+   1 indistinct radio dispatcher
+   1 indistinct radio talking
+  10 indistinct radio transmission
+   2 indistinct radio transmission continues
+   3 indistinct radio transmissions
+   1 indistinct radio transmissions and static
+   1 indistinct radio transmissions continue
+   1 indistinct rambling
+   7 indistinct rap
+   3 indistinct rap music playing
+   1 indistinct rap music plays
+   1 indistinct rapid chatter
+  30 indistinct rapping
+   3 indistinct rapping continues
+   1 indistinct rapping, scratching
+   2 indistinct recitation
+   1 indistinct reciting continues
+   1 indistinct recorded speech
+   1 indistinct recording in foreign language
+   2 indistinct reggae
+   1 indistinct reply
+   1 indistinct response
+   1 indistinct response from band mem bers
+   2 indistinct response from radio
+   1 indistinct roars, gradually dying away
+   2 indistinct rock music playing
+   4 indistinct rumbling
+   3 indistinct rumpus
+   5 indistinct salutations
+   3 indistinct scream
+  24 indistinct screaming
    3 indistinct screaming in distance
+   1 indistinct screaming, shouting
+   2 indistinct screeching
+  39 indistinct shout
+   6 indistinct shouti ng
+   6 indistinct shoutinc
+ 955 indistinct shouting
+   3 indistinct shouting , fighting
+   5 indistinct shouting , glass shattering
+   6 indistinct shouting and chanting
+   3 indistinct shouting and clatter
+   3 indistinct shouting and fighting
+   1 indistinct shouting and laughter
+   4 indistinct shouting and light applause
+   4 indistinct shouting and snarling behind the door
+  17 indistinct shouting continues
    1 indistinct shouting in background
- 170 indistinct shouting in distance
+ 174 indistinct shouting in distance
+   2 indistinct shouting in spanish
    6 indistinct shouting in the distance
+   5 indistinct shouting in the next room
+   1 indistinct shouting inside
+   2 indistinct shouting on street
+  10 indistinct shouting on tv
    1 indistinct shouting outside
+   1 indistinct shouting over speakers
+   1 indistinct shouting, banging
+   1 indistinct shouting, camera shutters clicking
+   3 indistinct shouting, chatter
+   3 indistinct shouting, cheering
+   1 indistinct shouting, country music playing
+   3 indistinct shouting, dog barking
+   1 indistinct shouting, drowned out by ringing
+   3 indistinct shouting, fire crackles
+   4 indistinct shouting, glass shattering
+   1 indistinct shouting, gunfire
    2 indistinct shouting, gunfire in distance
+   1 indistinct shouting, guns clicking
+   1 indistinct shouting, gunshots
+   2 indistinct shouting, horns honking
    1 indistinct shouting, laughter in distance
+   2 indistinct shouting, metal clanking
+   2 indistinct shouting, punches landing
    2 indistinct shouting, siren wailing in distance
+   1 indistinct shouting, woman screams
+  56 indistinct shouts
+   1 indistinct shouts and banging
+   1 indistinct shouts continue
+   2 indistinct shouts echoing
    6 indistinct shouts in distance
+   3 indistinct shouts in spanish
+   2 indistinct shouts of praise
+   3 indistinct shouts, strained grunts
+   1 indistinct shrieking
+   1 indistinct shuffling
+   3 indistinct shοuts
+   1 indistinct sighing
+   2 indistinct sincinc
+  35 indistinct singing
+   1 indistinct singing and chatter
+   3 indistinct singing and whispering
+   3 indistinct singing cοntinues
    1 indistinct singing in distance
+   1 indistinct singing on tv
+   1 indistinct singing, rude noises
+   2 indistinct slow-motion voice
+   3 indistinct slurring chatter
+   4 indistinct sobbing
+   2 indistinct soldier chatter
+   4 indistinct song
+   2 indistinct song playing
+   2 indistinct song playing on radio
+   3 indistinct sound
    5 indistinct sounds outside
+   6 indistinct spanish
+   1 indistinct spanish chatter
+   8 indistinct speaking
+   1 indistinct speaking from band members
+   4 indistinct speaking on television
+   1 indistinct speaking over intercom
+   6 indistinct speaking over p.a
+   1 indistinct speaking over radio
+   1 indistinct speaking over speaker
+  42 indistinct speech
+   1 indistinct speech on tv
+   1 indistinct speech over p.a
+   1 indistinct speech over radio
+   1 indistinct speech over tv
+   1 indistinct spoken lyrics
+   5 indistinct sports casting
+   5 indistinct squeaking
+   1 indistinct squealing
+   5 indistinct stage announcer
+   1 indistinct ta/king ovef tv
+   1 indistinct taking
+   1 indistinct talk
+   4 indistinct talk over p.a
+   2 indistinct talkinc
+   1 indistinct talkinc over p.a
+ 320 indistinct talking
+   1 indistinct talking , laughter
+   3 indistinct talking and laughing
+   8 indistinct talking and laughter
+   2 indistinct talking and telephones ringing
+   2 indistinct talking between pilots
+   3 indistinct talking continues
    1 indistinct talking in background
   41 indistinct talking in distance
+   1 indistinct talking in french
+   4 indistinct talking in korean
+   4 indistinct talking in somali
+   1 indistinct talking of girls
+   1 indistinct talking on headset
+   2 indistinct talking on p.a
+   2 indistinct talking on p.a. system
+   6 indistinct talking on police radio
+  11 indistinct talking on radio
+   4 indistinct talking on radio, gunshot
+   9 indistinct talking on television
    1 indistinct talking on television in distance
+   2 indistinct talking on the radio
+   4 indistinct talking on tv
+  28 indistinct talking over p.a
    4 indistinct talking over p.a. in distance
+   6 indistinct talking over pa
+   2 indistinct talking over police radio
+   2 indistinct talking stops
+   1 indistinct talking, bike bell rings
+   3 indistinct talking, car doors closing
+   1 indistinct talking, door opens
+   2 indistinct talking, knocking
+   1 indistinct talking, laughing
+   2 indistinct talking, papers rustling
+   1 indistinct talking, police radio chatter
    3 indistinct talking, siren wailing in distance
+   2 indistinct talkinh
+   1 indistinct talkng
+   2 indistinct television broadcasts
+   4 indistinct television chatter
+   1 indistinct television conversation
+   1 indistinct threats, people chattering
+   5 indistinct thud
+   1 indistinct toast
+   1 indistinct traffic noise
+   1 indistinct transmissions
+   1 indistinct tv announcer
+   1 indistinct tv audio
+   4 indistinct tv chatter
    1 indistinct tv in background
+   3 indistinct tv news
+   2 indistinct tv sports announcer
+   2 indistinct tv voice and talking
+   2 indistinct under static
+   4 indistinct vocalization
+   3 indistinct vocalizations
+   2 indistinct vocalizing
+   9 indistinct voice
    1 indistinct voice in distance
+   5 indistinct voice on pa
+   6 indistinct voice on phone
+   1 indistinct voice on radio
+   1 indistinct voice on telephone
+   2 indistinct voice over hospital pa
+   1 indistinct voice over intercom
+   2 indistinct voice over p.a
+   1 indistinct voice over police radio
+   4 indistinct voice over radio
+   1 indistinct voice speaking over hearing aid
+  91 indistinct voices
+   1 indistinct voices and cars honking
+   2 indistinct voices approaching
+   2 indistinct voices chattering
+   1 indistinct voices echoed
+   1 indistinct voices echoing
+   1 indistinct voices ffom tv
+   3 indistinct voices from tv
+   1 indistinct voices growing louder
    7 indistinct voices in distance
    1 indistinct voices in the distance
+   1 indistinct voices nearby
+   1 indistinct voices of man and woman arguing
+   4 indistinct voices on police radio
+   2 indistinct voices on radio
+   1 indistinct voices on radios
+   2 indistinct voices on television
+   4 indistinct voices on television continue
+   2 indistinct voices on tv
+   1 indistinct voices on video
+   1 indistinct voices on walkie talkies
    2 indistinct voices outside
+   3 indistinct voices over airplane radio
+   7 indistinct voices over radio
+  15 indistinct voices overlapping
+   1 indistinct voices speaking on radio
+   2 indistinct voices throughout
+   1 indistinct voices whispering
+   2 indistinct voices, gull squawking
+   1 indistinct voices, snarling
+   3 indistinct wailing
+   2 indistinct walkie chatter
+   1 indistinct whining
+   4 indistinct whisper
+   2 indistinct whispered conversation in ku
+ 159 indistinct whispering
+   1 indistinct whispering continues
+   1 indistinct whisperings
+  18 indistinct whispers
+   1 indistinct woman's voice over pa
+   1 indistinct words in french
+   1 indistinct words over p.a
+   2 indistinct words over police radio
+   3 indistinct words over radio
+   4 indistinct yell
+ 140 indistinct yelling
+   2 indistinct yelling , bullets firing
+   1 indistinct yelling , glass breaking
+   1 indistinct yelling and shouting
   14 indistinct yelling in distance
+   2 indistinct yelling in spanish
+   1 indistinct yelling inside
+   1 indistinct yelling, fighting
+   1 indistinct yelling, glass breaking
+   1 indistinct yelling, laughing
+   1 indistinct yelling, overlapping chatter
+   1 indistinct yelling, scuffling
+   1 indistinct yelling, shouting
+   1 indistinct yelling, tires screeching
+   2 indistinct, disembodied whispering
+   2 indistinct, disembodied whispering throughout
    4 indistinct, distant conversations
    3 indistinct, distant female voice chattering
    1 indistinct, distant voice
    3 indistinct, distant yelling
+   1 indistinct, distorted roaring and shutters clicking
+   4 indistinct, distorted speech
+   1 indistinct, distorted voices
+   1 indistinct, drowned out
+   1 indistinct, ethereal voices
+   1 indistinct, muffled voice
+   4 indistinct, on walkie-talkie
+   2 indistinct, overlapping chatter
+   1 indistinct, overlapping shouting on tv
+   1 indistinct, overlapping voices
+   2 indistinct, panicked chatter
+   1 indistinct, sobbing
+   1 indistinct, traffic noise
+   4 indistinct, whimpering
+   1 indistinct; yelling over each other
+   5 indistinctchatter
+   1 indistinctdialogue
+  11 indistinctive
+   3 indistinctive chattering
+   3 indistinctive chatterinh
+   1 indistinctive shouting
+  15 indistinctly
    1 indistinctly chat in background
+   1 indistinctly whispering
+   2 indistinctly:
+   2 indistinctp.a.announcer
+   1 indistinctpaannouncements
+   2 indistinctpolice radiochatter
+   5 indistinctradiochatter
+   2 indistinctscreaming
+   3 indistinctshouting
+   2 indistinctsquealing
+   1 indistinctwhispering
    2 inhales, grunts softly
    1 inkubus hissing and murmuring
    1 inmate cackling in distance
+   1 inmate shouting indistinctly
    2 inmates murmur excitedly
   14 inmates murmuring
+   2 inmates shouting indistinctly
+   4 inmates speaking indistinctly
+   4 inmates talking indistinctly
    2 insect chirping quietly
    2 insects chirping, dog barking in distance
    2 insects chirping, dog barking in the distance
+   5 instrumental music, indistinct conversations continue
    1 instrumental rock beat continues playing softly background
    1 instrumental version of take me with u plays softly, background
    1 instruments ringing softly
    2 intercom beeps, siren wailing in distance
+   1 irene continues talking, indistinct
    4 iris screams in distance
    9 isabel barking in distance
+   1 isabella continues, indistinct
+   1 isabella on tv, indistinct
    3 it might have been so far away
    5 it's about an hour outside the city
    1 italian style music playing softly
    2 ithorian murmuring
    1 izzie, softly
+   2 izzy talking indistinctly
+   1 j.j. talking indistinctly
+   7 jack continuing indistinctly
    1 jack in distance
+   1 jack in movie, indistinct
+   3 jack laughs, speaks indistinctly
+   2 jack whispering indistinctly
    1 jackhammer drilling in distance
    4 jackhammer hammering in distance
    2 jackhammer pounding in distance
@@ -1990,37 +3176,56 @@
    1 jake and finn screaming in distance
    1 jake laughs, murmurs
    1 jake shouting, distant
+   2 james and michael speaking indistinctly
    4 james blunt - "you're beautiful" playing in background
+   1 james, indistinct
    1 jamie grunting softly
+   1 jane, doug yelling, indistinct
    1 janet quietly
    1 janey murmurs
    1 japanese music plays softly
    2 jared singing softly
+   1 jay singing indistinctly to himself ¶
    1 jazz continues in distance
    1 jazz music begins playing in background
    1 jazz music continues in distance
    1 jazz music playing in background
    3 jazz music playing quietly
    4 jazz music playing softly
+   6 jazz music plays, indistinct conversations
   10 jazz playing faintly
+   1 jazz playing, indistinct chatter
+   2 jazz, vocals indistinct
    1 jeep pulls up outside, doors slam
+   1 jeff, indistinct
    2 jess cries softly
    1 jess in the distance
+   1 jesse over walkie-talkie, indistinct
+   4 jesse shouting, indistinct
+   1 jesse οver walkie-talkie, indistinct
    2 jessica sniffles, cries softly
+   1 jessica, indistinct
    1 jet engine whining faintly
    1 jet engine whooshing in distance
    2 jet hissing in distance
+   7 jill continues indistinctly
    1 jill murmurs
    2 jillian laughs softly
+   2 jim whispering indistinctly
+   1 jimmy kimmel speaking indistinctly
    2 jin and leo grunting in the distance
    2 jin godo's camp, outside hanseong
    1 joan crying, softly
    1 joan laughs softly
+   1 joan speaking indistinctly
+   1 joanna speaking indistinctly
    2 joe sniffles softly
    2 joey and dolly chatter in the background
+   1 joey yelling, indistinct
    1 john in background
    1 john in the background
    1 john talking on phone in background
+   2 john's voice, indistinct
    2 john, distant
    1 johnny howls in background
    1 johnny,quietly
@@ -2030,6 +3235,8 @@
    3 judges conferring inaudibly
    1 judges murmuring
    1 judges speaking quietly
+   3 judy speaking indistinctly
+   1 jukebox indistinct
    2 juliet faintly
    1 jumba laughs in distance
    1 jumba murmuring
@@ -2041,24 +3248,35 @@
    1 k.o.k.s murmuring
    1 kamdor faintly
    1 kaor murmuring
+   6 karen speaking indistinctly
    1 kat chuckles softly
    4 kate chatting quietly
    1 kate moaning softly
+   3 kate speaking indistinctly
    5 kathy quietly
    7 keeler whistles faintly
    2 keep your distance from the computer
+   2 kelsey babbling indistinctly
    1 kendal chuckles softly
+   1 kettledrums playing, crowd chattering indistinctly
    4 kevin sings quietly to himself
    1 keyboard tone plays softly
    2 keys clicking softly
    1 keys clink softly
+   1 keys jangle, man speaking indistinctly over p.a
    1 keys jangling, dog barks in distance
+   1 keys jingle softly
    1 keys jingling faintly
    1 keys plop in distance
    1 keys rattling in distance
+   1 kids arguing indistinctly
+   1 kids chatter indistinctly
    3 kids chatter outside
    1 kids chattering distantly
    8 kids chattering in background
+   5 kids chattering indistinctly
+   1 kids chattering, indistinct
+   1 kids chatting indistinct
    1 kids continue in background
    2 kids gasping, murmuring
    1 kids in distance
@@ -2067,7 +3285,11 @@
    1 kids partying distantly
    2 kids playing in distance
    1 kids playing outside
+   1 kids shouting and laughing indistinctly
+   3 kids shouting indistinctly
+   1 kids shouting, indistinct chatter
    1 kids singing softly
+   8 kids talking indistinctly
    1 kids yelling outside
    1 kids: distant chattering
    1 kids: distant squealing
@@ -2086,18 +3308,28 @@
    5 knocks quietly
    8 knocks softly
    1 knowing murmurs
+   1 koro chattering, indistinct
    1 kristi humming softly
+   1 kristi, indistinct
+   1 kurt continuing indistinctly
    2 kyle, quietly
    2 l just couldn't keep the distance anymore
    1 ladies murmur approvingly
+   8 lago yelling, indistinct
+   2 laguerta speaking indistinctly
+   1 lan continues, indistinct
    1 large steno grunting distantly
+   2 larry continues, indistinct
    1 larry in distance
    2 laser blast outside
+   4 laser fire, indistinct shouting
    1 latin dance, distant
    2 latin music in the background
    1 latin music playing in distance
    2 latin music plays in distance
    1 latin, distant
+   1 laughing and indistinct chatter
+   3 laughing and talking indistinctly
    1 laughing coming from outside
    5 laughing from outside
    6 laughing in background
@@ -2105,6 +3337,9 @@
    2 laughing outside
   14 laughing quietly
   39 laughing softly
+   1 laughing, chatter, indistinct
+   2 laughing, indistinct
+   1 laughing, indistinct chatter
    2 laughing, murmuring
    3 laughing, murmurs
   30 laughs quietly
@@ -2112,6 +3347,9 @@
  218 laughs softly
    1 laughs, murmuring
    1 laughs, murmurs
+   8 laughter and indistinct chatter
+   2 laughter and indistinct conversation
+   1 laughter and indistinct heckling
    1 laughter and murmur
    1 laughter and murmurs
    1 laughter from a distance
@@ -2119,6 +3357,14 @@
   32 laughter in distance
    1 laughter in the background
    1 laughter outside
+   1 laughter, cheering, and indistinct chatter
+   3 laughter, indistinct
+  16 laughter, indistinct chatter
+   1 laughter, indistinct chatter, duck quacking
+   3 laughter, indistinct chattering
+  36 laughter, indistinct conversations
+   6 laughter, indistinct shouting
+  11 laughter, indistinct talking
    4 laughter, murmuring
    1 laura moaning quietly
    4 laurel murmuring
@@ -2129,10 +3375,14 @@
    1 led scratching softly
    1 led zeppelin's "kashmlr" playing faintly on stereo
    1 lefty singing in distance
+   1 leland, indistinct
    1 lena's friends shouting in background
    1 lenny is weeping softly
+   1 lhamo, indistinct
+   1 liam speaking indistinctly
    1 light laughter, murmuring
-   1 light music playing in background
+   2 light music playing in background
+   1 light music plays, indistinct shouting, cheering
    1 lily speaking quietly on phone
    4 lincoln screaming in distance
    1 lindbergh continues murmuring
@@ -2142,12 +3392,18 @@
    1 lively discussion outside
    2 lively murmur
    2 lively music plays in distance
+   1 liz continuing indistinctly
    1 ln distance
    3 lnaudible talking outside room
    1 lndistinct chatter in background
+   4 lnmates speaking, indistinct
+   2 lnsaniac singing, indistinct
    1 lnstrumental melody playing softly in background
    1 lock clicking in distance
    2 lois crying softly
+   2 lois speaking indistinctly on telephone
+   1 lois talking, indistinct
+  14 lola muttering, indistinct
    3 lord bullingdon gasps softly
    1 loreen and krista talking quietly
    2 lorraine giggling in distance
@@ -2158,6 +3414,8 @@
    1 loud clatter in distance
    1 loud crash from outside
    1 loud crash outside
+   1 loud indistinct conversation
+   3 loud indistinct talking
    4 loud jack-hammering outside
    1 loud moaning begins outside
    7 loud murmuring
@@ -2165,32 +3423,57 @@
    5 loud murmurs of outrage
    3 loud music blaring outside
    2 loud music plays in distance
+   1 loud music plays, indistinct conversations
+   2 loud music, indistinct chatter
+   1 loud rap, indistinct
+   7 loud rock, indistinct
    1 loud thud in distance
+   2 loud thud, indistinct shouting
    2 loud thump in distance
    1 loud thump outside
+   5 loud, indistinct chatter
+   1 loud, indistinct rock music plays
+   3 loud, indistinct voices
    1 louder indistinct murmuring
+   1 louder, indistinct chatter
    1 louie softly
    1 lounge music plays softly
+   1 lounge singer continues, indistinct
    1 lovers gasp and moan quietly nearby
+   1 low and indistinct catcalls
    1 low beeping in distance
    1 low gasps, murmurs
    1 low growling in distance
    1 low growls in background
+   1 low indistinct chatter
    6 low murmur from camp clanking of pots
   11 low murmuring
    9 low murmurs
    4 low murmurs in spanish
    1 low murmurs, chuckles
    1 low roar in distance, high-pitched sound continues
+   1 low, indistinct
+  22 low, indistinct chatter
+   1 low, indistinct conversation
+   4 low, indistinct conversations
+   1 low, indistinct music on tv
    1 low, indistinct talking in distance
    2 low, ominous murmuring
    1 lowers television volume, thunder continues outside
+   1 luau music playing, indistinct conversations
    1 lullaby music playing softly
    1 lullaby playing faintly
+   1 luther, indistinct
    1 lydia crying softly
    1 lydia quietly sobbing
    1 lynn continues singing in background
    1 lynn singing to piano in background
+   4 lyrics continue indistinct
+   1 lyrics continue indistinctly
+   2 lyrics from car radio, indistinct
+   2 lyrics indistinct
+   7 m.c. continues, indistinct
+   2 machine buzzing, indistinct conversations
    1 machine gun fire in the distance
    6 machine gun firing in distance
    2 machine gunfire in distance
@@ -2202,66 +3485,153 @@
    4 machinery clicking in distance
    1 machinery clicking, gunshots in distance
    1 machinery clinking in distance
+   1 machinery grinding, indistinct shouting
    3 machinery whirring and beeping loudly in the distance
    2 machinery whirring and clanking in distance
    1 machinery whirring quietly
+   2 machinery whirring, indistinct talking
    2 machines beep softly
+   1 madeline continues indistinct
    3 mae softly chanting
    2 maggie groans softly
    1 maggie, softly
    1 mah outside
    2 maisie sobs quietly
+   7 male announcer chattering indistinctly
+   1 male announcer on radio, indistinct
+   1 male announcer speaking indistinctly on tv
+   1 male announcer, indistinct
    1 male outside
+  16 male reporter speaking indistinctly
+  13 male reporter talking indistinctly
+   2 male singer on tape, indistinct
+   1 male singers indistinct
+   2 male sportscaster, indistinct
+   8 male vocalist, indistinct
    1 male voice heard faintly
    1 male voice in the distance
+   3 male voice on tv, indistinct
+   2 male voice singing guitar song, indistinct
+   4 male voice sings indistinct
    1 male voice speaks softly
+   1 male voice, indistinct, on tv
    1 malvado talking in distance
+   1 man 2 indistinct
    2 man and woman arguing in distance
+   3 man and woman arguing indistinctly
+   2 man and woman arguing, indistinct
+   1 man and woman chattering indistinctly
+   1 man and woman shouting indistinctly
+   2 man and woman speaking indistinctly
+   1 man and woman, indistinct
+   1 man announcing trains indistinctly
    2 man cackling in distance
+   4 man calling indistinctly
+   3 man calling plays indistinctly
+   3 man calls out indistinctly
    1 man chanting in background
    2 man chanting in distance
+   2 man chanting indistinctly in native language
+   9 man chattering indistinctly
    1 man chuckling softly
+   2 man continues indistinct
+   1 man continues indistinctly
+   1 man continues on p. a . , indistinct '
    1 man continues shouting commands in background
    2 man continues shouting in distance
+   2 man continues shouting indistinctly
+   1 man continues singing indistinctly
    1 man continues speaking in background
+   4 man continues speaking indistinctly
+  20 man continues, indistinct
    6 man coughing in distance
    2 man coughs in distance
    1 man crying in distance
+   2 man cursing, indistinct
    3 man from the distance
    2 man groans softly
    1 man growls softly
+   1 man grumbling indistinctly
    2 man humming quietly
    3 man hums softly
   10 man in distance
    1 man in distance shouting on bullhorn in arabic
    2 man in distance speaking indistinctly
    3 man in the distance
+   3 man indistinct
+   2 man intoning indistinctly
    2 man laughing in background
   10 man laughing in the distance
    2 man laughing outside
    1 man laughs in distance
+   1 man leading cadence, indistinct
+   1 man making indistinct announcements
    9 man murmuring
    1 man murmuring in french
    2 man murmuring indistinctly
+   2 man muttering, indistinct
+   3 man on bullhorn, indistinct
+   4 man on film speaks indistinctly
+   1 man on loudspeaker, indistinct
+   1 man on megaphone, indistinct
+   1 man on p.a. speaking indistinctly
+  10 man on p.a. system, indistinct
+  26 man on p.a., indistinct
+   5 man on p.a.: indistinct
+   1 man on pa continues, indistinct
+  11 man on pa, indistinct
+   1 man on pa., indistinct
+   2 man on phone, indistinct
+   1 man on police radio, indistinct
+   2 man on radio continues, indistinct
+   7 man on radio speaking indistinctly
+  22 man on radio, indistinct
+   3 man on speaker, indistinct
+   2 man on telephone, indistinct
+   2 man on tia indistinct
+   1 man on tv announcing, indistinct
+   1 man on tv chatting indistinctly
+  14 man on tv, indistinct
    6 man outside
+   1 man over p. a. system, indistinct
+   2 man over p.a, indistinct conversations
+   5 man over p.a., indistinct
+   1 man over radio, indistinct
+   4 man over walkie-talkie, indistinct
+   4 man overp.a., indistinct
+   1 man rapping indistinct
+   9 man rapping indistinctly
+   3 man rapping indistinctly over headphones
+   1 man rapping, indistinct
    1 man reading names aloud in background
    3 man retching in distance
    4 man screaming in distance
    4 man screaming in the distance
+   1 man screaming indistinctly
    1 man screams in distance
    2 man screams in the distance
+   2 man shouting announcement indistinctly
+   2 man shouting at fighters indistinctly
    3 man shouting faintly
   34 man shouting in distance
    3 man shouting in distance, dog barking
    7 man shouting in the distance
+  12 man shouting indistinct
+   2 man shouting indistinct orders
+  61 man shouting indistinctly
    4 man shouting indistinctly in background
    5 man shouting indistinctly in distance
+   1 man shouting indistinctly, all screaming
+   1 man shouting indistinctly, door creaks
    1 man shouting outside
+  19 man shouting, indistinct
    2 man shouting, indistinct, distant
    2 man shouts faintly
    5 man shouts in distance
    1 man shouts in the distance
+  34 man shouts indistinctly
    5 man shouts indistinctly in the distance
+   1 man shouts indistinctly, engines idling
    6 man shouts orders in distance
    1 man singing distantly
    1 man singing distantly in foreign language
@@ -2269,25 +3639,86 @@
    1 man singing gaelic in distance
    3 man singing in distance
    3 man singing in the distance
+  37 man singing indistinctly
+   2 man singing on radio, indistinct
+   1 man singing soft rock, lyrics indistinct
+   1 man singing somber song indistinctly
+  22 man singing, indistinct
    2 man speaking faintly
+   1 man speaking foreign language indistinctly
    4 man speaking from the loudspeakers outside
    4 man speaking in distance
+   8 man speaking indistinctiy
+   2 man speaking indistinctiy on radio
+   1 man speaking indistinctiy over police radio
+ 135 man speaking indistinctly
+   1 man speaking indistinctly in f or eign language
+   3 man speaking indistinctly in foreign language
+   2 man speaking indistinctly nearby
+   1 man speaking indistinctly on loudspeaker
+   4 man speaking indistinctly on p.a
+   2 man speaking indistinctly on p.a. system
+  93 man speaking indistinctly on pa
+  20 man speaking indistinctly on radio
+  14 man speaking indistinctly on television
+  16 man speaking indistinctly on tv
+   6 man speaking indistinctly on walkie-talkie
+   1 man speaking indistinctly ontv
+   3 man speaking indistinctly over intercom
+   6 man speaking indistinctly over loudspeaker
+   2 man speaking indistinctly over microphone
+   5 man speaking indistinctly over p.a
+   8 man speaking indistinctly over p.a. system
+   8 man speaking indistinctly over pa
+   1 man speaking indistinctly over police radio
+   7 man speaking indistinctly over radio
+   1 man speaking indistinctly over telephone
+   3 man speaking indistinctly over television
+   2 man speaking indistinctly over tv
    1 man speaking khmer in distance
+   3 man speaking on loudspeaker, indistinct
    1 man speaking outside
+   5 man speaking over radio indistinctly
    1 man speaking russian in distance
    4 man speaking spanish softly
+  16 man speaking, indistinct
    1 man speaks inaudibly on phone
+  46 man speaks indistinctly
+   4 man speaks indistinctly in spanish
+   2 man speaks indistinctly on radio
+   9 man speaks indistinctly over p.a
    1 man speaks indistinctly over p.a. in distance
+   2 man speaks indistinctly over pa
+  14 man speaks indistinctly over radio
+   6 man talking indistinctly
+   4 man talking indistinctly on radio
+   1 man talking indistinctly onp.a
+   2 man talking indistinctly over intercom
+   1 man talking indistinctly over pa
+   1 man talking indistinctly over radio
+   1 man talking on p.a., indistinct
+   1 man talking on police radio, indistinct
    4 man talking quietly
+  14 man talking, indistinct
    1 man talking, quietly
+   1 man talks indistinctly
+   6 man whispering, indistinct
   10 man yelling in distance
+  15 man yelling indistinctly
    5 man yelling, distant
+   6 man yelling, indistinct
+   1 man yells indistinct, gun fires
+   1 man's voice echoes indistinctly
    2 man's voice in background
+   1 man's voice, indistinct
    2 man, distant
    1 man, faintly
    3 man, in background
+  41 man, indistinct
    4 man, outside
    1 man, quietly
+   1 man, woman arguing, indistinct
+   9 manny continues talking, indistinct
    2 manscreamingin distance
    3 march playing in background
    1 march plays faintly
@@ -2295,18 +3726,26 @@
    2 margaret moans softly
    1 maria crying softly
    2 mariachi music outside
+   1 mariachi music playing, indistinct conversations
    4 mark laughing softly
    1 markie softly sings
    2 martians chattering in distance
+   2 martians chattering indistinctly
    5 martius grunts softly
+   1 marvin indistinct
+   3 mary margaret speaking indistinctly
    2 mary sobs quietly
    3 matt laughs softly
    2 mattress springs squeak softly
+   1 maureen, indistinct
    1 maxim sobs quietly
    1 maya indistinct in background
    1 mazzy huffing quietly into microphone
    1 mazzy humming softly
+   2 mccarthy on tv, indistinct
    1 meanwhile, deep in the mysterious woods outside the enemy roman camp
+   1 meatlug sniffing, indistinct arguing
+   1 medical staff speaking indistinctly
    3 meenah outside
    4 meerkats murmuring
    1 meet me outside later
@@ -2314,16 +3753,33 @@
    2 mei sobbing softly
    1 melancholic piano melody plays softly
    1 melissa etheridge's only oplaying in distance
+   2 melissa speaks indistinctly
+   2 mellow music and indistinct chattering
    1 mellow music playing in background
    3 mellow rock plays in background
+   4 men and women conversing indistinctly
+   1 men arguing, indistinct
+   2 men calling, indistinct
    2 men chanting distantly
+   1 men chatter indistinctly
+   8 men chattering indistinctly
+   2 men chattering indistinctly in foreign language
    7 men chattering outside
    1 men chattering quietly
    1 men chattering softly
+   7 men chattering, indistinct
    1 men chattering, shouting outside
+   4 men chatting indistinctly
    1 men chatting softly
+   1 men chatting, indistinct
    1 men cheering faintly
    2 men cheering softly
+   2 men continue chattering, indistinct
+   2 men continue speaking indistinctly
+   1 men continue talking indistinctly
+   8 men conversing indistinctly
+   6 men conversing indistinctly, voices altered
+   1 men conversing, indistinct
    5 men murmur
    1 men murmur and laugh
    2 men murmur in agreement
@@ -2331,36 +3787,71 @@
    4 men murmuring agreement
    1 men murmuring indistinctly
    1 men murmuring, groaning
+   1 men murmuring, indistinct
    2 men screaming in distance
+   3 men screaming indistinctly
+   6 men shout indistinctly
    1 men shouting and gunshots in distance
+  10 men shouting distant
    1 men shouting distantly
    1 men shouting faintly
    7 men shouting in background
   30 men shouting in distance
    4 men shouting in the distance
+   4 men shouting indistinct
+   1 men shouting indistinctiy
+ 109 men shouting indistinctly
+   1 men shouting indistinctly and gunfire on television
    2 men shouting indistinctly in distance
+   2 men shouting indistinctly in german
+   2 men shouting indistinctly, door closes
+   2 men shouting indistinctly, gunfire
+   1 men shouting indistinctly, women screaming
+   1 men shouting ln distance, indistinct
    1 men shouting orders in background
    3 men shouting outside
+  13 men shouting, indistinct
    1 men shrieking in distance
+   6 men shοuting indistinctly
+   1 men sing indistinct
    2 men singing in italian in distance
    1 men singing in the distance
+   5 men singing indistinctly
    1 men singing prayers in distance
+   3 men singing, indistinct
+   3 men speak indistinctly
    1 men speaking foreign language in distance
    1 men speaking in background
    1 men speaking in the distance
+  51 men speaking indistinctly
   10 men speaking indistinctly in distance
+   6 men speaking indistinctly in native language
+   2 men speaking indistinctly in spanish
+   2 men speaking indistinctly, basketball bouncing
    1 men speaking quietly in foreign language
    4 men speaking russian in the distance
+   5 men speaking, indistinct
    1 men talking in background
    4 men talking in the distance
+  27 men talking indistinctly
+   1 men talking indistinctly on tv
+   1 men talking indistinctly throughout
    1 men talking outside
    2 men talking outside, making rude sounds
+   7 men talking, indistinct
+   3 men whispering indistinctly
+   1 men y elling, indistinct
    1 men yelling distantly
    4 men yelling in distance
+  19 men yelling indistinctly
+   8 men yelling indistinctly in native language
    1 men yelling lndlstlnctly in distance
+   3 men yelling, indistinct
    1 men's distant murmuring
    1 men's voices in background
    1 men's voices in distance
+   1 menshoutingindistinctly andgunfireon television
+   1 merchants calling out, indistinct
    1 merrin laughs faintly
    1 merrymaking outside continues
    4 metal bang in distance
@@ -2370,16 +3861,24 @@
    1 metal noises outside, dog barking distant
    3 metal pipes clanking quietly
    1 metallic clanging and chatter in distance
+   2 metallic droning, indistinct voices
    5 metallic scraping in distance
+   2 michael, indistinct
+   6 mick speaking indistinctly
+   1 mickey speaking indistinctly
    2 mid-tempo latin music plays in distance
    1 mid-tempo music continues in distance
+   4 mid-tempo music playing, indistinct conversations
    2 mid-tempo music plays faintly
    1 mid-tempo music plays in distance
+   1 mid-tempo music plays, indistinct conversations
    1 mid-tempo pop music plays in background
-   2 mid-tempo rock music plays in distance
+   4 mid-tempo rock music plays in distance
    8 middle-eastern music in the background
    4 middle-eastern song in the background
    2 mike chuckles softly
+   4 mike mutters, indistinct
+   1 mikey, indistinct
    2 mild applause and distant chattering
    3 military command in the background
    1 military trumpets blow in distance
@@ -2393,7 +3892,7 @@
    1 moaning heard in distance
   11 moaning in distance
    3 moaning in the background
-   4 moaning quietly
+   5 moaning quietly
   46 moaning softly
    1 moaning softly in terror
   10 moans quietly
@@ -2402,21 +3901,32 @@
   10 mob shouting and yelling distantly
    1 mob shouting in distance
    2 mob yelling, pounding in distance
+   1 mocking laughter, indistinct chatter
+   1 mocking, indistinct
+   1 modell speaking, indistinct
    2 mole faintly calling
    2 mom, softly
+   1 mona, indistinct
+   1 moncada shouts indistinctly
+   2 monica speaking indistinctly through headphones
    1 monitor beeping quietly
+   3 monitor beeping, indistinct shouting
+   1 monitor beeping, indistinct talking
    1 monitor beeps, telephone rings in distance
+   2 monitors beeping, indistinct chatter
    1 monk groans softly
    2 monkey screeching in distance
    1 monkey screeching, trappers yelling in distance
    1 monster groans quietly
    1 monster roaring in the distance
+   4 montage of indistinct talking, music, sounds
    1 moody music playing quietly
    2 more distantly
    4 more quietly
    1 more quietly, dripping faucet in the background
    1 more softly
    1 morgan laughing softly
+   1 mother continues indistinctly
    1 mother crying bitterly in background
    1 mother giggles quietly
    1 motor droning softly
@@ -2438,11 +3948,20 @@
    2 mournful cries and murmuring
    2 mouth quietly
    5 mouthing inaudibly
+   1 mouthing words indistinctly
    3 mouths quietly
+   2 movie playing indistinctly
    2 movie plays in background
+   1 mr. carlson speaking indistinctly
+   3 mr. wang speaking indistinctly
+   6 mrs. beale, indistinct
+   1 mrs. dendy speaks indistinctiy
    1 mrs. ramsey gasps quietly
+   1 mrs. stephens, indistinct
    2 muffled crash, woman screams in distance
    1 muffled hlp-hop music playing in distance
+   4 muffled indistinct conversation
+   1 muffled indistinct talking
    8 muffled murmur
   14 muffled murmuring
    4 muffled music in background
@@ -2453,16 +3972,27 @@
    3 muffled shouting in the distance
    1 muffled shouting outside
    1 muffled sobs and murmurs of grief
+   1 muffled speech, indistinct
    4 muffled voice in the distance
+   4 muffled voice, speaks indistinctly
    1 muffled voices in background
    2 muffled, distant
    3 muffled, distant screaming
+   1 muffled, indistinct
+   1 muffled, indistinct conversations
+   3 muffled, indistinct shouting
+   1 mulder, indistinct
    5 multiple conversations with organ music in the background
+   1 mumbles indistinctiy
+  37 mumbles indistinctly
    2 mumbles softly
+   2 mumbles, indistinct
    1 mumbling and singing softly
+  30 mumbling indistinctly
    5 mumbling quietly
    2 mumbling to self outside
    2 mumbling voices in background
+  40 mumbling, indistinct
    1 murdock murmuring in amazement
    2 murmur
    2 murmur greetings in spanish
@@ -2496,14 +4026,16 @@
    1 murmuring in spanish
    9 murmuring in the background
    5 murmuring increasing
-  12 murmuring indistinctly
+  17 murmuring indistinctly
+   1 murmuring indistinctly, baby crying
    1 murmuring intensifies
    1 murmuring prayers
    1 murmuring quietly
+   1 murmuring quiets
    1 murmuring shrilly
    1 murmuring stops
-   1 murmuring subsides
-   2 murmuring throughout
+   2 murmuring subsides
+   4 murmuring throughout
    2 murmuring voices
    1 murmuring voices, music
    1 murmuring, argueing
@@ -2523,7 +4055,7 @@
    5 murmurs continue
    3 murmurs greeting
    3 murmurs in spanish
-   5 murmurs indistinctly
+   9 murmurs indistinctly
    1 murmurs numbers
    1 murmurs of acceptance
    1 murmurs of admiration
@@ -2545,7 +4077,9 @@
    1 murmurs word
    1 murmurs, grunts
    1 murmurs, laughs
+   2 murray the "k"on radio, indistinct
    5 music and announcer continue in background
+   1 music and indistinct commentary
    1 music and singing in background
    2 music blares, people talking in distance
    3 music box playing in distance
@@ -2554,16 +4088,22 @@
    3 music continues distantly
   19 music continues faintly
    3 music continues faintly inside car
-  10 music continues in background
+  12 music continues in background
    2 music continues in background, overlapping chatter
   19 music continues in distance
    2 music continues in the background
    1 music continues in the distance
+  14 music continues indistinctly
    1 music continues outside, faint
    3 music continues softly
    5 music continues softly in background
    1 music continues thumping faintly
+   2 music continues, characters talking indistinctly
    1 music continues, faintly
+   6 music continues, indistinct
+   1 music continues, indistinct chatter
+   1 music continues, indistinct shouting
+   1 music continues, indistinct talking
    2 music continues, women cheering in distance
    1 music continuesin background
    3 music continuing distantly
@@ -2579,9 +4119,10 @@
    3 music in distance stops
    2 music in the background
    1 music on radio playing softly
+   1 music over indistinct dialogue
    4 music playing distantly
   16 music playing faintly
-   3 music playing faintly in headphones
+   4 music playing faintly in headphones
    1 music playing faintly on radio
    1 music playing faintly on the radio
    1 music playing faintly on tv
@@ -2592,21 +4133,31 @@
    1 music playing in far distance
    1 music playing in the background
    2 music playing in the distance
+   6 music playing indistinctly
+   1 music playing indistinctly on tv
+   1 music playing loudly, indistinct chatter
    2 music playing outside
    1 music playing quietly
   20 music playing softly
    1 music playing, crowd cheering in distance
+  27 music playing, indistinct chatter
+   5 music playing, indistinct shouting
    1 music plays faintly
   11 music plays in background
   26 music plays in distance
    1 music plays in distance, becomes louder
+   1 music plays indistinctly
    7 music plays quietly
   11 music plays softly
    4 music plays softly on car radio
    1 music plays softly on piano
+   2 music plays, indistinct chatter
+   7 music plays, indistinct conversations
+   1 music plays, indistinct singing
    4 music pounding in distance
    2 music rumbling outside
    1 music somewhat more quietly, but hitched up
+   4 music stops, indistinct shouting
    1 music thumping, indistinct singing in distance
    1 music, conversations resume in distance
    1 music, indistinct conversations in distance
@@ -2618,22 +4169,34 @@
    1 mus¡c play¡ng softly
    3 muted arguing in distance
    2 muted clatter outside
+   8 muted indistinct speech
    2 muted tv in background
    1 muted voices murmuring
+   2 muttering and shouting indistinctly
    1 muttering faintly
    2 muttering inaudibly
+  49 muttering indistinctly
    2 muttering outside
    5 muttering quietly
    5 muttering softly
+  12 muttering, indistinct
+   1 muttering; indistinct
    2 mutters inaudibly
+  48 mutters indistinctly
    3 mutters softly
+   4 mutters, indistinct
+   2 muttersindistinctly
    3 muzak in background
    1 muzak playing faintly
    5 muzak plays in background
    1 nani in distance
+   2 narration continues indistinctly
+   2 natalie speaking indistinctly
    1 natasha talks inaudibly
+   3 nate speaks indistinctly
    1 native americans chanting, distant
    3 nazareth's "love hurts" plays in distance
+   2 neal speaking indistinctly
    2 nealy and miles chatter in background
    1 negative murmurs
    2 neighbors shouting in distance
@@ -2643,15 +4206,22 @@
    1 neighs softly
    2 nervous murmuring
    1 new age music plays softly
+   1 new song playing, singing indistinctly
    2 news droning in background
    1 news program in background
    1 news radio in background
+   4 news report continues indistinctly
    1 news report in background
+   2 newscast continues indistinct
+   1 newscasters overlapping indistinctly
+   1 newspaperman shouts indistinctly
+   1 newswoman on tv indistinct, elevator bell rings
    1 next time do not wait eonni outside
    1 nick, quietly
    4 nickering softly
    8 nickers quietly
-  17 nickers softly
+  19 nickers softly
+   2 nishioka speaks indistinctly
    1 no one can see in from the outside
    1 noah crying in background
    1 noise continues in distance
@@ -2662,15 +4232,28 @@
    2 noises outside
    2 nonsense talked in the background
    1 nora calling outside
+   1 nora indistinct
    1 norman groans softly
    1 nostalgic waltz plays faintly
+   1 nurse speaking indistinctly
+   1 o'keefe continues indistinctly
+   1 o'keefe shouting indistinctly
    1 oarlos speaks softly
    2 oars quietly splashing water
    1 objects crashing in distance
+   1 october's thoughts whispered indistinctly
    1 odd clipping sounds in distance
+   1 off-screen laughter, indistinct conversation
+   4 officer speaking indistinctly
+   1 officers shout indistinctly
+   7 officers shouting indistinctly
+   7 officers speaking indistinctly
    2 officers talking in distance
+   4 officers yelling indistinctly
    2 oh,thegreatdays will bring distance enchanted
    1 oharles cries softly
+   3 olivia and peter talking indistinctly
+   2 olivia singing indistinctly in shower
   10 olivia talking loudly in distance
    1 on stereo, outside
    3 onlookers gasping, murmuring
@@ -2682,6 +4265,7 @@
    4 opera music playing softly
    1 opera singing in distance
    2 operatic singing in distance
+   1 operatortalking, indistinct
    1 orchestra plays softly
    2 orchestra tuning in the distance
    3 orchestral music continues, with tv ad in background
@@ -2697,25 +4281,47 @@
    1 original musicvideo playing in background
    1 others murmuring negatively
    1 others softly chuckle
+   1 others talking, faint and indistinct
   12 outside
    1 outside country
+   1 overlapping chatter, indistinct
    1 overlapping chatter, music in background
    1 overlapping gunfire in distance
+   6 overlapping indistinct chatter
    4 overlapping murmuring
    8 overlapping murmurs
    1 overlapping voices in background
    2 overlapping voices murmuring
+   1 owen speaking indistinctly
    1 owl hooting in distance
    4 owl hoots in distance
    2 p. a. announcement in background
+   1 p. a. blares indistinctly, crashing
    4 p.a. announcement continues in background
    2 p.a. announcement in background
+   6 p.a. announcer continues, indistinct
+   2 p.a. announcer speaking indistinctly
+   1 p.a. announcer, indistinct
+   2 p.a. blares indistinctly, crashing
+   3 p.a. continues, indistinct
    6 p.a. in background
+   1 p.a. indistinct
    1 p.a. page in background
+   1 p.a. system continues, indistinct
+   1 p.a. system, passengers chattering, indistinct
+   1 p.a. tone chimes, woman speaking indistinctly
+   4 p.t. continues singing, indistinct
+   4 p.t. humming, indistinct
+   1 pa announcements, indistinct
+   2 pa continues indistinctly
+   2 pablo continues indistinctly
    2 pablo counting softly
+   3 page speaking indistinctly
    1 pai chanting in maori in distance
    4 paige breathing heavily, whimpering in the distance
    4 paige crying in the distance
+   1 paige speaking indistinctly
+   1 paige speaks indistinctly
    1 paisa murmurs
    1 pallas gasps softly
    1 palntballs firing in distance
@@ -2723,54 +4329,79 @@
    3 panicked shouting in background
    1 panther growling quietly
    1 panting in distance
-   4 panting quietly
+   5 panting quietly
    7 panting softly
    2 panting, murmuring
    1 pants softly
    2 paper rustles, mail robot beeps in distance
+   1 papparazzi shouting, indistinct
+   1 parents speaking, indistinct
+   5 parisian music, indistinct chatter
    3 park and greer chatting quietly
    1 partly intelligible discussion in background
+   1 party bustling, indistinct chatter
    1 party music and talking in the distance
    1 party noises in background
    2 party-goers murmur in disappointment
    8 partygoers murmuring
+   2 passengers chattering, indistinct
    2 passengers murmur
   24 passengers murmuring
    1 passengers scream in distance
+   1 passers-by talking, indistinct
+   2 pat speaking indistinctly
+   1 patrons chatter indistinctly
+   1 patrons chattering indistinctly
+   1 patrons chatting, indistinct
+   1 patrons complaining, indistinct
    3 patrons murmur
    1 patrons murmur and laugh
    8 patrons murmuring
    1 paul and charlie talking in the background
    1 paullne de saxe´s "lnslde my head" plays in distance
+   1 peasants shouting indistinct orders
+   1 peddler hawking, indistinct
    7 peeps softly
    1 pendulum rings faintly
+   3 penelope continues indistinctly
    3 penny murmuring, shushing
    2 penny, faintly
    4 pensive music playing softly
    1 people arguing, distant
    2 people chanting in background
    3 people chanting in distance
+   4 people chanting indistinctly
    4 people chanting outside
+   1 people chanting, indistinct
+   1 people chat indistinctly
    1 people chattering faintly
    1 people chattering in background
    1 people chattering in distance
+   6 people chattering indistinctly
    1 people chattering quietly
    3 people chattering softly
+   5 people chattering, indistinct
    3 people chattering, laughing in distance
    1 people chattering, laughing in the distance
+   7 people chatting indistinctly
    2 people cheering in distance
    4 people cheering in the distance
    1 people clamoring outside
    3 people clapping in background
+   1 people continue speaking indistinctly
+   5 people conversing indistinctly
    2 people conversing quietly
    1 people conversing softly
    1 people coughing in distance
+   3 people coughing, indistinct chatter
    2 people entertains itself quietly in the background
    5 people gasping and murmuring
+   3 people gasping, man shouting indistinctly
    4 people gasping, murmuring
    1 people groaning quietly
    1 people in distance singing in african language
    1 people laughing and shouting in distance
+   1 people laughing and speaking indistinctly
    3 people laughing in background
    2 people laughing, cheering in distance
   10 people murmur
@@ -2786,37 +4417,58 @@
    1 people murmuring worriedly
    1 people murmuring, cameras clicking
    1 people murmuring, chattering
-   2 people outside cheering
+   1 people on tv continue, indistinct
+   3 people outside cheering
    2 people resume talking in background
    1 people scream in the distance
    1 people screaming in distance
    1 people screaming in distance, roller coaster rumbles
    2 people screaming in the distance
+   2 people screaming indistinctly
+   1 people screaming indistinctly, alarm bells ringing
    2 people screaming, distant
    1 people screaming, laughing in the distance
    4 people shouting in background
    8 people shouting in distance
    2 people shouting in the distance
+  27 people shouting indistinctly
+   2 people shouting, indistinct
+   1 people singing faintly
    1 people singing in distance
+   2 people speaking indistinct
+  56 people speaking indistinctly
+   1 people speaking indistinctly in turkish
+   1 people speaking indistinctly over cell phone
+   1 people speaking indistinctly, water splashing
    4 people speaking spanish in distance
+   3 people speaking, indistinct
    1 people talking and laughing in the background
    1 people talking and laughing in the distance
    2 people talking far away
    1 people talking in background
    3 people talking in the background and glass shattering
+  30 people talking indistinctly
    1 people talking quietly
+   3 people talking, indistinct
    1 people talks in the background
+   2 people whispering indistinct
    5 people yelling in distance
    5 people yelling in the background
    2 people yelling in the distance
    1 people yelling outside
    6 percussion in distance
+   1 person on radio, indistinct
    3 person shouting in distance
+   2 person talking indistinctly over phone
    1 pete grunting softly
    4 peter softly grunts
+   1 peter talking indistinctly
    2 petula clark's downtown playing faintly
    3 peοple singing in distance, indistinct
+   3 peοple singing, indistinct
    1 phil chattering inaudibly
+   5 phil speaking indistinctly
+   1 phillip and donald arguing indistinctly
    1 phlox murmurs in delight
    5 phone buzzing in distance
    1 phone in distance
@@ -2827,13 +4479,15 @@
    4 phone ringing in the background
    1 phone ringing in the distance
    3 phone ringing softly
+   1 phone ringing, indistinct chatter
    1 phone ringing, siren wailing in distance
    8 phone rings in background
    4 phone rings in distance
    3 phone rings in the distance
    1 phones ring in background
-   5 phones ringing in background
+   7 phones ringing in background
    1 phones ringing in distance
+   1 phones ringing, indistinct conversations
    1 phonograph plays bright swing melody in distance
    1 pianist playing softly
    1 pianist plays softly
@@ -2841,6 +4495,7 @@
    1 piano music playing in background
    1 piano music playing in distance
    2 piano music playing softly
+   1 piano music plays, indistinct conversations
    1 piano playing in background
    6 piano playing in distance
    4 piano playing in the background
@@ -2848,15 +4503,18 @@
   12 piano playing softly
    1 piano playing softly, indistinct conversations
    1 piano playing softly, utensils clinking
+   4 piano playing, indistinct conversations
    6 piano plays faintly and tragically
    7 piano plays softly
    1 piano plays softly in distance
    1 piano plays softly, flames crackle
+   1 piano plays, indistinct conversations
    4 piano pop melody plays in background
    6 piano solo music plays softly
    1 pig squealing in distance
    2 pigeons cooing softly
    2 pilgrims murmuring
+   2 pilot indistinctly over pa
    1 pimenov murmurs
    1 pinging softly
    1 pings softly
@@ -2867,98 +4525,154 @@
    1 plane engine in distance
    1 plane engine roars in distance
    1 plane engine roars outside
+   1 plane radio, indistinct
    1 plane roars in distance
    2 plane whlrrlng in distance
+   1 play continues, indistinct
    1 play-by-play in background
    1 players murmuring
    2 players murmuring in agreement
+   8 players shouting, indistinct
    2 playful chatter in distance
+   1 playing field: indistinct shouting
    1 playing guitars softly
+   2 playing indistinctly
    9 playing softly
    1 plays in distance
    1 plays music softly
    2 plays piano softly
    1 pleading softly
+   1 pleading, indistinct
    2 pleased murmuring
    2 po and shifu shouting in distance
    1 po grunting in distance
    1 pocket watch shuts quietly
    1 police and ambulance sirens in the background
+   5 police announcement, indistinct
+   3 police calling out indistinctly
+   1 police car radio, indistinct
    3 police chatter in distance
+   4 police dispatcher, indistinct
+   1 police rad, indistinct
    2 police radio chatter in background
   13 police radio chatter in distance
+   3 police radio chatter, indistinct
+   3 police radio chatter, indistinct conversations
    2 police radio chatter, siren wails in distance
+   1 police radio continues, indistinct
+   1 police radio crackling, indistinct
    1 police radio drones distantly
    3 police radio in background
    4 police radio in distance
+   2 police radio indistinct
    1 police radio murmuring
+   1 police radio static, indistinct communication
+  26 police radio, indistinct
+   2 police radio, indistinct chatter
+   3 police radio: indistinct
    1 police radios crackling in the background
+   1 police radios indistinct
    1 police scanner chatter outside
+   1 police scanner chatter, indistinct shouting
    2 police shouting in background
+   1 police shouting indistinctly
    1 police siren blaring in distance
+   2 police siren blaring, indistinct police radio chatter
    4 police siren in distance
    1 police siren in distance, indistinct pa announcements
    5 police siren in the distance
    2 police siren wailing in distance
    2 police siren wailing in the distance
    1 police siren wails distantly
+   2 police sirens and indistinct voices on radio
    1 police sirens blaring in distance
   13 police sirens blaring in the distance
   14 police sirens in background
-   8 police sirens in distance
+   9 police sirens in distance
    2 police sirens sound in the distance
    1 police sirens wail distantly
    3 police sirens wailing in distance
    1 police sirens wailing in the distance
+   1 police talking indistinctly
    2 police whistle blows in distance
    3 police whistles trilling distantly
    2 policemen murmuring
+   1 policemen talking indistinctly
+   1 policemen talking, indistinct
+   1 policeradiochatter, indistinct
    1 pooh murmuring
+   3 pop dance music playing, indistinct conversations
    1 pop goes the weasel plays outside
    3 pop music continues faintly
    7 pop music in background
    2 pop music playing faintly on jukebox
    3 pop music playing in background
    2 pop music playing in distance
+   1 pop music playing loudly, indistinct conversations
    6 pop music playing softly
    1 pop music playing softly on radio
+   1 pop music playing, indistinct conversations
    1 pop music plays distantly
    2 pop music plays in background
    1 pop music plays quietly
+   2 pop music plays, woman singing indistinctly
+   1 pop music, indistinct chatter
+   1 pop music, male voice sings indistinct
    4 pop song playing softly
    1 pop song playing softly on radio
+   5 pop, indistinct
    1 popgoestheweasel plays outside
    1 popping sounds in distance
    2 porn music in background
    1 pounding and murmuring
+   1 pounding continues, indistinct shouting
    7 pounding in distance
    1 pounding noise in distance
+   3 pounding on door, indistinct shouting
+   1 pounding on door, indistinct talking
    1 pounding outside
    1 power tools buzzing outside
+   1 prayer continues indistinctly
    4 prayer in latin in the background
+   2 praying indistinctly
   10 praying quietly
    1 praying quietly in latin
    6 praying softly
   13 praying softly in spanish
+   2 prays indistinctly
    2 priest saying "lord's prayer" in background
+   1 priest speaks indistinctly in latin
+   1 priest talking indistinctly
    1 princesses murmuring nervously
    1 prison door shutting and bolting from outside
    1 professor speaking in distance
+   1 program continuing indistinctly
    1 promotional music playing faintly
    1 protestors chanting in background
+   3 protests indistinctly
+   2 provenza speaking indistinctly
+   2 pryce's voice echoes indistinctly
    2 pulsating, seductive music plays in distance
    1 punches landing, shouting in distance
+   4 puppeteer shouting indistinctly
    2 puppets murmuring
    1 pyramids in the background
    7 quacks softly
+   1 quarrelling, indistinct
+   2 queen continues, indistinct
+   1 quiet chatter, indistinct
    1 quiet conversations in the background
-  16 quiet murmuring
+   1 quiet exchange, indistinct
+   1 quiet indistinct chatter
+  18 quiet murmuring
    2 quiet murmuring and whispering among guests
    1 quiet tapping and telephone bells in the background
    1 quiet telephone bells in the background
    1 quiet voices in the background
    1 quiet, distant singing
- 403 quietly
+   3 quiet, indistinct chatter
+   4 quiet, indistinct chattering
+ 404 quietly
    1 quietly and kindly
    1 quietly blowing notes
    4 quietly clears throat
@@ -2980,26 +4694,63 @@
    2 quietly whimpering
    2 quietly, yet deadly
    5 quilla sobbing in background
+   2 rabbe speaking indistinctly
+   2 race announcer speaking indistinctly on p.a
    1 rachel murmuring
    1 rachel sniffles quietly
+   1 rachin indistinct
+   1 rad/o continues, indistinct
+   4 radio announcer continues, indistinct
+   1 radio announcer speaking indistinctly
+   2 radio announcer speaks indistinctly
+   2 radio announcer, indistinct
    1 radio announcer, softly
+   2 radio broadcast, indistinct
    1 radio chat in background
    2 radio chatter, distant sirens
+   6 radio chatter, indistinct
+   5 radio chatter, indistinct conversations
+   4 radio chatter: indistinct
+   1 radio chattering indistinctly
    2 radio continues in background
+   2 radio continues indistinctly
+   6 radio continues, indistinct
+   1 radio dial clicking and indistinct chatter
+   1 radio dispatch voices, indistinct
+   3 radio dispatcher, indistinct
+   2 radio drones indistinctly
    1 radio in the background
    2 radio in the background: ...extremely dangerous
+   2 radio man talking, indistinct
+   1 radio news chattering indistinctly
+   1 radio news, indistinct
+   1 radio newscaster, indistinct
+   7 radio on, indistinct
    2 radio people in background
    7 radio playing faintly
    2 radio playing in background
+   9 radio playing indistinctly
    1 radio playing pop song in background
    2 radio playing quietly
    5 radio playing softly
-   2 radio plays in background
+   3 radio plays in background
+  11 radio plays indistinctly
    6 radio plays pop music quietly
    1 radio plays quietly
    4 radio plays softly
    1 radio quietly playing
+   3 radio show continues, indistinct
+   3 radio show, indistinct
    1 radio sounding faintly
+   1 radio static, indistinct chatter
+   2 radio transmission continues, indistinct
+   1 radio transmission, indistinct
+   3 radio transmissions, indistinct
+   2 radio transmitting indistinctly
+   4 radio, indistinct
+   3 radio: police dispatcher, indistinct
+   2 radios crackling indistinctly
+   1 ragosa shouting indistinctly
   14 rain falling outside
    1 rain falling quietly
    1 rain pattering, distant thunder
@@ -3008,46 +4759,96 @@
    9 rajah murmuring
    2 raji continues screaming outside
    3 raju singing in the background
+   1 ralph continues indistinctly
+   1 ralph speaking indistinctly
+   2 randall muttering indistinctly
    1 randy laughs quietly
    2 rangi cursing in background
    1 ransik in distance
+   4 rap continues, indistinct
    2 rap music coming from outside
+   1 rap music continues indistinctly
    2 rap music continues playing softly
    1 rap music in background
    2 rap music playing and dog barking in distance
    1 rap music playing in background
    2 rap music playing in distance
+   2 rap music playing indistinctly
    2 rap music playing quietly
    2 rap music pounding in background
+   3 rap on car stereo, indistinct
+   1 rap on tv, indistinct
    3 rap playing in background
    6 rap plays softly
+   1 rap song, indistinct
+  13 rap, indistinct
    1 rap, softly
+   5 rapid footsteps, indistinct radio chatter
    5 rapid gunfire in distance
+   4 rapid, indistinct chatter
+   1 rapper: indistinct
+  34 rapping indistinctly
+   3 rapping, indistinct
+   6 raps indistinctly
+   6 raquela singing indistinctly
+   1 rascals chattering, indistinct
    2 rattle in distance
    7 rattling in distance
    3 rattling outside
    1 rattling, banging outside
    2 rb music plays in distance
+   1 rb music plays, indistinct conversations
+   5 reading indistinctly
+   1 reading indistinctéy
    3 reading softly
+   2 reading, indistinct
    4 reads murmuring
+   1 reads, indistinct
+   1 reagan speaks indistinctly
+   9 reaper speaking indistinctly
    3 receptionist in background paging on intercom, electronic buzzing
+   1 recording warbling, indistinct
    5 ree, softly
    1 reel softly clicking
    2 reels clicking softly
+   1 reeves speaks indistinctiy
+   2 ref talking, indistinct
+   2 regi speaking indistinctly
    1 relieved sighs and murmurs
+   1 renan, indistinct
    1 repeat quietly
    2 repeated banging in distance
   11 repeated gunshots, circus music plays in background
+   1 replies indistinctly
+   3 reporter continues indistinctly
+   2 reporter continues, indistinct
+   2 reporter speaking indistinctly
+   2 reporter speaking indistinctly on tv
+   2 reporter talking indistinctly
+   1 reportercontinues indistinctly
+   2 reportercontinues, indistinct
+   2 reporters chattering indistinctly
+   2 reporters firing questions, overlapping, indistinct
    3 reporters murmur
   20 reporters murmuring
    4 reporters murmuring questioningly
    4 reporters murmuring quizzically
+  24 reporters shouting indistinctly
+   3 reporters shouting, indistinct
+   5 reporters speaking indistinctly
+   2 reporters talking indistinctly
+   1 reporters talking, indistinct
    1 reporters yelling outside
    2 rescue radio chatter in background
+   7 residents chattering indistinctly
    1 residents murmuring
    1 responds softly
+   2 responds, indistinct
    1 retching quietly
+   1 reverend continues indistinctly
+   2 rhodes talking, indistinct
    2 rhythmic percussion playing quietly
+   1 richard continues, indistinct
    2 richter groans quietly
    1 ricky yells in the background as he tears down his walls
    2 rides clanking, people scream happily in distance
@@ -3056,6 +4857,7 @@
    3 ringing in distance
    1 ringing softly
    1 rita weeps softly
+   1 ritchey speaks indistinctly and laughs
    2 river rushing in the distance
    1 roar in distance
    1 roar of car engine fades into distance
@@ -3066,40 +4868,54 @@
    5 roaring in the distance
    2 roars echo distantly
    5 roars softly
+   1 rob grumbles, indistinct
    1 robots chatter in distance
    1 rock 'n' roll music playing in background
    3 rock 'n' roll music plays in background
    2 rock 'n' roll playing in background
+   5 rock and roll, indistinct
    2 rock in distance
    1 rock music blaring distantly
+   1 rock music continues indistinctly
    1 rock music heard in distance
    4 rock music in distance
    3 rock music in the background
    6 rock music playing faintly
    5 rock music playing in background
   10 rock music playing in distance
+   3 rock music playing, indistinct chatter
+   2 rock music playing, indistinct cheering
+   2 rock music playing, indistinct conversations
    2 rock music plays faintly
    1 rock music plays in background
   22 rock music plays in distance
+   1 rock music plays indistinctly
    5 rock music plays softly
+   4 rock music plays, indistinct conversation
+   3 rock music plays, indistinct conversations
    6 rock playing in distance
    2 rock pop music in background
    1 rock song take me with u by prince plays in background
+  35 rock, indistinct
    3 rockabilly plays in background
    1 roman panting softly
+   1 roman, indistinct
    1 romantic instrumental music playing softly
    6 romantic music playing distantly
    3 romantic music playing softly
    1 romantic song plays softly over stereo
    2 rommel barking in distance
    2 rommel barks in distance
+   3 ron jon indistinct
    1 room murmuring
   10 rooster crows in distance
    1 rope softly thuds below
+   4 rosen responds, indistinct
    5 rossi speaking in background
    2 royal telephone by burl ives plays in distance
    1 ruckus in distance
    1 rumble of wagons outside
+   5 rumbling , indistinct shouting
    2 rumbling and explosions in distance
    2 rumbling eases, debris settling softly
    1 rumbling in background
@@ -3108,36 +4924,59 @@
    2 rumbling in the distance
    1 rumbling noise in distance
    1 rumbling outside
+   5 rumbling, indistinct shouting
    2 rumbling, passengers murmuring
    1 rumbllng in distance
+   1 russ speaks indistinctly
    1 rustling in background
    6 rustling in distance
    2 rustling in the distance
+  10 rustling, indistinct chatter
    1 ruth sobbing softly
+   2 ruth speaking indistinctly
+   1 ruth, indistinct
+   1 ryan speaking indistinctly
+   2 ryland shouting, indistinct
+   1 sailors yelling indistinctly
    1 salsa music playing in distance
+   2 sam chattering indistinctly
    1 sam chuckles quietly
    3 sam humming softly
+   1 sam indistinct over radio
    1 sam sobbing quietly
    2 sam, quietly
+   2 sammy and harding conversing indistinctly
    4 san is the most common honorific, used when addressing most social outsiders
    1 sara breathing softly
    1 sax playing in background
    1 saxophone plays softly
    1 scanner in distance
    3 scared murmuring
+   2 scattered clapping, indistinct conversations
    4 scattered conversation, pop tune plays in background
    1 scattered gasps, murmuring
    3 scattered murmuring
    7 scattered murmurs
+   1 scattered whooping and indistinct conversation
    1 scattered yelling from outside, voices over police radio
+   1 scatting indistinctly
    5 school bell ringing in distance
    1 school bell rings in distance
+   2 school bell rings, indistinct conversations
+   1 school children yelling indistinctly
+   8 schultz whistling indistinctly
+   3 schumler answers phone, talking indistinctly
+   3 schumler talking indistinctly
    5 scientists murmuring
+   2 scoffing, muttering indistinctly
   13 scoffs quietly
   39 scoffs softly
+   1 scott speaks indistinctly
    8 scraping in distance
    4 scream echoing in distance
    7 scream in distance
+   2 screaming and indistinct shouting
+   3 screaming and indistinct talking
    2 screaming and laughter continue in distance
    2 screaming at a distance
    1 screaming continues faintly
@@ -3149,66 +4988,101 @@
    1 screaming in spanish distantly
   12 screaming in the background
    3 screaming in the distance
+  15 screaming indistinctly
    2 screaming outside
    3 screaming quietly
+  12 screaming, indistinct
+   4 screaming, indistinct demonic incantation
    1 screams can be heard from outside the door
+   4 screams indistinctly
+   1 screams, indistinct
    1 screech in distance
   31 screeching in distance
+   1 screeching indistinctly
    1 screeching quietly
    1 screechng sounds in distance
+   1 scully continues, indistinct
    1 sea gulls squawk in distance
    3 sea gulls squawking, air horn blows in distance
+   1 sean and tess shouting, indistinct
    1 send her outside and no one else will die
    1 senseless murmuring
+   4 seti chattering indistinctly
    1 shadow roars in distance
    1 shafe murmurs
    1 shane snarling in distance
+   1 shannon saying something indistinct
    3 sharrona sings softly
    2 shaun struggling outside
    2 she lives quietly among her colleagues
    4 sheep bells clanging outside
    2 sheep bleating in distance
    2 sheep bleats in distance
+   2 shelby screaming indistinctly
    2 shelley sobs quietly
    1 shelly laughs softly
+   2 sheriff, indistinct
    2 ship horn blares in distance
    3 ship horn blaring in distance
    3 ship horn blows in distance
    1 ship horns blowing in distance
+   1 shirley speaking indistinctly
    8 shocked murmuring
    4 shocked murmurs
    1 shocked murmurs from the partygoers
    1 shots blasting distantly
    2 shots ricocheting softly
    2 shout in distance
-  28 shouting and gunfire in distance
+  31 shouting and gunfire in distance
    2 shouting and horns fade into distance
+   2 shouting and music indistinct
   11 shouting continues in distance
    1 shouting continues in the distance
+   1 shouting continues indistinctly
    1 shouting continues outside
+   5 shouting continues, indistinct
    3 shouting distantly
   23 shouting in background
   30 shouting in distance
    1 shouting in german outside
    5 shouting in the distance
    3 shouting inaudibly
+   1 shouting indistinct
+   3 shouting indistinct commands
+   1 shouting indistinctiy
+   1 shouting indistinctl
+ 266 shouting indistinctly
    2 shouting indistinctly in distance
+   1 shouting indistinctly, pounding on door
+  15 shouting ln spanish, indistinct
   14 shouting outside
    1 shouting outside, police whistle
    2 shouting outside, sirens
+   1 shouting through megaphone, indistinct
+  63 shouting, indistinct
+   2 shouting, indistinct conversations
    1 shouting, sirens outside
+   1 shouting, yelling, indistinct
+   3 shoutingindistinctly
    3 shouts from outside
    6 shouts in distance
+   2 shouts in native language indistinctly
    1 shouts in the distance
    1 shouts inaudibly
+ 104 shouts indistinctly
+   1 shouts indistinctly, horn honks, sheep bleat
+  18 shouts, indistinct
+   3 shoutsindistinctly
    1 shredder whirring in distance
   19 shrek in distance
    1 shrieks softly
    1 shudders softly
    2 shuko laughing softly
+   2 shuko speaking indistinctly
    2 shuko's voice continues faintly
    1 shulman associates murmuring
    2 shushing softly
+   3 sid singing, indistinct
    1 sighing quietly
    6 sighing softly
   18 sighs quietly
@@ -3217,26 +5091,41 @@
    2 sighssoftly
    1 sinatra sings at a distance
    1 sing outside the window
+   1 singer, indistinct
    1 singing continues at distance
    6 singing continues faintly
    7 singing continues in background
    2 singing continues in distance
+  13 singing continues indistinctly
    1 singing continues outside
    1 singing continues, faintly
+   7 singing continues, indistinct
    2 singing from a distance
+   2 singing hymn, indistinct
    1 singing in background
-   1 singing in background, footsteps
+   2 singing in background, footsteps
   24 singing in distance
    5 singing in the background
+ 165 singing indistinctly
+   2 singing indistinctly in falsetto
+   2 singing indistinctly in italian
    1 singing o' come all ye faithful softly in latin
   11 singing quietly
   22 singing softly
    2 singing softly in creole
+   9 singing, indistinct
+   9 singingindistinctly
    2 singingsoftly
    2 sings in background
    2 sings inaudibly
+   2 sings indistinct
+   3 sings indistinctly
    1 sings quietly
+   3 singsindistinctly
+   1 sinta speaking indistinctiy
    2 sioux yelling in background throughout
+   1 sir ens wailing, indistinct voices
+   1 siren approaching, indistinct chatter
    6 siren blares in distance
    6 siren blaring in distance
    5 siren chirping in distance
@@ -3252,28 +5141,33 @@
    3 siren screams in distance
    1 siren wailing at distance
    4 siren wailing faintly
- 418 siren wailing in distance
+ 421 siren wailing in distance
    1 siren wailing in distance, alarm beeping
    1 siren wailing in distance, car door closes
    1 siren wailing in distance, horns honk
    1 siren wailing in distance, motorcycle approaches
-  36 siren wailing in the distance
+  37 siren wailing in the distance
    1 siren wailing in the distance, indistinct chatter
-  10 siren wailing, distant
+  11 siren wailing, distant
    1 siren wailing, dog barking in distance
    2 siren wailing, horns honking in distance
+   6 siren wailing, indistinct chatter on police radio
+   6 siren wailing, indistinct conversations
+   3 siren wailing, indistinct shouting
    2 siren wails at distance
    2 siren wails distantly
    2 siren wails faintly
- 106 siren wails in distance
+ 108 siren wails in distance
    1 siren wails in distance, horns honking
    9 siren wails in the distance
    2 siren wails outside
    2 siren waiéing in the distance
  310 siren walls in distance
    8 siren walls in the distance
+   1 siren walls, indistinct talking
    4 siren whooping in distance
    1 siren, distant
+   4 siren, indistinct police radio
    7 sirens and alarms in distance
    1 sirens blare distantly
   10 sirens blare in distance
@@ -3303,16 +5197,23 @@
    5 sirens wailing distantly
    3 sirens wailing faintly
    2 sirens wailing far away
- 164 sirens wailing in distance
+ 168 sirens wailing in distance
    1 sirens wailing in distance, police radio chatter
   28 sirens wailing in the distance
    3 sirens wailing outside
    7 sirens wailing, distant
+   1 sirens wailing, indistinct conversations
+   1 sirens wailing, indistinct police radio chatter
+   3 sirens wailing, indistinct voices
    4 sirens walls in distance
    1 sirens, chatter continue outside
+   5 sirens, indistinct chatter
+   8 sirens, indistinct police radio
+   1 sirens, indistinct radio chatter
    1 sirenswailin thedistance
    3 sirenwailing indistance
    1 sirenwailingin distance
+   1 siringo speaking indistinctly
    5 skitter growls softly
    1 slams door; stands outside
    1 slight music in background
@@ -3324,11 +5225,15 @@
    3 slrens wailing in distance
    2 slurps quietly
    2 slurps softly
+   5 slurred, indistinct
+   1 slurred, indistinct speech
+   1 smacking, indistinct shouting
    4 smashing and gunfire outside
    1 smashing around the house outside
    2 smattered applause and distant chatter
    2 smoke grunting in the distance
    2 snarling in distance
+   1 snarling indistinctly
    8 snarling softly
    3 snickering quietly
    2 snickers softly
@@ -3337,6 +5242,7 @@
    4 sniffling softly
    2 sniffling, coughing in background
    1 snlckerlng and murmuring
+   2 snoops indistinct
    5 snoring quietly
   20 snoring softly
   11 snorts softly
@@ -3345,24 +5251,39 @@
    3 sobbing in distance
    1 sobbing inaudibly
   51 sobbing quietly
-  51 sobbing softly
+  53 sobbing softly
    1 sobbing, murmuring
+   4 sobbing, shouting, indistinct
    2 sobbingdistant thud
-  17 sobs quietly
+  18 sobs quietly
   33 sobs softly
+   4 soccer announcer, indistinct
+   2 soft and indistinct
+   1 soft chatter continues indistinctly
+   2 soft indistinct chatter
    4 soft murmuring
    1 soft murmuring in background
    2 soft murmuring in spanish
    1 soft music continues in background
    3 soft music in background
+   1 soft music plays indistinctly
+   3 soft music, indistinct chatter
    1 soft piano in background
+   1 soft piano music playing, indistinct conversations
+   1 soft piano music plays, indistinct conversations
+   4 soft piano music plays, indistinct whispering
    3 soft pop music in background
+   2 soft rap music, indistinct
    1 soft restaurant music in background
    3 soft rock in background
    1 soft rock music playing in background
    2 soft rock playing in background
    2 soft rock, faintly
- 675 softly
+   8 soft, indistinct
+   7 soft, indistinct chatter
+   1 soft, indistinct singing
+   1 soft, indistinct whispers
+ 679 softly
    3 softly chuckles
    1 softly coughs
    1 softly crying
@@ -3383,14 +5304,26 @@
    1 softly whimpering
    1 softly whines
    1 softly, from audience
+   1 soldier commanding indistinctly
    3 soldier in the background
+   1 soldier shouts indistinctly
+   2 soldier shouts, indistinct
    1 soldier softly muttering in vietnamese
+   1 soldier speaking indistinctly
+   1 soldiers chattering indistinctly
+   1 soldiers chattering, indistinct
+   6 soldiers chatting indistinctly
    1 soldiers march in cadence outside
    2 soldiers marching, shouting in distance
-   2 soldiers murmuring
+   4 soldiers murmuring
+   1 soldiers respond indistinctly
+   1 soldiers shout, indistinct
    4 soldiers shouting cadences in distance
    3 soldiers shouting in distance
+   4 soldiers shouting indistinctly
    1 soldiers shouting, cheering distantly
+   1 soldiers speaking indistinctly
+   1 soldiers yelling indistinctly
    3 somber melody on harmonica plays in background
    3 somber melody on wind instruments plays in background
    2 somber music playing in background
@@ -3399,14 +5332,23 @@
    6 something clinks off metal in background
    9 song continues faintly
    2 song continues in background
+   8 song continues indistinct
+  20 song continues indistinctly
    2 song continues playing softly
    2 song continues playing softly on stereo
    6 song continues softly
+   5 song continues, indistinct
+   7 song lyrics indistinct
    2 song playing faintly
+   5 song playing indistinctly
    1 song playing softly
+   1 song playing, indistinct
+   1 song plays indistinctly
+   4 song plays, lyrics indistinct
    4 song still playing outside
    3 sonya roars softly
    1 soothing country music begins softly
+   1 sound from television, indistinct
    1 sound in the distance
    6 sound of a car accelerating into the distance
    1 sound of airplane engine in the distance
@@ -3439,20 +5381,37 @@
    2 sounds of peacock calling and distant laughter
    4 sounds of people chattering outside
    3 sounds outside door
+   1 sounds, indistinct
    1 spanish language on tv in distance
    4 spanish pop music playing in background
    1 spanish radio in background
    1 spanish spoken in distance
+   4 speak indistinctly
+   2 speaker drones, indistinct
    1 speaking arabic in background
    6 speaking atlantean softly
+  10 speaking chinese indistinctly
    3 speaking croatian softly
    1 speaking faintly
+   2 speaking french indistinctly
+   1 speaking french, indistinct
+   3 speaking german indistinctly
   29 speaking inaudibly
+   2 speaking indistinct
+  11 speaking indistinctiy
+ 581 speaking indistinctly
+   2 speaking indistinctly in native language
+   1 speaking indistinctly in spanish
+   2 speaking indistinctly over intercom
+  10 speaking indistinctly, echoing
+   4 speaking indistinctly, high-pitched voice
+   1 speaking indistinctly, laughing
    3 speaking native language softly
    7 speaking quietly
    2 speaking quietly in chinese
    5 speaking quietly in native language
    1 speaking quietly, laughing
+   1 speaking russian indistinctly
   34 speaking softly
    1 speaking softly in a foreign language
    1 speaking softly in german
@@ -3460,10 +5419,19 @@
    7 speaking softly in italian
    1 speaking softly in spanish
    1 speaking xhosa, music in background
+   7 speaking, indistinct
+   1 speaking, indistinctly
+  16 speakingindistinctly
    4 speaks inaudibly
+ 260 speaks indistinctly
+   4 speaks indistinctly in native language
+   1 speaks indistinctly in spanish
+   1 speaks indistinctly to her
    2 speaks quietly
    2 speaks quietly in georgian
    2 speaks softly
+  12 speaksindistinctly
+   1 spectators chanting indistinctly
    2 spectators gasp, murmur
    1 spectators gasping, murmuring
   85 spectators murmur
@@ -3472,6 +5440,7 @@
    1 spectators murmurs
    7 speech continues in background
    2 speech continues in the background
+   4 speech continues indistinctly
    2 speech in background
    1 spider squeals in the distance
    1 spits quietly
@@ -3480,10 +5449,19 @@
    3 spoon clinking in distance
    6 sports announcer in background
    2 sports announcer speaking in background
+   1 sports announcer speaking indistinctly on radio
+   1 sports announcer talking indistinctly
    3 sports announcer, chatter in background
+   1 sports announcer, indistinct
+   1 sports commentator speaks indistinctly
    1 sports on tv in background
+   8 sportscaster continues, indistinct
+   2 sportscaster speaking indistinctly
+   4 sportscasters continue, indistinct
+   2 sportscasts play indistinctly on tv
    2 spurs clinking quietly
    1 squad car radios crackling quietly
+   4 square dance calling continues, indistinct
    2 squawking quietly
    3 squawks softly
    1 squeaking in background
@@ -3499,23 +5477,42 @@
    1 squeallng in distance
    2 squeals quietly
    5 squeals softly
+   1 staff talking indistinctly
    2 stammering softly
+   1 stammers indistinctly
    5 stammers softly
    1 standingrightoutsidemydoor
    1 starker talking in background
    2 starts to open door, voices outside
    2 starts to sob softly
+   3 static and indistinct voices on radio
    3 static crackling softly
+   1 static crackling, indistinct voices
+   1 static crackling, indistinct voices mixed in
+   1 static, indistinct conversation
+   1 static, indistinct voice speaking
+   1 static, man speaking indistinctly
+   6 staticky voice speaking indistinctly
    1 steady farting in distance
    1 steamers sounds in the background
+   2 steel shouting, indistinct
    2 steeple bells tolling in distance
    1 stephen shrieking outside
+   2 steps approaching, indistinct chatter
    1 steps in distance
    2 steps in the background
+   1 stereo.: indistinct
+   4 steve continues indistinctly
    3 steve murmurs indistinctly
+   4 steve speaks indistinctly
+   2 stilwell continues, indistinct
    1 stomping, shrieking in distance
    2 strains of jim hacking loudly outside
    1 strange screeching in distance
+   1 strangelove continues, indistinct
+   2 strauss and hotch speaking indistinctly
+   1 street noise and indistinct conversations
+   2 street vendor hawking, indistinct
    1 strike murmuring
    1 strikes another key softly
    3 striking, screaming in distance
@@ -3524,71 +5521,123 @@
    2 student chuckles softly
    3 student murmuring
    1 students chattering in background
+   1 students chattering indistinctly
+   1 students chatterlng, indistinct
+   1 students chatting indistinctly
    1 students gasping, murmuring
    1 students laughing at distance
    7 students murmur
   28 students murmuring
    1 students murmurs
    3 students snicker quietly
+   3 students talking indistinctly
    2 stuttering softly
+   1 sue and axl arguing indistinctly
+   5 sunday shouting, indistinct
    3 surf crashing in distance
    6 surprised gasps and murmurs
+   1 sutheriand continues indistinctiy
    1 suv horn honks in the distance
+   1 suzie continues, indistinct
    1 swearing softly in portuguese
    1 swing creaks softly
    2 swing, distant
+   1 switches clicking, man speaking indistinctly
+   1 switches clicking, woman speaks indistinctly
    3 sybil groaning quietly
    2 syd in distance
    1 sydney talking softly
    1 sympathetic murmuring
    4 sympathetic murmurs
    1 sympathetic murmurs and applause
+   3 sοng cοntinues, indistinct
+   1 t alking indistinctly
    2 t.v. plays in the distance
+   1 t.v. speaker; indistinct
+   3 talk radio, indistinct
    3 talking in background
    2 talking in distance
    1 talking in distant
+  28 talking indistinctly
+   1 talking indistinctly, laughing
+   1 talking on phone, indistinct
   13 talking quietly
    3 talking softly
+  25 talking, indistinct
+   2 talkingindistinctly
    1 talkingquietly
+   4 talks indistinctly
    1 tamani sings, not far away
+   2 tammi mutters indistinctly
    4 tank engines hum in distance
+   4 tape continues, indistinct
    1 tapping continues in distance
    2 tapping in distance
    1 tapping softly
    3 taps softly
    6 tarek speaking foreign language in distance
+   6 tarek speaks, indistinct
+   1 tate shouting indistinctly
    1 tatianna continues moaning in background
+   1 taunting continues, indistinct
    2 taxi brakes outside
    1 taxi radio dispatch in background
+   1 taéking indistinctéy
+   4 teacher speaking, indistinct
+   1 teacher talking, indistinct
+   1 teacher, indistinct
+   4 team chatting indistinctly
    3 team murmuring
    2 tearing, clattering in background
+   1 technicians arguing indistinctly
    1 techno music playing in distance
    2 techno music plays in distance
+   3 teens shouting indistinctly
    3 telephone ringing in background
   79 telephone ringing in distance
+   1 telephone ringing indistinct conversations
+   6 telephone ringing, indistinct conversations
    3 telephone rings in background
   65 telephone rings in distance
    2 telephone rings in distance, indistinct conversations
+   2 telephone rings, indistinct conversations
    4 telephones ring in distance
+   2 telephones ringing and indistinct chatter
    6 telephones ringing in distance
    3 telephones ringing in the background
+   1 telephones ringing, dispatcher indistinct
+   2 telephones ringing, indistinct chatter
+   7 telephones ringing, indistinct conversations
    2 telephones ringing, siren in distance
    4 telephones ringing, sirens blaring in distance
+   1 television anchor speaking indistinctly
+   2 television blaring indistinctly
    2 television cartoon in background
+   3 television continues indistinctly
+  10 television continues, indistinct
    2 television drones in distance
    2 television in background
+   3 television news being read indistinctly
    5 television playing in background
+  21 television playing indistinctly
+   1 television playing inside, indistinct
+   5 television playing low and indistinct
    1 television plays in background
+   1 television plays indistinct
+   2 television plays indistinctly
    1 television plays softly
    1 television plays, softly
+   2 television, indistinct
    2 teller roars in distance
    2 teller snarling in distance
+  10 terrorists shouting indistinctly
    1 tess had never traveled outside her own parish before
    2 tess whistles faintly
    2 thcrowd murmurs their appreciation
    2 the assassin theme music plays in background
    2 the assassin theme music plays softly, background
    1 the distance between us is closing in
+   2 the doctor muttering indistinctly
    1 the hall murmurs
    2 the man in red shoes parks outside
    1 the sea ​​murmurs
@@ -3601,6 +5650,7 @@
    1 thud and engine revvs, becomes distant
   26 thud in distance
    1 thud in the distance
+   1 thudding and indistinct chatter
   11 thudding in distance
    1 thudding, distant
    3 thugs murmur
@@ -3608,7 +5658,7 @@
    1 thump outside
    4 thumping in distance
    1 thumping music continues faintly
-   1 thumping, singing continue faintly
+   2 thumping, singing continue faintly
    2 thunder crackling softly
    3 thunder crashes in distance
    1 thunder crashes quietly in distance
@@ -3626,10 +5676,13 @@
    1 thunder rumbling outside
    3 thunder rumbling softly
    1 thunder rumbling, distant
+   6 thunder rumbling, indistinct conversations
    1 thunderclap in distance
    7 thunderclap in the distance
    1 thérèse crying softly
    1 tiger snarls in distance
+   2 tim talking indistinctly on phone
+   1 tina speaking indistinctly
    1 tinkling softly
    3 tira humming softly
    3 tira murmurs in agreement
@@ -3645,18 +5698,26 @@
    6 tires squealing in distance
    3 tires squealing in the distance
    1 tires squealing softly
+   2 tito, nick continue, indistinct
    2 tittering quietly
    2 to some distant boarding school
    3 toilet flushes in distance
    2 toilet stall door closes, distant
+   1 tom speaks indistinctly
+   1 tommy and denny speaking indistinctly
    1 tone beeps in distance
    1 tony sobbing quietly
    1 tool buzzing outside
    1 tools clang in background
+   2 tools clanging, indistinct talking on radio
    1 tools clanking, saw buzzing in distance
    3 toothless growls softly
+   1 tour guide speaking indistinctly
    1 tourists murmuring
+   1 tow truck radio chattering, indistinct
    9 townspeople murmuring
+   1 toy speaking indistinctly
+   1 trackannouncer calling horse race, indistinct
    1 traditional irish music playing in background
    3 traffic in distance
    8 traffic noise in distance
@@ -3667,6 +5728,7 @@
    2 traffic passing, train clacking in distance
    2 traffic rumbling outside
    2 traffic sounds in distance
+   5 trails off indistinctly
    1 train chugging in the distance
    2 train chugging, distant
    4 train conductor shouts in distance
@@ -3691,7 +5753,7 @@
   43 train whistle blowing in distance
    2 train whistle blowing, distant
    5 train whistle blows distantly
-  55 train whistle blows in distance
+  56 train whistle blows in distance
    3 train whistle blows in the distance
    1 train whistle blows softly
    2 train whistle blows, distant
@@ -3700,11 +5762,14 @@
    2 train whistles at a distance
   14 train whistles in distance
    5 train whistles in the distance
+   2 train whistling in distance
    3 train: distant horn
    1 trancelike distant voice
    2 transportaion sounds outside
+   2 travis and katie shouting indistinctly
    1 trembles softly
    1 tribal drums beating in the distance
+   3 tribal drums pounding and indistinct voices heard
    1 tribals murmuring
    1 tribe murmuring in excitement
    6 truck door closes in distance
@@ -3719,34 +5784,66 @@
    1 tuco sings quietly to himself
    2 tv announcement in background
    3 tv announcer continues in background
+   1 tv announcer continues, indistinct
    6 tv announcer in background
+   1 tv announcer speaking indistinctly
+   2 tv announcer speaks indistinctly
    1 tv audio plays in background
+   1 tv audio, indistinct
+   2 tv blaring indistinctly
    6 tv chatter in distance
+   1 tv chatter, indistinct
    2 tv chatter, jolene giggling softly
+   3 tv clicks on, indistinct
    1 tv commentary in background
    2 tv continues faintly
   12 tv continues in background
+   5 tv continues indistinctly
    1 tv continues playing in background
+   2 tv continues playing indistinctly
+  41 tv continues, indistinct
+   2 tv continuing indistinctly
+   1 tv cοntinues indistinctly
    4 tv drones in background
    1 tv drones on in background
    2 tv droning in background
   38 tv in background
    1 tv in background, music
   12 tv in the background
+   2 tv indistinct
+   1 tv news continues, indistinct
+   2 tv on , indistinct
+   1 tv on, indistinct
    1 tv playing faintly
    9 tv playing in background
+  36 tv playing indistinctly
+   2 tv playing indistinctly, cellphone rings
    2 tv playing quietly
+   1 tv playing, indistinct
    6 tv plays in background
+  16 tv plays indistinctly
    3 tv plays quietly
    1 tv plays softly
+   1 tv reporters continue, indistinct
+   1 tv show continues indistinctly
    1 tv show in the background
    2 tv show playing in background
+   4 tv track announcer, indistinct
+  35 tv, indistinct
+   1 tv: commentator, indistinct
+   4 tv: indistinct
+   1 tvannouncer, indistinct
+   3 tvcontinues, indistinct
+   1 tvdialogue continues, indistinct
    2 tvin background
    2 tvplaying in background
+   1 tvplaying, indistinct
+   1 tvplayingindistinctly
    3 twig snaps in distance
    1 twigs crackling softly
    1 twillie singing softly
    3 two distant knocks
+   2 two-way radio continues, indistinct
    1 typewriter clacking in distance
    2 typewriter clacking, telephone ringing in distance
    4 typewriter keys clacking in distance
@@ -3758,23 +5855,35 @@
    2 up-beat rock music plays faintly
    2 up-beat rock music plays in distance
    1 up-tempo dance music playing in distance
+   2 up-tempo dance music playing, indistinct shouting
    1 up-tempo jazz plays in background
    1 up-tempo music in distance
    1 up-tempo music playing in background
    4 up-tempo music playing in distance
    1 up-tempo music plays in background
    4 up-tempo music plays in distance
+   1 up-tempo music plays, indistinct conversations
+   1 up-tempo music plays, indistinct singing
+   1 up-tempo pop music playing, indistinct conversations
+   1 upbeat jazz plays, indistinct conversations
+   3 upbeat music playing, indistinct conversations
    1 ushio singing softly
    1 utensil clatters softly
+   2 utensils clinking, indistinct chatter
+   1 utters indistinctly
    3 vacuum running quietly
    1 valley folk murmuring
+   1 vanessa continues, indistinct
    1 vanessa growling softly
+   1 vanessa speaks indistinctly
    1 various alien sounds, distant
+   4 vasili speaking indistinctly
    1 vectors breathing quietly
    1 vehicle approaches outside
    1 vehicle approaching outside
    1 vehicle brakes squeak, distant
    1 vehicle departs in distance
+   1 vehicle engine idling, indistinct talking
    2 vehicle horns honking, distant
    1 vehicle passes in distance
    1 vehicles passing in distance
@@ -3784,6 +5893,7 @@
   10 velkan roars in the distance
    1 vendor shouts in background
    3 vendors shouting in background
+   2 vernon continues, indistinct
    1 very distant
    3 very distant screaming
    1 very distant singing
@@ -3795,42 +5905,69 @@
    1 vicki laughs softly
   11 vicki moans softly
    2 vicki's voice sings distantly, echoes
+   1 victoria speaking indistinctly
+   2 video game playing indistinctly
+   1 video speaking indistinctly
    2 viktor mumbling in distance
    5 villagers murmuring
    1 violin playing distantly
    3 violin plays softly
    1 visitors murmuring
+   2 vocalizes indistinctly
    2 vocalizes softly
    1 vocalizing in distance
+   3 vocalizingindistinctly
   15 vogons murmur
+   2 voice becomes indistinct
    1 voice continues in background
+   5 voice continues, indistinct
    1 voice distant, echoing
    3 voice echoes distantly
    1 voice in the distance
    2 voice murmurs
    6 voice on phone in background
+   2 voice on radio, indistinct
    2 voice outside
    3 voice shouting distant
+   1 voice speaking, indistinct
+   1 voice whispering indistinctly
+   1 voice, indistinct
    2 voices at a distance
+   1 voices become indistinct
+   3 voices chanting indistinctly, echoing
+   1 voices chattering indistinctly
+   1 voices continue indistinct
+   1 voices continue indistinctly
    6 voices conversing inaudibly
    1 voices echo distantly
+   2 voices echoing indistinctly
+   4 voices eerily whispering indistinctly
    2 voices in distance
    1 voices in the distance
    3 voices indistinct and distant
-  55 voices murmuring
+  56 voices murmuring
    2 voices murmuring distantly
    1 voices murmuring in distance
    1 voices murmuring indistinctly, ethereally
    4 voices murmuring over intercom
+   1 voices on screen, indistinct
    1 voices on tv in background
+   1 voices on tv, indistinct
    9 voices outside
+   4 voices overlapping, indistinct
    1 voices singing softly
+   2 voices speak indistinctly in foreign language
    2 voices speaking distantly
+   1 voices speaking indistinctly
+   1 voices speaking, indistinct
    1 voices vocalizing faintly
    2 voices whisper distantly
    4 voices whispering distantly
    1 voices whispering in distance
+  13 voices whispering indistinctly
    3 voices whispering softly
+   2 voices whispering, indistinct
+  10 voices, indistinct
    3 wade moaning outside
    2 wailing continues, pounding in background
    3 wailing in distance
@@ -3838,52 +5975,82 @@
    1 wailing, sobbing in distance
    1 waiter murmurs in spanish
    6 walkie-talkie squelches softly
+   1 walkie-talkie, indistinct
+   1 wallace continues, indistinct
    1 wally composes poetry with bugle call in background
    1 walter snoring softly
+   2 walter speaking indistinctly
+   2 walter, sr. continues, indistinct
    2 warbling whistle in background
    1 warming up voice softly
    4 water lapping softly
    2 water rushing in distance
    1 water splashing softly
+   1 water splashing, indistinct conversations
+   2 watson, indistinct
    3 waves crashing in distance
    2 waves crashing in the distance
    1 waves lapping in distance
    1 waves lapping softly
    1 waves rolling in distance
    1 weatherman speaking softly over tv
+   1 weaver whispering indistinctly
+   1 webcaster over tv, indistinct
    8 wedding celebration in the background
    1 wedding party singing at a distance
    1 weeping and murmuring
    2 weeping quietly
    1 weeping softly
    2 weeps softly
+   5 wendy continues, indistinct
    1 wenking in distance
    1 whacking in distance
+   1 wheels squeaking , indistinct conversations
+   1 wheels squeaking, indistinct conversations
    2 wheezing faintly
    2 wheezing softly
+   3 wheezing, speaking indistinctly
    1 while her family watches from outside of it
    1 whimpering and sobbing quietly
   22 whimpering softly
    3 whimpers quietly
   16 whimpers softly
+   2 whimpers, indistinct muttering
    4 whimpers, sobs quietly
    1 whines faintly
    1 whines quietly
    1 whines softly
+   1 whining indistinct
+   1 whining indistinctly
    1 whinnies softly
    1 whirring in background
    7 whirring in distance
    1 whirring quietly
    1 whirring softly
+   5 whirring, indistinct yell
    1 whirs softly
    1 whisper heard in background
+   1 whisper indistinctly
+   1 whispering in russian, indistinct
    6 whispering inaudibly
+   1 whispering indistinct
+ 180 whispering indistinctly
    2 whispering softly
+  30 whispering, indistinct
+   1 whispering, indistinct voices
+   3 whisperingindistinctly
   29 whispers inaudibly
+   1 whispers indistinct
+ 107 whispers indistinctly
    4 whispers softly
+   1 whispers soothingly but indistinctly
+   9 whispers, indistinct
+   1 whispes indistinctly
    1 whistle at a distance
    5 whistle blowing in distance
    8 whistle blows in distance
+   6 whistle blows, indistinct shouting
+   2 whistle blows, man speaking indistinctly on television
    4 whistle blows, people murmuring
   10 whistle chirps faintly
    2 whistles faintly
@@ -3893,8 +6060,11 @@
    1 whistling continues in background
    1 whistling in background
   14 whistling in distance
+   1 whistling indistinctly
    1 whistling softly
    1 whistling, singing softly
+   3 whit speaking indistinctly
+   1 whooping and shouting indistinctly
    1 whooping, murmuring
    1 whooshes softly
    2 whooshing, high-pitched sound in distance
@@ -3902,6 +6072,9 @@
    1 wild birds shrieking in distance
    1 wiley groans softly
    2 wilfred in distance
+   3 will speaking indistinctly
+   1 will speaks indistinctly
+   1 william speaking indistinctly
    1 wilmer moans softly
    1 winces softly
    5 wind blowing in the background
@@ -3914,6 +6087,7 @@
    5 wind gusts, crowd murmurs
    1 wind hisses softly
    1 wind hissing softly
+   2 wind howling , indistinct demonic voices
    1 wind howling in background
    4 wind howling outside
    1 wind howling softly
@@ -3924,7 +6098,7 @@
    3 wind softly whistling
    2 wind whistles, indistinct shouting in distance
    1 wind whistling outside
-   6 wind whistling softly
+  12 wind whistling softly
    1 wind, distant chatter
    1 winds howling outside
    1 with the kobe skyline in the background
@@ -3932,65 +6106,169 @@
    1 wolf howls distant
    1 wolf howls distantly
    3 wolf howls in distance
+   2 wolf shouts indistinctly
    2 wolves howling in distance
+   2 woman 0n p.a., indistinct
+   2 woman 1 speaking indistinctly
+   4 woman chattering indistinctly
+   2 woman chattering, indistinct
+   4 woman continues indistinctly
    1 woman continues screaming in background
+   1 woman continues, indistinct
    1 woman cries out in distance
    1 woman cries softly
    3 woman crying in distance
    6 woman crying softly
+   1 woman crying, speaking indistinctly
+   3 woman dispatcher, indistinct
    2 woman from outside
    2 woman gasps softly
    1 woman gasps, people murmuring
    2 woman giggling in distance
    1 woman humming softly
    6 woman in the distance
+   1 woman in video speaking indistinctly
+   1 woman indistinct
+   1 woman indistinct on pa
+   5 woman laughing , indistinct conversations
    1 woman laughing in distance
+   5 woman laughing, indistinct conversations
+   1 woman lecturing indistinctly
    5 woman moaning in distance
    1 woman moaning in the background
    1 woman moaning quietly
-   2 woman moaning softly
+   7 woman moaning softly
   10 woman moans softly
    7 woman murmuring
    1 woman murmurs
    3 woman on p.a. in background
+   6 woman on p.a. speaking indistinctly
+   1 woman on p.a. system, indistinct
+  18 woman on p.a., indistinct
+   1 woman on pa speaking indistinctly
+  29 woman on pa, indistinct
+   1 woman on pa, indistinct, faint
+   1 woman on pa., indistinct
+   1 woman on ra, indistinct
+   1 woman on radio continues, indistinct
+   2 woman on radio speaking indistinctly
+   5 woman on radio, indistinct
+   5 woman on television talking indistinctly
+   1 woman on tv continues, indistinct
+   1 woman on tv speaking indistinctly
+   3 woman on tv, indistinct
+   1 woman over p. a. system, indistinct
+   2 woman over p.a. system speaks indistinctly
+   4 woman over p.a., indistinct
    1 woman over pa in background
+   1 woman over pa indistinct
+   4 woman over pa, indistinct
+   5 woman over police radio, indistinct
+   1 woman overp.a., indistinct
    1 woman praying softly inspanish
+   1 woman rapping indistinctly
    6 woman screaming in distance
    1 woman screaming outside
    1 woman screaming, distant
+   1 woman screaming, indistinct
   15 woman screams in distance
    1 woman screams, crowd murmuring
    2 woman screams, glass shattering in distance
    1 woman shouting faintly
    2 woman shouting in distance
    3 woman shouting in the background
+   9 woman shouting indistinctly
+   2 woman shouting, indistinct
    6 woman shouts distantly
+   4 woman shouts indistinctly
+   5 woman shouts, indistinct
    1 woman singing "ave maria" in distance
    1 woman singing aria in distance
    1 woman singing faintly in vietnamese
    1 woman singing in background
    1 woman singing in distance
    8 woman singing in japanese in the distance
+   1 woman singing indistinct
+   7 woman singing indistinctly
   23 woman singing softly
+  21 woman singing, indistinct
    2 woman sings faintly
+   1 woman sings indistinctiy
+   4 woman sings indistinctly
    2 woman sings softly
    1 woman sobbing quietly
    2 woman sobs softly
    2 woman softly gasping
    2 woman speaking in distance
+   1 woman speaking indistinctiy
+   2 woman speaking indistinctiy over police radio
+  34 woman speaking indistinctly
+   1 woman speaking indistinctly in f or eign language
+   3 woman speaking indistinctly in foreign language
+   1 woman speaking indistinctly on intercom
+  14 woman speaking indistinctly on p.a
+   2 woman speaking indistinctly on p.a. system
+  79 woman speaking indistinctly on pa
+  10 woman speaking indistinctly on pa system
+   2 woman speaking indistinctly on police radio
+   2 woman speaking indistinctly on radio
+   4 woman speaking indistinctly on television
+   5 woman speaking indistinctly on tv
+  27 woman speaking indistinctly on walkie-talkie
+   2 woman speaking indistinctly over arcade machine
+   4 woman speaking indistinctly over intercom
+   1 woman speaking indistinctly over loudspeaker
+   1 woman speaking indistinctly over p. a. system
+  49 woman speaking indistinctly over p.a
+  14 woman speaking indistinctly over p.a. system
+  27 woman speaking indistinctly over pa
+   2 woman speaking indistinctly over pa system
+   1 woman speaking indistinctly over phone
+   2 woman speaking indistinctly over police radio
+   2 woman speaking indistinctly over radio
+   1 woman speaking indistinctly over tape
+   1 woman speaking indistinctly over tv
+   2 woman speaking indistinctly overp.a
+   2 woman speaking indistinctly with russian accent
+   1 woman speaking on computer, indistinct
    1 woman speaking softly
+   5 woman speaking, indistinct
    3 woman speaks in the distance
+  15 woman speaks indistinctly
+   3 woman speaks indistinctly over intercom
+   8 woman speaks indistinctly over p.a
+   7 woman speaks indistinctly over p.a. system
+   2 woman speaks indistinctly over pa
    1 woman speaks low in background
+   1 woman speaks, indistinct
+   1 woman talking indistinctiy
+   7 woman talking indistinctly
+   3 woman talking indistinctly on p.a
+   1 woman talking indistinctly on radio
+   4 woman talking indistinctly on television
+   1 woman talking indistinctly over p.a
+   2 woman talking, indistinct
    1 woman vocalizing in distance
   11 woman vocalizing softly
+   4 woman whispering indistinctly
+   1 woman whispers, indistinct
    1 woman yelling in distance
+   3 woman yelling indistinctly
    3 woman's voice echoes distantly
+   1 woman's voice speaking, indistinct
    1 woman's voice, distant
+   8 woman's voice, indistinct
    1 woman, distant
+  17 woman, indistinct
    3 woman, softly
+   1 womanchattering indistinctly
+   1 womanspeakingindistinctly overp.a
+   1 women arguing indistinctly on television
    2 women chattering and laughing in the distance
+   3 women chattering indistinctly
    1 women chattering outside
    1 women chatting in background
+   1 women continue indistinctly
    1 women coughing and moaning faintly
    1 women laughing in distance
    1 women moaning in background
@@ -4002,12 +6280,21 @@
    1 women quietly weeping
    1 women screaming in distance
    1 women shouting in the distance
+   6 women shouting indistinctly
+   1 women shouting, indistinct
    1 women singing in the distance
    1 women singing softly in native language
+   1 women speak indistinctly
+   8 women speaking indistinctly
+   1 women ta/king indistinct/y, fence fatt/es
    2 women talking in background
+   3 women talking indistinctly
    1 women talking softly
+   3 women talking, indistinct
    1 women wailing distantly
+   1 women whispering, indistinct
    2 women's choir chanting softly
+   1 woody shouts indistinctly
    1 wookies growling softly
    2 work continuing in background
    1 workers chanting cadence in distance
@@ -4015,8 +6302,14 @@
    1 workers murmuring
    1 workers voices heard outside
    3 worried murmurs
+   5 wrestling, indistinct dialogue
+   2 y elling, indistinct
+   2 y ells, indistinct
    2 yawns quietly
    1 yeaman mumbles inaudibly
+   1 yelling and chattering indistinctly
+   2 yelling and indistinct conversations
+   1 yelling and indistinct shouting
    1 yelling from far away
    1 yelling from outside
    4 yelling in background
@@ -4024,16 +6317,27 @@
    1 yelling in distance continues
    3 yelling in the background
    5 yelling in the distance
+   2 yelling indistinct
+  16 yelling indistinct incantation
+  45 yelling indistinctly
    7 yelling outside
+  19 yelling, indistinct
+   2 yells indistinct
+   6 yells indistinctly
    1 yipping sound in distance
    1 yipping sounds in distance
    2 yips softly
    9 yodeling in distance
    2 yoga instructor speaking in background
+   3 young man speaks indistinctly
    2 young woman crying softly
   10 young woman shrieks in the distance
+   1 young woman speaking indistinctly on monitor
+   1 young women speaking indistinctly
+   1 yuri yells indistinctly
    1 z in distance
    1 zach speaking inaudibly
+   6 zainab continues, indistinct
    4 zeppo whistling softly
    1 zoey calling outside
    1 zombies murmuring

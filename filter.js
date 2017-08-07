@@ -4,22 +4,15 @@
 
 const split = require('split');
 
-const RE_SOUND = /\[([^\[\]]*?(softly|faintly|in\s+the\s+background|in\s+background|inaudibly|murmur|noiseless|soundless|distant|perimeter|outskirts|distance|remotely|periphery|quietly|outside|far[ -]+off|far[ -]+away)[^\[\]]*)\]/;
+const RE_SOUND = /\[([^\[\]]*?(softly|faintly|in\s+the\s+background|in\s+background|indistinct|inaudibly|murmur|noiseless|soundless|distant|perimeter|outskirts|distance|remotely|periphery|quietly|outside|far[ -]+off|far[ -]+away)[^\[\]]*)\]/g;
 
-process.stdin.pipe(split()).on('data', (line) => {
-  const match = RE_SOUND.exec(line);
-
-  if (!match) {
-    return;
-  }
-
-  let sound = match[1].toLowerCase();
-
+function handleMatch(sound) {
   sound = sound
     .toLowerCase()
     .trim()
     .replace(/\s+/, ' ')
     .replace("beethoven'sode", "beethoven's ode")
+    .replace('" p"', 'p')
     .replace('brides wall', 'brides wail')
     .replace('béowing', 'blowing')
     .replace('cackies', 'cackles')
@@ -31,9 +24,11 @@ process.stdin.pipe(split()).on('data', (line) => {
     .replace('musi playing', 'music playing')
     .replace('neeping', 'beeping')
     .replace('paying softly', 'praying softly')
+    .replace('yellingindistinctly', 'yelling indistinctly')
     .replace(/ì/g, 'i')
-    .replace(/♪/g, '')
     .replace(/ÿ/g, '')
+    .replace(/♪/g, '')
+    .replace(/η/g, 'h')
     .replace(/\/n/g, 'in')
     .replace(/^{/, '')
     .replace(/[#,.]+$/, '')
@@ -55,4 +50,12 @@ process.stdin.pipe(split()).on('data', (line) => {
   }
 
   console.log(sound);
+}
+
+process.stdin.pipe(split()).on('data', (line) => {
+  let match;
+
+  while ((match = RE_SOUND.exec(line)) !== null) {
+    handleMatch(match[1].toLowerCase());
+  }
 });
