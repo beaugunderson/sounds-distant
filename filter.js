@@ -4,7 +4,30 @@
 
 const split = require('split');
 
-const RE_SOUND = /\[([^\[\]]*?(softly|faintly|in\s+the\s+background|in\s+background|indistinct|inaudibl|murmur|noiseless|soundless|distant|perimeter|outskirts|distance|remotely|periphery|quietly|outside|far[ -]+off|far[ -]+away)[^\[\]]*)\]/g;
+const RE_INNER = '(' +
+  'distance|' +
+  'distant|' +
+  'faintly|' +
+  'far[ -]+away|' +
+  'far[ -]+off|' +
+  'in\\s+background|' +
+  'in\\s+the\\s+background|' +
+  'inaudibl|' +
+  'indistinct|' +
+  'murmur|' +
+  'noiseless|' +
+  'outside|' +
+  'outskirts|' +
+  'perimeter|' +
+  'periphery|' +
+  'quietly|' +
+  'remotely|' +
+  'softly|' +
+  'soundless' +
+  ')';
+
+const RE_SOUND_1 = new RegExp(`\\[([^[\\]]*?${RE_INNER}[^[\\]]*)\\]`, 'g');
+const RE_SOUND_2 = new RegExp(`\\(([^()]*?${RE_INNER}[^()]*)\\)`, 'g');
 
 function handleMatch(sound) {
   sound = sound
@@ -13,6 +36,7 @@ function handleMatch(sound) {
     .replace(/\s+/, ' ')
     .replace("beethoven'sode", "beethoven's ode")
     .replace('" p"', 'p')
+    .replace('"deguello"plays', '"deguello" plays')
     .replace('brides wall', 'brides wail')
     .replace('béowing', 'blowing')
     .replace('cackies', 'cackles')
@@ -45,6 +69,7 @@ function handleMatch(sound) {
       sound.includes('gong xi') ||
       sound.includes('from a short distance') ||
       sound.includes('champions') ||
+      sound.includes("they're showing") ||
       sound.includes('luigi')) {
     return;
   }
@@ -55,7 +80,11 @@ function handleMatch(sound) {
 process.stdin.pipe(split()).on('data', (line) => {
   let match;
 
-  while ((match = RE_SOUND.exec(line)) !== null) {
+  while ((match = RE_SOUND_1.exec(line)) !== null) {
+    handleMatch(match[1].toLowerCase());
+  }
+
+  while ((match = RE_SOUND_2.exec(line)) !== null) {
     handleMatch(match[1].toLowerCase());
   }
 });
