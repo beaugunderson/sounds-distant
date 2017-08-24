@@ -16,7 +16,7 @@ var program = require('commander');
 
 program
   .command('tweet')
-  .description('Generate and tweet a random sound')
+  .description('generate and tweet a random sound')
   .option('-r, --random', 'only post a percentage of the time')
   .action(botUtilities.randomCommand(() => {
     const tweet = _.sample(lines);
@@ -31,5 +31,13 @@ program
 
     console.log(`Tweeted "${tweet}"`);
   }));
+
+
+program
+  .command('candidates')
+  .description('generate some candidates')
+  .action(() => {
+    _.times(25, () => console.log(_.sample(lines)));
+  });
 
 program.parse(process.argv);
