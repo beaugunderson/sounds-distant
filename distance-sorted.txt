@@ -251,14 +251,12 @@ a and b are equally far away
 a bell chimes in background
 a bell chimes in background
 a busker in the background
-a distant explosion
 a guard sits some distance away with his back to ian
 a loud murmur
 a loud murmur
 a lullaby sung in the background
 a man screams outside
 a man's voice from outside
-a massive explosion is heard outside
 a noise from outside the wall
 a report from tank troops outside leningrad
 a scent in the air, the quiet murmur of the city
@@ -4240,20 +4238,8 @@ bombing in distance
 bombing in distance
 bombing in distance
 bombing in the distance
-bombs explode distantly
-bombs explode distantly
-bombs exploding in distance
-bombs exploding in distance
-bombs exploding in the background
-bombs exploding in the background
-bombs exploding in the background
-bombs exploding in the background
-bombs exploding in the background
-bombs exploding in the background
 bombs falling in distance
 bombs thundering in distance
-bombs whistling, exploding in distance
-bombs whistling, exploding in distance
 bongo playing softly
 bongos play softly
 bongos play softly
@@ -6216,9 +6202,6 @@ chats indistinctly in spanish, chuckles
 chats indistinctly in spanish, chuckles
 chats indistinctly in spanish, chuckles
 chats indistinctly in spanish, chuckles
-chatter and explosions in the background
-chatter and explosions in the background
-chatter and explosions in the background
 chatter and giggling outside
 chatter and murmurs
 chatter and murmurs
@@ -10278,9 +10261,6 @@ congregation murmurs agreement
 connie sobbing distantly
 conrad continues speaking indistinctly
 conrad speaking indistinctly
-constant explosions in the background
-constant explosions in the background
-constant explosions in the background
 constantine grunting, growling outside
 constantine grunting, growling outside
 constantine grunts, loud growling outside
@@ -15002,7 +14982,6 @@ crowd roars in distance
 crowd roars in distance
 crowd roars outside
 crowd screaming and shouting indistinctly
-crowd screaming, distant explosions
 crowd screaming, murmuring
 crowd screaming, murmuring
 crowd screaming, murmuring
@@ -17967,208 +17946,6 @@ distant engines rumbling
 distant engines rumbling
 distant engines whirring
 distant engines whirring
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion
-distant explosion rumbling
-distant explosion sounds
-distant explosion sounds
-distant explosion thundering
-distant explosion thundering
-distant explosion, mariette gasps
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions
-distant explosions continue
-distant explosions continue
-distant explosions continue
-distant explosions continue
-distant explosions continue
-distant explosions continue
-distant explosions continue
-distant explosions continue
-distant explosions continue
-distant explosions continue
-distant explosions continue
-distant explosions continue
-distant explosions continue
-distant explosions echoing
-distant explosions rumbling
-distant explosions rumbling
-distant explosions rumbling
-distant explosions rumbling
-distant explosions sounding
-distant explosions sounding
-distant explosions, rumbling
-distant explosions, rumbling
 distant fair music
 distant female laughter
 distant female scream
@@ -18187,7 +17964,6 @@ distant female voices
 distant fiddle tune
 distant fiddle tune
 distant fire
-distant fireworks exploding
 distant flames crackling
 distant flute playing
 distant fluttering
@@ -18798,9 +18574,6 @@ distant light applause
 distant light applause
 distant lively chatter
 distant lively chatter
-distant loud explosion
-distant loud explosion
-distant loud explosion
 distant loud thud
 distant loud thud
 distant love song playing
@@ -19515,7 +19288,6 @@ distant rumbling
 distant rumbling
 distant rumbling
 distant rumbling
-distant rumbling and explosions
 distant rumbling outside
 distant rumbling sound
 distant rumbling, booming
@@ -20077,8 +19849,6 @@ distant shouts
 distant shouts
 distant shouts
 distant shouts
-distant shouts and explosions
-distant shouts and explosions
 distant shouts and screams
 distant shouts and screams
 distant shouts and whooping
@@ -25308,8 +25078,7 @@ eagle cries distantly
 eagle cries distantly
 eagle cries distantly
 eagle engines roaring in distance
-ealand's voice, indistinct~
-ears ringing, explosions in distance
+ealand's voice, indistinct
 earth rumbling
 earth rumbling
 earth rumbling
@@ -26841,283 +26610,6 @@ exhales softly, kisses porunn lightly
 exhales softly, kisses porunn lightly
 exhaling softly
 expectant murmur
-exploding outside
-exploding outside
-exploding outside
-explosion and rumbling
-explosion blast in distance
-explosion booming in distance
-explosion booming in distance
-explosion booms in distance
-explosion booms in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance, cheerleaders scream
-explosion in distance, cheerleaders scream
-explosion in the background
-explosion in the background
-explosion in the background
-explosion in the background
-explosion in the background
-explosion in the background
-explosion in the distance
-explosion in the distance
-explosion in the distance
-explosion in the distance
-explosion in the distance
-explosion in the distance
-explosion outside
-explosion outside
-explosion outside
-explosion outside
-explosion outside
-explosion outside
-explosion outside
-explosion outside
-explosion outside
-explosion outside
-explosion outside
-explosion outside, beast roars
-explosion outside, beast roars
-explosion outside, beast roars
-explosion rings out in distance
-explosion rumbles outside
-explosion rumbling
-explosion rumbling
-explosion rumbling
-explosion rumbling
-explosion rumbling
-explosion rumbling
-explosion rumbling
-explosion rumbling
-explosion rumbling
-explosion rumbling
-explosion rumbling
-explosion rumbling
-explosion rumbling
-explosion rumbling
-explosion rumbling
-explosion rumbling
-explosion rumbling
-explosion rumbling
-explosion rumbling
-explosion rumbling in distance
-explosion thundering, rumbling
-explosion thundering, rumbling
-explosion, indistinct shouting
-explosion, indistinct shouting
-explosion, indistinct shouting
-explosion, rumbling
-explosion, rumbling
-explosion, rumbling
-explosion, rumbling
-explosion, rumbling
-explosion, rumbling
-explosion, rumbling
-explosion, rumbling
-explosion, rumbling
-explosion, rumbling
-explosion, rumbling
-explosion, rumbling
-explosion, rumbling
-explosion, rumbling
-explosion, rumbling
-explosion, rumbling
-explosion, rumbling
-explosion, rumbling
-explosion, rumbling
-explosion, rumbling
-explosion, rumbling
-explosion, rumbling
-explosion, rumbling
-explosion, rumbling
-explosionrumbling
-explosions and rumbling
-explosions booming in distance
-explosions continue in distance
-explosions continue in distance
-explosions continue in distance
-explosions continue in distance
-explosions continue in distance
-explosions continue in distance
-explosions continue in distance
-explosions continue in distance
-explosions continue outside
-explosions continue outside
-explosions continue, indistinct screaming
-explosions continue, indistinct screaming
-explosions continue, indistinct screaming
-explosions in background, sounds slow and soften
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance
-explosions in distance, indistinct conversations
-explosions in distance, indistinct conversations
-explosions in the background
-explosions in the background
-explosions in the background
-explosions in the background
-explosions in the background
-explosions in the background
-explosions in the distance
-explosions in the distance
-explosions in the distance
-explosions in the distance
-explosions in the distance
-explosions in the distance
-explosions in the distance
-explosions in the distance
-explosions in the distance
-explosions in the distance
-explosions in the distance
-explosions in the distance
-explosions in the distance
-explosions in the distance
-explosions in the distance
-explosions in the distance
-explosions outside
-explosions outside
-explosions outside
-explosions outside
-explosions outside
-explosions outside
-explosions rumbling
-explosions rumbling
-explosions rumbling
-explosions rumbling
-explosions rumbling
-explosions rumbling
-explosions rumbling
-explosions rumbling
-explosions rumbling
-explosions rumbling
-explosions rumbling
-explosions rumbling
-explosions rumbling
-explosions rumbling
-explosions rumbling
-explosions rumbling
-explosions rumbling
-explosions rumbling
-explosions rumbling
-explosions rumbling
-explosions rumbling
-explosions rumbling
-explosions rumbling nearby
-explosions rumbling nearby
-explosions rumbling, sirens wailing
-explosions, rumbling
-explosions, rumbling
 explosive popping and rumbling
 explosive popping and rumbling
 explosive popping and rumbling
@@ -27447,7 +26939,6 @@ fantasians cry faintly
 fantasians cry faintly
 far away
 far away
-far away explosions
 far away howling
 far away howling
 far away howling
@@ -27614,8 +27105,6 @@ firefighters shouting in distance
 firefighters shouting in distance
 firefighters shouting in distance
 fireworks crackle outside
-fireworks explode in distance
-fireworks exploding in distance
 fireworks pop in distance
 fireworks pop in distance
 fireworks whistling in distance
@@ -42810,7 +42299,6 @@ indistinct chatter, dogs barking
 indistinct chatter, door opening
 indistinct chatter, door opening
 indistinct chatter, festive music playing
-indistinct chatter, fireworks exploding
 indistinct chatter, footfalls approaching
 indistinct chatter, footfalls approaching
 indistinct chatter, goats bleating
@@ -52835,7 +52323,6 @@ indistinct shouting and cheering
 indistinct shouting and clatter
 indistinct shouting and clatter
 indistinct shouting and clatter
-indistinct shouting and explosions
 indistinct shouting and fighting
 indistinct shouting and fighting
 indistinct shouting and fighting
@@ -58540,6 +58027,8 @@ little boys crying in distance
 little boys crying in distance
 little girl - speaking baby talk faintly
 little girl - speaking baby talk faintly
+little girl - speaking baby talk faintly
+little girl - speaking baby talk faintly
 little girl speaking baby talk faintly
 little girl speaking baby talk faintly
 little girl speaking baby talk faintly
@@ -58554,8 +58043,6 @@ little girl ~ speaking baby talk faintly
 little girl ~ speaking baby talk faintly
 little girl ~ speaking baby talk faintly
 little girl ~ speaking baby talk faintly
-little girln- speaking baby talk faintly
-little girln- speaking baby talk faintly
 lively banjo melody plays in distance
 lively chatter continues in distance
 lively chatter continues in distance
@@ -58712,12 +58199,6 @@ loud crash in background
 loud crash outside
 loud creaking and rumbling
 loud dance music playing in distance
-loud explosion in distance
-loud explosion in distance
-loud explosion in distance
-loud explosion in distance
-loud explosion in distance
-loud explosion in distance
 loud glugging in distance
 loud glugging in distance
 loud glugging in distance
@@ -59131,7 +58612,6 @@ loud rumbling and cracking
 loud rumbling and creaking
 loud rumbling and creaking
 loud rumbling and crunching
-loud rumbling and explosions
 loud rumbling and high-pitched whine
 loud rumbling and hissing
 loud rumbling and rattling
@@ -59142,7 +58622,6 @@ loud rumbling continues
 loud rumbling continues
 loud rumbling continues
 loud rumbling continues
-loud rumbling explosion
 loud rumbling noise
 loud rumbling noise
 loud rumbling sound
@@ -59214,9 +58693,6 @@ loud, indistinct voices
 loud, indistinct voices
 loud, indistinct voices
 loud, ominous creaking
-loud, rumbling explosion
-loud, rumbling explosion
-loud, rumbling explosion
 loud, rumbling whir
 louder grumbling
 louder grumbling and booing
@@ -64837,9 +64313,6 @@ miljan speaks indistinctly
 miljan speaks indistinctly
 mimics artie's grumbling
 mimics artie's grumbling
-mimics explosion sound quietly
-mimics explosion sound quietly
-mimics explosion sound quietly
 mindy continues indistinctly
 mindy, outside
 mindy, outside
@@ -64857,9 +64330,6 @@ miranda humming softly
 miranda sings "dream angus" softly
 miranda sings "dream angus" softly
 missile engine rumbling
-missiles exploding in distance
-missiles exploding in distance
-missiles exploding in distance
 mitch continues in background
 mitch speaks gently, quietly
 mitch speaks gently, quietly
@@ -65614,8 +65084,6 @@ muffled coughing in distance
 muffled crash, woman screams in distance
 muffled crash, woman screams in distance
 muffled crying in distance
-muffled explosion in distance
-muffled explosion in distance
 muffled grumbling
 muffled grumbling
 muffled grumbling
@@ -68159,7 +67627,6 @@ music continuesin background
 music continuing distantly
 music continuing distantly
 music continuing distantly
-music crescendos with sounds of far-off explosions
 music distant slow swing music
 music echoes in distance
 music echoes in distance
@@ -69036,8 +68503,6 @@ muted, distorted crying
 muted, distorted crying
 muted, distorted crying
 muted, distorted drumming, chimes clang lightly
-muted, distorted explosions
-muted, distorted explosions
 muted, distorted shouting
 muted, muffled music
 muted, to clay's ears
@@ -79134,8 +78599,6 @@ quietly grunts
 quietly grunts
 quietly grunts
 quietly humming
-quietly imitates explosion
-quietly imitates explosion
 quietly impressed
 quietly impressed
 quietly in the background
@@ -83663,8 +83126,6 @@ rumbling and creaking cease
 rumbling and creaking cease
 rumbling and creaking cease
 rumbling and creaking noises
-rumbling and explosions in distance
-rumbling and explosions in distance
 rumbling and growling
 rumbling and growling
 rumbling and grunting
@@ -83853,10 +83314,6 @@ rumbling eases, debris settling softly
 rumbling eases, debris settling softly
 rumbling engine
 rumbling engine
-rumbling explosion
-rumbling explosion
-rumbling explosion
-rumbling explosions
 rumbling fades
 rumbling fades
 rumbling fades
@@ -84300,8 +83757,6 @@ rumbling, dirt thudding
 rumbling, echoing
 rumbling, electricity buzzing
 rumbling, electricity buzzing
-rumbling, explosions
-rumbling, explosions
 rumbling, gears grinding
 rumbling, glass breaking
 rumbling, glass breaking
@@ -84424,9 +83879,6 @@ rumbling. rattling
 rumblingandsloshing
 rumblingcontinues
 rumblingcontinues
-rumblings and distant explosions
-rumblings and distant explosions
-rumblings and distant explosions
 rumblings from vesuvius
 rumblingstops
 rumbllng in distance
@@ -85310,12 +84762,9 @@ shelby screaming indistinctly
 shelby screaming indistinctly
 sheldon speaking indistinctly
 sheldon speaking indistinctly
-shell explodes in the distance
 shelley groaning softly
 shelley sobs quietly
 shelley sobs quietly
-shells exploding in distance
-shells exploding in distance
 shelly laughs softly
 sheriff speaks indistinctly over phone
 sheriff speaks indistinctly over phone
@@ -94262,6 +93711,12 @@ song continues on radio, quietly
 song continues on radio, quietly
 song continues on radio, quietly
 song continues on radio, quietly
+song continues on radio, quietly
+song continues on radio, quietly
+song continues on radio, quietly
+song continues on radio, quietly
+song continues on radio, quietly
+song continues on radio, quietly
 song continues playing in background
 song continues playing softly
 song continues playing softly
@@ -97330,7 +96785,6 @@ speaks indistinctly and gasps
 speaks indistinctly and grunts
 speaks indistinctly and grunts
 speaks indistinctly and grunts
-speaks indistinctly and imitates explosion
 speaks indistinctly and kisses
 speaks indistinctly in gruff voice
 speaks indistinctly in mocking voice
@@ -111103,9 +110557,3 @@ zombies grumbling
 zombies murmuring
 zoom continues in background
 zoom continues in background
-~ song continues on radio, quietly
-~ song continues on radio, quietly
-~ song continues on radio, quietly
-~ song continues on radio, quietly
-~ song continues on radio, quietly
-~ song continues on radio, quietly

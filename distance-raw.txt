@@ -1033,7 +1033,6 @@ children speaking distantly
 crowd murmuring
 music continuing distantly
 music continuing distantly
-explosions rumbling
 all murmuring
 music continuing distantly
 distant sirens
@@ -1369,19 +1368,15 @@ boy speaks indistinctly
 man yells indistinctly
 men shout in the distance
 men yell indistinctly
-distant explosion
 distant artillery fire
-distant explosions
 man yells in distance
 indistinct shouting
 distant shouting
 machine chugs quietly
 man yells indistinctly
-distant explosions continue
 mutters quietly
 men murmur quietly
 rumbling
-distant explosion
 rumbling intensifies
 loud rumbling
 dicky shouts indistinctly
@@ -1595,10 +1590,6 @@ thunder rumbling
 thunder rumbling
 rain pattering, thunder rumbling
 thunder rumbling
-distant explosions
-distant explosion
-distant explosion
-distant explosions
 distant boom
 distant boom
 softly
@@ -1747,9 +1738,7 @@ rock music plays loudly, indistinct conversation
 quietly
 rock music plays loudly, indistinct conversation
 groans quietly
-explosions, rumbling
 people murmuring
-explosions and rumbling
 indistinct music playing
 car engine rumbling
 thunder rumbling
@@ -1969,17 +1958,14 @@ shouting, screaming in distance
 indistinct radio transmission
 call to prayer in the distance
 horns and sirens in the distance
-explosions in the distance
 roars of distant woman
 uproar distant
 call to prayer in the distance
 horns and sirens in the distance
-explosions in the distance
 roars of distant woman
 uproar distant
 call to prayer in the distance
 horns and sirens in the distance
-explosions in the distance
 roars of distant woman
 uproar distant
 twittering of birds and the sound of man at a distance
@@ -1988,7 +1974,6 @@ sirens and horns in the distance
 cries in the distance
 call to prayer in the distance
 horns and sirens in the distance
-explosions in the distance
 roars of distant woman
 uproar distant
 birds chirping outside
@@ -3119,7 +3104,6 @@ shouting inaudibly
 mot rumbling
 continues indistinctly
 continues indistinctly
-loud explosion in distance
 shouts indistinctly
 indistinct conversations
 man speaking indistinctly
@@ -3133,7 +3117,6 @@ indistinct conversations
 man speaking indistinctly
 speaks indistinctly
 rumbling
-explosions in distance
 woman speaks indistinctly over p.a
 speaks indistinctly
 indistinct conversations
@@ -3212,7 +3195,6 @@ sighs softly
 pleading softly
 thunder rumbling
 men chattering indistinctly in foreign language
-distant explosion
 indistinct chatter
 inaudible dialogue
 indistinct chatter
@@ -3223,7 +3205,6 @@ indistinct chattering
 indistinct chatter
 indistinct chatter
 men chattering indistinctly in foreign language
-distant explosion
 indistinct chatter
 inaudible dialogue
 indistinct chatter
@@ -3323,7 +3304,6 @@ indistinct chattering
 indistinct chatter
 indistinct chattering on tv
 indistinct chattering
-distant explosions
 wind whistling outside
 chanting softly
 chanting softly
@@ -4380,7 +4360,6 @@ panting in distance
 screech in distance
 howl in distance
 axel and sean speaking indistinctly
-indistinct shouting and explosions
 axel and sean laugh and speak indistinctly
 tapping in distance
 ominous music
@@ -5283,13 +5262,11 @@ gasping, murmuring
 people shouting indistinctly
 cartoon continues playing indistinctly
 crashing, sirens wailing in distance
-explosions in distance, indistinct conversations
 voices whispering indistinctly
 voices continue whispering indistinctly
 people shouting indistinctly
 cartoon continues playing indistinctly
 crashing, sirens wailing in distance
-explosions in distance, indistinct conversations
 voices whispering indistinctly
 voices continue whispering indistinctly
 stewie snoring softly
@@ -5635,14 +5612,11 @@ sounds of heated conversation in the background
 indistinct chattering
 indistinct chatter
 happy tune playing in background
-rumblings and distant explosions
 band plays in background
 hears mumbling in distance
 happy tune playing in background
-rumblings and distant explosions
 band plays in background
 happy tune playing in background
-rumblings and distant explosions
 band plays in background
 hears mumbling in distance
 happy tune playing in background
@@ -5748,7 +5722,6 @@ muffled, indistinct conversation
 indistinct conversation
 sighs quietly
 sighs quietly
-explosion in distance
 wind rumbling
 indistinct police radio chatter
 singing in the background
@@ -6680,34 +6653,20 @@ gasps and murmurs
 dialogue inaudible
 continues indistinctly
 indistinct shouting
-distant explosions
-distant explosions continue
-indistinct shouting
-man shouting, indistinct
-distant explosions
-indistinct shouting
-distant explosions
-distant explosions continue
 indistinct shouting
 man shouting, indistinct
 indistinct shouting
-distant explosions
-distant explosions continue
 indistinct shouting
 man shouting, indistinct
-distant explosions continue
-man shouting, indistinct
 indistinct shouting
-distant explosions
-distant explosions continue
 indistinct shouting
 man shouting, indistinct
-distant explosions continue
 man shouting, indistinct
-distant explosions
 indistinct shouting
-distant explosions
-distant explosions continue
+indistinct shouting
+man shouting, indistinct
+man shouting, indistinct
+indistinct shouting
 indistinct shouting
 man shouting, indistinct
 girl talking indistinctly
@@ -6834,7 +6793,6 @@ indistinct conversation
 chuckles softly
 speaking indistinctly
 dogs barking in distance
-explosion in distance
 if i look outside the window
 so far away
 so far away
@@ -6907,7 +6865,6 @@ shouts indistinctly
 men murmuring, groaning
 keys jangling, cell door closes in distance
 man speaking indistinctly over p.a
-fireworks exploding in distance
 siren wailing in distance
 man speaking indistinctly
 man shouting indistinctly, siren wailing
@@ -7023,7 +6980,6 @@ speaksindistinctly
 indistinct conversations
 man shouting in distance
 distant voice speaking russian
-explosion in distance
 chatter in distance
 howling in distance
 distant low growling
@@ -7035,7 +6991,6 @@ inaudible
 exhales softly
 inaudible
 man shouting in distance
-explosion in distance
 chatter in distance
 howling in distance
 dogs barking in distance
@@ -7046,20 +7001,6 @@ exhales softly
 inaudible
 man shouting in distance
 distant voice speaking russian
-explosion in distance
-chatter in distance
-howling in distance
-distant low growling
-dogs barking in distance
-men shouting distant
-train whistles in distance
-men shouting in distance
-inaudible
-exhales softly
-inaudible
-man shouting in distance
-distant voice speaking russian
-explosion in distance
 chatter in distance
 howling in distance
 distant low growling
@@ -7072,7 +7013,6 @@ exhales softly
 inaudible
 man shouting in distance
 distant voice speaking russian
-explosion in distance
 chatter in distance
 howling in distance
 distant low growling
@@ -7085,7 +7025,6 @@ exhales softly
 inaudible
 man shouting in distance
 distant voice speaking russian
-explosion in distance
 chatter in distance
 howling in distance
 distant low growling
@@ -7098,7 +7037,6 @@ exhales softly
 inaudible
 man shouting in distance
 distant voice speaking russian
-explosion in distance
 chatter in distance
 howling in distance
 distant low growling
@@ -7111,7 +7049,6 @@ exhales softly
 inaudible
 man shouting in distance
 distant voice speaking russian
-explosion in distance
 chatter in distance
 howling in distance
 distant low growling
@@ -7123,7 +7060,18 @@ inaudible
 exhales softly
 inaudible
 man shouting in distance
-explosion in distance
+distant voice speaking russian
+chatter in distance
+howling in distance
+distant low growling
+dogs barking in distance
+men shouting distant
+train whistles in distance
+men shouting in distance
+inaudible
+exhales softly
+inaudible
+man shouting in distance
 chatter in distance
 howling in distance
 dogs barking in distance
@@ -7134,7 +7082,6 @@ exhales softly
 inaudible
 man shouting in distance
 distant voice speaking russian
-explosion in distance
 chatter in distance
 howling in distance
 distant low growling
@@ -7414,7 +7361,6 @@ indistinct chatter
 rumbling
 indistinct yelling
 people yelling in the distance
-explosion outside
 rumbling
 people scream in the distance
 men shouting in distance
@@ -7943,7 +7889,6 @@ rumbling
 rumbling
 crashing outside
 indistinct voice over radio
-explosions in the distance
 continues indistinctly
 continues indistinctly
 continues indistinctly
@@ -8062,7 +8007,6 @@ quietly
 softly
 engine rumbling
 whistling outside
-loud, rumbling explosion
 rumbling stops
 shouting continues outside
 men yelling in distance
@@ -8076,7 +8020,6 @@ distantly
 "we're all going to the zoo" plays faintly
 engine rumbling
 whistling outside
-loud, rumbling explosion
 rumbling stops
 softly
 shouting continues outside
@@ -8091,7 +8034,6 @@ softly
 grumbling
 grumbling
 protesters grumbling
-bombs exploding in distance
 distant breathing
 men grumbling
 drums beating in distance
@@ -8696,8 +8638,6 @@ quietly
 quietly
 quietly
 softly
-explosions in distance
-distant explosion
 thunder rumbling
 distant coughing
 distant rustling
@@ -8705,8 +8645,6 @@ horn honks outside
 men shouting indistinctly
 distant chattering
 birds chirping quietly
-explosions in distance
-distant explosion
 thunder rumbling
 distant coughing
 distant rustling
@@ -8714,8 +8652,6 @@ horn honks outside
 men shouting indistinctly
 distant chattering
 birds chirping quietly
-explosions in distance
-distant explosion
 thunder rumbling
 distant coughing
 distant rustling
@@ -8723,8 +8659,6 @@ horn honks outside
 men shouting indistinctly
 distant chattering
 birds chirping quietly
-explosions in distance
-distant explosion
 thunder rumbling
 distant coughing
 distant rustling
@@ -8732,8 +8666,6 @@ horn honks outside
 men shouting indistinctly
 distant chattering
 birds chirping quietly
-explosions in distance
-distant explosion
 thunder rumbling
 distant coughing
 distant rustling
@@ -8865,7 +8797,6 @@ quietly
 quietly
 quietly
 quietly
-explosion rumbling
 siren wailing in distance
 continues, indistinct
 continues indistinct
@@ -8873,7 +8804,6 @@ mumbling indistinctly
 distant siren
 indistinct
 whispered
-explosion rumbling
 siren wailing in distance
 continues, indistinct
 continues indistinct
@@ -8881,7 +8811,6 @@ mumbling indistinctly
 distant siren
 indistinct
 whispered
-explosionrumbling
 sirenwailing in distance
 continues,indistinct
 continuesindistinct
@@ -8889,7 +8818,6 @@ mumbling indistinctly
 distantsiren
 indistinct
 whispered
-explosion rumbling
 siren wailing in distance
 continues, indistinct
 continues indistinct
@@ -8898,7 +8826,6 @@ distant siren
 indistinct
 whispered
 whispered
-explosion rumbling
 siren wailing in distance
 continues, indistinct
 continues indistinct
@@ -10001,7 +9928,6 @@ ominous chord plays
 low, distant electronic pulsing
 ominous, dramatic theme begins
 distant snarling
-explosion, rumbling
 ominous theme plays
 eerie screech in distance
 birds squawking in distance
@@ -10077,7 +10003,6 @@ ominous chord plays
 low, distant electronic pulsing
 ominous, dramatic theme begins
 distant snarling
-explosion, rumbling
 ominous theme plays
 eerie screech in distance
 birds squawking in distance
@@ -10137,7 +10062,6 @@ ominous chord plays
 low, distant electronic pulsing
 ominous, dramatic theme begins
 distant snarling
-explosion, rumbling
 ominous theme plays
 eerie screech in distance
 birds squawking in distance
@@ -10196,7 +10120,6 @@ indistinct chatter
 indistinct chatter
 softly whines
 grumbling
-far away explosions
 neighing and wind softly howling
 deep rumbling
 indistinct
@@ -12415,7 +12338,6 @@ indistinct police radio communication
 clattering in distance
 indistinct chatter, music playing
 all grumbling
-distant loud explosion
 grumbling
 music in the background
 people murmuring
@@ -12509,7 +12431,6 @@ distant, echoing
 speaking inaudibly
 car horn honking in distance
 continues, indistinct
-a distant explosion
 thunder rumbling
 thunder rumbling continues
 a tank is heard outside
@@ -12610,10 +12531,6 @@ all talking indistinctly
 people murmuring
 distant war-whooping
 hammering in distance
-distant explosions
-distant explosions
-distant explosion
-distant explosion
 singing quietly
 indistinct shouting
 indistinct chattering
@@ -12657,7 +12574,6 @@ laughter outside
 laughs quietly
 groans and clattering outside
 laughs quietly
-explosions continue in distance
 crowd murmuring
 louder murmurs
 sobbing quietly
@@ -12744,14 +12660,8 @@ hammering continues outside
 children laughing outside
 girls murmuring
 distant singing
-distant explosion
-distant explosion
 distant singing
-distant explosion
-distant explosion
 distant singing
-distant explosion
-distant explosion
 thunder rumbling
 thunder rumbling
 thunder rumbling
@@ -12783,18 +12693,9 @@ indistinct shouting
 indistinct conversations
 indistinct talk outside
 indistinct shouting
-distant explosions
-distant explosions
-distant explosions
 indistinct talk
-distant explosions
 indistinct shouting
-distant explosions
-distant explosions
-distant explosions
 indistinct singing
-distant explosions
-distant explosions
 men grumbling
 indistinct talk
 indistinct singing
@@ -12805,7 +12706,6 @@ indistinct talk
 indistinct talk
 man singing indistinctly
 indistinct talk
-distant explosions
 starker talking in background
 sirens in distance
 starker talking in background
@@ -13496,7 +13396,6 @@ man speaks indistinctly
 man speaks indistinctly
 quietly
 speaking indistinctly
-distant explosion
 distant dogs barking
 distant dogs barking
 soldiers conversing quietly
@@ -13718,71 +13617,47 @@ bell ringing in distance
 thunder rumbling
 thunder rumbling
 crowd murmuring
-bombs exploding in the background
-bombs exploding in the background
 bell ringing in the background
 dog barking in the background
 dog barking in the background
 neighing in the background
 people talking in the background and glass shattering
-constant explosions in the background
 soldier in the background
-explosions in the background
-chatter and explosions in the background
-explosion in the background
 man, outside
 guy screaming in pain in the background
-explosion in the background
 military command in the background
 screaming in the background
 screaming in the background
-explosions in the background
 charging yells in the background
 screaming in the background
 screaming in the background
 moaning in the background
-bombs exploding in the background
-bombs exploding in the background
 bell ringing in the background
 dog barking in the background
 dog barking in the background
 neighing in the background
 people talking in the background and glass shattering
-constant explosions in the background
 soldier in the background
-explosions in the background
-chatter and explosions in the background
-explosion in the background
 man, outside
 guy screaming in pain in the background
-explosion in the background
 military command in the background
 screaming in the background
 screaming in the background
-explosions in the background
 charging yells in the background
 screaming in the background
 screaming in the background
 moaning in the background
-bombs exploding in the background
-bombs exploding in the background
 bell ringing in the background
 dog barking in the background
 dog barking in the background
 neighing in the background
 people talking in the background and glass shattering
-constant explosions in the background
 soldier in the background
-explosions in the background
-chatter and explosions in the background
-explosion in the background
 man, outside
 guy screaming in pain in the background
-explosion in the background
 military command in the background
 screaming in the background
 screaming in the background
-explosions in the background
 charging yells in the background
 screaming in the background
 screaming in the background
@@ -14153,16 +14028,10 @@ quietly
 gene shouting indistinctly
 distant artillery firing
 indistinct chatter
-distant explosion
-distant explosion
 distant artillery firing
 indistinct chatter
-distant explosion
-distant explosion
 distant artillery firing
 indistinct chatter
-distant explosion
-distant explosion
 voices vocalizing faintly
 singing indistinctly
 cheering in background
@@ -14200,7 +14069,6 @@ barking in distance
 whispering, indistinct
 whispering, indistinct
 whispering, indistinct
-explosion in distance
 stomach rumbling
 all murmuring in excitement
 indistinct chattering
@@ -14594,7 +14462,6 @@ people shouting indistinctly
 mazzy humming softly
 mazzy huffing quietly into microphone
 quietly
-distant explosions
 thunder rumbling
 indistinct muttering
 quietly
@@ -15427,7 +15294,6 @@ indistinct chatter
 piano playing quietly
 low rumbling
 distant dance music playing
-distant explosions
 kids in distance
 scoffs quietly
 bird screeches outside
@@ -15446,7 +15312,6 @@ thunder rumbling
 thunder rumbling
 crowd murmuring
 continues, indistinct
-explosions outside
 indistinct clamourlng
 inaudible
 inaudible
@@ -15457,7 +15322,6 @@ thunder rumbling
 thunder rumbling
 crowd murmuring
 continues, indistinct
-explosions outside
 indistinct clamourlng
 inaudible
 inaudible
@@ -15468,7 +15332,6 @@ thunder rumbling
 thunder rumbling
 crowd murmuring
 continues, indistinct
-explosions outside
 indistinct clamourlng
 inaudible
 inaudible
@@ -15479,7 +15342,6 @@ thunder rumbling
 thunder rumbling
 crowd murmuring
 continues, indistinct
-explosions outside
 boys chatter in spanish in background
 distant laughter
 crowds shout in distance
@@ -15557,9 +15419,7 @@ chuckling softly
 crowd shouting and laughing outside
 crowd laughs and cheers outside
 distant laughter
-explosion in distance
 distant rocket whistling
-explosion in distance
 distant rocket whistling
 indistinct
 students laughing at distance
@@ -16217,7 +16077,6 @@ grumbling
 grumbling
 grumbling
 grumbling
-explosion outside
 man speaking indistinctly
 woman speaking indistinctly
 woman continues, indistinct
@@ -16628,7 +16487,6 @@ indistinct chatter
 indistinct chatter
 rascals chattering, indistinct
 director, indistinct
-indistinct chatter, fireworks exploding
 indistinct chattering
 francesca murmuring
 muttering indistinctly
@@ -17316,7 +17174,7 @@ rumbling gets louder
 distant laughter
 gasps softly
 all murmuring
-little girln- speaking baby talk faintly
+little girl - speaking baby talk faintly
 murmur of conversation
 distant sirens wailing
 door creaks softly
@@ -17345,7 +17203,7 @@ door quietly creaks open
 distant laughter
 gasps softly
 all murmuring
-little girln- speaking baby talk faintly
+little girl - speaking baby talk faintly
 murmur of conversation
 distant sirens wailing
 door creaks softly
@@ -18157,23 +18015,18 @@ men talking indistinctly
 distant shouting
 distant clanking
 distant helicopter
-explosion in distance
 rumbling
 distant clanking
 distant helicopter
-explosion in distance
 rumbling
 distant clanking
 distant helicopter
-explosion in distance
 rumbling
 distant clanking
 distant helicopter
-explosion in distance
 rumbling
 distant clanking
 distant helicopter
-explosion in distance
 rumbling
 quietly
 quietly
@@ -18318,11 +18171,9 @@ softly
 softly
 softly
 shrek in distance
-explosion, rumbling
 softly
 softly
 shrek in distance
-explosion, rumbling
 softly
 poet speaks softly
 guitar plays faintly
@@ -18923,7 +18774,6 @@ tv plays quietly
 radio plays softly
 moans softly
 quietly
-distant explosion
 distant dull roar
 distant roar
 distant rumble dies away
@@ -19627,7 +19477,6 @@ thunder rumbling
 thunder rumbling
 horns honking in distance
 rumbling
-distant explosion
 speaking inaudibly
 music stops, crowd gasps and murmurs
 speaks inaudibly
@@ -20167,15 +20016,11 @@ distant cheering
 female voice singing distant
 distant helicopter
 distant loud thud
-distant loud explosion
-distant explosion
 distant car honking
 distant cheering
 female voice singing distant
 distant helicopter
 distant loud thud
-distant loud explosion
-distant explosion
 distant car honking
 speaking indistinctly
 speaking indistinctly
@@ -20324,7 +20169,6 @@ man on tv speaking indistinctly
 indistinct whispering
 indistinct conversations
 crying softly
-explosion in distance
 car alarms blaring in distance
 man shouting indistinctly
 cartoon continues indistinctly
@@ -20346,7 +20190,6 @@ indistinct whispering
 indistinct conversations
 indistinct conversations
 crying softly
-explosion in distance
 indistinct conversations
 men shouting indistinctly
 indistinct whispers
@@ -20984,7 +20827,6 @@ indistinct overlapping chatter
 indistinct overlapping chatter
 indistinct overlapping chatter
 indistinct overlapping chatter
-rumbling explosion
 indistinct chatter
 rumbling
 indistinct voice over radio
@@ -21065,15 +20907,10 @@ neighbors whispering, murmuring
 quietly
 in distance
 song continues indistinct
-distant explosions
 inaudible
-distant explosions
 inaudible
-distant explosions
 inaudible
-distant explosions
 inaudible
-distant explosions
 indistinct arguing
 indistinct arguing
 indistinct chatter
@@ -21759,9 +21596,7 @@ chuckles softly
 distant hisses and creaks
 murmurs of panic ripple through crowd
 murmuring increasing
-distant explosion
 murmuring in concern
-explosions rumbling
 murmurs ripple through crowd
 murmurs of excitement
 murmurs of assent
@@ -21773,9 +21608,7 @@ chuckles softly
 distant hisses and creaks
 murmurs of panic ripple through crowd
 murmuring increasing
-distant explosion
 murmuring in concern
-explosions rumbling
 murmurs ripple through crowd
 murmurs of excitement
 murmurs of assent
@@ -21787,9 +21620,7 @@ chuckles softly
 distant hisses and creaks
 murmurs of panic ripple through crowd
 murmuring increasing
-distant explosion
 murmuring in concern
-explosions rumbling
 murmurs ripple through crowd
 murmurs of excitement
 murmurs of assent
@@ -21801,9 +21632,7 @@ chuckles softly
 distant hisses and creaks
 murmurs of panic ripple through crowd
 murmuring increasing
-distant explosion
 murmuring in concern
-explosions rumbling
 murmurs ripple through crowd
 murmurs of excitement
 murmurs of assent
@@ -22716,9 +22545,7 @@ screaming in distance
 distant hisses and creaks
 murmurs of panic ripple through crowd
 murmuring increasing
-distant explosion
 murmuring in concern
-explosions rumbling
 murmurs ripple through crowd
 murmurs of excitement
 murmurs of assent
@@ -23429,8 +23256,6 @@ men shouting in distance
 mumbling quietly
 men shouting in distance
 mumbling quietly
-bombs explode distantly
-bombs explode distantly
 james, indistinct
 native americans chanting, distant
 quietly
@@ -23705,7 +23530,6 @@ people speaking indistinctly
 people speaking indistinctly
 indistinct conversations
 man speaks indistinctly
-distant rumbling and explosions
 cracking and rumbling
 laughter, cheering, and indistinct chatter
 crying quietly
@@ -24098,23 +23922,18 @@ snaps inaudibly
 ominous music
 indistinct chatter
 indistinct chatter, yelling
-loud explosion in distance
 ominous music
 ominous music
 indistinct chatter
 indistinct chatter, yelling
-loud explosion in distance
-ominous music
-loud explosion in distance
-ominous music
-indistinct chatter
-indistinct chatter, yelling
-loud explosion in distance
 ominous music
 ominous music
 indistinct chatter
 indistinct chatter, yelling
-loud explosion in distance
+ominous music
+ominous music
+indistinct chatter
+indistinct chatter, yelling
 ominous music
 child sobbing in distance
 vehicle approaching, indistinct radio transmission
@@ -24809,7 +24628,6 @@ crying quietly
 chuckles quietly
 whisperingindistinctly
 distant roaring
-crowd screaming, distant explosions
 all grumbling agreeably
 man speaking indistinctly on p.a
 rumbling
@@ -26293,9 +26111,6 @@ indistinct chatter
 music playing in distance
 jazz music playing quietly
 people chattering quietly
-distant explosion
-distant explosions continue
-distant explosions continue
 indistinct chatter
 thunder rumbling
 distant phone ringing
@@ -26305,9 +26120,6 @@ indistinct chatter
 music playing in distance
 jazz music playing quietly
 people chattering quietly
-distant explosion
-distant explosions continue
-distant explosions continue
 indistinct chatter
 thunder rumbling
 distant phone ringing
@@ -26716,7 +26528,6 @@ rumbling
 rumbling
 rumbling
 murmurs
-rumbling, explosions
 indistinct voices
 in distance
 shea and lloyd murmuring
@@ -27362,7 +27173,6 @@ speaking indistinctly
 woman speaking indistinctly over p.a
 speaks indistinctly
 speaks indistinctly
-speaks indistinctly and imitates explosion
 lucas speaking indistinctly
 indistinct hlp-hop music playing
 people murmuring
@@ -27767,7 +27577,6 @@ chuckles softly
 groans softly
 indistinct shouting
 chuckles softly
-explosions in the distance
 hears noise from outside
 all murmur in agreement
 all murmur in agreement
@@ -27802,7 +27611,6 @@ telephones ring in distance
 speaking indistinctly
 telephones ring in distance
 speaking indistinctly
-explosion in distance
 man screaming in distance
 siren in distance
 loud rumbling
@@ -28315,13 +28123,10 @@ votes disappear in the background
 from outside
 loud rumbling
 loud rumbling
-distant explosion
 loud rumbling
 loud rumbling
-distant explosion
 loud rumbling
 loud rumbling
-distant explosion
 quietly
 quietly
 distant siren wailing, dog barking
@@ -28358,12 +28163,8 @@ crying quietly
 quietly
 crying softly
 crying quietly
-explosion in distance
-explosion in distance
 dog barking in distance
-explosion in distance
 dog barking in distance
-explosion in distance
 dog barking in distance
 country western song plays in background
 dog barking in distance
@@ -28930,19 +28731,15 @@ indistinct chatter
 growls quietly
 anders indistinct
 low rumbling
-explosions in the distance
 growls quietly
 anders indistinct
 low rumbling
-explosions in the distance
 growls quietly
 anders indistinct
 low rumbling
-explosions in the distance
 growls quietly
 anders indistinct
 low rumbling
-explosions in the distance
 footsteps outside
 siren wailing in distance
 siren wailing in distance
@@ -29078,17 +28875,14 @@ murmuring of adults and children
 women murmuring
 indistinct chatter
 beast roars distantly
-explosion outside, beast roars
 snarling softly
 park and greer chatting quietly
 chatting quietly
 beast roars distantly
-explosion outside, beast roars
 snarling softly
 park and greer chatting quietly
 chatting quietly
 beast roars distantly
-explosion outside, beast roars
 snarling softly
 park and greer chatting quietly
 chatting quietly
@@ -30128,7 +29922,6 @@ sobbing softly
 in distance
 sobbing softly
 emily screams muted
-explosions in background, sounds slow and soften
 singing continues indistinctly
 smashing around the house outside
 tv playing indistinctly
@@ -30999,7 +30792,6 @@ indistinct shouting
 indistinct shouting
 indistinct conversations
 all murmuring
-explosion and rumbling
 speaks indistinctly
 speaks indistinctly
 man speaks indistinctly over p.a
@@ -31359,7 +31151,6 @@ softly
 animal roaring in distance
 loud rumbling and whirring
 wind whistling, howling and rumbling
-distant fireworks exploding
 whispering indistinctly
 sirens wailing in distance
 sirens wailing in distance
@@ -32043,14 +31834,12 @@ wind howling outside
 distant thumping
 man singing indistinctly
 distant rumbling
-distant explosion
 indistinct radio chatter
 wind howling outside
 wind howling outside
 distant thumping
 man singing indistinctly
 distant rumbling
-distant explosion
 tearing, clattering in background
 speaking indistinctly
 shouts indistinctly
@@ -32479,7 +32268,6 @@ announcer continues indistinctly
 announcer speaking indistinctly
 announcer speaking indistinctly
 thunder rumbling
-explosions rumbling
 man talking indistinctly
 dinosaur bellowing in distance
 bell tolls in distance
@@ -32712,7 +32500,6 @@ man yelling indistinctly over bullhorn
 indistinct murmuring
 man talking indistinctly nearby
 indistinct whimpering
-explosions in distance
 children yelling indistinctly
 shouting, indistinct
 shouting indistinctly
@@ -32879,7 +32666,6 @@ shaun struggling outside
 sirens in the distance
 car alarm ringing, distant groans
 shaun struggling outside
-distant explosion rumbling
 distant patrol craft roaring
 distant patrol craft roaring
 indistinct chatter
@@ -33208,85 +32994,72 @@ chatter quietly
 softly
 softly
 shrek in distance
-explosion, rumbling
 distant singing
 softly
 softly
 softly
 softly
 shrek in distance
-explosion, rumbling
 distant singing
 softly
 softly
 softly
 softly
 shrek in distance
-explosion, rumbling
 distant singing
 softly
 softly
 softly
 softly
 shrek in distance
-explosion, rumbling
 distant singing
 softly
 softly
 softly
 softly
 shrek in distance
-explosion, rumbling
 softly
 softly
 shrek in distance
-explosion, rumbling
 distant singing
 softly
 softly
 softly
 softly
 shrek in distance
-explosion, rumbling
 distant singing
 softly
 softly
 softly
 softly
 shrek in distance
-explosion, rumbling
 distant singing
 softly
 softly
 softly
 softly
 shrek in distance
-explosion, rumbling
 distant singing
 softly
 softly
 softly
 softly
 shrek in distance
-explosion, rumbling
 distant singing
 softly
 softly
 softly
 softly
 shrek in distance
-explosion, rumbling
 softly
 softly
 shrek in distance
-explosion, rumbling
 distant singing
 softly
 softly
 softly
 softly
 shrek in distance
-explosion, rumbling
 distant singing
 softly
 softly
@@ -33298,25 +33071,21 @@ softly
 softly
 softly
 shrek in distance
-explosion, rumbling
 softly
 softly
 shrek in distance
-explosion, rumbling
 distant singing
 softly
 softly
 softly
 softly
 shrek in distance
-explosion, rumbling
 distant singing
 softly
 softly
 softly
 softly
 shrek in distance
-explosion, rumbling
 continues, indistinct
 man yelling, indistinct
 bock yelling, indistinct
@@ -33472,7 +33241,6 @@ commotion outside
 commotion outside
 stomach grumbling
 grumbling continues
-distant explosions rumbling
 crowd talking outside
 party in distance
 groans quietly
@@ -33823,7 +33591,6 @@ tv playing softly
 indistinct conversation in spanish
 "have yourself a merry little christmas" playing softly
 dogs bark in distance
-distant explosion
 dogs bark in distance
 distant siren
 thunder rumbling
@@ -34283,7 +34050,6 @@ birds chirp outside
 indistinct chatter
 rumbling thunder
 indistinct whisper
-distant explosion
 distant cow moos
 rumbling thunder
 distant thunder
@@ -34529,11 +34295,8 @@ classical music playing faintly
 bluto growling quietly
 indistinct talking
 classical music playing faintly
-exploding outside
 rumbling
 rumbling
-exploding outside
-exploding outside
 italian fascist music in the background
 italian fascist music in the background
 mindy continues indistinctly
@@ -34699,7 +34462,6 @@ broken, indistinct voice
 indistinct voices
 indistinct voice
 tv, indistinct
-distant explosions rumbling
 crowd talking outside
 party in distance
 thunder rumbling and raindrops pattering
@@ -34813,7 +34575,6 @@ bombs falling in distance
 moans softly
 men grumbling
 engines rumbling
-explosion in the distance
 static and indistinct transmissions
 rumbling
 rumbling
@@ -34823,7 +34584,6 @@ footsteps in distance
 barking in distance
 shane snarling in distance
 thunder rumbling
-explosion in distance
 sirens blare in distance
 grumbling
 birdsong outside
@@ -34916,7 +34676,6 @@ hums softly
 indistinct chatter
 indistinct chatter
 protesters grumbling
-bombs exploding in distance
 men shouting in distance
 all shouting, indistinct
 women and children singing in spanish outside
@@ -34983,7 +34742,6 @@ men grumbling
 quietly
 engine rumbling
 whistling outside
-loud, rumbling explosion
 rumbling stops
 engine rumbling
 shouting continues outside
@@ -35056,12 +34814,10 @@ indistinct
 men shouting outside
 murmuring
 rumbling
-distant explosions
 all murmuring
 men shouting outside
 murmuring
 rumbling
-distant explosions
 all murmuring
 lillian grumbling
 a report from tank troops outside leningrad
@@ -35078,7 +34834,6 @@ dog barks outside door
 sound of distant voices
 inaudible
 growling softly
-loud rumbling and explosions
 grumbling, indistinct
 grumbling, grunting
 elliott grumbling
@@ -35159,26 +34914,17 @@ growling softly
 growls softly
 grumbling
 thunder rumbling
-distant explosion
-explosions continue in distance
 thunder rumbling
-distant explosion
 music becomes distant
 distant chanting
 thunder rumbling
 german soldiers conversing outside
-distant explosion
-explosions continue in distance
 thunder rumbling
-distant explosion
 music becomes distant
 distant chanting
 thunder rumbling
 german soldiers conversing outside
-distant explosion
-explosions continue in distance
 thunder rumbling
-distant explosion
 music becomes distant
 distant chanting
 thunder rumbling
@@ -35251,7 +34997,6 @@ man grumbling, indistinct
 man grumbling, indistinct
 yelling outside
 yelling outside
-a massive explosion is heard outside
 distant thud
 almost inaudible
 inaudible
@@ -35298,11 +35043,7 @@ soldiers march in cadence outside
 trucks pass by outside
 dance music plays softly on radio
 nostalgic waltz plays faintly
-explosions in distance
-rumbling and explosions in distance
-explosions in distance
 banging on door in distance
-rumbling and explosions in distance
 banging on door in distance
 murmuring
 excited murmurs
@@ -35450,7 +35191,7 @@ excited murmurs
 all murmur in agreement
 excited murmurs
 all murmur in agreement
-ealand's voice, indistinct~
+ealand's voice, indistinct
 guests murmuring
 girl murmurs
 crowd murmuring
@@ -35924,9 +35665,7 @@ thunder rumbling
 thunder rumbling continuing
 pastor continuing indistinctly
 rumbling
-distant explosions
 rumbling
-distant explosions
 cheering outside
 indistinct french chatter
 indistinct talking on radio
@@ -35944,7 +35683,6 @@ crowd murmurs
 indistinct conversation in distance
 indistinct shouting in distance
 page speaking indistinctly
-explosions continue, indistinct screaming
 man speaking indistinctly
 both laughing quietly
 screaming quietly
@@ -35964,7 +35702,6 @@ creaking, rumbling
 indistinct conversation in distance
 indistinct shouting in distance
 page speaking indistinctly
-explosions continue, indistinct screaming
 man speaking indistinctly
 both laughing quietly
 screaming quietly
@@ -35984,7 +35721,6 @@ creaking, rumbling
 indistinct conversation in distance
 indistinct shouting in distance
 page speaking indistinctly
-explosions continue, indistinct screaming
 man speaking indistinctly
 both laughing quietly
 screaming quietly
@@ -36569,7 +36305,6 @@ softly
 softly
 softly
 distant train whistle blows
-explosion rumbling
 distant inmates cheering
 indistinct conversation
 indistinct conversation
@@ -37989,7 +37724,6 @@ whistles softly
 whistles softly
 whistles softly
 cheering outside
-distant explosions
 cheering outside
 indistinct conversations
 woman talking indistinctly on television
@@ -38942,10 +38676,8 @@ shouting outside
 shouting outside
 man in distance
 indistinct voices in distance
-explosions in distance
 man in distance
 japanese voices in distance
-explosions in distance
 crowd murmurs
 continues softly
 thunder rumbling
@@ -39886,34 +39618,34 @@ song continues on radio, quietly
 dog barking in distance
 song continues on radio, quietly
 dog barking in distance
-~ song continues on radio, quietly
-inaudible through glass
-dog barking in distance
-song continues on radio, quietly
-dog barking in distance
-song continues on radio, quietly
-dog barking in distance
-song continues on radio, quietly
-inaudible through glass
-dog barking in distance
-~ song continues on radio, quietly
-inaudible through glass
-dog barking in distance
-~ song continues on radio, quietly
-inaudible through glass
-dog barking in distance
 song continues on radio, quietly
 inaudible through glass
 dog barking in distance
 song continues on radio, quietly
 dog barking in distance
 song continues on radio, quietly
+dog barking in distance
+song continues on radio, quietly
 inaudible through glass
 dog barking in distance
-~ song continues on radio, quietly
+song continues on radio, quietly
 inaudible through glass
 dog barking in distance
-~ song continues on radio, quietly
+song continues on radio, quietly
+inaudible through glass
+dog barking in distance
+song continues on radio, quietly
+inaudible through glass
+dog barking in distance
+song continues on radio, quietly
+dog barking in distance
+song continues on radio, quietly
+inaudible through glass
+dog barking in distance
+song continues on radio, quietly
+inaudible through glass
+dog barking in distance
+song continues on radio, quietly
 inaudible through glass
 standingrightoutsidemydoor
 dog barking in distance
@@ -39925,7 +39657,7 @@ song continues on radio, quietly
 inaudible through glass
 dog barking in distance
 dog barking in distance
-~ song continues on radio, quietly
+song continues on radio, quietly
 inaudible through glass
 dog barking in distance
 song continues on radio, quietly
@@ -40296,7 +40028,6 @@ men grumbling
 grumbling continues
 engine rumbling
 sighing softly
-distant explosions
 rumbling
 rumbling stops
 rumbling
@@ -40319,13 +40050,10 @@ rumbling
 rumbling
 affirmative murmurs
 excited murmuring
-distant explosions
 distant sirens
 excited murmuring
-distant explosions
 distant sirens
 excited murmuring
-distant explosions
 distant sirens
 hitler hums softly
 hitler hums softly
@@ -41638,16 +41366,12 @@ speaking indistinctly
 hutchmeyer shouting indistinctly
 softly
 softly
-explosion outside
 softly
 softly
-explosion outside
 softly
 softly
-explosion outside
 softly
 softly
-explosion outside
 yelling outside
 crowd murmuring
 murmuring, then hush
@@ -41656,10 +41380,8 @@ yelling outside
 crowd murmuring
 murmuring, then hush
 shouting outside
-explosions in distance
 indistinct murmuring
 whistling and rumbling continues
-explosions in distance
 indistinct murmuring
 whistling and rumbling continues
 ship's horn blows in distance
@@ -41676,13 +41398,10 @@ frank speaks indistinctly
 softly
 bells toll in distance
 soft, ominous instrumental music
-distant explosions
 distant voice
 quietly
-distant explosions
 distant voice
 quietly
-distant explosions
 distant voice
 quietly
 car engine rumbling
@@ -42779,8 +42498,6 @@ beep/indistinct message
 indistinct chatter over radio
 indistinct radio transmission
 indistinct radio transmission
-distant explosion
-distant explosion
 distant screaming
 murmuring
 quietly
@@ -42887,11 +42604,7 @@ muted hip-hop music plays
 thunder rumbling
 inaudible
 thunder rumbling
-distant explosion sounds
-distant explosion sounds
-distant explosions sounding
 inaudible
-distant explosions sounding
 inaudible
 distant rumbling
 rumbling
@@ -44025,8 +43738,6 @@ engines rumbling
 distant rumbling
 siren blaring, engine rumbling
 rumbling
-explosion rumbling
-explosion rumbling
 sports announcer, chatter in background
 muzak plays in background
 muzak in background
@@ -44578,12 +44289,6 @@ speaking indistinctly
 people speaking indistinctly
 thunder rumbling
 indistinct conversations
-explosions in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosions in distance
 chuckles softly
 chuckles softly
 low murmuring
@@ -45523,7 +45228,6 @@ speaking indistinctly
 crying quietly
 crowd murmuring in panic and concern
 moaning softly in terror
-explosions outside
 underground rumbling
 music plays in background
 blues plays in background
@@ -45712,7 +45416,6 @@ in distance
 thunder rumbling
 thunder rumbling
 indistinct chatter
-music crescendos with sounds of far-off explosions
 inaudible
 laughs softly
 gallery murmuring
@@ -46752,7 +46455,6 @@ sobs softly
 sobs softly
 crowd chants outside
 sobs softly
-shell explodes in the distance
 sirens blaring in distance
 next time do not wait eonni outside
 spectators murmur
@@ -48584,10 +48286,8 @@ indistinct radio communication
 indistinct police radio communication
 man moans weakly in distance
 indistinct radio communication
-explosion in distance
 thunder rumbling
 thunder rumbling
-explosion in distance
 thunder rumbling
 thunder rumbling
 men murmuring
@@ -48687,22 +48387,18 @@ spectators murmuring
 indistinct dialog
 dog barking in distance
 dog barking in distance
-distant explosions
 indistinct shouting in distance
 indistinct shouting
 siren wails in distance
 indistinct talking over p.a
-distant explosions
 indistinct shouting in distance
 indistinct shouting
 siren wails in distance
 indistinct talking over p.a
-distant explosions
 indistinct shouting in distance
 indistinct shouting
 siren wails in distance
 indistinct talking over p.a
-distant explosions
 indistinct shouting in distance
 indistinct shouting
 siren wails in distance
@@ -48871,7 +48567,6 @@ people chanting outside
 people chanting outside
 hooves rumbling
 motor rumbling
-distant explosions
 gas hissing, indistinct shouting
 shouting indistinctly
 indistinct shouting
@@ -49903,7 +49598,6 @@ sheriff speaks indistinctly over phone
 indistinct police radio chatter
 thunder rumbling
 garbled radio transmission, indistinct shouting
-distant explosion
 dog barking in distance
 children playing in distance
 speaking inaudibly
@@ -50027,13 +49721,9 @@ indistinct police radio chatter
 engines rumbling
 engines rumbling
 engines rumbling
-explosions rumbling, sirens wailing
 engine rumbling
 engines rumbling
 engines rumbling
-explosions rumbling
-explosions booming in distance
-explosion rumbling
 engines rumbling
 engines rumbling
 engines rumbling
@@ -50204,11 +49894,9 @@ mumbles indistinctly
 mumbles indistinctly
 distant rumbling
 loud rumbling
-distant explosions rumbling
 distant rumbling
 distant rumbling
 distant rumbling
-explosions rumbling nearby
 distant rumbling
 engine rumbling
 airplane rumbling by
@@ -50229,16 +49917,13 @@ men singing in german, marching in distance
 faint singing in distance
 panting quietly
 artillery fire in distance
-muted, distorted explosions
 soldier speaking german in distance
 panting softly
 distant rumbling
 loud rumbling
-distant explosions rumbling
 distant rumbling
 distant rumbling
 distant rumbling
-explosions rumbling nearby
 distant rumbling
 engine rumbling
 airplane rumbling by
@@ -50259,7 +49944,6 @@ men singing in german, marching in distance
 faint singing in distance
 panting quietly
 artillery fire in distance
-muted, distorted explosions
 soldier speaking german in distance
 panting softly
 scream in distance
@@ -50632,13 +50316,10 @@ quietly
 quietly
 whispering indistinctly
 alarm blaring in distance
-explosion in distance
 whispering indistinctly
 alarm blaring in distance
-explosion in distance
 whispering indistinctly
 alarm blaring in distance
-explosion in distance
 quietly
 quietly
 quietly
@@ -51250,9 +50931,7 @@ all yelling indistinctly
 moaning in distance
 moaning in distance
 moaning in distance
-explosions rumbling
 rainfall, distant thunder
-explosions rumbling
 rainfall, distant thunder
 ominous music
 indistinct chatter
@@ -51596,10 +51275,6 @@ siren walls in distance
 passengers murmur
 piano plays softly
 guests murmur
-explosions rumbling
-explosion thundering, rumbling
-explosions rumbling
-explosion thundering, rumbling
 whispered
 continues indistinctly
 indistinct response
@@ -54120,8 +53795,6 @@ indistinct conversations
 crowd murmuring
 crowd murmuring
 crowd murmuring
-explosion in distance
-explosion in distance
 mechanic rumbling
 mechanic rumbling
 mechanic rumbling
@@ -54143,7 +53816,6 @@ indistinct shouting
 indistinct chatter
 indistinct cries, people speaking spanish
 distant chatter
-distant explosion
 distant screeching
 distant shouting
 distant, hushed voices
@@ -54639,7 +54311,6 @@ muttering quietly
 rumbling
 thunder rumbling, moloch chanting
 thunder rumbling
-distant explosions
 indistinct conversations
 snores softly, groans
 chuckles softly
@@ -55786,7 +55457,6 @@ toothless grunts softly
 laughs quietly, gently
 squawking, screeching in distance
 people clamoring in distance
-explosions in distance
 men clamoring in distance
 grunts quietly
 deep rumbling
@@ -55812,7 +55482,6 @@ toothless grunts softly
 laughs quietly, gently
 squawking, screeching in distance
 people clamoring in distance
-explosions in distance
 men clamoring in distance
 grunts quietly
 deep rumbling
@@ -55838,7 +55507,6 @@ toothless grunts softly
 laughs quietly, gently
 squawking, screeching in distance
 people clamoring in distance
-explosions in distance
 men clamoring in distance
 grunts quietly
 deep rumbling
@@ -55864,7 +55532,6 @@ toothless grunts softly
 laughs quietly, gently
 squawking, screeching in distance
 people clamoring in distance
-explosions in distance
 men clamoring in distance
 grunts quietly
 deep rumbling
@@ -56858,7 +56525,6 @@ inaudible
 talking indistinctly
 indistinct family conversation
 indistinct conversations
-missiles exploding in distance
 rumbling
 indistinct conversations
 softly
@@ -56883,7 +56549,6 @@ inaudible
 talking indistinctly
 indistinct family conversation
 indistinct conversations
-missiles exploding in distance
 rumbling
 indistinct conversations
 softly
@@ -56897,7 +56562,6 @@ softly
 people talking indistinctly
 thunder rumbling
 indistinct children playing
-distant explosions
 softly
 dog barking in distance
 indistinct chatter
@@ -56932,7 +56596,6 @@ inaudible
 talking indistinctly
 indistinct family conversation
 indistinct conversations
-missiles exploding in distance
 rumbling
 indistinct conversations
 softly
@@ -57405,7 +57068,6 @@ man speaking indistinctly on walkie-talkie
 indistinct conversation
 indistinct conversation
 grunts softly
-distant explosion
 dance music playing in distance
 shouting in distance
 indistinct whispering
@@ -57565,12 +57227,10 @@ distant voices speaking german
 distant voices speaking german
 distant chatter
 engines rumbling
-distant explosions
 distant voices speaking german
 distant voices speaking german
 distant chatter
 engines rumbling
-distant explosions
 indistinct conversations
 birds chirping in distance
 indistinct commentary on tv
@@ -58248,13 +57908,11 @@ beachgoers murmur
 alarms continue in distance
 alarms continue in distance
 sighs softly
-explosions rumbling
 sirens wailing in distance
 crowd groaning, murmuring
 chuckles softly
 groans softly
 sighs softly
-explosions rumbling
 sirens wailing in distance
 crowd groaning, murmuring
 chuckles softly
@@ -58380,7 +58038,6 @@ quietly
 quietly
 party bustling, indistinct chatter
 kurt continuing indistinctly
-explosion in distance
 whispering indistinctly
 speaking inaudibly
 talking in the background
@@ -58909,7 +58566,6 @@ siren in the distance
 muted tv sound
 ambulance siren in the distance
 artillery fire outside
-distant explosion
 indistinct talking
 indistinct pa system message
 indistinct talking
@@ -60210,7 +59866,6 @@ distant screaming
 murmuring
 distant screaming
 rumbling
-distant explosion
 rumbling
 sobbing quietly
 distant clatter
@@ -60938,10 +60593,8 @@ indistinct chatter
 indistinct chatter
 whoops, speaks indistinctly
 sirens wail in distance
-explosion in distance
 growling in distance
 sirens wail in distance
-explosion in distance
 rumbling
 rumbling
 rumbling
@@ -60949,7 +60602,6 @@ rumbling
 rumbling
 growling in distance
 sirens wail in distance
-explosion in distance
 growling in distance
 reporters shouting indistinctly
 dog barking in distance
@@ -62664,13 +62316,11 @@ shouting indistinctly
 man shouts orders in distance
 groans softly
 distant shouting
-explosion in distance
 chuckles softly
 man shouts orders in distance
 shouting indistinctly
 man shouts orders in distance
 groans softly
-explosion in distance
 distant howling
 man speaking indistinctly
 man speaking indistinctly
@@ -63427,9 +63077,7 @@ distant screams echoing
 man shouts indistinctly
 people murmuring
 all gasping, murmuring
-quietly imitates explosion
 carol and phil 2 continue indistinctly
-quietly imitates explosion
 carol and phil 2 continue indistinctly
 rattle in distance
 rattle in distance
@@ -63583,13 +63231,9 @@ men shout indistinctly
 ground rumbling
 rumbling
 thunder crashes in distance
-explosion rumbling
 shouting indistinctly
-explosion rumbling
 shouting indistinctly
-explosion rumbling
 shouting indistinctly
-explosion rumbling
 shouting indistinctly
 angry, indistinct conversation
 continues indistinctly
@@ -64809,7 +64453,6 @@ thunder rumbling, string quartet music plays
 thunder rumbling
 siren walls in distance
 sirens wailing in distance
-explosions in distance
 siren wailing in distance
 indistinct conversations
 siren wails in distance
@@ -64818,7 +64461,6 @@ indistinct conversation
 indistinct conversations
 indistinct whispering
 sirens wailing in distance
-explosions in distance
 indistinct conversations
 siren wailing in distance
 gasps softly
@@ -64956,12 +64598,10 @@ crumbling
 high-pitched sound in distance
 high-pitched sound in distance
 low roar in distance, high-pitched sound continues
-explosions in distance
 high-pitched sound in distance
 low rumbling
 stomping, shrieking in distance
 weaver whispering indistinctly
-explosions in distance
 speaks indistinctly
 speaks indistinctly
 quietly
@@ -65273,13 +64913,6 @@ courtroom murmuring
 indistinct pa announcement
 indistinct chatter
 indistinct chatter
-explosions in distance
-explosion in distance
-explosion in distance
-explosion in distance
-explosions in distance
-explosion in distance
-explosion in distance
 distant artillery fires
 shouting indistinctly
 indistinct chatter
@@ -66002,9 +65635,6 @@ hostages gasping, murmuring
 indistinct talking
 reporter continues indistinctly
 laughs softly
-explosions in distance
-explosions in distance
-explosions in distance
 engine rumbling
 horn honks in distance
 speaks indistinctly
@@ -66762,19 +66392,15 @@ cheering quietly
 people shouting indistinctly
 people speaking indistinctly
 replying softly in russian
-explosions rumbling
 people shouting indistinctly
 people speaking indistinctly
 replying softly in russian
-explosions rumbling
 people shouting indistinctly
 people speaking indistinctly
 replying softly in russian
-explosions rumbling
 people shouting indistinctly
 people speaking indistinctly
 replying softly in russian
-explosions rumbling
 tv plays in background
 tv plays in background
 tv plays in background
@@ -67418,7 +67044,6 @@ indistinct sports broadcast on radio
 crying softly
 broadcast continues indistinctly
 groans softly
-explosions rumbling
 indistinct p.a. announcements
 softly
 indistinct chatter
@@ -68053,7 +67678,6 @@ inaudible
 man speaking indistinctly on pa
 man speaking indistinctly
 thunder rumbling
-explosion in distance
 speaking native language softly
 man shouting indistinctly
 man shouting faintly
@@ -68072,7 +67696,6 @@ soldiers shouting indistinctly
 indistinct radio chatter
 vehicles rumbling
 indistinct radio chatter
-explosions in distance
 commandant faintly
 indistinct radio chatter
 commandant faintly
@@ -68107,7 +67730,6 @@ inaudible
 man speaking indistinctly on pa
 man speaking indistinctly
 thunder rumbling
-explosion in distance
 speaking native language softly
 man shouting indistinctly
 man shouting faintly
@@ -68126,7 +67748,6 @@ soldiers shouting indistinctly
 indistinct radio chatter
 vehicles rumbling
 indistinct radio chatter
-explosions in distance
 commandant faintly
 indistinct radio chatter
 commandant faintly
@@ -68161,7 +67782,6 @@ inaudible
 man speaking indistinctly on pa
 man speaking indistinctly
 thunder rumbling
-explosion in distance
 speaking native language softly
 man shouting indistinctly
 man shouting faintly
@@ -68180,7 +67800,6 @@ soldiers shouting indistinctly
 indistinct radio chatter
 vehicles rumbling
 indistinct radio chatter
-explosions in distance
 commandant faintly
 indistinct radio chatter
 commandant faintly
@@ -68681,10 +68300,7 @@ softly
 indistinct radio transmission
 softly
 sirens wailing in distance
-explosions in distance
 indistinct shouting
-explosion, indistinct shouting
-ears ringing, explosions in distance
 in distance
 indistinct police radio chatter
 thunder rumbling
@@ -68789,7 +68405,6 @@ lyrics continue indistinct
 lyrics continue indistinct
 indistinct chatter
 rumbling
-explosion, rumbling
 soldiers shouting in distance
 indistinct shouting
 indistinct shouting
@@ -69404,7 +69019,6 @@ indistinct shouting, man yelling
 people murmuring
 whimpers softly
 indistinct chatter, music playing
-distant explosions
 dogs barking in distance
 bat squeaking softly
 hooting in distance
@@ -69415,7 +69029,6 @@ indistinct shouting
 people murmuring
 whimpers softly
 indistinct chatter
-distant explosions
 dogs barking in distance
 bat squeaking softly
 hooting in distance
@@ -70140,7 +69753,6 @@ indistinct arguing
 distant siren wailing
 distant siren wailing
 shots and talking in the background
-explosion in the distance
 weapons fire in the distance
 indistinct shouting in distance
 indistinct shouting in distance
@@ -71023,7 +70635,6 @@ moans softly
 panting softly
 moans softly
 chuckles softly
-mimics explosion sound quietly
 low rumbling
 quietly
 groans softly
@@ -71035,7 +70646,6 @@ moans softly
 panting softly
 moans softly
 chuckles softly
-mimics explosion sound quietly
 low rumbling
 quietly
 groans softly
@@ -71047,7 +70657,6 @@ moans softly
 panting softly
 moans softly
 chuckles softly
-mimics explosion sound quietly
 quietly
 deep rumbling
 low murmuring
@@ -71410,7 +71019,6 @@ indistinct radio communication
 siren blaring, indistinct radio communication
 children shouting playfully in distance
 indistinct conversations
-explosion, rumbling
 motor rumbling
 distant rumbling
 quietly
@@ -71591,7 +71199,6 @@ crowd gasps in distance
 body thuds, crowd gasps in distance
 sobs softly
 cheerleaders murmuring
-explosion in distance, cheerleaders scream
 man speaking indistinctly over p.a
 helicopter whirring outside
 man screams outside
@@ -71602,7 +71209,6 @@ crowd gasps in distance
 body thuds, crowd gasps in distance
 sobs softly
 cheerleaders murmuring
-explosion in distance, cheerleaders scream
 man speaking indistinctly over p.a
 helicopter whirring outside
 screeching in distance
@@ -71661,22 +71267,18 @@ both moaning softly
 gasps softly
 people murmuring
 people speaking indistinctly
-explosions continue in distance
 indistinct shouting in distance
 indistinct conversations in distance
 indistinct shouting in distance
-explosions continue in distance
 indistinct shouting in distance
 indistinct conversations in distance
 indistinct shouting in distance
-explosions continue in distance
 indistinct shouting in distance
 indistinct conversations in distance
 indistinct shouting in distance
 rumbling
 indistinct conversations
 rumbling
-explosions continue in distance
 indistinct shouting in distance
 indistinct conversations in distance
 indistinct shouting in distance
@@ -73296,7 +72898,6 @@ carole king's "so far away" begins
 sobs softly
 quietly
 indistinct chatter
-bombs whistling, exploding in distance
 indistinct conversations
 indistinct conversations
 indistinct conversations
@@ -73310,7 +72911,6 @@ telephone ringing in distance
 indistinct conversations
 indistinct conversations
 indistinct conversations
-bombs whistling, exploding in distance
 telephone rings in distance
 horn honks in distance
 telephones ringing, indistinct conversations
@@ -75273,7 +74873,6 @@ quietly
 crowd murmuring
 rumbling
 softly
-distant explosions
 rumbling
 softly
 softly
@@ -75502,8 +75101,6 @@ indistinct, overlapping chatter
 in distance
 in distance
 indistinct chatter
-explosion rumbling
-explosion rumbling
 guards grumbling
 music plays, indistinct singing
 sniffling softly
@@ -75628,14 +75225,12 @@ ground crumbling
 indistinct chatter
 crowd murmurs
 whistle blows faintly
-explosions in distance
 man speaks german indistinctly
 man speaking german indistinctly
 continues indistinctly
 bombing in distance
 bagpipes in distance
 rumbling
-explosions in distance
 bombing in distance
 bagpipes in distance
 chanting in distance
@@ -75898,16 +75493,12 @@ siren wailing in distance
 sirens wailing in distance
 men shouting in distance
 distant shouting
-distant explosions
 indistinct chattering
-distant explosions
 thunder rumbling
 inaudible
 inaudible
 distant shouting
-distant explosions
 indistinct chattering
-distant explosions
 thunder rumbling
 inaudible
 inaudible
@@ -76073,10 +75664,8 @@ whispering, inaudible
 wilmer moans softly
 grumbling
 piano playing in distance
-explosion outside
 cheering outside
 sobs softly
-explosion outside
 cheering outside
 sobs softly
 rumbling
@@ -76158,9 +75747,6 @@ rumbling
 distant drilling
 rumbling
 distant roar
-explosion in distance
-explosion in distance
-explosion in distance
 inaudible
 inaudible
 indistinct talking
@@ -76186,7 +75772,6 @@ indistinct man's voice
 three distant hoots
 children's voices in distance
 exploslons in distance
-explosions in distance
 quietly
 quietly
 quietly
@@ -76511,8 +76096,6 @@ i organ plays distantly
 i choral music plays distantly
 men grumbling
 rumbling
-explosions in distance
-explosions in distance
 quietly
 quietly
 quietly
@@ -76649,7 +76232,6 @@ dogs barking in the distance
 horn honks in the distance
 shouting in the distance
 plane engine roars in distance
-explosion in distance
 sirens sound in distance
 reporters yelling outside
 piano plays softly, flames crackle
@@ -76658,7 +76240,6 @@ wolf howls in distance
 continuous howling in distance
 low rumbling
 wind hissing softly
-explosion booms in distance
 distant howling
 distant howl
 distant howl
@@ -77099,7 +76680,6 @@ men chatting indistinctly
 men chattering indistinctly
 yelling and indistinct shouting
 yelling and chattering indistinctly
-explosions in distance
 dog barks outside
 engines rumbling
 engines rumbling
@@ -77553,8 +77133,6 @@ softly
 softly
 very softly
 distant marching
-distant explosions
-distant explosion
 grumbling
 quietly
 low grumbling
@@ -77756,7 +77334,6 @@ crowd murmurs
 crowd murmurs
 cookie crumbling
 cookie cracks loudly, pieces crumbling
-loud rumbling explosion
 reggae music plays softly
 reggae music plays softly
 softly
@@ -78000,8 +77577,6 @@ men murmuring
 softly
 bell tolls in distance
 crowd murmurs
-distant explosion, mariette gasps
-rumbling explosions
 groans softly
 softly
 drum roll outside
@@ -78337,7 +77912,6 @@ indistinct radio chatter
 thunder rumbling
 siren wailing in distance
 siren wailing in distance
-explosions in distance
 siren wailing in distance
 siren wailing in distance
 woman on pa, indistinct
@@ -79096,7 +78670,6 @@ door opens, indistinct conversation
 chuckles softly
 door opens, indistinct conversation
 chuckles softly
-distant explosion
 rumbling
 rumbling
 announcer speaking indistinctly over p.a
@@ -82229,7 +81802,6 @@ indistinct praying
 indistinct shouts
 indistinct shouts
 indistinct shouts
-distant explosions
 distant shouting
 distant voice
 indistinct voices
@@ -82244,7 +81816,6 @@ indistinct praying
 indistinct shouts
 indistinct shouts
 indistinct shouts
-distant explosions
 distant shouting
 indistinct talking, phones ringing
 dog barking in distance
@@ -82429,9 +82000,7 @@ distorted voice in distance
 speaking indistinctly
 thunder rumbling
 telephone ringing in distance
-distant explosion
 rumbling
-distant explosion
 rumbling
 crowd murmuring
 crowd murmuring
@@ -84015,7 +83584,6 @@ indistinct chatter
 indistinct chatter
 indistinct chatter
 indistinct radio
-explosion rings out in distance
 quietly
 chuckles softly
 quietly
@@ -84672,7 +84240,6 @@ cadets conversing indistinctly
 ships rumbling
 loud thud outside
 distant thud
-explosion outside
 rumbling
 thrusters rumbling
 cadets singing cadence indistinctly
@@ -84686,7 +84253,6 @@ cadets conversing indistinctly
 ships rumbling
 loud thud outside
 distant thud
-explosion outside
 rumbling
 thrusters rumbling
 laughs softly
@@ -84715,7 +84281,6 @@ mechanical rumbling
 mumbles indistinctly
 rumbling, debris clattering
 rumbling
-explosion rumbling
 in distance
 quietly
 crash in distance
@@ -84724,7 +84289,6 @@ shouting, indistinct
 whispering indistinctly
 michael speaking indistinctly
 shouting indistinctly
-explosions in distance
 bangs outside
 fred and sheila speaks indistinctly
 fred, sheila, and lisa speak indistinctly
@@ -86786,7 +86350,6 @@ chuckles softly
 jax chuckles softly
 cartoon playing indistinctly
 brick and axl speak indistinctly
-fireworks explode in distance
 tv playing indistinctly
 speaks indistinctly
 speaks indistinctly
@@ -86800,7 +86363,6 @@ distant cheers
 applause in distance
 applause in distance
 hammering in distance
-explosion rumbling
 conversing quietly
 conversing quietly
 indistinct chatter
@@ -86888,9 +86450,7 @@ grunting in distance
 grunting in distance
 ominous music
 cars honking in background
-distant explosion
 ominous music
-distant explosion
 ominous music
 indistinct yelling
 indistinct radio transmission
@@ -86902,8 +86462,6 @@ faintly
 siren blaring in distance
 indistinct pa announcement
 clears throat softly
-explosion, indistinct shouting
-explosion, indistinct shouting
 child cries in distance
 car horns honk in distance
 car horn honks in distance
@@ -87348,8 +86906,6 @@ thunder rumbling
 man yelling indistinctly
 thunder rumbling
 speaking indistinctly
-shells exploding in distance
-shells exploding in distance
 screaming continues in distance
 softly to himself
 distant chattering
@@ -87480,7 +87036,6 @@ all murmuring
 groaning softly
 all murmuring
 groaning softly
-distant explosion
 rumbling
 tv playing indistinctly
 dog barks in distance
@@ -87607,14 +87162,12 @@ continues indistinctly
 panting quietly
 indistinct chatter
 whistling and hollering in background
-distant explosions, rumbling
 indistinct chatter
 rumbling
 rumbling
 rumbling
 indistinct shouting
 rumbling
-distant explosions, rumbling
 quietly
 quietly
 quietly
@@ -88654,7 +88207,6 @@ men grumbling
 distant rumbling, booming
 thunder rumbling, crashing
 thunder rumbling, distant booming
-distant explosions continue
 man shouting, indistinct
 inaudible
 inaudible
@@ -89705,13 +89257,9 @@ laughter outside
 grumbling
 ominous music playing
 casey talking indistinctly
-distant explosions
-distant explosions
-distant explosions
 continues, indistinct
 continues, indistinct
 shouting inaudible
-distant explosions
 shocked murmurs
 indistinct radio chatter
 indistinct radio chatter
@@ -89728,7 +89276,6 @@ murmuring
 sobs quietly
 sobbing quietly
 murmuring in arabic
-explosion outside
 crowd cheering faintly outside
 bells ring in distance
 moans softly
@@ -89972,8 +89519,6 @@ yelling, indistinct
 commandos yelling, indistinct
 indistinct chattering
 continues, indistinct
-explosion in distance
-distant explosion
 indistinct voices, gull squawking
 continues, indistinct
 ref talking, indistinct
@@ -90573,7 +90118,6 @@ all murmur in agreement
 patrons murmuring
 woody speaking indistinctly
 rumbling
-explosions rumbling
 thunder rumbling
 inaudible
 distant siren wailing
@@ -90740,8 +90284,6 @@ distant weeping
 distant weeping
 distant weeping
 distant rumbling outside
-explosions outside
-explosions continue outside
 rumble of distant bombs
 inaudible
 softly
@@ -91383,11 +90925,9 @@ gasps softly
 moans softly
 all murmur
 indistinct conversation
-rumbling explosion
 and so, i distanced myself from other people in my life
 and so, i distanced myself from other people in my life
 softly:
-distant explosions
 quietly:
 noisy teenagers in background
 softly
@@ -92065,7 +91605,6 @@ grumbling
 grumbling
 rumbling
 all grumbling
-rumbling explosion
 rumbling
 softly
 rumbling
@@ -92638,8 +92177,6 @@ quietly whimpers
 car alarm sounding in distance
 girls continue speaking indistinctly
 women speaking indistinctly
-distant explosions
-explosions continue outside
 continues, indistinct
 man singing, indistinct
 dog barking in distance
@@ -94151,7 +93688,6 @@ distant car approaching
 distant car approaching
 distant car approaching
 police radio indistinct
-distant explosions
 rumbling
 prays quietly
 moaning quietly
@@ -94301,7 +93837,6 @@ thunder rumbling
 low rumbling
 low rumbling
 stone lid rumbling
-explosion booms in distance
 crew cheering in distance
 thunder rumbling
 pulsating tone rumbling
@@ -94407,11 +93942,8 @@ distant bugle
 murmurs of agreement
 distant bugle
 man, outside
-explosions in distance
 music playing in distance
 men cheering faintly
-explosions rumbling
-explosions in distance
 crumbling and smashing
 ominous music
 ominous music
@@ -94527,7 +94059,6 @@ ominous music
 ominous music
 intense ominous music
 shouting outside
-explosions, rumbling
 loud rumbling
 grumbling
 onlookers murmuring
@@ -94576,7 +94107,6 @@ instrumental version of take me with u plays softly, background
 melancholic piano melody plays softly
 rumbling
 thunder rumbling
-explosions rumbling
 dr. prance speaks indistinctly
 rumbling
 continues, indistinct
@@ -94834,46 +94364,17 @@ murmuring
 murmuring
 murmuring
 distant rumbling
-distant explosions
 crowd murmuring
 rumbling
 rumbling
 rumbling
 distant echo of child singing
-distant explosions
-distant explosions
-distant explosion
-distant explosion
 distant cheering
-distant explosions
-distant explosions
-distant explosion
-distant explosion
 distant cheering
-distant explosions
-distant explosions
-distant explosion
-distant explosion
 distant cheering
-distant explosions
-distant explosions
-distant explosion
-distant explosion
 distant cheering
-distant explosions
-distant explosions
-distant explosion
-distant explosion
 distant cheering
-distant explosions
-distant explosions
-distant explosion
-distant explosion
 distant cheering
-distant explosions
-distant explosions
-distant explosion
-distant explosion
 distant cheering
 guests murmuring
 people murmuring
@@ -95466,10 +94967,8 @@ man humming quietly
 singing softly in creole
 man humming quietly
 singing softly in creole
-distant explosion thundering
 birds chirping in distance
 crying quietly
-distant explosion thundering
 birds chirping in distance
 crying quietly
 cricket chirping, indistinct insects calling
@@ -97140,7 +96639,6 @@ ship rumbling
 ominous music
 ominous music
 ominous music
-explosion rumbling
 deep rumbling
 ominous music
 quietly
@@ -97797,7 +97295,6 @@ dog barking in distance
 thunder rumbling
 chuckles softly
 chuckles softly
-rumbling, explosions
 train rumbling
 indistinct chatter
 indistinct conversations
@@ -98221,28 +97718,21 @@ distant siren wailing, car horns honking
 indistinct radio transmission
 distant siren wailing, car horns honking
 gasps faintly
-explosion rumbles outside
 whimpering softly
 distant, indistinct murmurs
 music continues faintly
 distant hammering
-distant explosion
 distant rumbling
 thunder rumbling
 low rumbling
-distant explosions
-distant explosions
 distant pop music playing
 faintly
 muffled rumbling
 music continues faintly
 distant hammering
-distant explosion
 distant rumbling
 thunder rumbling
 low rumbling
-distant explosions
-distant explosions
 distant pop music playing
 faintly
 muffled rumbling
@@ -99453,9 +98943,7 @@ chairs scrape ground, horn honks in distance
 dog barks in distance
 banging in distance
 quietly
-explosion booming in distance
 quietly
-explosion booming in distance
 speaks indistinctly
 cries quietly
 train horn blowing in distance
@@ -102830,11 +102318,9 @@ low, indistinct conversations
 indistinct radio transmission
 tv playing quietly
 sighs softly
-explosion in distance
 indistinct radio transmission
 tv playing quietly
 sighs softly
-explosion in distance
 boy shouts indistinctly
 door closes in distance
 daniel in distance
@@ -102932,7 +102418,6 @@ guests murmuring
 dog barks in distance
 dog barking in distance
 thunder rumbling
-muffled explosion in distance
 thunder rumbling
 thunder rumbling
 thunder rumbling
@@ -102944,7 +102429,6 @@ thunder rumbling
 thunder rumbling
 thunder rumbling
 thunder rumbling
-muffled explosion in distance
 thunder rumbling
 thunder rumbling
 thunder rumbling
@@ -103305,11 +102789,9 @@ pauline chuckles softly
 sobbing softly
 announcer indistinct
 students murmuring
-explosion in the distance
 indistinct whispering
 announcer indistinct
 students murmuring
-explosion in the distance
 indistinct talking coming from car
 ground rumbling
 indistinct chatter
@@ -103321,7 +102803,6 @@ indistinct conversations
 board quietly creaks
 quietly
 indistinct shouts
-distant shouts and explosions
 indistinct chatter
 murmuring throughout
 murmuring throughout
@@ -103331,7 +102812,6 @@ indistinct conversations
 board quietly creaks
 quietly
 indistinct shouts
-distant shouts and explosions
 whispering indistinctly
 howling in distance
 boy in distance
@@ -104224,7 +103704,6 @@ claps hands softly
 indistinct shouting in distance
 rumbling in distance
 indistinct talking
-explosions in distance
 indistinct shouting
 indistinct conversations
 indistinct conversations
@@ -104250,7 +103729,6 @@ claps hands softly
 indistinct shouting in distance
 rumbling in distance
 indistinct talking
-explosions in distance
 indistinct shouting
 indistinct conversations
 indistinct conversations
@@ -104278,7 +103756,6 @@ indistinct conversation on video feed
 distant air raid siren
 door creaks softly
 distant thuds
-explosion in distance
 banging in distance
 speaking indistinctly
 indistinct shouts
@@ -104297,7 +103774,6 @@ door creaks softly
 indistinct shouting
 rumbling, audio distorts
 distant thuds
-explosion in distance
 speaking indistinctly
 indistinct shouts
 dog barking in distance
@@ -104315,7 +103791,6 @@ door creaks softly
 indistinct shouting
 rumbling, audio distorts
 distant thuds
-explosion in distance
 speaking indistinctly
 indistinct shouts
 dog barking in distance
@@ -104333,7 +103808,6 @@ door creaks softly
 indistinct shouting
 rumbling, audio distorts
 distant thuds
-explosion in distance
 crowd murmurs
 scoffs softly
 indistinct conversations
@@ -105374,8 +104848,6 @@ quietly
 panting quietly
 scoffs softly
 scoffs softly
-distant explosion
-distant explosion
 rocks rumbling
 rocks rumbling
 quietly
@@ -106236,7 +105708,6 @@ indistinct police radio transmission
 crowd murmuring
 crowd murmuring
 crowd murmuring
-explosion rumbling
 crowd clamoring in distance
 clamoring continues in distance
 glass shattering in distance
@@ -106247,7 +105718,6 @@ glass shatters in distance
 glass shatters in distance
 thunder rumbling
 thunder rumbling
-explosion rumbling
 crowd clamoring in distance
 clamoring continues in distance
 glass shatters in distance
@@ -106929,7 +106399,6 @@ laughs softly
 sighs quietly
 clears throat softly
 indistinct chatter in other room
-distant explosion
 murmurs
 confused murmurs
 excited murmurs
@@ -107170,7 +106639,6 @@ crowd murmuring
 crowd murmuring
 crowd murmuring
 crowd murmuring
-explosions in distance
 thunder rumbling
 students murmuring
 crowd murmuring
@@ -107180,7 +106648,6 @@ crowd murmuring
 crowd murmuring
 crowd murmuring
 crowd murmuring
-explosions in distance
 thunder rumbling
 sirens wailing in distance
 door clanks in distance
@@ -107203,7 +106670,6 @@ speaking inaudibly
 woman speaking indistinctly
 man speaking indistinctly
 people shouting indistinctly and screaming
-explosion in distance
 men shouting indistinctly
 women shouting in the distance
 women shouting indistinctly
@@ -107371,7 +106837,6 @@ rumbling
 murmurs of agreement
 indistinct chatter, sirens in the distance
 indistinct chatter, sirens in the distance
-explosion blast in distance
 sirens blaring in distance
 screaming in distance
 woman screaming in distance
@@ -107649,7 +107114,6 @@ indistinct radio transmissions and static
 heavy machinery rumbling
 heavy machinery rumbling
 grunting softly
-distant explosions echoing
 paramedics chatting indistinctly
 indistinct chatter
 phone ringing faintly
@@ -107866,7 +107330,6 @@ dog barking in distance
 indistinct shouting
 indistinct shouting
 dog barking in distance
-explosion in distance
 rock music plays faintly
 chuckles softly
 ai grunts quietly
@@ -108083,7 +107546,6 @@ rumbling
 inaudible dialogue
 crowd murmuring
 murmuring
-explosion in distance
 distant children playing
 distant children playing
 distant train horn blaring
@@ -108552,12 +108014,10 @@ laughs softly
 thunder rumbling
 thunder rumbling
 shouting in distance
-explosion in distance
 shouting in distance
 thunder rumbling
 thunder rumbling
 shouting in distance
-explosion in distance
 shouting in distance
 metal clinking in distance
 metal clinking in distance
@@ -108758,7 +108218,6 @@ inaudible
 inaudible
 inaudible
 inaudible dialogue
-explosion rumbling in distance
 rumbling stops
 car horn honking outside
 laughs softly
@@ -109289,27 +108748,19 @@ tv in background
 indistinct chatter downstairs
 quietly
 whimpers softly
-explosion in the distance
 indistinct shouting
-explosions in the distance
-explosions in the distance
 indistinct shouting
 indistinct shouting
 screaming in the distance
 german voices in the distance
 german voices in the distance
-explosions in the distance
 indistinct chatting
-explosion in the distance
 indistinct shouting
-explosions in the distance
-explosions in the distance
 indistinct shouting
 indistinct shouting
 screaming in the distance
 german voices in the distance
 german voices in the distance
-explosions in the distance
 indistinct chatting
 ominous music
 ominous music
@@ -109898,7 +109349,6 @@ grumbling
 distant rumbling
 mumbling indistinctly
 grumbling
-distant explosion
 indistinct radio chatter
 indistinct radio chatter
 distant shouting
@@ -109918,7 +109368,6 @@ grumbling
 distant rumbling
 mumbling indistinctly
 grumbling
-distant explosion
 indistinct radio chatter
 indistinct radio chatter
 leaves rustling, metal clanking softly
@@ -109945,7 +109394,6 @@ grumbling
 distant rumbling
 mumbling indistinctly
 grumbling
-distant explosion
 indistinct radio chatter
 indistinct radio chatter
 hookfang growls softly
