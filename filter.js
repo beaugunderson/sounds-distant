@@ -4,27 +4,65 @@
 
 const split = require('split');
 
-const RE_INNER = '(' +
-  'distance|' +
-  'distant|' +
-  'faintly|' +
-  'far[ -]+away|' +
-  'far[ -]+off|' +
-  'in\\s+background|' +
-  'in\\s+the\\s+background|' +
-  'inaudibl|' +
-  'indistinct|' +
-  'murmur|' +
-  'noiseless|' +
-  'outside|' +
-  'outskirts|' +
-  'perimeter|' +
-  'periphery|' +
-  'quietly|' +
-  'remotely|' +
-  'softly|' +
-  'soundless' +
-  ')';
+const words = [
+  'atmospheric',
+  'distance',
+  'distant',
+  'faintly',
+  'far[ -]+away',
+  'far[ -]+off',
+  'in\\s+background',
+  'in\\s+the\\s+background',
+  'inaudibl',
+  'indistinct',
+  'murmur',
+  'muted',
+  'noiseless',
+  'ominous',
+  'outside',
+  'outskirts',
+  'perimeter',
+  'periphery',
+  'quietly',
+  'remotely',
+  'rumbling',
+  'softly',
+  'soundless',
+  'whispered',
+];
+
+const badWords = [
+  "they're showing",
+  'cannon',
+  'champions',
+  'distant gun',
+  'distant relative',
+  'from a short distance',
+  'gong xi',
+  'gun click',
+  'gun cocks',
+  'gun fire',
+  'gun firing',
+  'gun shooting',
+  'gun shot',
+  'gunfight',
+  'gunfire',
+  'guns click',
+  'guns firing',
+  'gunshot',
+  'her distant wedding',
+  'hiking',
+  'leaningontheeverlastingarms',
+  'luigi',
+  'machine gun',
+  'machine-gun',
+  'millibars',
+  'shooting gun',
+  'this open door',
+  'though the distance',
+];
+
+const RE_INNER = `(${words.join('|')})`;
 
 const RE_SOUND_1 = new RegExp(`\\[([^[\\]]*?${RE_INNER}[^[\\]]*)\\]`, 'g');
 const RE_SOUND_2 = new RegExp(`\\(([^()]*?${RE_INNER}[^()]*)\\)`, 'g');
@@ -49,28 +87,29 @@ function handleMatch(sound) {
     .replace('neeping', 'beeping')
     .replace('paying softly', 'praying softly')
     .replace('yellingindistinctly', 'yelling indistinctly')
+    .replace('whlrrlng', 'whirring')
+    .replace('whlmperlng', 'whimpering')
+    .replace('p. a .', 'p.a.')
+    .replace('lowrumbling', 'low rumbling')
+    .replace('girln-', 'girl -')
+    .replace(/ ,/, ',')
     .replace(/ì/g, 'i')
     .replace(/ÿ/g, '')
     .replace(/♪/g, '')
+    .replace(/♫/g, '')
+    .replace(/¶/g, '')
+    .replace(/§/g, '')
     .replace(/η/g, 'h')
+    .replace(/τ/g, 't')
     .replace(/\/n/g, 'in')
     .replace(/^{/, '')
-    .replace(/[#,.]+$/, '')
-    .replace(/^[#,.]+/, '')
+    .replace(/[~#,.]+$/, '')
+    .replace(/^[~#,.]+/, '')
     .replace(/^# /, '')
     .replace(/^i church/, 'church')
     .trim();
 
-  if (sound.includes('hiking') ||
-      sound.includes('her distant wedding') ||
-      sound.includes('though the distance') ||
-      sound.includes('leaningontheeverlastingarms') ||
-      sound.includes('this open door') ||
-      sound.includes('gong xi') ||
-      sound.includes('from a short distance') ||
-      sound.includes('champions') ||
-      sound.includes("they're showing") ||
-      sound.includes('luigi')) {
+  if (badWords.some((word) => sound.includes(word))) {
     return;
   }
 

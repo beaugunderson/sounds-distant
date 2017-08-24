@@ -26,7 +26,9 @@
    2 "dream a little dream" plays in background
    1 "dream weaver" by gary wright playing quietly
    1 "east of eden" playing in background
+   3 "engine rumbling
    1 "engines idling softly
+   1 "engines rumbling
    1 "faze wave" plays in background
    1 "fight for love" plays in background
    1 "flood and fire" plays in background
@@ -37,6 +39,7 @@
    3 "goodbye horses" plays faintly from outside
    7 "goodbye horses"plays faintly from outside
    1 "grace" in the background
+   1 "grumbling continues
    1 "have yourself a merry little christmas" playing softly
    2 "heart of the night" playing in background
    2 "heartbreak at 10,000 feet" playing in background
@@ -44,14 +47,15 @@
    1 "i love your neurosis" playing in background
    3 "keep on the sunny side" playing in distance
    1 "l iving in the usa" playing in background
-   1 "land of 1000 dances" plays faintly on stereo
+   4 "land of 1000 dances" plays faintly on stereo
    1 "laughing quietly
    1 "learn to hate the 80s" playing in background
    1 "listen" plays in background
    1 "live and let die" plays in background
    1 "love boat" theme playing on tv in distance
-   1 "low rider" by war plays in background
+   4 "low rider" by war plays in background
    3 "march of the grenadiers" playing in background
+   1 "men grumbling
    7 "mooby the golden calf" plays indistinctly
    3 "ms mr's fantasy" playing in distance
    2 "music box dancer" playing in background
@@ -101,16 +105,18 @@
    2 "zorba the greek" plays softly
    2 % "deguello" plays in the distance
    3 % distant music
-   3 ' go' , pensiero " in the background
+   3 ' calliope music continues in the distance
+   3 ' distant calliope music
+   3 ' distant music
+   3 ' go', pensiero " in the background
    3 '60s ballad playing in background
    3 '60s rock music playing in background
    3 'distant thunder
    3 'murmuring
+   6 'rumbling
+   3 'rumbling grows louder
    1 'vvoman continus faintly
    8 'zorba the greek' plays softly
-   3 '§ calliope music continues in the distance
-   3 '§ distant calliope music
-   3 '§ distant music
    1 * hip hop in earphones, lyrics indistinct *
    2 * man and woman singing, lyrics indistinct *
    1 * man singing on stereo, indistinct *
@@ -219,14 +225,20 @@
    3 air raid siren blaring in distance
    1 air raid sirens wail in distance
    4 airplane engine roars in distance
+   3 airplane engine rumbling
+   2 airplane engine rumbling, tires screech
+   2 airplane rumbling by
    2 airplane taking off in distance
    1 airplane taxiing outside
    1 airplane whooshes in distance
+   2 airplanes rumbling
+   3 airplanes rumbling overhead
    1 airport announcer speaking indistinctly over p.a
    1 al grunts quietly
    1 al speaking indistinctly
    2 al talking indistinctly
    1 alan continues on the phone indistinct
+   1 alan grumbling
    5 alarm beeping in distance
    4 alarm bell ringing in distance
    2 alarm blares in distance
@@ -268,12 +280,14 @@
    6 alex speaks indistinctly
    3 alfredo speaking indistinctly
    2 ali talking very quietly
+   1 alice grumbling
    1 alice speaks indistinctly
    1 alice whispers indistinctly
    2 alicia speaking quietly
    1 alicia, softly
    1 alien monster continues roaring softly
    1 alien monster roars in distance
+   2 alien voices chittering, machinery rumbling
    2 alien voices murmuring
    3 aliens chittering, screeching in distance
    1 aliens heard growling in the distance
@@ -306,6 +320,15 @@
    1 all groaning and murmuring
    3 all groaning quietly
    1 all groaning, murmuring
+  90 all grumbling
+   1 all grumbling agreeably
+   2 all grumbling and muttering
+   1 all grumbling in foreign languages
+   1 all grumbling in frustration
+   4 all grumbling in protest
+   4 all grumbling lndlstlnctly
+   1 all grumbling menacingly
+   2 all grumbling, shushing
    1 all grunting and murmuring
    1 all laugh in background
    2 all laugh quietly
@@ -384,6 +407,7 @@
    2 alma speaking indistinctly
   10 almost inaudible
    1 almost inaudible muttering
+   1 alternately imitates whining and rumbling drills
    1 alternative music in background
    1 although your day was passing quietly
    2 always a distance
@@ -401,7 +425,9 @@
    7 amy sobs quietly
    1 amélie laughing, talking indistinctly
    1 an intracranial hematoma is a collection of blood outside the blood vessels which compresses the brain tissue
+   1 an ominous sting, on strings, plays on speakers
    4 analysts gasp, murmur
+   2 ancient grumbling
    1 and all hopes turned to that not so distant summer
    2 and so, i distanced myself from other people in my life
    4 anders indistinct
@@ -418,6 +444,7 @@
    2 angle screaming faintly
    1 angle screaming faintly in distance
    3 angry crowd murmuring
+   3 angry grumbling
    3 angry jeersing and shouting in the distance
    1 angry murmur
   13 angry murmuring
@@ -437,6 +464,7 @@
    3 animal cries in distance
    2 animal growling outside
    4 animal growls in distance
+   2 animal grumbling
    2 animal hooting in distance
    1 animal hoots in distance
    3 animal howling faintly
@@ -525,6 +553,7 @@
    1 ants chattering, indistinct
    3 ants murmuring
    1 ants shouting, indistinct
+   1 anxious grumbling
   11 anxious murmuring
    2 applause and cheering in distance
    2 applause and murmuring
@@ -548,6 +577,7 @@
    2 appreciative murmuring
    7 appreciative murmurs
    1 approaching hoof beats outside
+   1 approaching vehicle rumbling
   14 approving murmur
    2 approving murmur and light applause
    2 approving murmurs
@@ -589,6 +619,7 @@
    2 artillery fire in background
    2 artillery fire in distance
    2 artillery fire outside
+   3 artillery rumbling
    2 as distantly
    2 ash talks indistinctly
    1 ashima sings quietly
@@ -600,6 +631,16 @@
    3 athelstan moans softly
    2 athelstan quietly reads aloud
    2 athena crying quietly
+   1 atmospheric acoustic guitar
+   2 atmospheric acoustic music
+   4 atmospheric boom
+   2 atmospheric electronic music
+   2 atmospheric harp
+   6 atmospheric music
+   4 atmospheric music, singing
+   2 atmospheric percussive music
+   1 atmospheric piano music
+   5 atmospheric xylophone music
    1 atrians murmuring
    1 attendees murmur
    3 atticus continues, indistinct
@@ -617,6 +658,7 @@
    5 audience gasping, murmuring
    2 audience gasps softly
    3 audience gasps, murmurs
+   5 audience grumbling
    1 audience members murmur
    3 audience members talking indistinctly
  197 audience murmuring
@@ -635,6 +677,7 @@
    1 audience murmurs, concerned
    2 audience murmurs, gasps
    6 audience mutters softly
+   1 audience screaming and shouting, footsteps rumbling
    3 audience shouting indistinctly
    1 audience talking indistinctly
    1 audience whisper and murmur
@@ -642,13 +685,13 @@
    1 audio continues distant, echoing
    1 audio distant, echoing
    4 audio indistinct
+   2 audio muted
    1 audrey, indistinct
    5 auger continues whirring in the distance
    1 aunt prudence speaks indistinctly
    1 aurora weeping softly
    2 authoritative murmur
-   3 automatic gunfire in distance
-   2 automatic gunfire outside
+   1 avalanche rumbling
    1 avery speaks indistinctly
    1 awed gasps and murmuring
    4 awed murmuring
@@ -699,7 +742,7 @@
    3 baby walls, chickens cluck, people chatter quietly
    3 baby's cry echoes in distance
    5 background indistinct speech with stars and stripes continuing
-   1 bagpipes in distance
+   2 bagpipes in distance
    2 bagpipes play in distance
    1 bagpipes playing faintly
    1 bagpipes playing in distance
@@ -711,9 +754,13 @@
    2 bala continues, indistinct
    3 bala shouting in distance
    2 baldwin grunts softly
+   1 ball rumbling
    4 ballad continues in background
    4 ballad continues in background, grunting, banging
    1 ballad playing softly
+   4 balls grumbling
+   2 balls grumbling, rustling
+   3 band continues, muted
    1 band playing diablo rojo in the distance
    7 band playing in distance
    4 band playing march in distance
@@ -724,6 +771,8 @@
    1 band singing, indistinct
    3 bang from outside
    5 bang in distance
+   1 bang, plane rumbling
+   1 bang, rumbling
    1 banging and clattering outside
    1 banging and clattering outside door
    1 banging and grinding outside
@@ -736,7 +785,9 @@
    1 banging on door indistinct shouting in background
    1 banging on door, indistinct shouting
    4 banging outside
+   1 banging, earth crumbling
    2 banging, indistinct shouting
+   6 banging, rumbling
    8 banging, snarling continues outside
    3 banging, woman chattering outside
    1 bangs outside
@@ -759,8 +810,9 @@
    3 barks indistinct word
    1 barks quietly
   10 barks softly
-   2 barrage of gunfire in distance
+   2 barky keeps grumbling
    5 barry in the distance
+   2 bart and lisa grumbling
    1 bascomb speaks indistinctly
    1 baseball announcer speaking indistinct
    2 baseball game broadcast playing quietly
@@ -782,6 +834,7 @@
    1 battle continues in distance
    1 battle rages outside
    1 battle raging outside
+   2 battle sounds muted
    2 beachgoers murmur
    2 beads tinkiing softly
    1 beagle snoring softly
@@ -808,8 +861,10 @@
    1 beckett and demming speaking indistinctly
    1 beckett and franklin speaking indistinctly
    5 becomes indistinct
+   1 bed rumbling
    3 beep, controller thuds softly
    5 beep, indistinct announcement over p.a
+   3 beep, low rumbling
    3 beep, then indistinct voice over p.a
    3 beep/indistinct message
    1 beeping and whirring, indistinct conversations
@@ -820,10 +875,13 @@
    1 beeping quietly
    6 beeping softly
    3 beeping, indistinct chatter over tv
+   1 beeping, rumbling
    7 beeps softly
    1 bees buzzing faintly
+   1 beethoven grumbling
    1 beethoven's ode to j playing softly
    1 before he's taken down, he's escaping as far away as possible
+   1 belching and liquid rumblings
    1 bell buoy clanging faintly in distance
    1 bell chimes in distance
    1 bell chimes, indistinct conversations
@@ -911,6 +969,7 @@
    1 benson yelling indistinct instructions
    3 berating indistinctly
    2 berkhoff talking, indistinct
+   3 bernard grumbling
    3 beulah murmuring in delight
    3 beulah murmurs in agreement
    2 beverly and heddy speaking indistinctly
@@ -919,6 +978,7 @@
    1 bex murmuring
    2 bickering indistinctly
    1 big band music continues in background
+   1 big steps rumbling
    1 big-band music plays in distance
    2 big-band music plays, indistinct conversations
    1 bigfoot barking softly
@@ -1033,10 +1093,12 @@
    1 blaring fades, indistinct conversations
    1 blaring in distance
    1 blaring resumes faintly
+   1 blasts and rumbling
    2 bleating softly
    1 bleats quietly
    2 bleats softly
    4 blood bubbling softly
+   1 blowing and rumbling stop
   17 blowing softly
    1 blows dog whistle inaudibly
    2 blows landing in distance
@@ -1062,6 +1124,7 @@
    2 board quietly creaks
    1 boat creaking quietly
    1 boat creaks, buoy bell clangs in distance
+   6 boat engine rumbling
    1 boat engines in distance
    3 boat horn blares in distance
    3 boat horn blares in the distance
@@ -1070,6 +1133,7 @@
    1 boat horn blows in distance
    1 boat horn sounding in distance
    1 boat horn sounds in distance
+   1 boat rumbling
    5 boat whistle blows in distance
    3 boat's horn blows in distance
    1 bob and lee arguing indistinctly
@@ -1084,6 +1148,7 @@
    1 bock yelling, indistinct
    1 boden murmuring
    2 body thuds, crowd gasps in distance
+   1 boiler rumbling, steam hissing
    2 bollywood movie plays distantly
    3 bombing in distance
    1 bombing in the distance
@@ -1099,6 +1164,9 @@
    2 bono, indistinct
    1 boom and screeching in distance
    2 boom in the distance
+   3 boom, rumbling
+   5 booming, rumbling
+   2 booth grumbling, muttering goofily
    4 borgia chuckles quietly
    2 boris speaking indistinctly
    2 boss shouts, distant
@@ -1119,6 +1187,7 @@
   10 both crying softly
    3 both gasp softly
    1 both groaning, man shouts indistinctly
+  19 both grumbling
    1 both grunting softly
    1 both laugh and speak indistinctly
   13 both laugh quietly
@@ -1154,6 +1223,7 @@
    8 both speak softly
   14 both speaking inaudibly
   48 both speaking indistinctly
+   1 both stomachs grumbling in harmony
    3 both talk inaudibly
    3 both talk quietly together
    5 both talking indistinctly
@@ -1165,6 +1235,9 @@
    4 both yelling indistinctly
    1 bottles clink, indistinct voices continue
    2 bottles clinking, indistinct conversations
+   2 boulder rumbling
+   4 boulders rumbling
+   2 bowling ball rumbling
    2 boxing announcer continues indistinctly
    2 boxing broadcast continues indistinctly
    1 boy chattering, indistinct
@@ -1203,6 +1276,7 @@
    3 boys conversing indistinctly
    2 boys crying quietly
    3 boys gasp and murmur in spanish
+   3 boys grumbling
    1 boys grunting in distance
   15 boys murmuring
    1 boys murmuring indistinctly
@@ -1250,9 +1324,11 @@
    2 brass speaking indistinctly
    5 breath trembling softly
    1 breathes quietly
+   1 breathing ominously
    2 breathing quietly
   25 breathing softly
    1 breathingheavily, moaning softly
+  10 breathy rumbling
    2 bree speaks indistinctly
    2 breeze blowing outside
    1 brendan shouting in the distance
@@ -1266,6 +1342,8 @@
    1 brick speaking indistinctly
    1 brick speaks indistinctly
    1 brick, in distance
+   3 bricks crumbling
+   1 bricks scraping and house rumbling
   11 brides wail in the distance
    1 bridge in distance
    1 bridget and mickey speaking indistinctly
@@ -1285,11 +1363,17 @@
    2 brucie b. speaking indistinctly
    6 bryce talking, indistinct
    2 bubbles in distance
+   2 bubbly rumbling
    1 bubby huffs faintly
+   1 buddy grumbling
    3 buddy speaking indistinctly
    1 bugle call outside
    3 bugle call sounds in distance
    1 bugle plays in distance
+   1 building atmospheric tones
+   1 building crumbling
+   2 building ominous music
+   1 buildings crumbling
    1 bullard continues, indistinct
    1 bulldozers chugging in distance
    1 bullhorn sounds outside
@@ -1299,11 +1383,14 @@
    1 buoy dinging in distance
    1 burke and sibyl whispering indistinctly
    1 burke talking indistinctly
+   2 burning and rumbling
    4 burping softly
    4 burps softly
    2 burris speaking indistinctly
    3 bus approaching outside
    2 bus drives off in distance
+   8 bus engine rumbling
+   4 bus rumbling
    3 bush continues indistinctly
    2 bustle of town outside
    1 busy chatter, indistinct
@@ -1320,6 +1407,7 @@
    4 buzzer sounds, indistinct chatter
    1 buzzer sounds, indistinct chatter over pa
    2 buzzer sounds, man speaks indistinctly over p.a
+   2 buzzing and rumbling continue
    1 buzzing fades off into distance
    8 buzzing in distance
    2 buzzing outside
@@ -1360,7 +1448,9 @@
    2 calls softly in kinyarwanda
    8 calvin chuckles softly
    3 camel cries softly
+   8 camel grumbling
    4 camel grunting softly
+   1 camels grumbling
    2 camera clicking, distant sirens
    4 camera clicking, indistinct police radio chatter
    4 camera clicking, indistinct radio communication
@@ -1385,9 +1475,6 @@
    4 can clatters distantly
    1 candy people murmuring
   11 cannibals murmur
-   1 cannon echoes in distance
-   1 cannon flrlng at a distance
-   1 cannons booming softly
    1 cans rattle quietly
    3 capheus speaks indistinctly
    1 capp gives indistinct order
@@ -1432,6 +1519,9 @@
    1 car engine idling outside
    2 car engine outside
    2 car engine revving in distance
+   1 car engine revving, rumbling
+  22 car engine rumbling
+   1 car engine rumbling, approaching
    2 car engine starting, man shouting in distance
    1 car engine starts outside
    3 car engine starts, indistinct chatter
@@ -1491,6 +1581,7 @@
    1 car tires squealing in distance
    1 car zooming in distance
    2 cara speaking softly
+   1 carapace rumbling
    2 cardinals murmur agreement
   95 cardinals murmuring
    2 carl and katie speaking indistinctly
@@ -1531,6 +1622,7 @@
    2 cars passing by outside
    1 cars passing outside
    1 cars rumble by, dog barks in the distance
+   4 cart rumbling
    2 carter chuckles quietly
    1 carter whistling outside
    1 carter's voice, softly
@@ -1546,6 +1638,7 @@
    1 cartoons in background
    1 carver speaking indistinctly
    2 cary speaking indistinctly
+   1 casey grumbling
    1 casey grunts softly
    1 casey talking indistinctly
    1 cash register dings, indistinct conversation
@@ -1563,6 +1656,7 @@
    1 cat screeches distantly
    3 cat screeches in distance
    2 cat yowls in distance
+   6 catapult rumbling
    1 cate and ryan talking indistinctly
    2 catharine cries softly
    1 catherine panting softly
@@ -1572,6 +1666,9 @@
    4 cathy, faintly
    3 cats meowing in distance
    4 cattle lowing in distance
+   2 cave rumbling
+   2 cavern crumbling
+   1 cavern rumbling
    1 cc server controls the zombie server and order the attack remotely
    3 cece laughs softly
    3 cece speaks indistinctly
@@ -1603,9 +1700,12 @@
    1 celtic music playing, indistinct conversations
    1 cesar shouting in spanish in distance
    1 chain saw buzzing, indistinct shouting
+  10 chain saw rumbling
    2 chains rattle quietly
+   2 chainsaw rumbling
    3 chainsaw whirring in distance
    2 chair whirring softly
+   1 chairs rumbling
    2 chairs scrape ground, horn honks in distance
    3 chamber murmuring
    2 chamber music playing quietly
@@ -1620,6 +1720,7 @@
    1 chanting continues outside
    1 chanting continues, distant
    1 chanting continues, indistinct
+   1 chanting continues, muted
   12 chanting in background
   11 chanting in distance
    1 chanting in the distance
@@ -1630,6 +1731,7 @@
   27 chanting softly
   38 chanting softly in arabic
    6 chanting, indistinct
+   1 chanting, whispered
    3 chants indistinctly
    6 chants softly
    2 chaos in background
@@ -1703,6 +1805,7 @@
    2 cheerful talking heard from distant car
    3 cheering and indistinct conversations
    2 cheering and indistinct shouting
+   3 cheering and rumbling
    1 cheering continues, distant
    1 cheering fades, indistinct conversations
    6 cheering in background
@@ -1717,6 +1820,7 @@
    7 cheering, indistinct chatter
    6 cheering, indistinct shouting
    1 cheering, indistinct, overlapping chatter
+   1 cheering, shouting muted
    1 cheering, upbeat music in distance
    2 cheerleaders cheer in background
    3 cheerleaders cheering in background
@@ -1799,6 +1903,7 @@
   10 children chattering indistinctly
    4 children chattering outside
    2 children chattering quietly
+   1 children chattering, train rumbling
    3 children chatting indistinctly
    1 children chuckle softly
   12 children continue laughing and speaking indistinctly
@@ -1898,6 +2003,7 @@
    2 childsinging, indistinct
    2 chilton's voice distant
    3 chime tinkles, voices murmur quietly
+   8 chime, rumbling
    8 chimes continue, dog barks in distance
    1 chimes jingling softly
    1 chimes ring softly
@@ -1912,12 +2018,14 @@
    3 chisolm continues, indistinct
    3 chisolm talking, indistinct
    1 chittering softly
+   2 chittering, rumbling
    1 chitters softly
    1 choir chanting softly
    6 choir continuing softly
    1 choir singing continues outside
    3 choir singing faintly
    3 choir singing in distance
+   1 choir singing ominous tune
    5 choir singing softly
    1 choir singing, indistinct
    1 chokes softly
@@ -1992,9 +2100,11 @@
    2 church organ in background
    1 church organ playing faintly
    1 church organ playing in distance
+   2 churning and rumbling
    2 cianking continues in the distance
    1 cicero cries in distance
    1 cissy gasping softly
+   2 citizens grumbling
    1 citizens murmur
    2 claire begins indistinctly
    2 claire brad: distant laughter
@@ -2007,6 +2117,7 @@
    2 clamoring continues in distance
    7 clamoring continues outside
    2 clamoring in distance
+   6 clamoring no longer muted
    5 clamoring outside
    1 clamoring outside continues
    1 clamoring, screaming in distance
@@ -2026,12 +2137,16 @@
    2 clanging, distant clanging
    1 clanging, indistinct voices, music fades
    1 claning noise in the distance
+   3 clank and rumbling
    9 clank in distance
    2 clank, men speaking indistinctly
+   3 clank, rumbling
    2 clanking and beeping in distance
   16 clanking in distance
    1 clanking quietly
    2 clanking, clattering outside
+   2 clanking, subway cars rumbling
+   1 clanks, rumbling
    6 clapping, murmuring
    4 claps hands softly
    2 clara and eddie laughing, chatting indistinctly
@@ -2072,6 +2187,7 @@
   27 clatter in distance
    1 clatter outside
    1 clatter, dog barking in distance
+   2 clatter, rumbling
    2 clattering and banging in distance
   83 clattering in distance
    1 clattering in the distance
@@ -2084,6 +2200,9 @@
    1 clattering, laughter in distance
    1 clattering, men shouting indistinctly
    1 clattering, pop music in background
+   2 clattering, rumbling
+   1 clattering, rumbling grow even louder
+   1 clattering, rumbling grow louder
    1 clattering, woman screams in distance
    3 clay panting softly
    1 clayton mutters, indistinct
@@ -2096,9 +2215,11 @@
    2 clerics murmuring
    3 clicking in distance
    3 clicking softly
+   2 clicking, rumbling
    2 clicks mouse, man on game speaks indistinctly
    3 clicks softly
    6 clicks tongue softly
+   2 clicks, rumbling
    1 clinks softly
    2 clint chuckling softly
    4 clint weeping softly
@@ -2109,10 +2230,12 @@
    3 clock quietlyticking
    1 clock ticking faintly
    1 clock ticking in background
+   2 clock ticking ominously
    7 clock ticking quietly
    2 clock ticking quietly, man snoring
    8 clock ticking softly
    1 clock ticking, people chattering quietly
+   4 clock ticking, thunder rumbling
    2 clock ticks faintly
    4 clock ticks in the background
    2 clock ticks, woman speaks indistinctly
@@ -2135,15 +2258,18 @@
    3 cock crows in distance
    1 cock crows outside
    1 coe 24k's "a difference" playing in distance
+   2 coffin rumbling
    2 cohle groaning in the distance
    3 coin clinks in distance
    2 coins clunking faintly
    3 coins jangle softly
    3 cole speaking indistinctly
+   1 collective grumbling
    1 colonists conversing quietly
    1 colonists murmuring
    1 comedian continues indistinctly, audience laughs
    1 comedian continues talking indistinctly
+   2 comically ominous music
    1 coming from a distance
    9 commandant faintly
    2 commander speaks quietly
@@ -2155,6 +2281,7 @@
    2 commotion in distance
   18 commotion outside
    3 commotion, murmuring
+   2 commotion, muted cries
    3 communication continues, indistinctly
    1 computer beeping faintly
    1 computer beeping in distance
@@ -2162,6 +2289,7 @@
    1 computer beeping softly
    4 computer beeping, indistinct chatter
    2 computer clicking softly
+   1 computer emits ominous noises
    2 computer powers up, whirring quietly
    2 computer softly
    2 computer trilling softly
@@ -2170,6 +2298,7 @@
    1 concerned murmuring
    1 concerned murmuring, screaming continues
    2 concerned murmurs
+   4 concrete crumbling
    3 conductor continues indistinctly
    1 conference members murmur in concern
    2 confused murmuring
@@ -2193,6 +2322,7 @@
    2 constantine grunts, loud growling outside
    1 construction clatter begins in distance
    1 construction clatter begins outside
+   1 construction equipment rumbling and banging
    1 construction workers chatter, hammering in the distance
    1 contented murmuring
    3 contest continues in background
@@ -2246,6 +2376,7 @@
    2 continues, faintly
    1 continues, inaudible
  373 continues, indistinct
+   3 continues, muted
    1 continues,indistinct
    1 continuesindistinct
    2 continuesindistinctly
@@ -2269,6 +2400,7 @@
    1 conversation inaudible over machinery
    4 conversation inaudible over music
    1 conversation indistinct
+   6 conversation muted by music
    1 conversation, indistinct
    1 conversation, laughter continue in distance
    5 conversation, piano playing in background
@@ -2284,6 +2416,8 @@
    5 conversing quietly, indistinctly
    5 conversing softly
    1 cooing quietly
+   1 cookie cracks loudly, pieces crumbling
+   1 cookie crumbling
    2 cookie groans softly, mumbles
    2 cookie shouting indistinctly
    2 cooking show continues in background
@@ -2300,6 +2434,7 @@
    1 cosmo on speakers, indistinct
    3 cough in distance
    2 coughing and distant conversation
+   2 coughing and grumbling
    1 coughing faintly
    6 coughing in background
   24 coughing in distance
@@ -2372,32 +2507,55 @@
    1 coyotes yipping in distance
    1 coyotes yipping, howling in distance
    1 cpntinues distantly
+   5 cracking and rumbling
    1 cracking in distance
+   2 cracking, creaking, rumbling
+   2 cracking, crumbling
+   2 cracking, rumbling
+   1 cracking, rumbling continues
    3 crackling softly
+   7 crackling, rumbling
    1 craig speaking indistinctly
+   2 craig's voice muted
+   1 crane engine rumbling
    2 crash and clank in distance
    7 crash in distance
   15 crash outside
    2 crash outside, people gasp
+   1 crash then rumbling
+   3 crash, grumbling
+   1 crash, rumbling
+  24 crashing and rumbling
    5 crashing in distance, thumping, creature shrieks
    1 crashing in the distance
   11 crashing outside
    3 crashing outside window
+  11 crashing, rumbling
    2 crashing, sirens wailing in distance
    2 crashing, snarling in distance
+   1 creaking and low rumbling
+  10 creaking and rumbling
+   2 creaking continues, rumbling fades
    6 creaking in distance
    8 creaking outside
    3 creaking softly
+   6 creaking, crackling, rumbling
+   2 creaking, rhythmic rumbling
+  36 creaking, rumbling
    1 creaking, shrieking in distance
+   2 creaklng and rumbling
    2 creature bellows in the distance
    7 creature growling softly
    4 creature growls in distance
    1 creature growls softly
+   2 creature grumbling
    3 creature howling in distance
    2 creature howls in distance
    1 creature noises inaudible
    3 creature roaring in distance
+   4 creature rumbling
    2 creature rumbling in distance
+   2 creature rumbling, breathing
    2 creature screeches in distance
    2 creature shrieking distantly
    1 creature snarling softly
@@ -2411,6 +2569,7 @@
    4 crew chattering indistinctly
    1 crew cheering in distance
    2 crew continues speaking indistinctly
+  15 crew grumbling
    2 crew members chatter indistinctly
    3 crew members chattering, indistinct
    6 crew members murmuring
@@ -2516,12 +2675,17 @@
    1 crowd groaning and murmuring
    7 crowd groaning, murmuring
    3 crowd groans, murmurs
+  62 crowd grumbling
+   2 crowd grumbling and complaining
+   1 crowd grumbling and muttering
+   1 crowd grumbling, muttering
    7 crowd in background murmuring
    5 crowd in the background
    2 crowd indistinctly speaking
    1 crowd laughs and cheers outside
    1 crowd laughs softly
    2 crowd laughs, murmurs
+   2 crowd mumbling and grumbling
    1 crowd mumbling, murmuring
   15 crowd murmur
    4 crowd murmur disapprovingly
@@ -2582,7 +2746,9 @@
    1 crowd murmurs, indistinct shouting
    2 crowd murmurs, shocked
    3 crowd murmurs, whistles
+   2 crowd muted
    3 crowd noise in background
+   3 crowd noise muted
    1 crowd noise on tv, viviana murmurs
    4 crowd noise outside
    4 crowd noise, loudspeaker announcements, indistinct
@@ -2628,7 +2794,21 @@
    4 crows cawing in distance
    1 crows cawing outside
    3 crows cawing, dogs barking in distance
+  38 crumbling
+   3 crumbling and crackling
+   1 crumbling and crashing
+   1 crumbling and smashing
+   4 crumbling block
+   1 crumbling of bricks
+   4 crumbling sound
+   2 crumbling, cracking
+   4 crumbling, creaking
+   2 crumbling, thudding
+   4 crumbling/ debris
+   1 crumbling/crashing
+   2 crumbling/debris
    2 crumpled paper lands softly
+   2 crunching, rumbling
    2 crusade forces shouting in distance
    1 cry echoes into distance
    3 cry in near distance
@@ -2674,7 +2854,9 @@
    1 customs agent speaking indistinctly
    1 cy groans softly
    2 cybermen speaking, indistinct
+   1 cyclops grumbling
    1 cyclops grunting softly
+   1 cyclops rumbling
    1 cying softly
    2 cynthia speaks indistinctly
    2 cyril speaking indistinctly
@@ -2693,6 +2875,7 @@
    2 dallas speaking indistinctly
    1 dalton speaks indistinctly
    1 dan and rick arguing distantly
+   1 dan grumbling
    3 dance in distance
    2 dance music and indistinct chatter
    1 dance music continues in distance
@@ -2730,6 +2913,8 @@
    1 daphne in distance
    3 daria, indistinct
    3 darius speaks indistinctly
+   1 dark, atmospheric house music playing
+   1 dark, ominous, pulsing music plays
    1 darvany cries quietly
    1 darvany sobbing in distance
    1 dave continues wrestling instruction in the background inaudible
@@ -2755,12 +2940,33 @@
    3 deandra continues singing indistinctly in theater
    1 deanna groans softly
    1 debate continues in background
+   8 debris crumbling
    1 decoy speaks indistinctly
    1 dee sobs quietly
+   2 deep creaking, rumbling
    1 deep growling in distance
    1 deep growling outside
+   5 deep grumbling
+ 154 deep rumbling
+   1 deep rumbling and groaning
+   4 deep rumbling growl
+   1 deep rumbling sound
+   1 deep rumbling stops
+   1 deep rumbling, clanking
+   6 deep rumbling, creaking
+   2 deep rumbling, rattling
+   1 deep rumbling, whirring and squeaking sounds
+   2 deep rumbling, whooshing
+  30 deep underground rumbling
    2 deep voice murmuring
+   2 deep whooshing, rumbling
+   4 deep, grumbling sigh
    2 deep, indistinct voice
+   2 deep, ominous
+   2 deep, rumbling boom
+   1 deep, rumbling fart
+   1 deep, rumbling growl
+   4 deep, rumbling percussive music
    3 del shannon's "runaway" plays faintly
    1 deladi's singing in distance
    2 delegates murmuring
@@ -2786,6 +2992,9 @@
   18 dialogue inaudible
    2 dialogue inaudible over background music
    2 dialogue indistinct
+   3 dialogue muted
+   1 dialogue muted out
+   1 dialogue muted throughout rest of episode
    1 diana crying quietly
    1 diane gasps softly
    4 diane singing, indistinct
@@ -2794,7 +3003,9 @@
    3 dick speaking indistinctly
    2 dickon cries softly
    1 dicky shouts indistinctly
+   1 diefenbaker grumbling
    1 diego speaking indistinctly
+   1 diesel engine rumbling
    1 digital voice speaking indistinctly
    1 dinah sobs quietly
    1 diners chatter, music plays in the background
@@ -2830,6 +3041,9 @@
    4 dishes clattering in distance
    2 dishes clinking, indistinct conversations
    1 dishes softly clanging from the box
+   1 dishwasher rumbling
+   2 dishwasher rumbling loudly
+   1 dishwasher stops rumbling
    1 dispassionate murmur
    2 dispatch indistinct
    1 dispatcher on police radio, indistinct
@@ -2874,7 +3088,6 @@
    1 distant artillery fire
    2 distant artillery fires
    3 distant artillery firing
-   4 distant automatic gunfire
    2 distant baby cries
    9 distant baby crying
    2 distant baby wail
@@ -2938,9 +3151,6 @@
    5 distant calling
    1 distant camera flash
    4 distant can rattles
-  17 distant cannon fire
-   1 distant cannonfire
-   1 distant cannons firing
    4 distant cans rattling
    2 distant cantina music blaring
    2 distant cantor singing
@@ -3109,8 +3319,9 @@
   87 distant explosions
   13 distant explosions continue
    1 distant explosions echoing
+   4 distant explosions rumbling
    2 distant explosions sounding
-   1 distant explosions, rumbling
+   2 distant explosions, rumbling
    1 distant fair music
    1 distant female laughter
    2 distant female scream
@@ -3154,23 +3365,6 @@
    2 distant grunts
    2 distant guerillas speaking foreign language
    1 distant guitar music, getting louder
-   1 distant gun
-   2 distant gun and cannon fire
-   3 distant gun machine firing
-   1 distant gun shot
- 202 distant gunfire
-   1 distant gunfire and explosions
-   2 distant gunfire and shouting
-  41 distant gunfire continues
-   7 distant gunfire echoes
-   2 distant gunfire, creatures shouting
-   1 distant gunfire, sirens wailing
-  32 distant gunshot
-   1 distant gunshot firing
-  47 distant gunshots
-   1 distant gunshots and screaming
-   2 distant gunshots echo
-   4 distant gunshots, men shouting
   15 distant hammering
    1 distant hatch door creaking
    1 distant heartbeat
@@ -3186,7 +3380,7 @@
    1 distant hollering
    6 distant honking
    1 distant honking, tires screeching
-   1 distant hoof beats rumbling
+   2 distant hoof beats rumbling
    1 distant hoofbeats
    1 distant hoofbeats rumbling
    6 distant horn
@@ -3237,10 +3431,7 @@
    8 distant low growling
    8 distant low rumbling
    4 distant lowing
-  10 distant machine gun fire
-  24 distant machine gunfire
    1 distant machine humming
-   4 distant machine-gun fire
    2 distant machinery whirring
    2 distant male laughter
    2 distant male voice
@@ -3338,7 +3529,6 @@
    5 distant radio chatter
    3 distant radio playing
    1 distant rap song playing
-   9 distant rapid gunfire
    3 distant rattle
    8 distant rattling
    4 distant rave music
@@ -3369,7 +3559,8 @@
    1 distant rumble dies away
    1 distant rumble of an engine
    1 distant rumble of thunder
-  65 distant rumbling
+ 118 distant rumbling
+   1 distant rumbling and explosions
    1 distant rumbling outside
    1 distant rumbling sound
    4 distant rumbling, booming
@@ -3378,7 +3569,6 @@
   27 distant scream
    3 distant scream echoing
  135 distant screaming
-   4 distant screaming and gunfire
    1 distant screaming and shrieking
   14 distant screaming continues
    3 distant screaming cοntinues
@@ -3409,7 +3599,6 @@
   10 distant shouting of orders in spanish
    1 distant shouting, glass shatters
    2 distant shouting, groaning
-   5 distant shouting, gunfire
    3 distant shouting, horn honking
   25 distant shouts
    2 distant shouts and explosions
@@ -3445,6 +3634,7 @@
    1 distant siren whoops
    1 distant siren, horn honking
    1 distant siren, horns honking
+   4 distant siren, traffic rumbling
    1 distant sirenailing
  129 distant sirens
    1 distant sirens approach
@@ -3475,7 +3665,6 @@
    3 distant sounds
    1 distant sounds echoing
    2 distant sounds of fighting
-   4 distant sounds of gunfire, men shouting
    2 distant sounds of kids playing
    4 distant spider noise
   12 distant splash
@@ -3509,7 +3698,7 @@
    1 distant thunder rolling
   21 distant thunder rumbles
   20 distant thunder rumbles softly
-  27 distant thunder rumbling
+  29 distant thunder rumbling
    2 distant thunderclap
    1 distant thunderhead
    9 distant thundering
@@ -3559,7 +3748,6 @@
    3 distant voice shouts
    8 distant voice speaking russian
  115 distant voices
-   1 distant voices and gunfire
    1 distant voices and laughter
    1 distant voices approaching
    2 distant voices chanting
@@ -3644,7 +3832,7 @@
    6 distant, indistinct shouting
    2 distant, indistinct shouting, explosive pops
    3 distant, indistinct shouts
-   2 distant, low rumbling
+   6 distant, low rumbling
    1 distant, muffled screaming
    3 distant, muffled shouting
    3 distant, overlapping chatter
@@ -3665,16 +3853,12 @@
    2 distantdoorcloses
    1 distantfluteplaying
    1 distantglassbreaks
-   3 distantgunfire
-   1 distantgunfire continues
-   1 distantgunshotsecho
   78 distantly
    1 distantly, echoes
    1 distantly, echoing
    1 distantmetalclanging
    1 distantrumbling
    1 distantshattering
-   1 distantshouting, gunfire
    5 distantsiren
    1 distantsirenblaring
    1 distantsirensblaring
@@ -3683,7 +3867,6 @@
    1 distanttiresscreech
    1 distanttrainhorn blowing
    1 distantwomanscreams
-   1 distorted , indistinct conversations
    1 distorted conversations in distance
    1 distorted image outside plane
    1 distorted indistinct conversations
@@ -3694,24 +3877,28 @@
    4 distorted murmurs
    1 distorted murmurs, sirens chirp
    3 distorted music playing quietly
+   2 distorted rumbling
    2 distorted screams in distance
    2 distorted screeches in distance
    3 distorted shouting in distance
    4 distorted singing in the distance
+   1 distorted tv sounds continue with other distorted trippy sounds and rumbling
    2 distorted voice in distance
    2 distorted voice speaking indistinctly
    2 distorted voice, indistinct
    2 distorted voices continue speaking indistinctly
    1 distorted voices murmuring
    4 distorted voices speaking indistinctly
+   5 distorted whinny and muted thundering hooves
    9 distorted, distant
    5 distorted, distant screams
    3 distorted, distant yelling
    1 distorted, indistinct
    1 distorted, indistinct conversation
-   2 distorted, indistinct conversations
+   3 distorted, indistinct conversations
    2 distorted, indistinct dialogue
    1 distorted, indistinct shouts
+   3 distorted, muted
    4 distressed screaming in the background
    1 dj speaking indistinctly
    2 doc continues, indistinct
@@ -3785,6 +3972,7 @@
    1 dog growling softly
    1 dog growls quietly
    5 dog growls softly
+   1 dog grumbling
    1 dog howling in distance
   10 dog howls in distance
    2 dog snarling in distance
@@ -3844,8 +4032,10 @@
    3 donnie and kathy arguing in background
    1 donny laughs quietly
    2 doo, softly
+   1 doof opens ominous/y
    1 door alarm dinging softly
    2 door bangs in distance
+   1 door bangs shut, muted chatter through door
    2 door bells jingle in distance
    3 door bells jingle, sneezy speaking indistinctly
    1 door buzzes and beeps, telephone rings in distance
@@ -3918,6 +4108,9 @@
    1 door opens, voices murmuring
    2 door quietly creaks
   18 door quietly creaks open
+   7 door rumbling
+   1 door rumbling open
+   2 door rumbling, squeaking
    7 door shuts in distance
    1 door shuts in near distance
    1 door shuts, distant
@@ -3943,6 +4136,7 @@
    1 dora crying softly
    1 dorota speaks indistinctly
    1 doug groans softly
+   1 doug grumbling
    1 dougie murmurs
    3 dov and frank speaking indistinctly
    2 doves cooing in distance
@@ -3954,18 +4148,27 @@
    1 dr. prance speaks indistinctly
    2 dragon growls quietly
    2 dragon growls softly
+   4 dragon grumbling
    1 dragon roars in distance
    4 dragon screeches in distance
    4 dragons murmur
+   1 drain rumbling
+   1 dramatic and ominous instrumental music
+   1 dramatic atmospheric music
    1 dramatic indistinct choral singing
    6 dramatic music comes faintly from tv with woman pleading
    1 dramatic music is again more quietly, increases slowly
    6 dramatic music plays softly
   10 dramatic music plays, indistinct conversations
+  10 dramatic music plays, mechanical rumbling
+   2 dramatic music, rumbling
    2 dramatic orchestral music playing faintly in distance
+   3 dramatic rumbling
+   1 dramatic, ominous music
    1 dreamy music in the background
    5 drew on telephone, indistinct
    2 drew speaks indistinctly
+  14 drier rumbling
    2 drill buzzing in distance
    1 drill continues outside
    1 drill sergeant yelling indistinctly outside
@@ -3980,10 +4183,13 @@
    3 drivers shouting indistinctly
    1 driving rain outside
    2 drizelda cackling in the distance
+   2 droids rumbling
    3 drone and continued distant screaming
    1 drone buzzing in distance
    6 droning in distance
+   2 droning ominous music
    1 drum roll outside
+   2 drumbeat continues, muted
    3 drumming continues in distance
    2 drumming in distance
    4 drumming outside
@@ -3993,6 +4199,7 @@
    1 drums beating rhythmically in distance
    4 drums beating, indistinct shouting
    3 drums in distance
+   1 drums muted
    1 drums playing faintly
    4 drums playing in distance
    3 drums pounding in distance
@@ -4000,6 +4207,8 @@
    3 drunken and indistinct singing
    3 drunken singing in background
    1 drunken singing outside
+   4 dryer clicks, rumbling
+   2 dryer rumbling
    3 ducks quacking in distance
    2 dumars and simone laughing, moaning in distance
    2 dumars moans in distance
@@ -4023,7 +4232,9 @@
    1 eagle engines roaring in distance
    1 ealand's voice, indistinct~
    1 ears ringing, explosions in distance
-   3 easy listening music plays softly in background ¶
+  18 earth rumbling
+  16 earthquake rumbling
+   3 easy listening music plays softly in background
    2 easy listening plays distantly on radio
    2 ebba shouting in distance
    1 ebba speaking softly
@@ -4042,19 +4253,26 @@
    1 echoing, distant
    2 echoing, indistinct voice
    1 echoing, indistinct voice; becoming clearer
+   1 echoing, rumbling
    1 ed, softly
    1 eddie continues indistinctly
    1 eddie continues, indistinct
    1 eddy continues sobbing quietly
    1 eddy panting, crying quietly
    1 eddy sobbing quietly
+   7 edie grumbling
    5 edward laughs softly
    1 edwin's voice in distance
+   9 eerie atmospheric music
+   1 eerie atmospheric sounds
    1 eerie distant roar
    3 eerie distant roaring begins
    3 eerie growling in distance
    1 eerie howl of sirens wailing in the distance
    6 eerie indistinct voices
+ 130 eerie rumbling
+   2 eerie rumbling and growling
+  20 eerie rumbling, hissing
    3 eerie screech echoing from distance
    3 eerie screech in distance
    1 eerie swooshing and far-off screaming
@@ -4063,11 +4281,16 @@
    1 eerie, distant groan
    6 eerie, indistinct voices
    4 eerie, indistinct whispering
+   2 eerie, ominous music continues
+   6 eerie, ominous theme playing
+   2 eerie, ominous tones playing
    3 eerie, raspy grunting echoing from distance
   10 eerie,indistinctresponse
    2 eerie,indistinctsounds
    2 eerie,indistinctvoice
+   1 eerle rumbling and roaring
    2 el buitre murmuring a strange chant
+   3 el train rumbling
    2 eleanor cries softly
    1 electric drill whirring quietly
    1 electric guitar blares in distance
@@ -4076,7 +4299,11 @@
    2 electric guitar plays in distance
    2 electric guitarplaying, indistinct singing
    1 electric motor whirring quietly
+   4 electrical rumbling
    2 electricity crackling faintly
+   3 electricity crackling, rumbling continues
+  10 electricity humming, rumbling
+   2 electricity sizzling, mechanical rumbling
    1 electronic chime in distance
    2 electronic dance music plays in the distance
    1 electronic male voice speaks indistinctly
@@ -4085,8 +4312,12 @@
    3 electronic voices speaking indistinctly
    1 elegant music playing under indistinct conversation
    1 elena continues crying quietly
+   1 elephant grumbling
+   4 elephant rumbling
    1 elephant trumpeting in distance
    1 elephant trumpets faintly
+   2 elephants trumpeting and rumbling
+   3 elevated train rumbling past
    3 elevator bell dings faintly
    6 elevator bell dings in distance
    1 elevator bell dings, indistinct conversations
@@ -4094,6 +4325,9 @@
    1 elevator dings, indistinct chatter
    3 elevator dings, indistinct office chatter
    2 elevator dings, indistinct voices
+   1 elevator gears rumbling
+   5 elevator rumbling
+   2 elevator rumbling and squealing
    3 elevator whirrs quietly
    1 eli singing in distance
    4 eli, quietly
@@ -4112,13 +4346,16 @@
    1 ellie murmuring
    1 elliot speaking indistinctly
    1 elliot, indistinct
+   4 elliott grumbling
    1 ellis yelling indistinctly
    2 elrod speaking indistinctly
+   2 elves grumbling
    1 emcee continues indistinctly
    1 emeliano chuckles softly
    6 emergency siren wailing in distance
    3 emergency sirens wailing in distance
    2 emily and dale speaking indistinctly
+   1 emily screams muted
    1 emma gasps quietly
    2 emma murmuring, crying
    1 emma murmurs
@@ -4149,8 +4386,19 @@
    5 engine rewing outside
    2 engine roaring, tires squealing in distance
   11 engine roars in distance
+ 416 engine rumbling
+   2 engine rumbling above
+   1 engine rumbling and jackhammer rattling
+   3 engine rumbling loudly
+   2 engine rumbling nearby
    1 engine rumbling quietly
+   1 engine rumbling smoothly
    2 engine rumbling softly
+   2 engine rumbling to life
+   1 engine rumbling, horn honks
+   2 engine rumbling, revving
+   1 engine rumbling, sputtering
+   1 engine rumbling, tires screeching
    1 engine splutters outside
   11 engine starts in distance
    4 engine starts outside
@@ -4158,19 +4406,22 @@
    1 engine turns off, dog barking in distance
    6 engine turns over in distance
    4 engine turns over, alarm beeping in distance
+   1 engine whirring in distance
    1 engine whirring quietly
    1 engine whirs in distance
-   1 engine whlrrlng in distance
    3 engines hum in distance
   13 engines idling softly
    1 engines purring in distance
    3 engines revving in distance
    2 engines revving in the distance
    1 engines revving, indistinct shouting
+ 122 engines rumbling
    1 engines rumbling in distance
+   1 engines rumbling, bikers laughing, talking
    1 engines start outside
    1 engines starts, siren wailing in distance
    1 engines whining in distance
+   1 engines whining, rumbling
    1 engines whirring distantly
    1 enthusiastic murmur
    1 enthusiastic murmuring
@@ -4178,6 +4429,7 @@
    1 equipment beeping, indistinct conversations
    3 equipment beeping, people speaking indistinctly
    1 equipment beeps quietly
+   2 equipment rumbling
    3 eric shouting in distance
    1 eric, indistinct
    2 erik strumming softly
@@ -4191,11 +4443,13 @@
    2 esther speaking softly
    1 esther speaks indistinctly
    1 ethan speaks indistinctly
+   1 ethel grumbling
    2 ethereal music plays quietly
    3 ethereal, indistinct noise
    3 ethereal, indistinct noises
    2 ethereal, indistinct singing
    3 ethereal, indistinct voices
+   3 ethereal, ominous music plays
    3 etta talking indistinctly
    1 european siren wailing in distance
    3 eva chuckles softly
@@ -4208,6 +4462,7 @@
    1 everybody talking indistinctly
    1 everyone chuckles softly
    2 everyone feels so far away from me
+   4 everyone grumbling
    1 everyone murmuring denial
    3 everyone murmuring sensually
    3 everyone murmuring, talking indistinctly
@@ -4242,6 +4497,7 @@
    2 exclaims quietly
   10 exclaims softly
    2 exclaims softly in pain
+   1 executives grumbling
   11 exhales quietly
    1 exhales sharply and murmurs
   95 exhales softly
@@ -4250,6 +4506,7 @@
    1 exhaling softly
    1 expectant murmur
    3 exploding outside
+   1 explosion and rumbling
    1 explosion blast in distance
    2 explosion booming in distance
    2 explosion booms in distance
@@ -4261,8 +4518,13 @@
    3 explosion outside, beast roars
    1 explosion rings out in distance
    1 explosion rumbles outside
+  19 explosion rumbling
    1 explosion rumbling in distance
+   2 explosion thundering, rumbling
    3 explosion, indistinct shouting
+  24 explosion, rumbling
+   1 explosionrumbling
+   1 explosions and rumbling
    1 explosions booming in distance
    8 explosions continue in distance
    2 explosions continue outside
@@ -4273,8 +4535,14 @@
    6 explosions in the background
   16 explosions in the distance
    6 explosions outside
-   3 explosions, gunfire in distance
+  22 explosions rumbling
+   2 explosions rumbling nearby
+   1 explosions rumbling, sirens wailing
+   2 explosions, rumbling
+   3 explosive popping and rumbling
    1 explosive popping in distance
+  11 explosive rumbling
+   2 explosives rumbling
    1 exploslons in distance
    1 ezra mumbles softly
    2 ezra whispering indistinctly
@@ -4294,9 +4562,14 @@
    9 faint indistinct chatter
    5 faint indistinct voice speaks
    4 faint murmuring
+   1 faint ominous music
+  32 faint rumbling
+   6 faint rumbling and creaking
+   2 faint rumbling, screaming
    2 faint singing in distance
    2 faint sound of child wailing in distance
    1 faint thud in distance
+   7 faint thunder rumbling
    3 faint voice, indistinct
    1 faint voices from outside
    7 faint voices in distance
@@ -4310,6 +4583,7 @@
  166 faintly
    1 faintly echoing
    1 faintly in distance
+   1 faintthunderrumbling
    2 fan whooshing softly
    7 fanfare in background
    1 fanfare playing in the distance
@@ -4328,6 +4602,7 @@
    1 far off
    1 farting fades into distance, then returns
    1 farts quietly
+   2 fast, ominous rhythm playing
    1 fast-paced rock music playing softly on stereo
    4 father conversing, indistinct
    1 father indistinct
@@ -4364,6 +4639,7 @@
    3 female voices chant softly, background
    1 female, distant
    1 ferdinand chuckles softly
+  10 ferry engines rumbling smoothly
    1 festive music playing, indistinct chatter, laughing
    3 festive music plays in distance
    1 fiddle playing quietly
@@ -4395,7 +4671,6 @@
    1 fire crackling outside
   13 fire crackling softly
    1 fire softly cracking
-  12 fired cannon outside
    1 firefighters murmuring
    3 firefighters shouting in distance
    1 fireworks crackle outside
@@ -4410,6 +4685,7 @@
    2 flame people murmur
    3 flames burning in background
    1 flames crackling in distance
+   2 flames crackling, rumbling continues
    6 flames whooshing quietly
    5 flare crackling in distance
    1 flicka neighs in distance
@@ -4419,9 +4695,12 @@
    1 floor creaking softly
    2 floor creaks quietly
    2 floor creaks softly
+   2 floor rumbling
    1 floorboards creak in distance
    4 floorboards creak softly
    4 floorboards creaking softly
+   1 floorboards rumbling
+  11 flowers crumbling
    1 flowers that bloom in the spring plays faintly
    1 flurry of indistinct noises
    1 flushes quietly
@@ -4441,6 +4720,8 @@
    5 foliage crunches underfoot, warriors chatter quietly
    1 folk song playing softly
    2 food sizzling, low indistinct conversations
+   3 footfalls rumbling
+   3 footsteps and ominous whoosh
    1 footsteps approaching faintly
    1 footsteps approaching outside
    1 footsteps depart, door closes in distance
@@ -4450,10 +4731,12 @@
    1 footsteps in the distance
   31 footsteps outside
    1 footsteps patterlng in distance
+   8 footsteps rumbling
    1 footsteps tapping faintly
    2 footsteps, indistinct chatter
    1 footsteps, indistinct conversation
    1 foreign language, indistinct
+   3 foundation rumbling
    1 fran talking, indistinct
    1 fran, wendell continue conversing, indistinct
    1 francesca murmuring
@@ -4470,6 +4753,7 @@
    1 frankie speaking indistinctly
    1 franklin whining softly
    1 frasier yelling indistinctly
+   2 frasier's stomach grumbling
    1 frat guys cheering, indistinct
    1 frater continues indistinctly
    1 fred and sheila speaks indistinctly
@@ -4479,6 +4763,7 @@
    3 freddy groans in distance
    4 french pa announcements in background
    1 freya speaking distantly, man coughing
+   4 fridge rumbling
    1 frightened murmuring
    2 frightened murmurs
    1 frogs chirp quietly
@@ -4488,11 +4773,13 @@
    1 from far distance
    7 from outside
    1 from outside room
+   1 frustrated grumbling
    2 fry laughs, others murmuring
    2 frye speaks quietly
    1 funk music playing quietly
    1 funky music playing in the background
    1 funky music playing quietly
+   3 furniture rumbling across floor
    1 gabrielle speaking indistinctly on tv
    3 gacha chatters indistinctly in spanish
    3 gags quietly
@@ -4513,6 +4800,7 @@
    1 gallery muttering indistinctly
    4 gallery shouting, murmuring
    3 galley murmuring
+   7 galloping hoofbeats rumbling
    3 galán continues indistinctly
    6 game announcer in background
    1 game continues indistinctly
@@ -4523,6 +4811,8 @@
    2 game show theme plays, announcer speaks indistinctly
    3 garage door motor whirring softly
    1 garage door opening in distance
+   5 garage door rumbling
+   3 garbage truck rumbling
    1 garbled radio transmission in distance
    3 garbled radio transmission, distant sirens
    1 garbled radio transmission, indistinct chatter
@@ -4540,12 +4830,14 @@
   22 gasping quietly
   52 gasping softly
    3 gasping, crying quietly
+   2 gasping, grumbling
   28 gasping, murmuring
    1 gasping, murmuring continue
    2 gasping, murmuring excitedly
    2 gasping, murmuring, clamoring
    2 gasping, quietly
    3 gasping, sobbing quietly
+   3 gasping, thunder rumbling
    1 gasping- mumbling indistinctly
    6 gasps and murmuring
    6 gasps and murmurs
@@ -4562,15 +4854,20 @@
    7 gasps, moans softly
    2 gasps, murmuring
    6 gasps, murmurs
+   1 gasps, rumbling
+   9 gastric rumbling
    1 gate buzzing in distance
-   5 gate creaking , man speaking indistinctly
    4 gate creaking softly
-   5 gate creaking, man speaking indistinctly
+  10 gate creaking, man speaking indistinctly
    2 gate rattles outside
+  19 gate rumbling
+   1 gate rumbling open
+   7 gate rumbling, chains rattling
    1 gavel bangs over indistinct conversation
    1 gavel bangs, gallery murmuring
    1 gavel whacks as angry murmuring rises
    1 gears clacking in distance
+   4 gears rumbling
    1 gears squeaking faintly
    3 geithner continues indistinctly
    1 geithner speaking indistinctly
@@ -4584,12 +4881,14 @@
    1 gene speaking indistinctly
    2 general murmur
    4 general murmuring
+   2 generator rumbling
    2 geneva speaks indistinctly
    1 gentle clatter in background
    1 gentle melody plays in distance
    1 gentle murmur
    1 gentle music playing in background
    4 gentle organ music in background
+   3 gentle taps and ominous drone
    1 gentle, noble theme plays quietly
    1 geoff shouting indistinctly
    1 geoffrey speaks softly, unintelligible
@@ -4626,7 +4925,6 @@
    4 gibson talking indistinctly
    4 giggles quietly
   18 giggles softly
-   1 giggling , indistinct conversation
    1 giggling and chattering indistinctly
    2 giggling and indistinct chatter
    1 giggling from outside
@@ -4635,9 +4933,10 @@
   21 giggling softly
    1 giggling, chattering indistinctly
    2 giggling, indistinct chatter
-   7 giggling, indistinct conversation
+   8 giggling, indistinct conversation
    1 giggling, murmuring
    4 gil speaking indistinctly on telephone
+   3 gilbert grumbling
    1 gina, quietly
    1 ginuwine continues in background
    1 girl cries in distance
@@ -4688,7 +4987,6 @@
    8 girls murmuring
    1 girls murmuring, shouting in distance
    1 girls murmuring, whispering
-   1 girls outside taunting, shooting guns
    1 girls shouting cheers in distance
    3 girls shouting indistinctly
    2 girls singing in background
@@ -4722,9 +5020,7 @@
    3 glass shattering outside
    1 glass shattering, men yelling outside
   39 glass shatters in distance
-   1 glass shatters in distance, gunfire continues
    1 glass shatters quietly
-   2 glass shatters, distant gunshots
    2 glasses clink in distance
    1 glasses clink, partygoers murmur happily
    2 glenn speaking indistinctly
@@ -4732,6 +5028,7 @@
    2 gloria and hector speak inaudibly
    7 glory, glory halleluah song in background
    1 gnawing quietly
+   6 gnomes grumbling
    1 goat bleating, woman shouting in distance
    6 goat bleats in distance
    1 goat bleats, wade speaks indistinctly
@@ -4756,6 +5053,8 @@
    1 grandpa muttering indistinctly
    2 granger continues indistinctly
    2 granger speaking indistinctly
+   1 gravel crumbling
+   1 gravel rumbling
    1 greeting indistinctly
    2 greetings continue in background
    1 greg speaking, indistinct
@@ -4768,8 +5067,10 @@
    1 grinds teeth, murmurs
    1 griselda laughs in background
    1 groan echoing from distance
+   1 groaning and grumbling
    1 groaning and indistinct conversation
    2 groaning and murmuring
+   1 groaning and rumbling
    2 groaning faintly
   13 groaning in distance
   26 groaning quietly
@@ -4777,11 +5078,14 @@
    1 groaning, coughing in distance
    1 groaning, coughing, indistinct chatter
    3 groaning, gasping quietly
+   3 groaning, grumbling
    1 groaning, indistinct chatter
    1 groaning, indistinct conversations
    2 groaning, low murmuring
    1 groaning, mumbling indistinctly
+   7 groaning, rumbling
    1 groans and clattering outside
+   1 groans and grumbling sounds
    2 groans and murmurs
    1 groans faintly
    3 groans in the distance
@@ -4792,7 +5096,11 @@
    2 groans softly, feet scraping on floor
    1 groans, indistinct
    2 groggy waking murmurs
+   5 ground crumbling
+  53 ground rumbling
+   2 ground rumbling, objects rattling
    5 grounders shouting indistinctly
+   1 group grumbling
   18 group murmuring
    8 group murmurs
    2 group murmurs in agreement
@@ -4801,25 +5109,59 @@
    1 group singing in distance
    1 group vocalising in distance
    1 growl in distance
+   1 growl, rumbling
+   1 growling and grumbling
    1 growling and indistinct talking
   47 growling in distance
   19 growling outside
   17 growling quietly
   60 growling softly
    2 growling, distant
+   1 growling, rumbling
    1 growlingsoftly
    4 growllng in distance
    1 growls faintly
   10 growls quietly
  100 growls softly
+   1 growls, grumbling in french
   12 growlssoftly
    1 grownng softly
    2 grumbles indistinctly
    1 grumbles quietly
    4 grumbles softly
+ 686 grumbling
+   1 grumbling - coughing
+  28 grumbling continues
+   5 grumbling doubtfully
+   2 grumbling grows louder
    1 grumbling in distance
+   4 grumbling in droid language
+   1 grumbling in foreign languages
+   1 grumbling in frustration
+   2 grumbling in hebrew
+   5 grumbling in italian
+   1 grumbling in spanish
    1 grumbling indistinctly
+   4 grumbling lndlstlnctly
+   1 grumbling loudly
+   1 grumbling nearby
+   3 grumbling sigh
+   1 grumbling sleepily
+   4 grumbling, chattering
+  11 grumbling, crying continue
+   4 grumbling, groaning
+   2 grumbling, growling
+   4 grumbling, grunting
+   1 grumbling, imitating patty and selma
+   4 grumbling, indistinct
+   1 grumbling, laughing
    1 grumbling, murmurs
+   4 grumbling, muttering
+   1 grumbling, shouting
+   1 grumbling, trumpeting
+   2 grumblings
+   1 grunting and grumbling
+   2 grunting and rumbling
    1 grunting and screaming in background
    2 grunting and speaking indistinctly
    2 grunting continues in distance
@@ -4844,6 +5186,7 @@
    2 grunts softly to doll walking
    2 grunts softly, birds chirping outside
    2 grunts softly, gulps
+  16 grunts/stomach rumbling
    1 gtunts softly
    3 guard calling distantly
    1 guard calls outside
@@ -4856,6 +5199,7 @@
    4 guard's indistinct talk
    2 guard, quietly
    1 guards calling names, indistinct
+   1 guards grumbling
    6 guards shouting in distance
    5 guards shouting indistinctly
    1 guards talking outside
@@ -4882,7 +5226,7 @@
    2 guests murmuring, screaming
    9 guests speaking indistinctly
    2 guests whispering indistinctly
-   1 guitar music in background
+   2 guitar music in background
    2 guitar music playing softly
    2 guitar playing blues quietly
    2 guitar playing softly
@@ -4897,82 +5241,20 @@
   14 gulls calling outside
    1 gulls cry in distance
    1 gulls keening in distance
+   2 gulls screeching, boat rumbling
    2 gulls screeching, distant waves crashing
    8 gulls squawk in distance
    1 gulps softly
-   2 gun clicking in distance
-   3 gun clicks softly
-   2 gun cocks distantly
-   3 gun cocks in distance
-  10 gun firing in distance
-   2 gun firing over video game speakers in distance
-   2 gun shooting and artillery fire outside
-   3 gun shot echoes in distance
-   6 gun shot in background
-   2 gun shot in distance
-   1 gun shots in the distance
-   1 gun shots sound from outside
-   3 gunfighters continue talking indistinctly
-   3 gunfighters talking indistinctly
-   2 gunfire and screaming in background
-   3 gunfire and screams in distance
-   2 gunfire and shouting in spanish in distance
-  37 gunfire continues in distance
-   5 gunfire continues outside
-   3 gunfire explodes outside
-   5 gunfire grows distant
-   7 gunfire in background
- 138 gunfire in distance
-   1 gunfire in distance, man groans, body thuds
-   5 gunfire in the distance
-   6 gunfire outside
-   2 gunfire sounding faintly over radio
-   2 gunfire, creature screeches, indistinct shouting
-  10 gunfire, explosions in distance
-   1 gunfire, indistinct chatter
-  14 gunfire, indistinct shouting
-   8 gunfire, indistinct shouting in distance
-   1 gunfire, indistinct shouts
-   2 gunfire, indistinct talking
-   2 gunfire, men shouting and groaning in distance
-   2 gunfire, men shouting in distance
-   2 gunfire, screaming continues in distance
-   3 gunfire, screaming in distance
-   2 gunfire, shouting in distance
-   1 gunfire, whooping in distance
-   1 gunfireindistance
    1 gunnar playing "can't get it right" in distance
    1 gunnar, in distance
-   3 guns firing in distance
-   2 guns firing in the distance
-   3 gunshot echoes, horse neighs in distance
-   1 gunshot firing in distance
-  46 gunshot in distance
-   3 gunshot in the distance
-   2 gunshot outside
-   3 gunshot pops loudly in the distance
-   1 gunshot rings out in distance
-   1 gunshot, dogs howl in distance
-   3 gunshot, indistinct shouting
-   3 gunshots and men shouting in distance
-   1 gunshots and men shouting outside
-   2 gunshots and yelling in background
-   3 gunshots blast in the distance
-   6 gunshots continue in distance
-   1 gunshots echoing distantly
-   1 gunshots firing in distance
-   1 gunshots in background
-  48 gunshots in distance
-   6 gunshots in the distance
-   8 gunshots outside
-   1 gunshots, howling in distance
-   3 gunshots, indistinct yelling
-   2 gunshots, people murmuring
    4 gunter, inaudible
    1 gurgling and murmuring
    3 gurgling in distance
    2 gurgling softly
    1 gurgling, gagging in distance
+   3 gurgling, rumbling
+   3 gurgling, rumbling continue
+   3 gurgling, rumbling intensify
    1 gus sobs softly
    1 gust of wind outside
    1 gustav continues indistinctly
@@ -4983,6 +5265,7 @@
    2 guy speaking indistinctly
    1 guys murmuring
    1 gwen speaks indistinctly
+   1 gym noises, ominous music
    1 hacking and rustling in distance
    1 hailey crying softly
    2 haley speaking indistinctly
@@ -4998,6 +5281,7 @@
    4 hammering, indistinct chatter
    2 hammering, man speaking indistinctly
    1 hammering, men speaking indistinctly
+   1 hammering, thunder rumbling
    1 handcuffs click, people murmuring
    2 handcuffs clicking, gallery murmuring
    3 handcuffs clicking, indistinct conversations
@@ -5007,6 +5291,7 @@
    1 hannah groans softly
    7 happy murmuring
    2 happy murmurs
+   3 happy rumbling
    4 happy tune playing in background
    1 hare-krishna music in the background
    1 harlan speaks indistinctly, laughs
@@ -5021,6 +5306,7 @@
    6 harris barks in background
    4 harris barks in distance
    1 harris barks softly, then louder
+   1 harrison's stomach rumbling
    1 harrison, indistinct
    1 harry speaks indistinctly
    1 harry whispers indistinctly
@@ -5048,15 +5334,21 @@
    6 heart beating faintly
    1 heart beating slowly and softly
    2 heartbeat sounding quietly
+   6 heartbeat thumping, sounds muted
    1 heartbeat thumps, bell clangs in distance
    3 heartbeats in distance
    3 heather nova singling gloomy sunday from a distance
    1 heaving outside
    1 heavy artillery is heard in background
-   2 heavy gunfire in distance
+   5 heavy machinery rumbling
    1 heavy metal music in background
+  10 heavy rumbling
+   1 heavy rumbling begins
+   1 heavy rumbling of thunder
+   1 heavy rumbling, crying out in panic
    2 heavy static, indistinct voice over phone
    2 heavy thud in distance
+   1 heavy-duty motor rumbling
    2 hector speaks indistinctly
    1 hee-haws of a donkey can be heard in the background
    1 heinz, outside
@@ -5093,6 +5385,7 @@
    1 helicopters in distance
    6 helicopters whirring in distance
    1 hell-hounds barking in distance
+   6 henchmen continue grumbling
    2 henning speaks indistinctly
    1 henry and alison speaking indistinctly
    3 henry and nicky chat indistinctly in other room
@@ -5104,12 +5397,14 @@
    2 herman chuckles softly
    1 hermione screams echo in the distance
    1 hi-hat taps softly
+   2 high-pitched grumbling
    2 high-pitched indistinct sounds
    4 high-pitched ringing, indistinct talking
    4 high-pitched sound in distance
    1 high-pitched sound in distance continues
    1 high-pitched sounds in distance
    1 high-pitched squeal in distance
+   1 high-pitched tone, rumbling
    3 hip hop music playing in distance
    1 hip-hop continues, indistinct
    1 hip-hop music in background
@@ -5129,13 +5424,18 @@
    1 hip-hop plays in distance
    1 hip-hop, indistinct
    2 hisses quietly
+   4 hisses, loud rumbling
+   4 hissing and rumbling
+   2 hissing and rumbling stop
    1 hissing in background
    2 hissing quietly
    5 hissing softly
+   3 hissing, rumbling
    1 hitler giving speech in the distance
    3 hitler hums softly
    1 hits outside
    2 hn honks in distance
+   5 hoarse, ominous
    1 hobo pants softly
    5 hockey announcer continues speaking indistinctly on tv
    5 hockey announcer speaking indistinctly on tv
@@ -5156,7 +5456,9 @@
    3 honking, sirens wailing in distance
    2 hoof beats in background
    2 hoof beats in distance
+   2 hoof beats rumbling
    1 hoofbeats outside
+   1 hoofbeats rumbling
    1 hoofbeats, rattling in distance
    2 hookfang groans softly
    4 hookfang growls softly
@@ -5168,6 +5470,7 @@
    1 hooves clacking outside
    2 hooves clopping, wheels clattering in distance
    3 hooves plod, horses snort softly
+   2 hooves rumbling
    6 hooves thud softly
    4 hooves thunder in the distance
    1 hopeful murmur
@@ -5228,6 +5531,7 @@
    4 horns honking outside
    2 horns honking, distant
    1 horns honking, dog barking in distance
+   2 horns honking, engines rumbling
    4 horns honking, indistinct chatter
    7 horns honking, indistinct conversations
    1 horns honking, indistinct crowd chatter
@@ -5238,6 +5542,7 @@
    2 horns honking, tires squealing outside
    1 horns playing softly in the background
    1 hornshonk indistance
+   2 horrible grumbling noise
    1 horse and carriage outside
    1 horse grunts softly
    2 horse neighing distantly
@@ -5278,7 +5583,6 @@
    2 horses galloping in distance
    4 horses neigh in the distance
    1 horses neighing in distance
-   2 horses neighing, men shouting, cannon booming in distance
    4 horses outside
    1 horses snoring, distant animals calling
    3 horses whinny in distance
@@ -5292,6 +5596,7 @@
    1 hostages whimpering softly
    1 hostetler chuckling quietly
    1 house music pounding in distance
+   3 house rumbling
    1 hovitos chant softly
    1 howard sings indistinctly
    1 howie v shouting indistinctly
@@ -5306,6 +5611,7 @@
    1 hubbub in the distance
    2 huck muttering indistinctly
    1 huffs quietly
+  16 huge rumbling
    2 hugo chuckles quietly
    1 hugo giggles, speaks indistinctly
    2 hugo murmurs
@@ -5314,18 +5620,21 @@
    1 hum of crowd in background
    1 hum of murmured concern
    1 hum of traffic, siren wails in the distance
+   1 human grumblings
    1 humming along quietly
    1 humming coming from the distance
    1 humming continues in distance
    3 humming faintly
    5 humming indistinctly
-  19 humming quietly
+  21 humming quietly
+   1 humming rumbling
   43 humming softly
    1 humming softly to herself
    1 humming tune softly
    3 humming, murmuring
    1 humming, singing softly
    1 hums faintly
+   2 hums ominous music
   16 hums softly
    2 hums very softly
    1 hums vey softly
@@ -5347,12 +5656,16 @@
    1 i choral music plays distantly
    3 i love you song from barney playing faintly
    1 i organ plays distantly
+   2 i whispered "thank you" while turning the pages of the old photo album
+   1 i whispered "there's nothing i can do about it"
    1 iago yelling, indistinct
    1 ian murmurs to fryer
+   1 ice cracking, rumbling
    1 ice cracking, workers murmuring
    6 ice cream truck music playing softly
    3 ice cream truck song plays distantly
    1 ice cream truck song reverberates softly
+   2 ice rumbling
    1 ice-cream truck music playing outside
    1 if i look outside the window
    2 ihab sobs quietly
@@ -5362,14 +5675,16 @@
    1 imitates dance percussion quietly
    1 imitates lion meowing quietly
    1 imitates marching band quietly
+   1 imitates motor rumbling
    1 imitates the drum beat outside
    1 imitates train whistle softly
    1 imitates wind blowing softly
+   3 imitating engine rumbling
    3 impressed murmuring
   10 in background
    1 in background, softly
  371 in distance
-   1 in distance: ♫ dubstep
+   1 in distance:  dubstep
    1 in distant kill the faggot
    1 in far distance
    4 in the distance
@@ -5437,10 +5752,13 @@
    2 inaudible under voiceover
    2 inaudible voices
   10 inaudible whisper
+   1 inaudible whispered question
   15 inaudible whispering
    3 inaudible words
    4 inaudible yelling
    2 inaudibly mumbling
+   1 incoherent grumbling
+   1 increasing rumbling
    1 indian music playing softly
    2 indian music with sitar and flute plays in background
    1 indignant murmur
@@ -5599,8 +5917,6 @@
    2 indistinct chatter, footfalls approaching
   12 indistinct chatter, goats bleating
    2 indistinct chatter, grunting
-   2 indistinct chatter, gunshots
-   1 indistinct chatter, gunshots from video
    1 indistinct chatter, jazz music playing in background
   12 indistinct chatter, laughing
   58 indistinct chatter, laughter
@@ -5886,7 +6202,7 @@
    7 indistinct greetings
    1 indistinct groaning
    1 indistinct group chattering
-   6 indistinct grumbling
+  10 indistinct grumbling
    1 indistinct grunt
    4 indistinct grunting
    1 indistinct grunting and laughter
@@ -5965,6 +6281,7 @@
    1 indistinct music playing on radio
    1 indistinct music plays
    1 indistinct music plays through headphones
+   2 indistinct muted chatter
   70 indistinct muttering
    1 indistinct narration on tv
    1 indistinct news radio
@@ -6038,6 +6355,7 @@
    2 indistinct radio broadcast in asian language
    1 indistinct radio chat
  550 indistinct radio chatter
+   1 indistinct radio chatter and motor rumbling
    4 indistinct radio chatter continues
    2 indistinct radio chatter in distance
    1 indistinct radio chatter throughout
@@ -6118,7 +6436,6 @@
    8 indistinct scream
   46 indistinct screaming
    3 indistinct screaming in distance
-   4 indistinct screaming, gunfire
    5 indistinct screaming, shouting
    2 indistinct screeching
   51 indistinct shout
@@ -6126,15 +6443,12 @@
    6 indistinct shouti ng
    6 indistinct shoutinc
 1502 indistinct shouting
-   3 indistinct shouting , fighting
-   5 indistinct shouting , glass shattering
    8 indistinct shouting and chanting
    5 indistinct shouting and chatter
    1 indistinct shouting and cheering
    3 indistinct shouting and clatter
    1 indistinct shouting and explosions
    3 indistinct shouting and fighting
-   6 indistinct shouting and gunfire
    1 indistinct shouting and laughter
    4 indistinct shouting and light applause
    4 indistinct shouting and orders
@@ -6173,13 +6487,10 @@
    3 indistinct shouting, dog barking
    1 indistinct shouting, dogs barking
    1 indistinct shouting, drowned out by ringing
+   3 indistinct shouting, fighting
    3 indistinct shouting, fire crackles
-   4 indistinct shouting, glass shattering
+   9 indistinct shouting, glass shattering
    4 indistinct shouting, goading
-   4 indistinct shouting, gunfire
-   2 indistinct shouting, gunfire in distance
-   1 indistinct shouting, guns clicking
-   1 indistinct shouting, gunshots
    1 indistinct shouting, helicopter blades whirring
    1 indistinct shouting, helicopter whirring
    2 indistinct shouting, horns honking
@@ -6203,7 +6514,6 @@
    5 indistinct shouts in spanish
    3 indistinct shouts nearby
    2 indistinct shouts of praise
-   3 indistinct shouts, gunshot
    3 indistinct shouts, strained grunts
    3 indistinct shouts, weapons firing
    3 indistinct shrieking
@@ -6279,7 +6589,6 @@
    2 indistinct talkinc
    1 indistinct talkinc over p.a
  474 indistinct talking
-   1 indistinct talking , laughter
    4 indistinct talking and laughing
    8 indistinct talking and laughter
    1 indistinct talking and moaning
@@ -6303,7 +6612,6 @@
    2 indistinct talking on phone
    7 indistinct talking on police radio
   11 indistinct talking on radio
-   4 indistinct talking on radio, gunshot
    9 indistinct talking on television
    1 indistinct talking on television in distance
    2 indistinct talking on the radio
@@ -6321,7 +6629,7 @@
    1 indistinct talking, door opens
    2 indistinct talking, knocking
    3 indistinct talking, laughing
-   2 indistinct talking, laughter
+   3 indistinct talking, laughter
    2 indistinct talking, papers rustling
    2 indistinct talking, phones ringing
    1 indistinct talking, police radio chatter
@@ -6430,10 +6738,10 @@
    3 indistinct voices, static
    4 indistinct wailing
    2 indistinct walkie chatter
-   3 indistinct whimpering
+   4 indistinct whimpering
    1 indistinct whining
   14 indistinct whisper
-   4 indistinct whispered conversation in ku
+   6 indistinct whispered conversation in ku
  340 indistinct whispering
    1 indistinct whispering continues
    1 indistinct whispering continues on radio
@@ -6443,7 +6751,6 @@
   37 indistinct whispers
    1 indistinct whispers continue
    1 indistinct whispers in spanish
-   1 indistinct whlmperlng
    1 indistinct woman's voice over pa
    1 indistinct words in french
    1 indistinct words over p.a
@@ -6451,8 +6758,6 @@
    3 indistinct words over radio
    4 indistinct yell
  190 indistinct yelling
-   2 indistinct yelling , bullets firing
-   1 indistinct yelling , glass breaking
    1 indistinct yelling and shouting
   14 indistinct yelling in distance
    2 indistinct yelling in spanish
@@ -6461,9 +6766,9 @@
    1 indistinct yelling outside
    1 indistinct yelling playing over tv
    2 indistinct yelling, arguing
+   2 indistinct yelling, bullets firing
    1 indistinct yelling, fighting
-   1 indistinct yelling, glass breaking
-   1 indistinct yelling, gunfire
+   2 indistinct yelling, glass breaking
    2 indistinct yelling, laughing
    1 indistinct yelling, overlapping chatter
    1 indistinct yelling, scuffling
@@ -6597,6 +6902,9 @@
    1 instrumental rock plays quietly
    2 instrumental version of take me with u plays softly, background
    1 instruments ringing softly
+   3 intense ominous drone
+   4 intense ominous music
+   3 intense rumbling
    2 intercom beeps, siren wailing in distance
    1 interns murmur
    1 interns shouting indistinctly
@@ -6604,9 +6912,14 @@
    2 interview continuing indistinctly
    1 interviewer speaks quietly
    1 into distance
+   4 intone's ominous sound
+   1 ioud rumbling
+   1 iow rumbling
+   1 irate grumbling
    1 irene continues talking, indistinct
    2 irene speaks indistinctly
    4 iris screams in distance
+   1 irritable grumbling
    2 irwin speaking indistinctly
    1 is outside now
    9 isabel barking in distance
@@ -6621,7 +6934,9 @@
    1 it's indistinct
    2 italian fascist music in the background
    1 italian style music playing softly
+   2 items crashing, rumbling
    2 ithorian murmuring
+   1 ivan and eddie grumbling
    1 izzie and meredith shouting indistinctly
    1 izzie humming quietly
    1 izzie, softly
@@ -6651,6 +6966,7 @@
    2 jackhammer pounding in distance
    1 jackhammer pounding outside
    8 jackhammer rattling in distance
+   4 jackhammer rumbling
    3 jackhammering in distance
    6 jackie speaking indistinctly
    2 jacob murmurs
@@ -6686,7 +7002,7 @@
    3 jax laughs quietly
    2 jax quietly
    2 jax softly
-   1 jay singing indistinctly to himself ¶
+   1 jay singing indistinctly to himself
    1 jazz band plays in background
    1 jazz continues distantly, child laughing
   14 jazz continues in distance
@@ -6709,6 +7025,7 @@
    2 jazz plays in distance
    3 jazz song plays softly in background
    2 jazz, vocals indistinct
+   1 jazzy, ominous music
    1 jean cries softly
    1 jean speaks indistinctly on phone
    3 jeep pulls up outside, doors slam
@@ -6733,11 +7050,17 @@
    3 jessica, distant
    1 jessica, indistinct
    1 jet engine roaring distantly
+   2 jet engine rumbling
    1 jet engine whining faintly
    1 jet engine whooshing in distance
    1 jet engines roaring in distance
+   2 jet engines rumbling
    2 jet hissing in distance
+   1 jet rumbling overhead
    2 jet taking off outside
+   2 jetpacks rumbling
+   1 jets rumbling
+   1 jigsaw rumbling
    7 jill continues indistinctly
    1 jill murmurs
    2 jillian laughs softly
@@ -6809,6 +7132,7 @@
    1 juice chuckles softly
    3 juice crying softly
    3 juice groans softly
+   5 juicy grumbling
    1 jukebox indistinct
    2 jukebox music plays faintly, then fades
    1 jukeboxmusic playsfaintly,thenfades
@@ -6824,7 +7148,9 @@
    5 june sings softly
    1 june speaking indistinctly
    5 june speaks indistinctly
+   1 junior executives grumbling
    2 juno in distance
+   1 jurors grumbling
    5 jurors murmuring
    1 jury murmurs
    5 justin screaming at a distance
@@ -6840,6 +7166,7 @@
    6 karen speaking indistinctly
    4 karl hollers, indistinct
    1 kasey speaks indistinctly
+   1 kassim continues chattering, grumbling
    1 kat chuckles softly
    4 kate chatting quietly
    2 kate chuckles softly
@@ -6897,6 +7224,7 @@
    1 kids chatting indistinct
    1 kids continue in background
    3 kids gasping, murmuring
+   2 kids grumbling
    1 kids in distance
    1 kids indistinct chattering
   10 kids laughing in distance
@@ -6955,6 +7283,7 @@
    2 knocks softly, sobs
    1 knowing murmurs
    1 koro chattering, indistinct
+   1 kreacher grumbling
    1 kris laughs quietly
    1 kristi humming softly
    1 kristi, indistinct
@@ -6981,10 +7310,12 @@
    1 lan continues, indistinct
    1 lanberg speaks indistinctly
    2 lancelot speaks indistinctly
+   2 languid atmospheric music
    1 lao grunts softly
    1 large steno grunting distantly
    2 larry continues, indistinct
    1 larry in distance
+   1 larry's stomach grumbling
    2 laser blast outside
    3 laser fire in background
    4 laser fire, indistinct shouting
@@ -7021,6 +7352,7 @@
    3 laughing, murmurs
    3 laughing, speaks indistinctly
    3 laughing, talking indistinctly
+   8 laughing, thunder rumbling
    2 laughs and speaks indistinctly
    1 laughs faintly
    1 laughs inaudibly
@@ -7031,6 +7363,7 @@
    3 laughs quietly, sniffs
  724 laughs softly
    2 laughs softly, sniffles
+   4 laughs, grumbling
    1 laughs, inaudible
    1 laughs, murmuring
    2 laughs, murmurs
@@ -7093,6 +7426,7 @@
    1 lazarro whimpers softly
    1 leaf blower whirring in distance
    1 leaves rustling, metal clanking softly
+   1 leaves rustling, thunder rumbling
    1 led scratching softly
    1 led zeppelin's "kashmlr" playing faintly on stereo
    3 lee continues indistinctly
@@ -7123,9 +7457,13 @@
    1 light music plays, indistinct shouting, cheering
    2 light noise outside door
    2 light scratching in distance
+   2 light switch clicking, rumbling
+   1 light switch clicking, thunder rumbling
    5 light tap in distance
+   2 lightning crashes, thunder rumbling
    1 lights clack, dog barking in distance
    2 lights faintly humming
+   1 lillian grumbling
    1 lily anne speaking indistinctly
    1 lily laughs quietly
    2 lily shouting, indistinct
@@ -7145,6 +7483,8 @@
    3 ling spelling in background
    2 lion growling softly
    1 lion snores quietly
+   6 liquid rumbling
+   4 liquid rumblings
    1 lisa groans softly
    3 lisa moaning softly
    2 lisa screams in distance
@@ -7182,9 +7522,11 @@
    1 liz speaks indistinctly, stops
    1 lmitates clumping footsteps and indistinct chatter
    1 lmitates marching band quietly
+   1 lmitates whining and rumbling drills
    8 ln distance
    3 lnaudible talking outside room
    1 lndistinct chatter in background
+   3 lndistinct grumbling
    1 lndistinct murmuring
    4 lnmates speaking, indistinct
    2 lnsaniac singing, indistinct
@@ -7195,12 +7537,15 @@
    1 locker door closes in distance
    1 locket rattling softly
    1 logs crackling softly
+   1 logs rumbling
    2 lois crying softly
    2 lois speaking indistinctly on telephone
    1 lois talking, indistinct
   14 lola muttering, indistinct
    2 lola singing in background
    1 long distance control monitoring system
+   1 long inhale, rumbling exhaie
+   1 long inhale, rumbling exhale
    1 long-distance runner
    1 lonnie singing indistinctly
    1 look outside, it's snowing
@@ -7224,6 +7569,7 @@
    1 loud bang in the distance
    1 loud bang outside
    1 loud banging in distance
+   1 loud banging, rumbling
    2 loud chanting in the background
    1 loud chanting outside
    3 loud chatter outside
@@ -7233,12 +7579,15 @@
    1 loud crash from outside
    1 loud crash in background
    1 loud crash outside
+   1 loud creaking and rumbling
    1 loud dance music playing in distance
    6 loud explosion in distance
    4 loud glugging in distance
   14 loud indistinct conversation
    3 loud indistinct talking
    4 loud jack-hammering outside
+   3 loud knocking, rumbling
+   2 loud mechanical rumbling
    1 loud moaning begins outside
    1 loud murmur
   10 loud murmuring
@@ -7256,10 +7605,39 @@
    1 loud neighing in distance
    1 loud pop in distance
    1 loud rap, indistinct
+   2 loud rhythmic rumbling
    2 loud rock music playing in distance
    7 loud rock, indistinct
+ 329 loud rumbling
+   2 loud rumbling and banging
+   1 loud rumbling and cracking
+   2 loud rumbling and creaking
+   1 loud rumbling and crunching
+   1 loud rumbling and explosions
+   1 loud rumbling and high-pitched whine
+   1 loud rumbling and hissing
+   1 loud rumbling and rattling
+   1 loud rumbling and sloshing
+   1 loud rumbling and thudding
+   1 loud rumbling and whirring
+   4 loud rumbling continues
+   1 loud rumbling explosion
+   2 loud rumbling noise
+   3 loud rumbling sound
+   3 loud rumbling sounds
+   2 loud rumbling static
+   1 loud rumbling,
+   2 loud rumbling, all gasp
+   1 loud rumbling, both gasping
+   4 loud rumbling, crashing
+   1 loud rumbling, glass shatters
+   3 loud rumbling, rattling
+   1 loud rumbling, scraping
+   1 loud rumbling, whooshing
+   1 loud rumblings
    2 loud screeching noises from outside
    4 loud slap, indistinct shouts
+   1 loud stomach grumbling
    2 loud thud in distance
    2 loud thud outside
    2 loud thud, indistinct shouting
@@ -7268,14 +7646,25 @@
    1 loud thump outside
    5 loud, distant arguing
    1 loud, distant banging
+   5 loud, distorted rumbling
    1 loud, droning beep, indistinct chatter
   12 loud, indistinct chatter
    1 loud, indistinct rock music plays
    3 loud, indistinct voices
+   1 loud, ominous creaking
+   3 loud, rumbling explosion
+   1 loud, rumbling whir
+   1 louder grumbling
+   1 louder grumbling and booing
    1 louder indistinct murmuring
    1 louder murmuring, gavel banging
    1 louder murmurs
+   3 louder rumbling
+   1 louder rumbling sound
    1 louder, indistinct chatter
+   1 loudly sings ominous theme
+   1 loudrumbling
+   1 loudrumbling andsloshing
    1 loudspeaker outside
    1 louie softly
    1 louis yelling indistinctly
@@ -7293,6 +7682,8 @@
    1 low growling in distance
    4 low growling outside
    1 low growls in background
+   4 low grumbling
+   4 low grumbling roar
    1 low hum of chatter outside
    2 low hum of chatter outside, repeated ringing
    1 low hum of chatter, music plays quietly
@@ -7311,10 +7702,29 @@
    4 low murmurs in audience
    4 low murmurs in spanish
    1 low murmurs, chuckles
+   1 low ominous voices
    1 low roar in distance, high-pitched sound continues
    1 low rumble in distance
+ 269 low rumbling
+   1 low rumbling and scraping
+   2 low rumbling bellow
+   5 low rumbling continues
    3 low rumbling continues in distance
+   1 low rumbling growing louder
+   2 low rumbling growl
    3 low rumbling in distance
+   2 low rumbling nearby
+   7 low rumbling sound
+   1 low rumbling thunder
+   2 low rumbling turns to silence
+   1 low rumbling vibration
+   1 low rumbling, apple thuds
+   4 low rumbling, cracking
+   1 low rumbling, creaking
+   6 low rumbling, deep creaking
+   3 low rumbling, hissing
+   2 low rumbling, ice clattering
+   4 low rumbling, male voices
    1 low, almost inaudible hum
    1 low, distant
    3 low, distant electronic pulsing
@@ -7350,13 +7760,25 @@
   12 low, indistinct talking
    1 low, indistinct talking in distance
    2 low, indistinct talking nearby
+   3 low, ominous chord plays
    2 low, ominous murmuring
+   1 low, ominous music plays
+   3 low, ominous theme playing
+   2 low, ominous tones playing
+   2 low, rumbling call
+   4 low, rumbling drone
+   1 low, rumbling flatulence
+   5 low, rumbling growl
+   3 low, rumbling growling
+   1 low, rumbling horns,
+   1 low, rumbling roar
+   2 low, rumbling thunder
+   3 low, rumbling tone
    1 lowers television volume, thunder continues outside
    4 lowing in distance
    1 luau music playing, indistinct conversations
    2 lucas speaking indistinctly
    3 lucas speaks indistinctly
-   1 lucy cries, gunshot in distance
    1 lucy humming quietly
    1 lucy, quietly
    1 luke speaking indistinctly
@@ -7382,31 +7804,30 @@
    2 machine beeps in distance
    2 machine buzzing, indistinct conversations
    1 machine chugs quietly
-   1 machine gun fire in the distance
-   6 machine gun firing in distance
-   1 machine gun rig motor whirring softly
-   2 machine gunfire in distance
    4 machine humming in distance
    1 machine powering up in distance
    1 machine pulsing softly
+   7 machine rumbling
    2 machine warbles softly
    1 machine whirring in distance
+   1 machine whirring loudly and rumbling
   13 machine whirring quietly
    3 machine whirring softly
    1 machine whirs quietly
-   3 machine-gun fire continues outside
-  31 machine-gun fire in distance
    4 machinery clicking in distance
-   1 machinery clicking, gunshots in distance
    1 machinery clinking in distance
    1 machinery grinding, indistinct shouting
    1 machinery quietly whirring
+  21 machinery rumbling
+   4 machinery rumbling and clanging
    3 machinery whirring and beeping loudly in the distance
    2 machinery whirring and clanking in distance
    2 machinery whirring quietly
    1 machinery whirring, indistinct conversations
    2 machinery whirring, indistinct talking
    2 machines beep softly
+   9 machines rumbling
+   2 machines rumbling, beeping
    2 maddie whimpers quietly
    4 maddy quietly prays
    3 madeleine sobs quietly
@@ -7417,6 +7838,7 @@
    1 mah outside
    2 maisie sobs quietly
    1 makes smacking noise and speaks indistinctly
+   2 making ominous noises
    2 male announcer calling play-by-play indistinctly
    1 male announcer calling sports game indistinctly
    7 male announcer chattering indistinctly
@@ -7497,7 +7919,7 @@
    2 man continues indistinctly on p.a
    1 man continues indistinctly over p.a
    2 man continues indistinctly, music swelling
-   1 man continues on p. a . , indistinct '
+   1 man continues on p.a., indistinct '
    2 man continues preaching in the distance
    1 man continues shouting commands in background
    2 man continues shouting in distance
@@ -7525,7 +7947,10 @@
    4 man groans in distance
    2 man groans softly
    1 man growls softly
+   9 man grumbling
+   2 man grumbling in turkish
    1 man grumbling indistinctly
+   2 man grumbling, indistinct
    1 man grunts in the distance
    2 man grunts, gasps softly
    1 man humming indistinctly
@@ -7614,6 +8039,7 @@
    3 man rapping indistinctly over headphones
    1 man rapping, indistinct
    1 man reading names aloud in background
+   1 man reads in ominous voice
    1 man replying quietly
    1 man responds over police radio, indistinct
    3 man retching in distance
@@ -7823,7 +8249,6 @@
    1 man yelling, dog barking in distance
    6 man yelling, indistinct
    7 man yells in distance
-   1 man yells indistinct, gun fires
    7 man yells indistinctly
    1 man yells indistinctly outside
    1 man's high-pitched laughter in distance
@@ -7842,6 +8267,7 @@
    6 man, outside
   11 man, quietly
    1 man, woman arguing, indistinct
+   1 man, woman arguing, muted
    2 manheim continues singing in distance
    1 manissuesorder, indistinct
    9 manny continues talking, indistinct
@@ -7890,7 +8316,9 @@
    2 martians chattering in distance
    2 martians chattering indistinctly
    6 martius grunts softly
+   1 marty grumbling
    1 marvin indistinct
+   1 marvin, muted
    3 mary margaret speaking indistinctly
    1 mary margaret speaks indistinctly
    9 mary sobs quietly
@@ -7932,7 +8360,13 @@
    1 meaning quietly
    1 meaning softly
    1 meanwhile, deep in the mysterious woods outside the enemy roman camp
+   1 meatlug and toothless grumbling
    1 meatlug sniffing, indistinct arguing
+   3 mechanic rumbling
+  70 mechanical rumbling
+  10 mechanical rumbling, hissing
+  10 mechanical rumbling, people screaming
+   4 mechanism rumbling
    1 medical monitors beeping and whirring quietly
    3 medical staff speaking indistinctly
    1 medical staff speaks indistinctly
@@ -7943,6 +8377,7 @@
    1 meet me outside later
    2 mei crying softly
    2 mei sobbing softly
+   1 melancholia rumbling
    2 melancholic piano melody plays softly
    1 melancholy ballad, indistinct lyrics
    2 melancholy music in the background
@@ -8014,9 +8449,10 @@
    6 men conversing indistinctly, voices altered
    4 men conversing quietly
    1 men conversing, indistinct
+  63 men grumbling
+   1 men grumbling and griping
    4 men grunting and shouting indistinctly
    2 men grunting and speaking indistinctly
-   3 men grunting, gunfire in distance
    2 men hooting in distance
    1 men in distance laugh
    1 men laughing and talking, indistinct
@@ -8047,7 +8483,6 @@
    2 men shout indistinctly, blades zing
    2 men shout indistinctly, radio chatter
    4 men shouting aggressively in distance
-   1 men shouting and gunshots in distance
    1 men shouting battle cry in distance
   10 men shouting distant
    1 men shouting distantly
@@ -8059,23 +8494,17 @@
    4 men shouting indistinct
    3 men shouting indistinctiy
  232 men shouting indistinctly
-   1 men shouting indistinctly and gunfire on television
   14 men shouting indistinctly in distance
    2 men shouting indistinctly in german
    3 men shouting indistinctly nearby
    2 men shouting indistinctly, door closes
    3 men shouting indistinctly, fire crackling
-   3 men shouting indistinctly, gunfire
-   3 men shouting indistinctly, gunshots
    2 men shouting indistinctly, swords clanking
    1 men shouting indistinctly, women screaming
    1 men shouting ln distance, indistinct
    1 men shouting orders in background
   11 men shouting outside
-   1 men shouting outside, automatic gunfire
    3 men shouting, distant
-   1 men shouting, distant gunfire horns
-   4 men shouting, gunfire in distance
   17 men shouting, indistinct
    1 men shouts indistinctly over walkie-talkie
    1 men shrieking in distance
@@ -8086,7 +8515,7 @@
    1 men singing in the distance
    7 men singing indistinctly
    1 men singing prayers in distance
-   3 men singing, indistinct
+   4 men singing, indistinct
    8 men snore softly
    4 men snoring softly
    1 men speak chinese in distance
@@ -8163,7 +8592,6 @@
    2 mengele ranting in background
    1 menmurmur
    1 menmurmuring
-   1 menshoutingindistinctly andgunfireon television
    1 merchants calling out, indistinct
    1 merchants continue chattering in distance
    2 meriet moans softly
@@ -8179,20 +8607,29 @@
    1 metal clank in distance
    1 metal clatters in distance
    2 metal clinking in distance
+   1 metal creaking and rumbling
    1 metal creaking in distance
    4 metal creaking softly
+   1 metal creaking, loud rumbling
    2 metal door rolls and clanks in distance
    1 metal groaning in distance
    1 metal noises outside, dog barking distant
    3 metal pipes clanking quietly
    1 metal rattling softly
+   4 metal rumbling
+  14 metal rumbling and creaking
    3 metal scraping softly
+   3 metal squealing and rumbling
    1 metal squealing in distance
    6 metal tapping, courtiers murmuring
    1 metallic clanging and chatter in distance
+   1 metallic clanging and rumbling
    2 metallic droning, indistinct voices
+   1 metallic groaning, crumbling
    5 metallic rattling in distance
+   9 metallic rumbling
    5 metallic scraping in distance
+   4 metallic screeching and rumbling
    2 mia speaking softly
    1 michael and dr. greene talking, indistinct
    3 michael and shayna speaking indistinctly
@@ -8208,6 +8645,7 @@
    1 mick speaks indistinctly
    1 mickey and bunchy speaking indistinctly
    1 mickey speaking indistinctly
+   1 microphone rumbling
    2 mid-tempo latin music plays in distance
    1 mid-tempo music continues in distance
    4 mid-tempo music playing, indistinct conversations
@@ -8232,14 +8670,18 @@
    1 militia shouting orders indistinctly
    1 miljan in distance
    2 miljan speaks indistinctly
+   2 mimics artie's grumbling
    3 mimics explosion sound quietly
    1 mindy continues indistinctly
    3 mindy, outside
    2 minister continues in background
    1 minister speaking indistinctly in distance
    2 minister's voice becomes distant, crowd clamoring louder
+   2 minotaur grumbling
+   2 minotaur rumbling
    1 miranda humming softly
    2 miranda sings "dream angus" softly
+   1 missile engine rumbling
    3 missiles exploding in distance
    1 mitch continues in background
    2 mitch speaks gently, quietly
@@ -8247,6 +8689,7 @@
    1 mixed indistinct whispers
    1 mixed murmurs
    3 mixed murmurs of crowd
+   2 mixed whispers; rumbling
    1 mna screaming indistinctly
    2 moaning and screaming in distance
    1 moaning heard in distance
@@ -8310,8 +8753,8 @@
    1 more distant banging
    1 more distant voice
    2 more distantly
-   1 more french, cannon fire in distance
    2 more murmurs
+   1 more ominous organ music with strings
    1 more quiet music in the background
    4 more quietly
    1 more quietly, dripping faucet in the background
@@ -8322,6 +8765,7 @@
    2 moriarty groans softly
    1 mose faintly
    1 mosquito buzzing faintly
+   2 mot rumbling
    1 mother continues indistinctly
    2 mother cries quietly
    1 mother crying bitterly in background
@@ -8332,7 +8776,9 @@
    2 motor in distance
    1 motor noise and conversation in the distance
    1 motor rumbles softly
-   3 motor rumbles, gunshots in distance
+  50 motor rumbling
+   2 motor rumbling, police radio chatter
+   2 motor rumbling, radar pinging
    1 motor runs in distance
    1 motor softly chugging
    1 motor whirring in distance
@@ -8342,7 +8788,9 @@
    2 motorcycle engine fading in distance
    1 motorcycle engine in distance
    3 motorcycle engine revving in distance
+  19 motorcycle engine rumbling
    1 motorcycle engines outside
+  12 motorcycle engines rumbling
    3 motorcycle idles outside
    3 motorcycle in distance
    2 motorcycle in the distance
@@ -8352,6 +8800,11 @@
    4 motorcycle revs outside
    2 motorcycle revving in distance
    2 motorcycle revving outside
+   3 motorcycle rumbling
+  11 motorcycles rumbling
+   1 motorcycles rumbling loudly
+   2 motors rumbling
+   2 mountain rumbling
    3 mourners gasp, murmur
   12 mourners murmuring
    2 mourners sing softly
@@ -8369,6 +8822,7 @@
    4 movie playing indistinctly
    2 movie plays in background
    7 moving quietly
+   1 mower engine rumbling
    1 mr. carlson speaking indistinctly
    6 mr. gold speaks indistinctly
    5 mr. koji continues indistinctly
@@ -8381,6 +8835,7 @@
    1 mrs. dendy speaks indistinctiy
    1 mrs. levy talking indistinctly
    4 mrs. nugent, distant
+   2 mrs. o'brien grumbling
    1 mrs. ramsey gasps quietly
    1 mrs. stephens, indistinct
    1 mrs. weiss speaking distantly, coins jingling
@@ -8392,8 +8847,8 @@
    2 muffled crash, woman screams in distance
    1 muffled crying in distance
    2 muffled explosion in distance
+  10 muffled grumbling
    3 muffled grunting in distance
-   2 muffled gunshots outside
    1 muffled happy hardcore beats in distance
    1 muffled hlp-hop music playing in distance
    2 muffled indistinct chatter
@@ -8406,6 +8861,7 @@
    1 muffled music playing, men speaking softly
    1 muffled rap music playing in distance
    5 muffled rockabilly music playing in distance
+   4 muffled rumbling
    1 muffled shout in distance
    4 muffled shouting in background
    1 muffled shouting in distance
@@ -8432,7 +8888,6 @@
    4 muffled, indistinct conversation
    3 muffled, indistinct conversations
    3 muffled, indistinct shouting
-   3 muffled, indistinct sound of gunfire and groaning
    1 muffled, indistinct speech
    3 muffled, indistinct talking
    3 muffled, speaking indistinctly
@@ -8454,6 +8909,7 @@
    2 mumbling voices in background
   42 mumbling, indistinct
    2 munch crying, talking indistinctly
+   4 muqtada grumbling
    1 murdock murmuring in amazement
   16 murmur
    1 murmur agreement
@@ -8651,6 +9107,7 @@
    1 music and laughter outside
    1 music and singing in background
    3 music becomes distant
+   1 music becomes ominous
    1 music begins softly, clanging
    2 music blares, people talking in distance
    2 music blaring in distance
@@ -8693,6 +9150,7 @@
    1 music continues, indistinct chatter
    1 music continues, indistinct shouting
    1 music continues, indistinct talking
+   3 music continues, muted
    2 music continues, women cheering in distance
    1 music continuesin background
    3 music continuing distantly
@@ -8712,6 +9170,7 @@
    3 music in distance stops
    4 music in the background
    7 music in the distance
+   1 music is muted
    1 music on radio playing softly
    1 music outside
    1 music over indistinct dialogue
@@ -8742,6 +9201,7 @@
   18 music playing indistinctly
    1 music playing indistinctly on tv
    1 music playing loudly, indistinct chatter
+   1 music playing on radio, tv audio muted
    8 music playing outside
    1 music playing over truck speakers in distance
   29 music playing quietly
@@ -8768,6 +9228,7 @@
    2 music playing, indistinct shouts
    1 music playing, people talking quietly
    1 music playing, quietly
+  11 music plays and dialogue muted
    5 music plays faintly
    1 music plays faintly over headphones
    1 music plays faintly, muffled
@@ -8787,11 +9248,13 @@
    2 music plays, indistinct chatter
    7 music plays, indistinct conversations
    1 music plays, indistinct singing
+   1 music plays, muted chatter
    4 music pounding in distance
    4 music pounding in distance, children shouting and screaming
    1 music pounds in distance
    2 music rumbling outside
    1 music slow swing music in background
+   2 music slows and becomes muted
    1 music somewhat more quietly, but hitched up
    2 music sounds distant
    2 music stops, crowd exclaiming in distance
@@ -8801,6 +9264,7 @@
    4 music stops, indistinct shouting
    2 music thumping from distance
    1 music thumping, indistinct singing in distance
+   1 music turns ominous
    1 music, barking continue in distance
    1 music, conversations resume in distance
    1 music, indistinct conversations in distance
@@ -8816,12 +9280,83 @@
    2 musicplayingfaintly
    1 musicplayingsoftly
    1 mus¡c play¡ng softly
+  36 muted
+   1 muted /aughter
+   3 muted applause
    3 muted arguing in distance
+   1 muted audio
+   1 muted barking
+   1 muted beeping
+   1 muted brass solo
+   1 muted breathy chanting
+   3 muted buzzing
+   1 muted by incidental music
+   2 muted chanting
+   5 muted chatter
+   1 muted chatter and laughter, camera shutter clicks
+   1 muted chatter, laughter
+   3 muted chattering
+   2 muted cheering
+   6 muted clamoring
    2 muted clatter outside
+   2 muted club music
+   1 muted club music playing
+   1 muted conversation
+   2 muted conversations
+   1 muted coughing
+   1 muted crowd booing
+   1 muted crunch
+   6 muted dialogue
+   2 muted fart
+   1 muted footsteps
+   1 muted groans and laughter
+   1 muted hip-hop music plays
    8 muted indistinct speech
+   3 muted laughter
+   4 muted music
+   1 muted music and chatter
+   1 muted music and static playing
+   1 muted music, laughter and chatter nearby
+   1 muted orchestra music resumes
+   1 muted party music
+   1 muted phone ringing
+   1 muted rap music playing
+   4 muted rock
+   1 muted rock playing
+   5 muted scream
+   3 muted scream underwater
+   2 muted screeching
+   1 muted shout
+   5 muted shouting
    1 muted shouting outside
+   3 muted sirens
+   1 muted snarling
+   2 muted soft jazz playing
+   1 muted song
+   1 muted sound
+   2 muted sound of coin clinking
+   2 muted sounds
+   4 muted speech
+   1 muted squeaking noises
+   1 muted talking
+   1 muted techno-pop music playing
+   1 muted tires screeching
+   4 muted trumpet imitating adults' speaking voice from "peanuts"
+   2 muted trumpet solo plays
    2 muted tv in background
+   1 muted tv sound
+   3 muted voices
    1 muted voices murmuring
+   1 muted wail of police sirens, panicked chatter of guests
+   1 muted whispering
+   1 muted yelling
+   1 muted, distorted cheering
+   3 muted, distorted crying
+   1 muted, distorted drumming, chimes clang lightly
+   2 muted, distorted explosions
+   1 muted, distorted shouting
+   1 muted, muffled music
+   3 muted, to clay's ears
    2 muttering and shouting indistinctly
    2 muttering faintly
    2 muttering inaudibly
@@ -8844,6 +9379,8 @@
    1 muzak playing faintly
    5 muzak plays in background
    4 my long-distance is expensive
+   6 mysterious breathing, rumbling, creaking
+   2 mysterious whispered chanting
    2 nae shan speaks softly
    2 name of a town just outside of seoul
    1 nana shouts indistinctly
@@ -8880,6 +9417,7 @@
    1 nell speaks indistinctly over phone
    2 nero chuckles softly
    4 nero speaks indistinctly
+   2 nervous grumbling
    1 nervous murmur
    2 nervous murmuring
    1 new age music plays softly
@@ -8950,6 +9488,7 @@
    1 noisy teenagers in background
    4 nomi chuckles softly
    2 nonsense talked in the background
+   1 nonsensical grumbling
    1 nora calling outside
    2 nora crying quietly
    1 nora indistinct
@@ -8976,6 +9515,7 @@
    2 objects clatter in distance
    1 objects crashing in distance
    1 october's thoughts whispered indistinctly
+   2 october's whispered thoughts
    1 odd clipping sounds in distance
    2 odessa and alejandro arguing indistinctly
    2 odessa and alejandro continue arguing indistinctly
@@ -9016,8 +9556,111 @@
    3 olivia speaking quietly
    3 olivia speaks indistinctly
   10 olivia talking loudly in distance
+   3 ominous
+   1 ominous "jaws"-like music
+  30 ominous ambience
+   2 ominous ambient dissonance
+   2 ominous ambient music
+   5 ominous ambient sound
+   1 ominous ambient sounds
+   1 ominous arrangement
+   3 ominous breathing
+   3 ominous buzzing
+   2 ominous chant-like music
+  13 ominous chord
+   4 ominous chord plays
+   2 ominous chording
+   2 ominous chords continue
+   1 ominous chuckle
+   1 ominous creaking
+   1 ominous dfone
+   1 ominous dissonant arrangement
+  14 ominous drone
+   8 ominous droning music
+   2 ominous drum beat
+   1 ominous drum beating
+   4 ominous drumbeat
+   1 ominous echoes
+   1 ominous electric guitar chord
+   9 ominous electronic music
+   3 ominous ethereal chanting
+   2 ominous ethereal music
+   1 ominous game music playing
+   3 ominous growl
+   1 ominous guitar music
+   1 ominous guitar music plays
+   1 ominous harpsichord music
+   2 ominous howling
+   1 ominous howls
+   6 ominous hum
+   5 ominous instrumental music
+   1 ominous key change
+   3 ominous laugh
+   3 ominous laughter
+   1 ominous march music playing
+ 845 ominous music
+   2 ominous music and rumble of thunder
+  16 ominous music begins
+   2 ominous music fades up
+   1 ominous music on tv
+  53 ominous music playing
+  55 ominous music plays
+   3 ominous music swells
+   2 ominous music,
    2 ominous music, dialogue inaudible
+   5 ominous musical flourish
+   2 ominous musical tones
+   1 ominous noises
+   2 ominous note
+   7 ominous orchestral music
+   7 ominous orchestration
+   1 ominous organ music
+   1 ominous organ music continues
+   2 ominous organ music playing
+   1 ominous organ music plays
+   1 ominous percussive music
+   2 ominous piano
+   2 ominous piano chord
+   1 ominous ringtone off
+   1 ominous rock music
+  13 ominous rumbling
+   1 ominous scream
+   1 ominous soft percussion music
+   1 ominous sound
+   7 ominous sounds
+   1 ominous soundtrack playing
+   1 ominous string music
+  14 ominous theme building
+   3 ominous theme building dramatically
+   1 ominous theme crescendos, stops abruptly
+   1 ominous theme music playing
+ 202 ominous theme playing
+  12 ominous theme plays
+   1 ominous theme swells
+   3 ominous tone
+   3 ominous tones
+   7 ominous tones playing
+   1 ominous tune intensifies
+   5 ominous tympani beat
    1 ominous voice whispers softly
+   1 ominous voices
+   2 ominous warbling music
+  10 ominous whispers
+   3 ominous whoosh
+   1 ominous whooshing tone
+   3 ominous, dramatic theme begins
+   3 ominous, dramatic theme plays
+   1 ominous, eerie tones playing
+   3 ominous, ethereal theme plays
+   3 ominous, intense theme playing
+   1 ominous, pulsing music continuing
+   1 ominous, rumbling tones playing
+   6 ominous, suspenseful theme playing
+   1 ominous, sustained tone
+   1 ominous, sustained tone plays
+   7 ominously
+   6 ominousmusic
+  12 ominousmusicplaying
    1 on stereo, outside
    1 on the phone, quietly
    4 onlookers gasping, murmuring
@@ -9026,6 +9669,7 @@
    1 onlookers murmuring, applauding
    1 onlookers murmuring, indistinct conversations
    2 onlookers murmuring, talking
+   5 oogi grumbling
    2 oohing, murmuring
    1 opera aria plays in background
    2 opera continues faintly in background
@@ -9075,6 +9719,7 @@
    1 other murmuring
    2 others chattering quietly
    2 others gasping, murmuring
+   7 others grumbling
    2 others murmur in agreement
   20 others murmuring
    4 others murmuring in agreement
@@ -9101,7 +9746,6 @@
    1 overlapping chatter, indistinct
    1 overlapping chatter, music in background
    2 overlapping conversations, indistinct
-   2 overlapping gunfire in distance
    6 overlapping indistinct chatter
    1 overlapping indistinct conversations
    6 overlapping murmuring
@@ -9156,6 +9800,7 @@
    1 paige laughs softly
    1 paige speaking indistinctly
    1 paige speaks indistinctly
+   1 painters grumbling
    2 paisa murmurs
    1 pallas gasps softly
    2 palntballs firing in distance
@@ -9176,6 +9821,7 @@
    6 pants softly
    4 papa coughing quietly
    1 paparazzi shouting indistinctly at once
+   5 paper crumbling
    2 paper rustles, mail robot beeps in distance
    1 papparazzi shouting, indistinct
    2 paralegals murmuring and chuckling
@@ -9184,10 +9830,12 @@
    1 paramedics continue speaking indistinctly
    1 paramedics speaking indistinctly
    1 parents conversing indistinctly
+   2 parents grumbling
    3 parents speaking quietly
    1 parents speaking, indistinct
    5 parisian music, indistinct chatter
    3 park and greer chatting quietly
+   6 parker grumbling
    9 parnassus hums softly
    1 parrot chattering softly
    2 partisans murmur
@@ -9201,11 +9849,14 @@
    2 party-goers murmur in disappointment
    9 partygoers murmuring
    2 passengers chattering, indistinct
+   1 passengers continue grumbling
+   5 passengers grumbling
    2 passengers murmur
   31 passengers murmuring
    2 passengers murmuring, moaning
    1 passengers scream in distance
    1 passers-by talking, indistinct
+   1 passing vehicles rumbling
    3 pastor continuing indistinctly
    1 pat continues, indistinct
    2 pat speaking indistinctly
@@ -9223,6 +9874,7 @@
    1 patrons chatting, indistinct
    1 patrons complaining, indistinct
    4 patrons conversing indistinctly
+   2 patrons grumbling
    2 patrons hoot softly
    3 patrons murmur
    1 patrons murmur and laugh
@@ -9318,6 +9970,9 @@
    3 people gasping, man shouting indistinctly
    4 people gasping, murmuring
    1 people groaning quietly
+   1 people groaning, grumbling
+  16 people grumbling
+   1 people grumbling in annoyance
    1 people in distance singing in african language
    1 people laugh softly
    5 people laughing and chatting in distance
@@ -9445,6 +10100,7 @@
    3 person shouting in distance
    2 person talking indistinctly over phone
    1 pete grunting softly
+   1 pete simulates engine rumbling
    1 peter and phyllis playing outside
    1 peter and phyllis shrieking playfully outside
    1 peter and woman speaking indistinctly
@@ -9560,6 +10216,7 @@
    3 pickets heard outside
    1 picture of nikola tesla in the background
    3 pig grunting in distance
+   2 pig rumbling
    1 pig squealing in distance
    1 pigeons cooing in background of recording
    1 pigeons cooing quietly
@@ -9578,8 +10235,12 @@
    1 pipemusic playingsoftly
    1 piper plays in distance
    1 pipes clanging softly
+   2 pipes rumbling
+   1 pipes rumbling and knocking
    1 pippa mumbles softly
+   1 pirates grumbling
    1 pirates murmuring
+   1 pit rumbling
    1 pitch increases until it is inaudible
    1 pj murmurs
    3 plaintive birdcall echoes from distance
@@ -9587,15 +10248,21 @@
    3 plane engine in distance
    3 plane engine roars in distance
    1 plane engine roars outside
+   1 plane engine rumbling
    3 plane radio, indistinct
+   1 plane rattling and rumbling
    1 plane roars in distance
+   5 plane rumbling
+   4 plane rumbling by
    2 plane rumbling in distance
-   2 plane whlrrlng in distance
+   2 plane whirring in distance
    1 planes roaring in distance
    1 planesroaring indistance
+   1 plastic bottle crumbling
    1 plastic crinkling faintly
    1 play continues, indistinct
    1 play-by-play in background
+  12 players grumbling
    2 players murmuring
    2 players murmuring in agreement
    8 players shouting, indistinct
@@ -9606,6 +10273,7 @@
    1 playing guitars softly
    3 playing indistinctly
   13 playing softly
+   1 plays deep, ominous note
    1 plays in distance
    1 plays music softly
    1 plays national anthem softly
@@ -9705,6 +10373,7 @@
    1 policeradiochatter, indistinct
    1 polly and max shout indistinctly
    1 polly shouting indistinctly
+   1 polyphemus grumbling
    1 ponderous typing in background
    1 ponies conversing indistinctly, ignoring spike
    1 ponies screaming in background
@@ -9753,9 +10422,13 @@
    3 pounding on door, indistinct shouting
    1 pounding on door, indistinct talking
    1 pounding outside
+   1 pounding, rumbling
+   2 pouring rain and thunder rumbling
    1 pouring rain outside
    1 power saw grinding in distance
+   3 power surges, rumbling
    1 power tools buzzing outside
+   3 powers up, rumbling
    1 prat and laughter in the background
    1 pray softly
    2 prayer continues in distance
@@ -9797,8 +10470,10 @@
    1 projectile crashing in distance
    1 projector playing quietly
    1 promotional music playing faintly
+   2 propellers rumbling
    1 protesters chanting indistinctly
    3 protesters chanting outside
+   2 protesters grumbling
    2 protesters shouting indistinctly
    6 protesters shouting outside
    1 protesting indistinctly
@@ -9810,6 +10485,7 @@
    3 protests indistinctly
    2 provenza speaking indistinctly
    2 pryce's voice echoes indistinctly
+   1 pulsating tone rumbling
    2 pulsating, seductive music plays in distance
    1 punches landing, shouting in distance
    3 punk rock blares from distance
@@ -9845,6 +10521,8 @@
   10 quiet, indistinct conversations
    2 quiet, indistinct police radio communication
    1 quiet, indistinct voices, distorted sound
+   1 quiet, ominous theme plays
+   1 quiet, ominous tones playing
 3746 quietly
    1 quietly and kindly
   14 quietly blowing notes
@@ -9863,8 +10541,6 @@
    4 quietly grunts
    1 quietly humming
    2 quietly imitates explosion
-  11 quietly imitates gunshots
-   1 quietly imitating gunshots
    2 quietly impressed
    1 quietly in the background
    2 quietly laughing
@@ -9935,6 +10611,7 @@
    3 radio continues playing indistinctly
    1 radio continues quietly under traffic
    9 radio continues, indistinct
+   2 radio continues, muted
    1 radio dial clicking and indistinct chatter
    1 radio dispatch voices, indistinct
    7 radio dispatcher, indistinct
@@ -9986,15 +10663,20 @@
   15 radio, indistinct
    3 radio: police dispatcher, indistinct
    1 radioannouncercontinues, indistinct
+   1 radiocontinues, muted
    2 radios crackling indistinctly
    4 ragnar and aslaug murmur quietly
+   3 ragnar listens to the muted words of the priest
    1 ragosa shouting indistinctly
+   1 rahzar grumbling
    1 rain falling and distant thunder
   26 rain falling outside
    1 rain falling quietly
+   8 rain falling, thunder rumbling
    4 rain falls outside
    1 rain pattering outside
    1 rain pattering, distant thunder
+   5 rain pattering, thunder rumbling
    1 rain patters in distance
    5 rain patters outside
    1 rain pelting softly
@@ -10002,7 +10684,9 @@
    3 rain splattering, distant siren wailing
   10 rainfall outside
    2 rainfall, distant thunder
+   2 rainfall, thunder rumbling
    2 raining outside
+   1 rainpattering, thunder rumbling
    1 raised voices outside
    9 rajah murmuring
    2 raji continues screaming outside
@@ -10042,6 +10726,7 @@
    2 rap music playing quietly
    3 rap music plays softly
    2 rap music pounding in background
+   2 rap music rumbling
    3 rap on car stereo, indistinct
    1 rap on tv, indistinct
    3 rap playing in background
@@ -10050,10 +10735,10 @@
   18 rap, indistinct
    1 rap, softly
    1 raphael continues reading in background
+   1 rapid drumbeat rumbling
    2 rapid footsteps in distance
    5 rapid footsteps, indistinct radio chatter
    2 rapid footsteps, people shouting indistinctly
-   9 rapid gunfire in distance
    1 rapid scraping in distance
    4 rapid, indistinct chatter
    1 rapmusic playingsoftly
@@ -10063,20 +10748,29 @@
    3 rapping, indistinct
    6 raps indistinctly
    1 raps softly
+   1 raptors rumbling
    6 raquela singing indistinctly
    1 rascals chattering, indistinct
    1 rashid sighs and laughs softly
+   1 rasping, muted choke
+   1 rasps ominously
    1 raspy voice speaks indistinctly
    2 rattle in distance
    4 rattles quietly
+   5 rattling and rumbling
    1 rattling and rumbling in distance
    2 rattling heard in distance
   14 rattling in distance
    5 rattling outside
    2 rattling softly
    1 rattling, banging outside
+   2 rattling, deep rumbling
    4 rattling, distant thumping
+   1 rattling, rumbling
+   2 rattling, rumbling, everyone quiets
    2 rattllng outside
+   8 raucous rumbling
+   2 raven crows ominously
    2 ravens caw in the distance
    3 ravens crow in the distance
    4 rawles talking, indistinct
@@ -10124,7 +10818,6 @@
    2 renee murmurs
    1 repeat quietly
    2 repeated banging in distance
-  11 repeated gunshots, circus music plays in background
    2 repeated thudding in distance
    1 repeats chant quietly
    2 repeats distant voice
@@ -10154,6 +10847,7 @@
    1 reporters continue shouting indistinctly
    2 reporters firing questions, overlapping, indistinct
    1 reporters gasping and murmuring
+   1 reporters grumbling
    3 reporters inaudible, heartbeat stops
    3 reporters murmur
   58 reporters murmuring
@@ -10175,6 +10869,7 @@
    2 respirators hissing quietly
    1 responds softly
    2 responds, indistinct
+   2 restless grumbling
    1 resurrection and yelling outside
    1 retching quietly
    1 reverend continues indistinctly
@@ -10191,6 +10886,7 @@
    1 rhythmic creaking in distance
    2 rhythmic percussion playing quietly
    1 rhythmic pounding in distance
+   1 rhythmic rumbling
    1 rhythmic squeaking in distance
    1 rhythmic tapping and subway train passing in distance
    4 rhythmic tapping echoes from distance
@@ -10208,6 +10904,7 @@
    1 riders screaming in distance
    1 riders screaming, murmuring
    2 rides clanking, people scream happily in distance
+   3 rift rumbling
    3 riggan panting quietly
    3 rigsby speaks indistinctly
    1 riley and fitch murmuring
@@ -10219,17 +10916,21 @@
    1 rings softly
    1 ringtone chimes faintly
    4 ringtone playing faintly
+   3 rising ominous tone
    1 rita faintly
    1 rita weeps softly
    1 ritchey speaks indistinctly and laughs
+   4 river rumbling
    2 river rushing in the distance
    3 rivka cries quietly
+   1 rlncewlnd grumbling softly
    1 ro coughs in the distance
    2 roar in distance
    1 roar of car engine fades into distance
    1 roar of distant engines
    2 roar of distant machines
    1 roar of ocean in distance
+   1 roaring and rumbling
    2 roaring echoes from distance
   41 roaring in distance
    5 roaring in the distance
@@ -10244,6 +10945,7 @@
    1 robert stammers softly
    2 robin sobs softly
    1 robin whispers indistinctly
+   5 robot playing ominous music
    1 robotic murmuring
    1 robots chatter in distance
    1 rock 'n' roll music playing in background
@@ -10252,6 +10954,8 @@
    1 rock 'n' roll playing indistinctly
    5 rock and roll, indistinct
    4 rock clatters in distance
+   9 rock crumbling
+   1 rock giant rumbling
    3 rock in distance
    1 rock music blares in background
    1 rock music blares, indistinct chatter
@@ -10287,6 +10991,7 @@
    3 rock music plays, indistinct conversations
    6 rock playing in distance
    2 rock pop music in background
+   6 rock rumbling
    2 rock song playing faintly
    2 rock song playing faintly continuing
    3 rock song playing, low and indistinct
@@ -10295,9 +11000,18 @@
   41 rock, indistinct
    1 rockabilly music playing in distance
    3 rockabilly plays in background
+   3 rocket engine rumbling on tv
+   1 rocket engines rumbling, whooshing
+   3 rocket rumbling
+   1 rockets rumbling
+   2 rocks continue crumbling
+  23 rocks crumbling
+   1 rocks crumbling, dylan yelps
+  14 rocks rumbling
    1 roger mumbles indistinctly
    1 roland and joan speak indistinctly
    2 roland and trevor speak indistinctly
+   1 roller-coaster rumbling
    1 roman panting softly
    2 roman, indistinct
    1 romantic instrumental music playing softly
@@ -10313,6 +11027,7 @@
   18 rooster crows in distance
    2 rooster crows in the distance
    4 rooster crows outside
+   3 roosters grumbling
    1 rope softly thuds below
    5 rose singing softly
    4 rose talking, indistinct
@@ -10331,24 +11046,183 @@
    1 royal chucklessoftly
    2 royal telephone by burl ives plays in distance
    1 roz softly hums
+   2 rubble falling, rumbling
    1 ruby weeps quietly
    1 ruckus in distance
    4 rudy laughs softly
    1 rumble of distant bombs
   10 rumble of wagons outside
    1 rumbles softly
-   5 rumbling , indistinct shouting
+2843 rumbling
+   5 rumbling / cheering
+   1 rumbling / music abruptly stops
+   1 rumbling abo ve
+   1 rumbling and car alarm ringing
+   1 rumbling and church bell ringing
+   3 rumbling and clattering
+   2 rumbling and crackling
+   1 rumbling and crash
+   3 rumbling and crashing
+   6 rumbling and creaking
+   7 rumbling and creaking cease
+   1 rumbling and creaking noises
    2 rumbling and explosions in distance
+   2 rumbling and growling
+   4 rumbling and grunting
+   1 rumbling and gurgling
+   1 rumbling and hissing
+   1 rumbling and rattling
+   1 rumbling and rattling get louder
+   2 rumbling and screams
+   5 rumbling and screeching
+   4 rumbling and shaking
+   1 rumbling and sloshing
+   1 rumbling and splashing
+   1 rumbling and squealing
+   1 rumbling and whooshing
+   2 rumbling approaches
+   1 rumbling approaching
+   1 rumbling becomes overwhelming
+   2 rumbling begins, gets louder
+   1 rumbling boom
+ 137 rumbling continues
+   1 rumbling continues, car alarms wailing
+   1 rumbling continues, crashing sounds
+   1 rumbling continues, glasses clinking
+   1 rumbling continues, pine cones whizzing
+   2 rumbling continues, woman screams
+   3 rumbling continuing
+   3 rumbling crash
+   1 rumbling decreases
+   2 rumbling dies down
    2 rumbling eases, debris settling softly
+   2 rumbling engine
+   3 rumbling explosion
+   1 rumbling explosions
+  14 rumbling fades
+   2 rumbling fades away
+   5 rumbling fading
+   4 rumbling footsteps
+  17 rumbling gets louder
+   1 rumbling growing louder
+   7 rumbling growl
+   2 rumbling growl continues
+   2 rumbling growl echoes
+   4 rumbling grows
+  19 rumbling grows louder
+   1 rumbling in a belly
    1 rumbling in background
   33 rumbling in distance
    3 rumbling in distance continues
+   2 rumbling in sky
    2 rumbling in the distance
+   3 rumbling increases
+   2 rumbling increasing
+   2 rumbling inside monster
+  15 rumbling intensifies
+   1 rumbling intensifies, fades
+   1 rumbling intensifying
+   1 rumbling loudly
+   7 rumbling nearby
+   6 rumbling noise
    1 rumbling noise in distance
+   2 rumbling noises
+   1 rumbling of motorcycle engine
+   1 rumbling of motorcycles
+   1 rumbling on ceiling / thud
    2 rumbling outside
-   5 rumbling, indistinct shouting
+   1 rumbling over tracks
+   2 rumbling overhead
+   1 rumbling percussive music
+   8 rumbling purr
+   1 rumbling resumes
+   2 rumbling sigh
+   1 rumbling snort
+  11 rumbling sound
+   3 rumbling sounding note
+   9 rumbling sounds
+   4 rumbling starts
+  74 rumbling stops
+   1 rumbling stops abruptly
+   1 rumbling stops, then a screech
+   8 rumbling subsides
+  16 rumbling thud
+   3 rumbling thunder
+   2 rumbling, all exclaiming
+   3 rumbling, audio distorts
+   3 rumbling, banging
+   1 rumbling, banjo music rising in pitch and tempo
+   4 rumbling, beeping
+   2 rumbling, blipping, electronic whirring
+   1 rumbling, both screaming
+   1 rumbling, brakes squeal
+   1 rumbling, branches cracking
+   6 rumbling, breathing, crackling
+   1 rumbling, burbling
+   1 rumbling, burbling continue
+   2 rumbling, ceiling cracking
+   1 rumbling, chicken clucking
+   4 rumbling, clanking
+   1 rumbling, clanking stops
+   2 rumbling, clanking, buzzing
+   5 rumbling, clattering
+   2 rumbling, clattering, glass shattering
+   3 rumbling, clicking
+   8 rumbling, cracking
+   3 rumbling, cracking continues
+  16 rumbling, crackling
+  18 rumbling, crashing
+   1 rumbling, crashing continue
+   1 rumbling, crashing continues
+  25 rumbling, creaking
+   6 rumbling, creaking, crackling
+   1 rumbling, crowd gasping
+   1 rumbling, debris clattering
+   1 rumbling, debris falling
+   2 rumbling, dirt thudding
+   1 rumbling, echoing
+   2 rumbling, electricity buzzing
+   2 rumbling, explosions
+   1 rumbling, gears grinding
+   3 rumbling, glass breaking
+  20 rumbling, glass clinking
+   4 rumbling, glass shattering
+   2 rumbling, grunting
+   2 rumbling, gurgling
+   3 rumbling, high-pitched whirring
+   5 rumbling, hissing
+   2 rumbling, ice crackling
+  10 rumbling, indistinct shouting
+   5 rumbling, loud thud
+   2 rumbling, metal clacking
    2 rumbling, passengers murmuring
+   3 rumbling, plaster cracking
+  12 rumbling, rattling
+   3 rumbling, rattling, passengers gasping
+   2 rumbling, scraping nearby
+   2 rumbling, scraping, banging
+   2 rumbling, shouting continues
+   1 rumbling, snap whimpering
+   3 rumbling, squeaking
+   2 rumbling, thud
+   2 rumbling, thudding, clanking
+   2 rumbling, townspeople screaming
+   2 rumbling, whining stop
+   1 rumbling, whining, thumping
+   3 rumbling, whirring
+   1 rumbling, whistling sounds
+   9 rumbling, whooshing
+   1 rumbling, whooshing continue
+   1 rumbling, wind blowing
+   3 rumbling, wind blows
+   1 rumbling, wind gusting
+   1 rumbling, wood creaking
+   1 rumbling. rattling
+   1 rumblingandsloshing
+   2 rumblingcontinues
    3 rumblings and distant explosions
+   1 rumblings from vesuvius
+   1 rumblingstops
    1 rumbllng in distance
    3 rush groans softly
    1 ruspern in the background
@@ -10364,6 +11238,7 @@
    2 rustling outside
    1 rustling sound coming from outside
   10 rustling, indistinct chatter
+   1 rustling, low rumbling
    1 ruth sobbing softly
    2 ruth speaking indistinctly
    1 ruth, indistinct
@@ -10371,6 +11246,7 @@
    1 ryan continues indistinctly
    8 ryan speaking indistinctly
    1 ryan speaks indistinctly
+   3 rygel grumbling
    1 rygel grunts softly
    2 ryland shouting, indistinct
    1 sabine sweeps softly
@@ -10404,6 +11280,7 @@
    2 sammy and harding conversing indistinctly
    4 san is the most common honorific, used when addressing most social outsiders
    4 sands talking, indistinct
+   5 santas gasping, grumbling
    1 sara breathing softly
    2 sara speaks quietly
    1 sarah and joost chuckling softly
@@ -10421,6 +11298,7 @@
    1 saxophone playing mellow jazz, siren wails in distance
    1 saxophone plays softly
    1 scanner in distance
+   2 scarecrows rumbling
    3 scared murmuring
    1 scared murmurs
    2 scattered applause in distance
@@ -10455,13 +11333,13 @@
    1 scott screams in distance
    1 scott speaks indistinctly
    8 scraping in distance
+   4 scraping, crumbling
    1 scratching softly
    2 scream echoes in distance
    4 scream echoing in distance
    2 scream fades under overlapping, indistinct whispering
   12 scream in distance
    3 screaming and fighting in the background
-   3 screaming and gunshots continue in distance
    2 screaming and indistinct shouting
    3 screaming and indistinct talking
    2 screaming and laughter continue in distance
@@ -10470,6 +11348,7 @@
    1 screaming continues faintly
    5 screaming continues in distance
    1 screaming continues, distant
+   3 screaming continues, muted
    2 screaming fades into distance
    2 screaming from outside
    2 screaming heard in distance
@@ -10516,6 +11395,7 @@
    1 screeching quietly
    1 screeching softly
    1 screeching sound in distance
+   2 screeching, rumbling
    1 screechng sounds in distance
    1 screeling growling in distance
    2 scuffling outside
@@ -10536,6 +11416,7 @@
    2 seal continues announcing outside
    1 sean and tess shouting, indistinct
    1 seeing life from the outside
+   1 semitruck engine rumbling
    1 send her outside and no one else will die
    1 senseless murmuring
    1 sentimental murmurs
@@ -10586,17 +11467,23 @@
    2 sheriff, indistinct
    2 shermeen, faintly
    1 sheryl singing indistinctly
+   4 ship begins rumbling
+   1 ship engines rumbling
    2 ship horn blares in distance
    3 ship horn blaring in distance
    7 ship horn blowing in distance
    8 ship horn blows in distance
    1 ship horn sounds in distance
    1 ship horns blowing in distance
+  15 ship rumbling
+   1 ship's engine rumbling
    2 ship's horn blowing in distance
    5 ship's horn blows in distance
    1 ship's horn in distance
    3 ship's horn in the distance
    1 ship's horn toots in distance
+   2 ships rumbling
+   3 ships rumbling overhead
    1 shirley sobbing quietly
    1 shirley speaking indistinctly
    2 shocked gasps and murmurs
@@ -10620,11 +11507,11 @@
    2 shots ricocheting softly
    2 shout in distance
    2 shouting and chanting indistinctly
-  31 shouting and gunfire in distance
-   1 shouting and gunfire in the distance
+   2 shouting and grumbling
    2 shouting and horns fade into distance
    2 shouting and indistinct clamor
    2 shouting and music indistinct
+   2 shouting and rumbling
    1 shouting continues in background
   15 shouting continues in distance
    1 shouting continues in the distance
@@ -10636,7 +11523,6 @@
    1 shouting excitedly, indistinct
   26 shouting in background
   64 shouting in distance
-   3 shouting in distance, gunshots
    1 shouting in german outside
    5 shouting in the background
   11 shouting in the distance
@@ -10658,11 +11544,14 @@
    1 shouting outside, police whistle
    2 shouting outside, sirens
    1 shouting through megaphone, indistinct
+   1 shouting, grumbling
    1 shouting, inaudible
  107 shouting, indistinct
    2 shouting, indistinct conversations
    1 shouting, murmuring
+   2 shouting, rumbling
    2 shouting, screaming in distance
+   1 shouting, screaming muted
    1 shouting, screaming, indistinct
    1 shouting, sirens outside
    1 shouting, yelling, indistinct
@@ -10721,6 +11610,7 @@
    2 sighssoftly
    1 sign buzzing faintly
    6 sigurd coos softly
+   1 silence, ominous music
    2 silence, people chattering in the background
    1 silvana's voice echoing in prayer inaudible
    1 silverware clinking, baby babbling in distance
@@ -10729,6 +11619,8 @@
    1 simon murmuring
    1 simon snoring quietly
    1 simon speaks indistinctly
+   3 simpsons gasping, crowd grumbling
+   1 simulates engine rumbling
    1 sinatra scats softly
    1 sinatra sings at a distance
    1 sing outside the window
@@ -10802,6 +11694,7 @@
    1 siren blaring in distance, indistinct radio chatter
    6 siren blaring in the distance
   17 siren blaring outside
+   1 siren blaring, engine rumbling
    3 siren blaring, indistinct chatter
    1 siren blaring, indistinct radio communication
    2 siren blaring, indistinct shouting
@@ -10954,6 +11847,7 @@
    1 sirens wailing in distance, police radio chatter
   35 sirens wailing in the distance
    9 sirens wailing outside
+   3 sirens wailing, cracking, rumbling
    8 sirens wailing, distant
    1 sirens wailing, indistinct chatter
    3 sirens wailing, indistinct conversations
@@ -10967,7 +11861,6 @@
    1 sirens whooping in distance
    1 sirens, chatter continue outside
    1 sirens, distant
-   3 sirens, horns honking, gunshots in distance
    5 sirens, indistinct chatter
    8 sirens, indistinct police radio
    1 sirens, indistinct radio chatter
@@ -10987,10 +11880,13 @@
    1 sizzling, radio playing softly
    1 skateboarder laughs outside
    1 skateboarders chattering outside
+   2 skaters grumbling
+   2 skates rumbling
    5 skitter growls softly
    2 skunk moans softly
    4 skyler speaks indistinctly
    1 slamming from outside
+   1 slamming, rumbling
    1 slams door; stands outside
    1 slaughter continues outside
    3 sleepy murmuring
@@ -10998,11 +11894,18 @@
    1 slim singing in background
    1 slow accordion in background
    2 slow classical music plays in distance
+   1 slow ominous music
    1 slow piano music, indistinct conversations
    1 slow swing music in background
    1 slow waltz music distant laughter
    2 slow, distant howling
    2 slow, inaudible dialogue
+   3 slow, ominous chords playing
+  12 slow, ominous instrumental music
+   3 slow, ominous music
+   1 slow, ominous theme playing
+   7 slow, ominous theme plays
+   1 slow, ominous tones playing
    1 slren blaring in distance
    1 slren outside
    1 slren wailing at a distance
@@ -11016,7 +11919,6 @@
    1 smacking, indistinct shouting
    1 small talk in the background
    2 smashes handset, low murmurs of shock
-   4 smashing and gunfire outside
    1 smashing around the house outside
    2 smattered applause and distant chatter
    2 smee shouting, indistinct
@@ -11024,6 +11926,9 @@
    2 smooth jazz playing quietly
    1 smooth jazz quietly playing
    2 smooth jazz tune playing faintly
+   1 snacks crumbling
+   1 snake rumbling
+   1 snake rumbling forward
    1 snaps fingers and speaks indistinctly
    2 snaps inaudibly
    8 snarling and banging echoing faintly
@@ -11059,15 +11964,23 @@
   11 snores softly
    1 snores softly, groans
    1 snores, grunts softly
+   2 snoring and grumbling
+   2 snoring and rumbling
    1 snoring in distance
   16 snoring quietly
   84 snoring softly
    1 snoringsoftly
   11 snorting softly
+   2 snorting, grumbling
    2 snorts quietly
   21 snorts softly
    1 snorts, lows softly
+   1 snow rumbling
+   1 snowball rumbling on ground, loud crash
+   3 snowcat engine rumbling
+   2 snowmobile rumbling
   14 so far away
+   2 soaring atmospheric music
    1 soaring piano concerto in background
    1 sobbing and murmuring
    1 sobbing in background
@@ -11090,6 +12003,7 @@
    1 soft chatter continues indistinctly
    3 soft clanking outside
    1 soft gasps and murmurs
+   4 soft grumbling
    2 soft indistinct chatter
    1 soft indistinct chatter from inside
    1 soft jazz music played in background
@@ -11105,6 +12019,8 @@
    1 soft music playing, indistinct conversations
    1 soft music plays indistinctly
    3 soft music, indistinct chatter
+   2 soft ominous instrumental music
+   5 soft ominous music
    1 soft piano in background
    1 soft piano music playing, indistinct conversations
    1 soft piano music plays, indistinct conversations
@@ -11117,11 +12033,14 @@
    2 soft rock playing in background
    2 soft rock song playing in the distance
    2 soft rock, faintly
+  13 soft rumbling
+   1 soft rumbling from shadows
    2 soft talking in background
    8 soft, indistinct
    7 soft, indistinct chatter
    1 soft, indistinct singing
    1 soft, indistinct whispers
+   1 soft, ominous instrumental music
    3 softer murmuring
 2174 softly
    1 softly and slowly
@@ -11189,6 +12108,7 @@
    6 soldiers chatting indistinctly
    2 soldiers conversing in distance
    1 soldiers conversing quietly
+   2 soldiers grumbling
    1 soldiers march in cadence outside
    1 soldiers marching in distance
    2 soldiers marching, shouting in distance
@@ -11218,7 +12138,7 @@
    2 something indistinct then
    2 sonar pinging faintly
    1 song becomes distant
-  11 song continues faintly
+  14 song continues faintly
    1 song continues faintly elsewhere
    3 song continues faintly over radio
    2 song continues faintly through headphones
@@ -11229,7 +12149,7 @@
   24 song continues indistinctly
    2 song continues indistinctly over radio
    4 song continues muffled, indistinctly
-  11 song continues on radio, quietly
+  14 song continues on radio, quietly
    1 song continues playing in background
    2 song continues playing softly
    2 song continues playing softly on stereo
@@ -11269,6 +12189,7 @@
    1 sound from television, indistinct
    1 sound from tv in the background
    1 sound in the distance
+  22 sound muted
    6 sound of a car accelerating into the distance
    1 sound of airplane engine in the distance
    1 sound of an audience of children in the background
@@ -11279,7 +12200,6 @@
    1 sound of cheering, chanting audience far-off
    2 sound of child crying in distance echoes
    4 sound of choir outside
-   3 sound of distant gunfire
    2 sound of distant sirens
    2 sound of distant thunder
    2 sound of distant voices
@@ -11291,7 +12211,9 @@
    1 sound of owl calling in distance
    1 sound of party cleanup outside
    4 sound of rain outside
+   5 sound of rain, ominous instrumental music
    1 sound of roy and casey playing in the pool in the background
+   1 sound of rumbling train
    1 sound of rustling in the distant grass
    6 sound of something being dragged along ground outside
    1 sound of train whistle blowing in the distance
@@ -11308,6 +12230,7 @@
    3 soundless laughter
    2 sounds become distant
    1 sounds grow distant
+   1 sounds muted
    1 sounds of airport noise in background
    1 sounds of arguing outside: "okay, who left the trash cans out?"
    1 sounds of bulldozers, construction site in the background
@@ -11320,8 +12243,12 @@
    1 sounds of radio being tuned in background
    2 sounds of shooting outside
    1 sounds of strange animals in distance
+   4 sounds ominous
    3 sounds outside door
    1 sounds, indistinct
+   1 spacecraft engines rumbling
+   1 spaceship engines rumbling
+   2 spaceshlp rumbling
    1 spanish continues indistinct
    1 spanish language on tv in distance
    4 spanish pop music playing in background
@@ -11419,6 +12346,7 @@
    1 spectators gasp and murmur
    2 spectators gasp, murmur
    1 spectators gasping, murmuring
+   1 spectators grumbling
   87 spectators murmur
    2 spectators murmur and groan
    1 spectators murmur, gavel taps
@@ -11431,6 +12359,7 @@
   11 speech inaudible
    2 speech inaudible above music
    1 speech indistinct
+   1 speech muted out
    1 speech over tannoy in background
    2 speed dial tones, distant phone rings
    1 spencer groaning quietly
@@ -11443,6 +12372,7 @@
    1 splashing outside
    1 spoken in the following scenes inaudible
    2 spokesman speaking indistinctly
+   1 spooky creaking and rumbling
    3 spoon clacking softly
    3 spoon clinking in distance
    6 sports announcer in background
@@ -11496,7 +12426,10 @@
    5 squeals quietly
    6 squeals softly
    1 ss soldiers shouting indistinctly
+   1 staccato whining and rumbling drill noises
+   1 stadium sounds muted, quiet music plays
    1 staefel continues, indistinct
+   1 staff grumbling
   11 staff murmuring
    2 staff murmurs
    4 staff murmurs indistinctly
@@ -11505,6 +12438,7 @@
    3 staff whispering indistinctly
    2 staffers murmur
    1 staffmurmuring
+   1 stage rumbling
    3 stammer quietly
    2 stammering quietly
    2 stammering softly
@@ -11517,6 +12451,7 @@
    1 stark softly chants
    3 starker talking in background
    2 starkey talking, indistinct
+   1 starship rumbling
    1 startled murmurs
    1 starts quietly sobbing
    2 starts to open door, voices outside
@@ -11524,6 +12459,7 @@
    2 starts to sob softly
    1 static and indistinct transmissions
    3 static and indistinct voices on radio
+   1 static and rumbling
   10 static clicking softly
    1 static crackles quietly
    1 static crackles, female police dispatcher speaks indistinctly
@@ -11533,12 +12469,15 @@
    1 static crackling, indistinct voices
    1 static crackling, indistinct voices mixed in
    1 static in distance
+   2 static jingling, muted shriek
    1 static, indistinct conversation
    1 static, indistinct voice speaking
    2 static, indistinct voices on speakers
    1 static, man speaking indistinctly
+   1 static, rumbling
    6 staticky voice speaking indistinctly
    1 steady farting in distance
+   4 steam hissing, grumbling
    1 steamers sounds in the background
    2 steel shouting, indistinct
    2 steeple bells tolling in distance
@@ -11571,13 +12510,26 @@
    1 still, "in the city" in the background
    1 still, "stop and stare" in the background
    3 stilwell continues, indistinct
+   2 stirring, ominous theme playing
    1 stivilettos continue speakng indistinctly
    1 stivilettos speaking indistinctly
    3 stokes grunts quietly
    2 stokes laughs softly
+   1 stomach continues rumbling
+  32 stomach grumbling
+   2 stomach grumbling deeply
+   1 stomach grumbling loudly
   14 stomach rumbles quietly
+  78 stomach rumbling
+   1 stomach rumbling loudly
+   5 stomachs rumbling
    1 stomping, shrieking in distance
+   4 stone crumbling
+   1 stone lid rumbling
    2 stone reading indistinctly
+   3 stone rumbling
+   3 stones rumbling
+   5 storm rumbling
    2 strains of jim hacking loudly outside
    1 strange screeching in distance
    1 strangelove continues, indistinct
@@ -11586,6 +12538,7 @@
    1 street noise and indistinct conversations
    1 street noise in background
    2 street vendor hawking, indistinct
+   1 streetcar rumbling, dinging
    6 stressed-out murmuring
    1 strickland and lacon talking quietly in background
    1 strike murmuring
@@ -11593,6 +12546,7 @@
    3 striking, screaming in distance
    5 string quartet playing softly
    4 strings flutter softly
+   2 structure crumbling
    1 struggling sound fading out, karen singing in the background
    2 struggling sounds in distance
    2 strumming quietly
@@ -11610,6 +12564,7 @@
    5 students conversing indistinctly
    1 students gasping, murmuring
    1 students groaning, murmuring
+   4 students grumbling
    1 students laughing at distance
   21 students murmur
    1 students murmur quietly
@@ -11631,13 +12586,19 @@
    1 subdued indistinct conversation
    1 subdued murmurs
    2 subway brakes screech distantly
+   9 subway cars rumbling
+   2 subway cars rumbling and clanking
    1 subway cars rumbling in distance
    1 subway passing in distance
+   8 subway rumbling
    1 subway train clattering by in distance
    2 subway train passes in distance
   38 subway train passing in distance
+   1 subway train rumbling
+   2 subway train rumbling, wheels screeching along rails
    1 sudden noise outside
    3 sudden stillness, seabirds cry in the distance
+   1 sudden whispered echo
    1 sue and axl arguing indistinctly
    2 sulli van grunts quietly
    2 sulli van wailing in distance
@@ -11657,11 +12618,15 @@
    1 suspect mutters indistinctly
    4 suspect speaks indistinctly
    1 suspect yelling indistinctly
+   1 suspense music rnd ominous drone
+   5 suspenseful music, rumbling
    1 sutheriand continues indistinctiy
    3 suv driving away outside
    1 suv horn honks in the distance
    1 suzanne speaks indistinct
    1 suzie continues, indistinct
+   1 swabbies grumbling
+   1 swamp muck rumbling
    1 swat officer speaking indistinctly
    2 swearing quietly
    1 swearing softly in portuguese
@@ -11670,6 +12635,7 @@
    2 swing, distant
    1 switches clicking, man speaking indistinctly
    1 switches clicking, woman speaks indistinctly
+   1 swordfish grumbling
    6 swords clashing in distance
    3 sybil groaning quietly
    2 syd in distance
@@ -11710,10 +12676,13 @@
    5 talks indistinctly
    8 talks quietly
    2 talks softly
+   1 talyn rumbling
    1 tamani sings, not far away
    2 tammi mutters indistinctly
    2 tango music in the background
    4 tank engines hum in distance
+   8 tank rumbling
+   5 tanks rumbling
    1 tanner murmuring
    1 tanner, faintly
    7 tannoy announcement in background
@@ -11721,6 +12690,7 @@
    1 tapping continues in distance
    2 tapping echoes from distance
    3 tapping in distance
+   2 tapping on glass, muted screams
    1 tapping quietly
    2 tapping softly
    1 taps quietly
@@ -11729,6 +12699,7 @@
    3 tara laughs quietly
    1 tara sighs, laughs quietly
    2 tara speaking indistinctly
+   4 tardis rumbling
    6 tarek speaking foreign language in distance
    6 tarek speaks, indistinct
    1 tas speaks indistinctly
@@ -11749,6 +12720,7 @@
    1 teacher, indistinct
    4 teachers murmuring
    4 team chatting indistinctly
+   1 team grumbling
    4 team murmuring
    2 tearing, clattering in background
    3 tech support talking indistinctly over phone
@@ -11814,6 +12786,7 @@
    2 teller roars in distance
    2 teller snarling in distance
    1 tenants murmuring
+   1 tense, ominous music
   10 terrified screams in the distance
    5 terrified screams, panic in the distance
   10 terrorists shouting indistinctly
@@ -11838,6 +12811,7 @@
    1 the sound of gion matsuri festival in the background
    1 the two succeed in escaping far away in the meantime
    1 the water was brought from a distant, while telemachus, filetius and eumeus
+   1 the whole court ominously echoed from their laughter
    2 the x files theme playing quietly
    1 the yellow rose of texas playing in the distance
    2 thea, distant
@@ -11860,12 +12834,15 @@
    1 though you're far away
    1 thoughts overlapping indistinctly
    2 three distant hoots
-   7 three gunshots in distance
+   4 thrusters rumbling
    1 thud and engine revvs, becomes distant
    1 thud echoing from distance
   29 thud in distance
    3 thud in the distance
+  12 thud sounds, rumbling
+   2 thud, loud rumbling
    2 thud, man grunts in distance
+   2 thud, rumbling
    1 thudding and indistinct chatter
    1 thudding and shouting in distance
   11 thudding in distance
@@ -11873,17 +12850,22 @@
    3 thugs murmur
    1 thump in distance
    1 thump outside
+   1 thumping and rumbling
    2 thumping dance music, applause in distance
   10 thumping in distance
    1 thumping music continues faintly
    2 thumping music outside
    2 thumping softly
    2 thumping, distant moaning
+   2 thumping, rumbling
    2 thumping, singing continue faintly
+   2 thunder and ominous music intensify
+  13 thunder continues rumbling
    2 thunder crackling softly
    6 thunder crashes in distance
    1 thunder crashes quietly in distance
    3 thunder crashing in distance
+  22 thunder crashing, rumbling
   13 thunder in distance
    1 thunder rolling in distance
    4 thunder rolls in distance
@@ -11894,21 +12876,60 @@
    2 thunder rumbles outside
    4 thunder rumbles softly
    1 thunder rumbles, distant
+3974 thunder rumbling
+   7 thunder rumbling and crashing
+   1 thunder rumbling and rain falling
+   1 thunder rumbling and raindrops pattering
+   2 thunder rumbling continues
+   3 thunder rumbling continuing
    1 thunder rumbling distantly
+   1 thunder rumbling echoing
    2 thunder rumbling faintly
+   1 thunder rumbling fiercely
   20 thunder rumbling in distance
-  10 thunder rumbling in the distance
+  12 thunder rumbling in the distance
    1 thunder rumbling in the far distance
+   2 thunder rumbling louder
+   4 thunder rumbling loudly
+   2 thunder rumbling more loudly
   14 thunder rumbling outside
   53 thunder rumbling softly
+   1 thunder rumbling, banging
    1 thunder rumbling, bell ringing in distance
+   2 thunder rumbling, birds squawking and chirping
+   7 thunder rumbling, crashing
    1 thunder rumbling, crashing in distance
+   2 thunder rumbling, crow squawking
    1 thunder rumbling, distant
    4 thunder rumbling, distant booming
+   3 thunder rumbling, horse neighing
    6 thunder rumbling, indistinct conversations
+   3 thunder rumbling, moloch chanting
+   1 thunder rumbling, objects rattling
+   1 thunder rumbling, people screaming
+   6 thunder rumbling, rain falling
+   9 thunder rumbling, rain pattering
+   2 thunder rumbling, rain pouring
+   1 thunder rumbling, sir en wailing
+   3 thunder rumbling, siren wailing
+   3 thunder rumbling, sirens wailing, horns honking
+   1 thunder rumbling, sobbing
+   6 thunder rumbling, streetcar bell ringing
+   1 thunder rumbling, string quartet music plays
+   2 thunder rumbling, water dripping
+   1 thunder rumbling, wind blowing
+   1 thunder rumbling, wind howling
+   4 thunder rumbling, wind whistling
+   1 thunder-like rumbling
+   2 thunderclap and rumbling
    1 thunderclap in distance
    7 thunderclap in the distance
+   3 thunderclap, rumbling continues
+   1 thunderclaps and rumbling
    4 thundering of hooves in the distance
+  15 thunderous rumbling
+  15 thunderrumbling
+   2 thuνder rumbling
    1 thérèse crying softly
    1 ticking quietly
    2 ticking softly
@@ -11918,6 +12939,7 @@
    3 tig exhales softly
    1 tiger snarls in distance
    4 tilda screaming in distance
+   2 tilley grumbling
    1 tim chattering indistinctly
    1 tim crying faintly
    2 tim talking indistinctly on phone
@@ -11929,6 +12951,7 @@
    3 tira humming softly
    3 tira murmurs in agreement
    3 tira murmurs seductively
+   1 tires rumbling
    3 tires screech and car crashes in distance
    4 tires screech faintly in distance
   23 tires screech in distance
@@ -11937,6 +12960,7 @@
    2 tires screech softly
    3 tires screech, crash in distance
    2 tires screech, glass shatters in distance
+   2 tires screech, rumbling
   16 tires screeching in distance
    5 tires screeching outside
    1 tires screeching, distant
@@ -11947,10 +12971,12 @@
   11 tires squealing in distance
    3 tires squealing in the distance
    1 tires squealing softly
+   2 tires squealing, engine rumbling
    1 tirzah giggling in distance
    2 tito, nick continue, indistinct
    2 tittering quietly
    1 tj and finn arguing indistinctly
+   2 tlunder rumbling
    1 to "get sexy" in the background
    1 to "we own the sky" in the background
    2 to some distant boarding school
@@ -11968,6 +12994,7 @@
    2 tone chimes, woman speaking indistinctly over p.a
    2 tone rings over p.a., man speaking indistinctly
    2 tony continues indistinctly
+   1 tony grumbling
    2 tony grunting in distance
    2 tony shouting in distance
    2 tony shouting in distance, knocking on window
@@ -11997,6 +13024,7 @@
    1 toy speaking indistinctly
    1 toy squeaks distantly
    1 toys chattering indistinctly
+   1 toys grumbling
    1 trackannouncer calling horse race, indistinct
    4 tractor running in distance
    1 traditional irish music playing in background
@@ -12013,12 +13041,15 @@
    3 traffic passing outside
    2 traffic passing, train clacking in distance
    2 traffic rumbles in the distance
+   7 traffic rumbling
    2 traffic rumbling outside
+   1 traffic rumbling, streetcar bell ringing
    2 traffic sounds in distance
    1 traffic sounds outside
    1 traffic, sirens in distance
    5 traffiic, sirens in distance
    6 trails off indistinctly
+   1 train and rumbling
    1 train cars rattling in distance
    1 train chugging faintly
    1 train chugging in the distance
@@ -12053,7 +13084,22 @@
    2 train rattling in distance
    2 train rolling in distance
    2 train rumbles in the distance
+ 118 train rumbling
+   1 train rumbling by
+   1 train rumbling increases
+   4 train rumbling loudly
+   5 train rumbling on tracks
+   2 train rumbling over tracks
+   7 train rumbling past
+   2 train rumbling past, blowing horn
+   5 train rumbling, horn blowing
+   1 train rumbling, screeching
+   1 train rumbling, whistle
+   1 train rumbling, whistle blowing
+   1 train screeching and rumbling
+   4 train tracks rumbling
    1 train wheels clacking in distance
+   1 train wheels squeaking and rumbling
    9 train whistle blares in distance
    2 train whistle blares in the distance
   10 train whistle blowing distantly
@@ -12082,7 +13128,11 @@
    2 transportaion sounds outside
    2 travis and katie shouting indistinctly
    1 travis speaks indistinctly
+   7 tree rumbling
    1 trembles softly
+   4 tremor rumbling
+   1 tremor rumbling, rockslide crumbles
+   2 tremors rumbling
    1 tremulous murmuring
    1 trevor snores softly
    1 trian in the distance
@@ -12100,23 +13150,34 @@
    3 truck beeping, men speaking indistinctly
    6 truck door closes in distance
    1 truck engine rumbles outside
+   7 truck engine rumbling
+   1 truck engine rumbling close
    2 truck engine rumbling outside
    2 truck horn blares in distance
    3 truck horn in distance
    2 truck horns blare in distance
    1 truck idles loudly outside
+   2 truck motor rumbling
    1 truck pulls up outside
    1 truck rumbles in distance
    1 truck rumbles up outside
+  11 truck rumbling
    1 truck rumbling in distance
+   1 truck rumbling past
+   1 truck rumbling, beeping
    1 trucks approaching in distance
    1 trucks pass by outside
+   2 trucks rumbling
    2 trumpet playing in distance
    4 trumpet playing in the distance
    8 trumpet plays in distance
    1 trumpeting outside
    1 trumpets softly
   10 tuco sings quietly to himself
+   6 tummy rumbling in tune
+   2 tunnel rumbling
+   4 turbulence rumbling
+   2 turbulence rumbling, glasses clink
    1 turkeys gobbling in distance
    1 turns off music, sirens blaring outside
    1 turns on tv, indistinct chatter from tv
@@ -12130,6 +13191,7 @@
    1 tv announcer speaking quietly
    1 tv announcer speaking, indistinct
    2 tv announcer speaks indistinctly
+   7 tv audio muted
    1 tv audio playing quietly
    1 tv audio plays in background
    1 tv audio, indistinct
@@ -12161,6 +13223,7 @@
    1 tv in background, music
   14 tv in the background
    3 tv indistinct
+   1 tv muted
    1 tv news continues, indistinct
    2 tv news playing indistinctly
    2 tv news playing quietly in background
@@ -12170,9 +13233,9 @@
    3 tv newscast playing indistinctly
    2 tv newsman speaking indistinctly
    1 tv noise in the background
-   2 tv on , indistinct
    3 tv on in background
-   1 tv on, indistinct
+   1 tv on quietly
+   3 tv on, indistinct
    2 tv playing faintly
   39 tv playing in background
    1 tv playing in distance
@@ -12204,8 +13267,10 @@
    2 tv show in the background
    2 tv show playing in background
    1 tv sound inaudible
+   7 tv sound muted
    1 tv sound mutes, speaking inaudibly
    4 tv track announcer, indistinct
+   1 tv volume muted
   40 tv, indistinct
    1 tv: commentator, indistinct
    4 tv: indistinct
@@ -12217,6 +13282,7 @@
    1 tvplaying, indistinct
    1 tvplayingindistinctly
    1 tvs continue playing indistinctly
+   3 tvs muted
    2 tvs playing inaudibly
    3 tvs playing indistinctly
    3 twig snaps in distance
@@ -12225,9 +13291,6 @@
    1 twillie singing softly
    1 twittering of birds and the sound of man at a distance
    3 two distant knocks
-   5 two gunshots in distance
-   3 two gunshots in the distance
-   1 two gunshots outside
    2 two-way radio continues, indistinct
    2 tyler speaks indistinctly
    1 typewriter clacking in distance
@@ -12244,6 +13307,7 @@
    4 umm kulthum recording still playing in the background
    1 uncomfortable murmurs
    1 uncomprehending murmur
+   1 underground rumbling
    1 unenthusiastic murmuring
    1 unenthusiastic murmurs
    1 unintelligible klown voice from outside
@@ -12285,6 +13349,7 @@
    1 valley folk murmuring
    2 van eyck continues indistinctly
    2 van eyck's speech continues faintly
+   1 van rumbling
    1 vanessa continues, indistinct
    1 vanessa growling softly
    2 vanessa moans and grunts in the distance
@@ -12305,6 +13370,7 @@
    3 various people speaking quietly
    3 various voices murmuring, overlapping indistinctly
    4 vasili speaking indistinctly
+   1 vault door rumbling
    1 vd hums softly
    4 vectors breathing quietly
    5 vehicle approaches in distance
@@ -12327,9 +13393,11 @@
    1 vehicle revs outside
    1 vehicle rumbles in the distance
    1 vehicle rumbles up outside
+  10 vehicle rumbling
    3 vehicle rumbling in distance
    1 vehicle stopping outside
    2 vehicle whirring outside
+   2 vehicle's engine rumbling
    8 vehicles passing in distance
    6 vehicles passing outside
    1 vehicles passing, bell tolling in distance
@@ -12337,6 +13405,7 @@
    3 vehicles passing, horn blares in distance
    3 vehicles passing, horns honking in distance
    9 vehicles passing, sirens wailing in distance
+   5 vehicles rumbling
    2 vehicles rumbling in distance
    3 vehicles sounding horns outside
    1 veikan roars in the distance
@@ -12356,6 +13425,7 @@
   10 vianne moaning softly
   10 vianne singing softly
    1 vibrating faintly
+   3 vibrator rumbling
    2 vicar burbles in background
    1 vicki laughs softly
   11 vicki moans softly
@@ -12370,6 +13440,7 @@
    1 victoria speaks indistinctly
    1 victorine repeats faintly
    1 victorya whispers indistinctly
+   1 video audio muted
    3 video continues indistinctly
    1 video continues playing inaudibly
    1 video game music and sound effects playing indistinctly
@@ -12377,17 +13448,22 @@
    2 video playing faintly
    1 video playing inaudibly
    2 video playing indistinctly
+   2 video sound muted
    1 video speaking indistinctly
    2 vijay and tony shouting, indistinct
    3 vikings murmur quietly
    2 viktor mumbling in distance
    1 villagers clamoring outside
+   1 villagers grumbling
   11 villagers murmuring
    1 vina murmuring
    2 vincent panting, siren wailing in distance
+   2 violent rumbling
+   3 violent rumbling continues
+   2 violent thunderclap, rumbling
    2 violet speaking indistinctly
    4 violin continues in distance
-   1 violin in distance
+   2 violin in distance
    2 violin music drifts outside
    1 violin playing distantly
    4 violin plays softly
@@ -12423,6 +13499,7 @@
    2 voice mail messages play back indistinctly
    1 voice moaning faintly
    2 voice murmurs
+   1 voice muted
    1 voice of a woman outside the window
    2 voice of news anchor, indistinct
    6 voice on phone in background
@@ -12440,6 +13517,7 @@
    2 voices chanting indistinctly
    3 voices chanting indistinctly, echoing
    2 voices chattering indistinctly
+   1 voices chattering, rumbling sound
    2 voices cheering outside
    1 voices continue indistinct
    1 voices continue indistinctly
@@ -12452,6 +13530,7 @@
    4 voices echoing indistinctly
    4 voices eerily whispering indistinctly
    1 voices from outside cell
+   1 voices grumbling
    1 voices heard in distance and echoing
    6 voices in background
    7 voices in distance
@@ -12496,6 +13575,8 @@
    4 voices whispering, indistinct
   20 voices, indistinct
    1 voicesspeakingsoftly
+   3 volcano rumbling
+   3 volume muted
    1 vomiting in background
    1 votes disappear in the background
    1 w oman murmurs
@@ -12505,6 +13586,8 @@
    3 wade moaning outside
    1 wade speaking quietly
    3 wade speaks indistinctly
+   7 wagon rumbling
+   1 wagon rumbling over gravel
    2 wailing and murmuring
    1 wailing continues in distance
    2 wailing continues, pounding in background
@@ -12517,8 +13600,12 @@
    1 walkers snarling quietly
    6 walkie-talkie squelches softly
    1 walkie-talkie, indistinct
+   4 wall crumbling
+   1 wall rumbling
    1 wallace continues, indistinct
    1 wallace sobbing softly
+   1 walls crumbling
+   5 walls rumbling
    1 wally composes poetry with bugle call in background
    4 walter continues narrating indistinctly
    1 walter snoring softly
@@ -12528,6 +13615,7 @@
    1 waltz tune plays softly
    1 wander yelling indistinctly in distance
    4 warbles quietly
+   2 warbling chime, rumbling
    2 warbling whistle in background
    1 warden continues indistinct
    1 warming up voice softly
@@ -12537,14 +13625,17 @@
    3 warriors talk quietly
    1 warthog grunting quietly
    1 was not outside at all
+   3 washing machine rumbling
    1 water dripping faintly
    1 water dripping in distance
    3 water dripping quietly
    3 water drips, distant chittering
+   3 water drips, muted chanting
    3 water lapping gently, siren wails in distance
    5 water lapping softly
    1 water laps softly
    3 water ripples quietly
+  30 water rumbling
    2 water running distance
    5 water running in background
    4 water rushes nearby, men chatter quietly
@@ -12557,6 +13648,8 @@
    8 water splashing softly
    1 water splashing, indistinct conversations
    4 water squirting softly
+   4 water wheel rumbling
+   2 waterfall rumbling
    2 watson, indistinct
    1 waves crash gently in distance
    1 waves crash in distance
@@ -12564,12 +13657,14 @@
    4 waves crashing in distance
    2 waves crashing in the distance
    2 waves crashing softly
+   3 waves crashing, thunder rumbling
    4 waves lap at the shore, flames billow in the distance
    1 waves lapping in background
    1 waves lapping in distance
    1 waves lapping softly
    1 waves lappininin background
    1 waves rolling in distance
+   2 waves rumbling
    3 waves softly lapping shore
    2 wayne whistling in distance
    2 wayne, in distance
@@ -12597,13 +13692,14 @@
    1 wenking in distance
    2 wes speaking indistinctly
    1 whacking in distance
+   1 wheel rumbling
    2 wheel squeaking rhythmically in distance
    1 wheels clacking, siren wailing in distance
    1 wheels clatter, man speaks indistinctly
    2 wheels clicking softly
-   1 wheels squeaking , indistinct conversations
+   5 wheels rumbling
    5 wheels squeaking softly
-   1 wheels squeaking, indistinct conversations
+   2 wheels squeaking, indistinct conversations
    2 wheezing faintly
    1 wheezing murmur
    3 wheezing quietly
@@ -12633,6 +13729,7 @@
    7 whinnies softly
    1 whiny murmur
   10 whips cracking, pained yelling in distance
+   4 whirring and rumbling
    2 whirring and thudding in distance
    2 whirring in background
    8 whirring in distance
@@ -12646,8 +13743,20 @@
    1 whirs softly
    1 whisper heard in background
    1 whisper indistinctly
+  57 whispered
    2 whispered arguing continues, indistinct
+   5 whispered conversation
+   3 whispered greetings
+   1 whispered groans
    2 whispered inaudible
+   1 whispered mutter
+   1 whispered prayer
+   1 whispered scream
+   1 whispered shushing
+   1 whispered squeal
+   1 whispered thoughts overlapping
+   1 whispered voice
+   5 whispered voices
    2 whispering and murmuring
    2 whispering continues indistinctly
    1 whispering in russian, indistinct
@@ -12664,6 +13773,7 @@
   36 whispering, indistinct
    2 whispering, indistinct voices
    1 whispering, murmuring, and gasping
+   1 whispering, rumbling
    3 whisperingindistinctly
    1 whispers inaudible
   45 whispers inaudibly
@@ -12686,6 +13796,7 @@
    1 whistle blows, man speaking indistinctly
    2 whistle blows, man speaking indistinctly on television
    4 whistle blows, people murmuring
+   1 whistle blows, train rumbling
   10 whistle chirps faintly
    1 whistle in distance
    1 whistle toots in distance
@@ -12696,6 +13807,7 @@
    6 whistles, chuckles quietly
    2 whistles, indistinct chatter
    1 whistling and hollering in background
+   2 whistling and rumbling continues
    4 whistling becomes distant
    1 whistling continues in background
    1 whistling in background
@@ -12715,10 +13827,17 @@
    1 whooping, murmuring
    5 whoops softly
    1 whoops, speaks indistinctly
+   3 whoosh, rumbling
    4 whooshes softly
+   4 whooshing and crumbling
+   6 whooshing and rumbling
    2 whooshing in distance, birds crying
    3 whooshing outside
+   2 whooshing, crumbling
    2 whooshing, high-pitched sound in distance
+   2 whooshing, low rumbling
+  11 whooshing, rumbling
+   2 whooshing, thunder rumbling
    1 wick grunts quietly
    2 widespread murmuring
    1 widows all murmuring in agreement
@@ -12738,6 +13857,7 @@
    3 willows grunts quietly
    1 wilmer moans softly
    1 winces softly
+   2 wind and rumbling
    5 wind blowing in the background
    3 wind blowing outside
   34 wind blowing softly
@@ -12755,16 +13875,19 @@
    5 wind gusts, crowd murmurs
    1 wind hisses softly
    1 wind hissing softly
-   2 wind howling , indistinct demonic voices
    1 wind howling in background
    6 wind howling outside
    6 wind howling softly
+   2 wind howling, indistinct demonic voices
   11 wind howls outside
    5 wind howls softly
   14 wind quietly blowing through building
+   2 wind roaring, thunder rumbling
+   1 wind rumbling
    3 wind softly howling
    4 wind softly howls
    3 wind softly whistling
+   3 wind whipping earth rumbling
    4 wind whistles outside
    3 wind whistles softly
    2 wind whistles, indistinct shouting in distance
@@ -12774,8 +13897,11 @@
    1 wind whistling quietly
   46 wind whistling softly
    1 wind whistling, distant sound of music in bar
+   1 wind whistling, howling and rumbling
    1 wind whistling, siren wails in distance
+   6 wind whistling, thunder rumbling
    2 wind whooshing softly
+   3 wind whooshing, rumbling continues
    1 wind, distant chatter
    1 winds howling outside
   10 wings flapping softly
@@ -12853,12 +13979,11 @@
    1 woman in video speaking indistinctly
    1 woman indistinct
    1 woman indistinct on pa
-   5 woman laughing , indistinct conversations
    2 woman laughing hysterically outside
    2 woman laughing in distance
    4 woman laughing outside
    2 woman laughing quietly
-   5 woman laughing, indistinct conversations
+  10 woman laughing, indistinct conversations
    1 woman laughs deliriously outside
    2 woman laughs, group murmurs
    3 woman laughs, man yells indistinctly
@@ -12933,6 +14058,7 @@
   24 woman shouts indistinctly
    5 woman shouts, indistinct
    5 woman shrieks in distance
+   3 woman shudders, ominous whispers continue
    1 woman sighs softly
    1 woman singing "ave maria" in distance
    1 woman singing aria in distance
@@ -12948,6 +14074,7 @@
    1 woman singing indistinctly on radio
    4 woman singing on radio, indistinct
    2 woman singing outside
+   1 woman singing over ominous music
    2 woman singing pop music indistinctly
    1 woman singing rock, lyrics indistinct
   32 woman singing softly
@@ -13096,6 +14223,7 @@
    2 women crying softly
    1 women gasping, murmuring
    3 women gossiping, indistinct
+   1 women grumbling
    1 women laughing and chatting outside
    2 women laughing and speaking indistinctly
    2 women laughing faintly
@@ -13149,6 +14277,7 @@
    2 wood creaking in distance
    4 wood creaking quietly
    2 wood creaking, eerie whooshing, indistinct whispering
+   1 wood rumbling and clattering
    1 woodpecker pecking wood in distance
    4 woodpecker pecks in the distance
    1 woody shouts indistinctly
@@ -13166,6 +14295,7 @@
    1 workers voices heard outside
    1 workman shouts, clatter and banging continue outside
    1 workmen conversing indistinctly
+   2 wormhole grumbling
    1 worn saxophone music in the background
    2 worried murmuring
    6 worried murmurs
@@ -13181,7 +14311,6 @@
    1 yeaman mumbles inaudibly
    1 yearning quietly
    1 yelling and chattering indistinctly
-   3 yelling and gunfire in distance
    2 yelling and indistinct conversations
    1 yelling and indistinct shouting
    1 yelling from far away
@@ -13241,16 +14370,7 @@
    3 ziva speaking indistinctly, muffled
    1 zoey calling outside
    1 zola speaks indistinctly
+   1 zombies grumbling
    1 zombies murmuring
    2 zoom continues in background
    6 ~ song continues on radio, quietly
-   3 § "land of 1000 dances" plays faintly on stereo
-   3 § "low rider" by war plays in background
-   1 § bagpipes in distance
-   3 § song continues faintly
-   1 ¶ guitar music in background
-   1 ¶ men singing, indistinct ¶
-   3 ¶ song continues on radio, quietly
-   2 ♫ humming quietly
-   1 ♫ violin in distance
-   1 τv on quietly
