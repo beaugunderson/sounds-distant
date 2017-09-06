@@ -58,6 +58,7 @@ const badWords = [
   'her distant wedding',
   'hiking',
   'kill',
+  'klansmen',
   'leaningontheeverlastingarms',
   'luigi',
   'machine gun',
