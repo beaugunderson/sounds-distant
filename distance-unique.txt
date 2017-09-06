@@ -1148,8 +1148,6 @@
    2 body thuds, crowd gasps in distance
    1 boiler rumbling, steam hissing
    2 bollywood movie plays distantly
-   3 bombing in distance
-   1 bombing in the distance
    1 bombs falling in distance
    1 bombs thundering in distance
    1 bongo playing softly
@@ -3123,8 +3121,6 @@
    5 distant blasts
    1 distant bluesy saxophone and piano music
    2 distant boat horn honking
-   2 distant bombing
-   1 distant bombings, shootings
    1 distant bombs
   14 distant boom
   18 distant booming
@@ -7947,7 +7943,6 @@
   16 man on tv, indistinct
    2 man ordering indistinctly over loudspeaker
   34 man outside
-   2 man outside shooting
    3 man outside speaking german
    1 man outside speaks german
    1 man outside the door telling nadja
@@ -12157,7 +12152,6 @@
    2 sounds of peacock calling and distant laughter
    4 sounds of people chattering outside
    1 sounds of radio being tuned in background
-   2 sounds of shooting outside
    1 sounds of strange animals in distance
    4 sounds ominous
    3 sounds outside door

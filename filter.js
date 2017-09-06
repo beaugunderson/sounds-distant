@@ -2,6 +2,7 @@
 
 'use strict';
 
+const notCoolList = require('iscool/defaultlists');
 const split = require('split');
 
 const words = [
@@ -68,6 +69,8 @@ const badWords = [
   'though the distance',
 ];
 
+const otherBadWords = notCoolList.get('extendedBlacklist');
+
 const RE_INNER = `(${words.join('|')})`;
 
 const RE_SOUND_1 = new RegExp(`\\[([^[\\]]*?${RE_INNER}[^[\\]]*)\\]`, 'g');
@@ -116,6 +119,10 @@ function handleMatch(sound) {
     .trim();
 
   if (badWords.some((word) => sound.includes(word))) {
+    return;
+  }
+
+  if (otherBadWords.some((word) => new RegExp(`\\b${word}\\b`).test(sound))) {
     return;
   }
 
