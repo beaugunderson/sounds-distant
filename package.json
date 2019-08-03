@@ -9,7 +9,7 @@
   "author": "Beau Gunderson <beau@beaugunderson.com> (https://beaugunderson.com/)",
   "license": "MIT",
   "dependencies": {
-    "bot-utilities": "^2.5.1",
+    "bot-utilities": "^2.6.0",
     "commander": "^2.20.0",
     "iscool": "^2.0.0",
     "lodash": "^4.17.15",
