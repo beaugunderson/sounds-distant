@@ -10,7 +10,6 @@ const _ = require('lodash');
 require('with-env')();
 
 const lines = fs.readFileSync('./distance-sorted.txt', 'utf-8').split(/\n/g);
-const T = new Twit(botUtilities.getTwitterAuthFromEnv());
 
 var program = require('commander');
 
@@ -19,6 +18,7 @@ program
   .description('generate and tweet a random sound')
   .option('-r, --random', 'only post a percentage of the time')
   .action(botUtilities.randomCommand(() => {
+    const T = new Twit(botUtilities.getTwitterAuthFromEnv());
     const tweet = _.sample(lines);
 
     T.post('statuses/update', {status: tweet}, (err, data, response) => {
