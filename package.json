@@ -12,7 +12,7 @@
     "bot-utilities": "^2.6.0",
     "commander": "^2.20.0",
     "iscool": "^2.0.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "split": "^1.0.1",
     "twit": "^2.2.11",
     "with-env": "^1.0.0"
